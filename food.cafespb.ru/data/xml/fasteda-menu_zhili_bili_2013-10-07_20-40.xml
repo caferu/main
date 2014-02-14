@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:40">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1649">Горячие блюда </category>
+			<category id="1650">Паста</category>
+			<category id="1651">Пицца</category>
+			<category id="1647">Супы</category>
+			<category id="1644">Салаты</category>
+			<category id="1645">Сэндвичи</category>
+			<category id="1646">Горячие закуски  </category>
+			<category id="1652">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="9373" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1649</categoryId>
+				<picture>http://fasteda.ru/data/big/9373.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось со спаржей запеченный в пергаменте</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9374" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1649</categoryId>
+				<picture>http://fasteda.ru/data/big/9374.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриные котлетки с картофельным пюре и грибным соусом </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9375" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1649</categoryId>
+				<picture>http://fasteda.ru/data/big/9375.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цыпленок запеченный в горшочке с грибами и картофелем</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9376" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1649</categoryId>
+				<picture>http://fasteda.ru/data/big/9376.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медальон из свинины с припущенными овощами </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>Паприка, сельдерей, лук, морковь.</description>
+			</offer>
+			<offer id="9377" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1649</categoryId>
+				<picture>http://fasteda.ru/data/big/9377.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бефстроганов с картофельным пюре</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9378" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1649</categoryId>
+				<picture>http://fasteda.ru/data/big/9378.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе телятины с овощами на гриле </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9379" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1650</categoryId>
+				<picture>http://fasteda.ru/data/big/9379.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пенне Помидорини</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9380" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1650</categoryId>
+				<picture>http://fasteda.ru/data/big/9380.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти Болоньезе</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9381" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1650</categoryId>
+				<picture>http://fasteda.ru/data/big/9381.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти Карбонара</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9382" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1651</categoryId>
+				<picture>http://fasteda.ru/data/big/9382.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Маргарита </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>С томатным соусом и сыром моцарелла.</description>
+			</offer>
+			<offer id="9383" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1651</categoryId>
+				<picture>http://fasteda.ru/data/big/9383.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Салями </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>С томатным соусом, итальянской салями и сыром моцарелла.</description>
+			</offer>
+			<offer id="9384" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1651</categoryId>
+				<picture>http://fasteda.ru/data/big/9384.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Прошуто фунги </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>С томатным соусом, ветчиной и шампиньонами.</description>
+			</offer>
+			<offer id="9385" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1651</categoryId>
+				<picture>http://fasteda.ru/data/big/9385.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца четыре сыра </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9368" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1647</categoryId>
+				<picture>http://fasteda.ru/data/big/9368.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сливочный суп с норвежским лососем</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9369" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1647</categoryId>
+				<picture>http://fasteda.ru/data/big/9369.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Солянка мясная </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9370" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1647</categoryId>
+				<picture>http://fasteda.ru/data/big/9370.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный суп с широкой лапшой</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9371" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1647</categoryId>
+				<picture>http://fasteda.ru/data/big/9371.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грибной крем суп из шампиньонов</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9372" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1647</categoryId>
+				<picture>http://fasteda.ru/data/big/9372.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний борщ со сметаной и чесночной булочкой</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9361" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1644</categoryId>
+				<picture>http://fasteda.ru/data/big/9361.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с курицей </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9362" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1644</categoryId>
+				<picture>http://fasteda.ru/data/big/9362.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Теплый салат с куриной печенью  </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9363" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1645</categoryId>
+				<picture>http://fasteda.ru/data/big/9363.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Клаб сэндвич</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9364" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1645</categoryId>
+				<picture>http://fasteda.ru/data/big/9364.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сэндвич с творожным кремом и лососем </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9365" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1645</categoryId>
+				<picture>http://fasteda.ru/data/big/9365.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сэндвич с соусом цезарь, ветчиной и сыром </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9366" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1645</categoryId>
+				<picture>http://fasteda.ru/data/big/9366.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сэндвич с соусом цезарь и куриной грудкой </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9367" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1646</categoryId>
+				<picture>http://fasteda.ru/data/big/9367.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жульен с курицей и грибами</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9386" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9386.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Черничный маффин</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9387" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9387.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морковный маффин</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9388" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9388.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вишневый маффин</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9389" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9389.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадно-апельсиновый маффин</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9390" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9390.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Банановый маффин</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9391" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9391.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эклер с заварным кремом</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9392" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9392.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эклер с шоколадным кремом</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9393" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9393.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минипрофитроль с заварным кремом</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9394" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9394.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минипрофитроль с шоколадным кремом</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9395" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9395.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тарталетка с заварным кремом и фруктами</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9396" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9396.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Слоеная трубочка с заварным кремом </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9397" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9397.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Наполеон</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9398" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9398.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медовик</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9399" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9399.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бабушкин торт </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9400" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9400.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Черничный торт</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9401" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9401.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадный торт</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9402" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9402.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грушевый пирог</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9403" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9403.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Яблочный штрудель с ванильным мороженым</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9404" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9404.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячий шоколадный кекс с шариком ванильного мороженого</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9405" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9405.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк творожный с апельсиновым джемом</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9406" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9406.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тирамису</name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9407" available="true">
+				<url>http://fasteda.ru/menu/zhili_bili/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1652</categoryId>
+				<picture>http://fasteda.ru/data/big/9407.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырная тарелка </name>
+				<vendor>Le café Jili-Bili</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

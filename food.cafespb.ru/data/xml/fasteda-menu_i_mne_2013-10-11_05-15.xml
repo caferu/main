@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 05:15">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="753">Орехи,сухофрукты</category>
+			<category id="861">Злаки,семена,хлебцы</category>
+			<category id="755">Полезные сладости</category>
+		</categories>
+		<offers>
+			<offer id="4456" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4456.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грецкий орех очищенный </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>По своей питательной ценности они даже превосходят молоко и мясо. В ядре грецкого ореха до 75% жиров, до 18% белков и более 15% углеводов. В состав углеводов входят сахароза, глюкоза и крахмал. В нём есть также клетчатка, пектиновые и красящие вещества.
+Производство: Таджикистан
+(100 гр).</description>
+			</offer>
+			<offer id="5168" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/5168.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Дыня вяленая Косички</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Очень сладкий продукт. Чем-то напоминает сушеный банан, но вкус более насыщенный, приятный и... живой. Эксклюзивный продукт из Узбекистана. Изумительный вкус, большое содержание сахара, витаминов, полезных микроэлементов делают вяленую дыню желанным продуктом на каждом столе. 
+(250 гр).</description>
+			</offer>
+			<offer id="4457" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4457.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Миндаль очищенный крупный </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Миндаль - это мощный очиститель человеческого организма, он отлично справляется с проблемами и кровеносной системы, и почек, и печени. Одной горстью можно вполне наесться и заодно удовлетворить потребность в суточной норме витамина Е, который является мощным антиоксидантом. А магний, фолиевая кислота и фосфор делают миндаль незаменимым в диете будущей мамы.
+Производство: США
+(100 гр).</description>
+			</offer>
+			<offer id="4458" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4458.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кешью термообработанный </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Кешью богаты белками и углеводами, витаминами А, В2, В1 и железом, содержат цинк, фосфор, кальций. Витамины способствуют обмену белков и жирных кислот в организме и понижению уровня холестерина в крови, укрепляют иммунную систему, обеспечивают нормальную деятельность сердечно-сосудистой системы. 
+Производство: Иран
+(100 гр).</description>
+			</offer>
+			<offer id="4459" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4459.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бразильский орех термообработанный </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Бразильский орех содержит невероятно большое количество питательных веществ – протеин, клетчатку, селен, магний, фосфор и тиамин. В нем также значительный запас ниацина, витамина Е, В 6, кальция, железа, калия, цинка и меди.
+Производство: Боливия
+(100 гр).</description>
+			</offer>
+			<offer id="4460" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>52</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4460.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фисташки сырые неочищенные </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Магическим орехом называют фисташку за ее большую питательную ценность в сочетании с высоким содержанием минеральных веществ и витаминов. Чтобы добыть для нас эти чудесные орешки, собирателям приходится работать по ночам, ведь днем фисташковое дерево выделяет эфирные масла, которые одурманивают человека.
+Производство: Иран
+(100 гр).</description>
+			</offer>
+			<offer id="4461" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4461.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фундук очищенный крупный </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Фундук – орех, плод лещины крупной, или ломбардского ореха. Его также называют лесным орехом. Родина фундука - Малая Азия и Кавказ. В ядрах лесного ореха содержатся все 20 аминокислот, необходимых человеческому организму, они богаты витаминами В, В2, С, Е. Также в фундуке содержится много минералов - кальций, железо, цинк, калий.
+Производство: Грузия
+(100 гр).</description>
+			</offer>
+			<offer id="4462" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4462.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Орех Пекан</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Орех Пекан – один из самых редких в России. По внешнему виду он напоминает Грецкий орех, но намного слаще и нежнее. Пекан богаты витаминами А, Е и В. В них большой процент содержания фолиевой кислоты, кальция, магния, цинка, фосфора и калия.
+Производство: США
+(100 гр)
+.</description>
+			</offer>
+			<offer id="4463" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4463.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кедровый орех очищенный </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Белок кедровых орехов максимально приближен по составу к тканям человека, отчего усваивается нашим организмом на 99%. А белка этого в орешках, между прочим, больше, чем в курином мясе в 12 раз!
+Производство: Россия
+(100 гр).</description>
+			</offer>
+			<offer id="4465" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4465.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Инжир на веревочке </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>В свежем виде это сладкий и сочный фрукт, в сушеном — настоящее пирожное, отдельное удовольствие и польза для здоровья. Практически в каждом древнем лечебнике найдутся указания на целебные свойства инжира.
+Производство: Турция
+(100 гр).</description>
+			</offer>
+			<offer id="4466" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4466.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тутовник (шелковица) </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Сушеный тутовник отличается от всех других сухофруктов почти полным отсутствием влаги. Поэтому больше похож на драже. Сушеный тутовник может служить естественным заменителем ненатуральных сладостей, как для детей, так и взрослых. В ягодах содержится до 11% сахара.
+Производство: Таджикистан
+(100 гр).</description>
+			</offer>
+			<offer id="4467" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4467.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Финики на веточке </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>В коробочке лежат веточки с финиками. Как сорвали, так и упаковали. Прямо с пальмы. Эти финики очень нежные по вкусу, но по консистенции большеё частью - приятно твёрдые. По вкусу напоминают карамель. В них много клетчатки, это естественная сладость. Если вы любите сладкое - финики это для вас. 
+Производство: Тунис
+(100 гр).</description>
+			</offer>
+			<offer id="4468" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4468.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Финики Каспиран в упаковке</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Очень мягкие и сочные финики уложены аккуратными рядами в коробочку, проложенную полиэтиленом. Создаётся ощущение, что их прямо срывали с пальм и укладывали, один к одному.
+Производство:Иран.</description>
+			</offer>
+			<offer id="4469" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4469.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Изюм с хвостиками </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Изюм теневой сушки - очень сладкий и вкусный. Изюм с хвостиками лучше сохраняет свои полезные свойства, сок и аромат - &lt;ножка&gt; выступает в роли пробки. Продукт не подвержен механической обработке.
+Производство: Таджикистан
+(100 гр).</description>
+			</offer>
+			<offer id="4470" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4470.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Курага темная  </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Тёмная, сочная и мягкая курага -  очень вкусная, немного терпкая, но без присущей всем другим сортам кислинки. Именно так выглядят абрикосы ярко-оранжевых сортов, высушенные в тени без добавления диоксида серы в качестве консерванта и стабилизатора влажности и цвета. 
+Производство:Таджикистан
+(100 гр).</description>
+			</offer>
+			<offer id="4471" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>753</categoryId>
+				<picture>http://fasteda.ru/data/big/4471.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Курага сладкая твердая </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Курага – не только прекрасное общеукрепляющее средство. Этот сушёный фрукт способен предупредить и облегчить анемию, сердечные заболевания и заболевания ЖКТ, а также улучшить зрение.
+Производство:Таджикистан
+(100 гр).</description>
+			</offer>
+			<offer id="5184" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/5184.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Натуральные хлебцы ручной работы «Луковый хлеб»</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Состав: лен коричневый, подсолнечные семечки, тыквенные семечки, лук репчатый, соль морская.
+(100 гр).</description>
+			</offer>
+			<offer id="5185" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/5185.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Натуральные хлебцы ручной работы «С грибами»</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Состав: лен коричневый, тыквенные семечки, шампиньоны, орегано, соль морская.(100 гр).</description>
+			</offer>
+			<offer id="5186" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/5186.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Натуральные хлебцы ручной работы «С базиликом»</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Состав: лен коричневый, базилик, соль морская.
+(100 гр)
+.</description>
+			</offer>
+			<offer id="5187" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/5187.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор для проращивания</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Представляем Набор для проращивания, в который входит все необходимое для разумного и естественного проращивания: полезная литература, индивидуальный переносной проращиватель и 7 видов различных культур для проращивания.  
+В набор входит:
+- Проращиватель Smartsprouter
+- Книга: «Проростки - живая еда», Наталия Кайрос
+- Нут (200 гр)
+- Чечевица (200 гр)
+- Маш (200 гр)
+- Пшеница (200 гр)
+- Горох (200 гр)
+- Овес голозерный (200 гр)
+- Гречка зеленая (200 гр).</description>
+			</offer>
+			<offer id="4448" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/4448.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Семечки тыквенные очищенные </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Очищенные семечки тыквы содержат от 32 до 52 % пищевого масла и необходимый человеку запас цинка. Кроме того, тыквенные семечки содержат много полезных элементов, таких как линоленовая кислота, медь, марганец, железо, фосфор, калий, кальций, селен. 
+(100 гр).</description>
+			</offer>
+			<offer id="4449" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>9</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/4449.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Семечки подсолнечые очищенные </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Семечки - очень полезный и нужный продукт. Весь содержащийся в них жир состоит из полиненасыщенных жирных кислот, живые компоненты которых вкупе с витаминами препятствуют старению организма. 
+(100 гр).</description>
+			</offer>
+			<offer id="4450" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>25</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/4450.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гречка зеленая для проращивания </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Достаточно замочить ее на час в холодной воде и свежее, питательное блюдо готово! А если ее прорастить, то целебные свойства гречишных семян усиливаются в несколько раз. Гречку можно также отваривать привычным образом – 5 минут и полноценное полезное и питательное блюдо готово! 
+(100 гр).</description>
+			</offer>
+			<offer id="4451" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/4451.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленая гречка Живая 350 гр</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Включая в свой ежедневный рацион свежую гречку, вы обеспечиваете себя мощной профилактикой от «болезней цивилизации»: нарушения обмена веществ, проблем с холестерином и токсинами, расстройств иммунитета, последствий стресса и плохой экологии, проблем пищеварения, сердечно-сосудистых заболеваний
+(350 гр).</description>
+			</offer>
+			<offer id="4452" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>7</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/4452.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пшеница для проращивания 1 кг</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Пожалуй, на данный момент, пшеница - это самая популярная культура для проращивания. Живые проростки пшеницы очищают организм от шлаков, повышают иммунитет, дают мощный и продолжительный заряд бодрости
+(100 гр).</description>
+			</offer>
+			<offer id="4453" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>21</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/4453.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис Девзира темный </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Для Девзиры характерна продольная полосочка вдоль рисинки, которая наиболее заметна в темных сортах. Хотя, если хорошо разглядеть, светлую девзиру, полоска также заметна. Поставляем как темный, так и светлый рис Девзира.
+Производство: Узбекистан
+(100 гр).</description>
+			</offer>
+			<offer id="4454" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/4454.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис Девзира светлый</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Для Девзиры характерна продольная полосочка вдоль рисинки, которая наиболее заметна в темных сортах. Хотя, если хорошо разглядеть, светлую девзиру, полоска также заметна. Поставляем как темный, так и светлый рис Девзира.
+Производство: Узбекистан
+(100 гр).</description>
+			</offer>
+			<offer id="4455" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>1250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>861</categoryId>
+				<picture>http://fasteda.ru/data/big/4455.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Масло Черного тмина </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Масло Эфиопское(Хабашитское) получено методом холодного отжима из Эфиопских семян черного тмина. Рекомендуется как укрепляющее иммунитет средство длительного применения.
+(0.5 л).</description>
+			</offer>
+			<offer id="5180" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>755</categoryId>
+				<picture>http://fasteda.ru/data/big/5180.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Какао бобы дробленые </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Натуральные, очищенные, дробленые бобы живого какао.
+Родина этих какао-бобов находится в Африке, рядом с Гвинейским заливом, четыре градуса севернее экватора, где была древняя империя Ашанти. Португальцы и британцы называли это место Золотым Берегом, сейчас здесь находится Гана.
+(100гр).</description>
+			</offer>
+			<offer id="5181" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>755</categoryId>
+				<picture>http://fasteda.ru/data/big/5181.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мюсли из пророщенной пшеницы (фруктово-ягодные)</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Мюсли ТМ «Фруктовая Энергия» производятся из пшеницы твердых элитных сортов, выращенных в степной зоне Алтая. В отличие от традиционной технологии производства готовых мюсли (обжарка с сахаром или высокотемпературная экструзия мучной пасты), использование цельной пророщенной пшеницы при производстве мюсли позволяет создать уникальный продукт — максимально полезный и натуральный. (уп-ка 310 гр).</description>
+			</offer>
+			<offer id="5182" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>755</categoryId>
+				<picture>http://fasteda.ru/data/big/5182.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бомбические печенюшки в асс-те </name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Бомбические Печенюшки — это уникальный продукт! Во-первых, в нём абсолютно отсутствует любые искусственные добавки с маркировкой «Е». Во-вторых, он не содержит муки, маргарина, сахара, соли, соды и продуктов ГМО.В состав продукта входят только сухофрукты и проращенное зерно. Технология изготовления «Бомбических Печенюшек» не имеет аналогов в истории мировой пищевой промышленности! Благодаря использованию зерна и сухофруктов наивысшего качества печенье обладает превосходным вкусом! (уп-ка 100 гр).</description>
+			</offer>
+			<offer id="5183" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>755</categoryId>
+				<picture>http://fasteda.ru/data/big/5183.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Натуральное печенье ручной работы «Как бы овсяное с изюмом»</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Состав: зерна пшеницы и ржи пророщенные, яблоко, банан, грецкий орех, изюм.
+Описание: Ароматное, сладкое, так похожее на знакомое с детства овсяное печенье! И только из живых продуктов!
+Температура сушки - 38 С (100 гр).</description>
+			</offer>
+			<offer id="4702" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>755</categoryId>
+				<picture>http://fasteda.ru/data/big/4702.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>ЭКОнфеты Шоко-Бум (Трюфели) - Набор 10 шт.</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Натуральные сыроедные конфеты ручной работы.Волшебно-шоколадные, но без шоколада.100% эко. Без сахара и консервантов.
+Состав:
+-Финики
+-Изюм
+-Грецкий орех
+-Кэроб натуральный
+.</description>
+			</offer>
+			<offer id="4703" available="true">
+				<url>http://fasteda.ru/menu/i_mne/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>755</categoryId>
+				<picture>http://fasteda.ru/data/big/4703.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>ЭКОнфеты Фруктовый муравейник - Набор 10 шт.</name>
+				<vendor>«И мне» - доставка природной еды</vendor>
+				<description>Натуральные сыроедные конфеты ручной работы.Нежно-фруктовые в маковой обсыпке.100% эко. Без сахара и консервантов.
+Состав:
+-Инжир
+-Курага
+-Кедровый орех
+-Мак
+.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

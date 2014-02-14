@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-12 05:01">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1954">Горячее</category>
+			<category id="1958">Салаты</category>
+			<category id="1959">Супы</category>
+			<category id="1962">Закуски</category>
+			<category id="1956">Гарниры</category>
+			<category id="1960">Выпечка</category>
+			<category id="1963">Соусы</category>
+			<category id="1964">Десерты</category>
+			<category id="1965">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="11587" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11587.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля-кебаб из баранины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Нежный фарш из баранины приготовленный на мангале.
+(200 гр).</description>
+			</offer>
+			<offer id="11569" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11569.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыплёнок табака</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Представляет собою цыплёнка, зажаренного с чесноком и пряностями в местной разновидности сковороды с крышкой.
+(500 гр).</description>
+			</offer>
+			<offer id="11562" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11562.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тбилисо</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Молодая говядина, грибы, томаты, сметана, черный перец.
+(300 гр).</description>
+			</offer>
+			<offer id="11584" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11584.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Купаты по-грузински</name>
+				<vendor>Орэра кафе</vendor>
+				<description>свинина, говядина фаршируются в натуральную оболочку и коптятся.
+(200 гр).</description>
+			</offer>
+			<offer id="11585" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11585.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Форель жаренная</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11570" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11570.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лобио</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Красная фасоль, лук, приправы.
+(150 гр).</description>
+			</offer>
+			<offer id="11582" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11582.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оджахури из свинины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Свинина, картофель, лук, приправы, чеснок, зелень.
+(250 гр).</description>
+			</offer>
+			<offer id="11583" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11583.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кучмачи говяжьи</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Обжаренные потрошка с луком и специями.
+(200 гр).</description>
+			</offer>
+			<offer id="11580" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11580.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оджахури из баранины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Нежные кусочки баранины, картофель, лук, приправы, чеснок, зелень.
+(250 гр).</description>
+			</offer>
+			<offer id="11581" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11581.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оджахури из телятины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Нежные кусочки телятины, картофель, лук, приправы, чеснок, зелень.
+(250 гр).</description>
+			</offer>
+			<offer id="11579" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11579.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Телятина по-грузински</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Цельный кусочек телятины, грузинская аджика, приправы.
+(200 гр).</description>
+			</offer>
+			<offer id="11560" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11560.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из телятины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11572" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11572.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Помидоры фаршированные сыром запеченные</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Помидоры фаршированные сыром сулугуни.
+(300 гр).</description>
+			</offer>
+			<offer id="11573" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11573.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Баклажаны запеченные с сыром</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Баклажаны запеченные с сыром сулугуни.
+(200 гр).</description>
+			</offer>
+			<offer id="11564" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11564.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк свиной</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Свинина, перец, овощи.
+(300 гр).</description>
+			</offer>
+			<offer id="11567" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11567.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хинкали 4 шт</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Крупные пельмени с начинкой из мясного фарша.</description>
+			</offer>
+			<offer id="11568" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11568.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Долма</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Мясной фарш завернутый в виноградные листья, подается с чесночным соусом.
+(200 гр).</description>
+			</offer>
+			<offer id="11571" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11571.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аджапсандал</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Овощное рагу, баклажаны, фасоль, болгарский перец, картофель, лук, зелень.
+(150 гр).</description>
+			</offer>
+			<offer id="11577" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11577.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чашушули из телятины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Телятина, томаты, лук, зелень, приправы.
+(250 гр).</description>
+			</offer>
+			<offer id="11575" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11575.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чашушули из грибов</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Грибы,помидоры, лук, зелень, приправы.
+(250 гр).</description>
+			</offer>
+			<offer id="11576" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11576.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чашушули из свинины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>свинина, томаты, лук, зелень, приправы
+(250 гр).</description>
+			</offer>
+			<offer id="11574" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11574.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чахохбили</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Куриное мясо, помидоры, лук, зелень, приправы.
+(250 гр).</description>
+			</offer>
+			<offer id="11563" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11563.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк телячий</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Телятина, перец, овощи.
+(300 гр).</description>
+			</offer>
+			<offer id="11561" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11561.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из мякоти барашка</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11578" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11578.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина по-грузински</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Мякоть свинины, грузинская аджика, приправы.
+(200 гр).</description>
+			</offer>
+			<offer id="11586" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11586.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощи на мангале</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Болгарский перец, томаты, баклажаны, лук.
+(250 гр).</description>
+			</offer>
+			<offer id="11588" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11588.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля-кебаб из говядины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Нежный фарш из говядины приготовленный на мангале.
+(200 гр).</description>
+			</offer>
+			<offer id="11589" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11589.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля-кебаб из свинины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Нежный фарш из свинины приготовленный на мангале.
+(200 гр).</description>
+			</offer>
+			<offer id="11590" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11590.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из курицы</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Нежный кусочки филе курицы приготовленные на мангале.
+(200 гр).</description>
+			</offer>
+			<offer id="11591" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11591.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из баранины на косточке</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Шашлык из баранины на косточке.
+(200 гр).</description>
+			</offer>
+			<offer id="11592" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1954</categoryId>
+				<picture>http://fasteda.ru/data/big/11592.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Шашлык из свинной шеи – 5 кусочков.
+(200 гр).</description>
+			</offer>
+			<offer id="11598" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1958</categoryId>
+				<picture>http://fasteda.ru/data/big/11598.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощная тарелка</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Огурцы, помидоры, болгарский перец, редиска, зелень.
+(300 гр).</description>
+			</offer>
+			<offer id="11599" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1958</categoryId>
+				<picture>http://fasteda.ru/data/big/11599.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат по-грузински</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Помидоры, огурцы, лук, зелёный перец, грецкий орех.
+(250 гр).</description>
+			</offer>
+			<offer id="11600" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1958</categoryId>
+				<picture>http://fasteda.ru/data/big/11600.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Куриное филе, болгарский перец, редис, лук, майонез
+(250 гр).</description>
+			</offer>
+			<offer id="11601" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1958</categoryId>
+				<picture>http://fasteda.ru/data/big/11601.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оливье</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Картофель, колбаса, морковь, горох, соленый огурец, яйцо, майонез.
+(250 гр).</description>
+			</offer>
+			<offer id="11602" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1958</categoryId>
+				<picture>http://fasteda.ru/data/big/11602.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крабовый</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Рис, крабовые палочки, свежий огурец, яйцо, кукуруза, майонез.
+(100 гр).</description>
+			</offer>
+			<offer id="11603" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1958</categoryId>
+				<picture>http://fasteda.ru/data/big/11603.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Витаминный</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Морковь, капуста, уксус, сахар, черный перец.
+(250 гр).</description>
+			</offer>
+			<offer id="11604" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1958</categoryId>
+				<picture>http://fasteda.ru/data/big/11604.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Греческий</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Свежий огурец, помидоры, болгарский перец, маслины, сыр, оливковое масло, китайская капуста.
+(250 гр).</description>
+			</offer>
+			<offer id="11605" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1958</categoryId>
+				<picture>http://fasteda.ru/data/big/11605.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Столичный</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Столичный салат – куриное филе, картофель, морковь, горох, соленый огурец, яйцо, майонез.
+(250 гр).</description>
+			</offer>
+			<offer id="11606" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1959</categoryId>
+				<picture>http://fasteda.ru/data/big/11606.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Холодный борщ</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Традиционный холодный борщ.
+(300 гр).</description>
+			</offer>
+			<offer id="11607" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1959</categoryId>
+				<picture>http://fasteda.ru/data/big/11607.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чанахи</name>
+				<vendor>Орэра кафе</vendor>
+				<description>картофель, баранина, баклажаны, помидоры, болгарский перец, приправы, лук, зелень.
+(300 гр).</description>
+			</offer>
+			<offer id="11608" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1959</categoryId>
+				<picture>http://fasteda.ru/data/big/11608.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Уха по Царски</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Грибы, картофель, перец болгарский, морковь, помидор, лук, зелень.
+(300 гр).</description>
+			</offer>
+			<offer id="11609" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1959</categoryId>
+				<picture>http://fasteda.ru/data/big/11609.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп харчо</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Говядина, картофель, перец болгарский, морковь, помидор, лук, зелень.
+(300 гр).</description>
+			</offer>
+			<offer id="11610" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1959</categoryId>
+				<picture>http://fasteda.ru/data/big/11610.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сборная солянка</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Телятина, сосиски, колбаса, томаты, огурцы.
+(300 гр).</description>
+			</offer>
+			<offer id="11611" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1959</categoryId>
+				<picture>http://fasteda.ru/data/big/11611.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриный суп по-домашнему</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Курица, картофель, рис, зелень.
+(300 гр).</description>
+			</offer>
+			<offer id="11612" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1959</categoryId>
+				<picture>http://fasteda.ru/data/big/11612.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп грибной</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Грибы, картофель, болгарский перец, морковь, помидоры, зелень.
+(300 гр).</description>
+			</offer>
+			<offer id="11613" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1959</categoryId>
+				<picture>http://fasteda.ru/data/big/11613.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Борщ домашний</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Картофель, говядина, морковь, свекла, капуста, лук, приправы.
+(300 гр).</description>
+			</offer>
+			<offer id="11621" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1962</categoryId>
+				<picture>http://fasteda.ru/data/big/11621.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясное ассорти</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11622" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1962</categoryId>
+				<picture>http://fasteda.ru/data/big/11622.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сырное ассорти</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11623" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1962</categoryId>
+				<picture>http://fasteda.ru/data/big/11623.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Баклажаны с грецким орехом</name>
+				<vendor>Орэра кафе</vendor>
+				<description>5шт.</description>
+			</offer>
+			<offer id="11624" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1962</categoryId>
+				<picture>http://fasteda.ru/data/big/11624.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соленье ассорти</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Перец, чеснок, черемша, капуста.
+(150 гр).</description>
+			</offer>
+			<offer id="11625" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1962</categoryId>
+				<picture>http://fasteda.ru/data/big/11625.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гренки с сыром и чесноком</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Жаренный хлеб с сыром и чесноком.
+(160 гр).</description>
+			</offer>
+			<offer id="11626" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1962</categoryId>
+				<picture>http://fasteda.ru/data/big/11626.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гренки с сыром</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Жаренный хлеб с сыром.
+(150 гр).</description>
+			</offer>
+			<offer id="11627" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1962</categoryId>
+				<picture>http://fasteda.ru/data/big/11627.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гренки с чесноком</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Жаренный хлеб с чесноком.
+(150 гр).</description>
+			</offer>
+			<offer id="11628" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1962</categoryId>
+				<picture>http://fasteda.ru/data/big/11628.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сыр сулугуни</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Рассольный грузинский сыр.
+(150 гр).</description>
+			</offer>
+			<offer id="11629" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1962</categoryId>
+				<picture>http://fasteda.ru/data/big/11629.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сациви с курицей</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Кусочки курицы под ароматным пряным соусом из молотого грецкого ореха
+(200 гр).</description>
+			</offer>
+			<offer id="11594" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1956</categoryId>
+				<picture>http://fasteda.ru/data/big/11594.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Из молодого картофеля.
+(100 гр).</description>
+			</offer>
+			<offer id="11595" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1956</categoryId>
+				<picture>http://fasteda.ru/data/big/11595.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Греча</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Ядрица.
+(100 гр).</description>
+			</offer>
+			<offer id="11596" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1956</categoryId>
+				<picture>http://fasteda.ru/data/big/11596.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Длиннозерный рис.
+(100 гр).</description>
+			</offer>
+			<offer id="11597" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1956</categoryId>
+				<picture>http://fasteda.ru/data/big/11597.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Картофель молодой, молоко.
+(100 гр).</description>
+			</offer>
+			<offer id="11614" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1960</categoryId>
+				<picture>http://fasteda.ru/data/big/11614.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лаваш</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Домашняя выпечка.
+(100 гр).</description>
+			</offer>
+			<offer id="11615" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1960</categoryId>
+				<picture>http://fasteda.ru/data/big/11615.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чебуреки из баранины 2шт</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11616" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1960</categoryId>
+				<picture>http://fasteda.ru/data/big/11616.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чебуреки из свинины 2шт</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11617" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1960</categoryId>
+				<picture>http://fasteda.ru/data/big/11617.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хачапури слоеное</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Пирог с сыром из слоеного теста.
+(300 гр).</description>
+			</offer>
+			<offer id="11618" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1960</categoryId>
+				<picture>http://fasteda.ru/data/big/11618.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хачапури по-аджарски</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Лодочка из теста с сыром сулугуни и яйцом.
+(300 гр).</description>
+			</offer>
+			<offer id="11619" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1960</categoryId>
+				<picture>http://fasteda.ru/data/big/11619.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хачапури по-мегрельски</name>
+				<vendor>Орэра кафе</vendor>
+				<description>С сыром сулугуни.
+(300 гр).</description>
+			</offer>
+			<offer id="11630" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1963</categoryId>
+				<picture>http://fasteda.ru/data/big/11630.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус ткемали</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(50 гр).</description>
+			</offer>
+			<offer id="11631" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1963</categoryId>
+				<picture>http://fasteda.ru/data/big/11631.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус белый</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Сметана, майонез, чеснок, зелень.
+(50 гр).</description>
+			</offer>
+			<offer id="11632" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1963</categoryId>
+				<picture>http://fasteda.ru/data/big/11632.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус сацебели</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Из натуральных томатов
+(50 гр).</description>
+			</offer>
+			<offer id="11633" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1963</categoryId>
+				<picture>http://fasteda.ru/data/big/11633.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус аджика</name>
+				<vendor>Орэра кафе</vendor>
+				<description>Соус аджика (острый)
+(50 гр).</description>
+			</offer>
+			<offer id="11634" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1964</categoryId>
+				<picture>http://fasteda.ru/data/big/11634.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Торт Медовик</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11635" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1965</categoryId>
+				<picture>http://fasteda.ru/data/big/11635.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Nestea</name>
+				<vendor>Орэра кафе</vendor>
+				<description>(0.5 л).</description>
+			</offer>
+			<offer id="11636" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1965</categoryId>
+				<picture>http://fasteda.ru/data/big/11636.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Rich </name>
+				<vendor>Орэра кафе</vendor>
+				<description>Яблочный, апельсиновый, мультифрукт, томат, персиковый.
+(1 л).</description>
+			</offer>
+			<offer id="11637" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1965</categoryId>
+				<picture>http://fasteda.ru/data/big/11637.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite 0.5л</name>
+				<vendor>Орэра кафе</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11638" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1965</categoryId>
+				<picture>http://fasteda.ru/data/big/11638.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Cola 0.5л</name>
+				<vendor>Орэра кафе</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11639" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1965</categoryId>
+				<picture>http://fasteda.ru/data/big/11639.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>BonAqua 0.5л</name>
+				<vendor>Орэра кафе</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11640" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1965</categoryId>
+				<picture>http://fasteda.ru/data/big/11640.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тархун 0.5л</name>
+				<vendor>Орэра кафе</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11641" available="true">
+				<url>http://fasteda.ru/menu/orera_cafe/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1965</categoryId>
+				<picture>http://fasteda.ru/data/big/11641.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дюшес 0.5л</name>
+				<vendor>Орэра кафе</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

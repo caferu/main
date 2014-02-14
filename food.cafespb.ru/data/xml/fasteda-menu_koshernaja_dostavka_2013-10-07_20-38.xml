@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:38">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1279">Холодные закуски</category>
+			<category id="1281">Салаты</category>
+			<category id="1280">Горячие закуски</category>
+			<category id="1393">Основные блюда из рыбы</category>
+			<category id="1392">Основные блюда из курицы</category>
+			<category id="1387">Основные блюда из говядины</category>
+			<category id="1394">Пасты</category>
+			<category id="1386">Супы</category>
+			<category id="1395">Гарниры</category>
+			<category id="1398">Выпечка</category>
+			<category id="1397">Хлеб</category>
+			<category id="1399">Десерты</category>
+			<category id="1400">Напитки</category>
+			<category id="1396">Соусы</category>
+		</categories>
+		<offers>
+			<offer id="7779" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7779.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форшмак 200 гр</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>В еврейской кухне это блюдо стало национальным, хотя первоначально оно было заимствовано из восточно-прусской кухни. Рубленная сельдь подается на тостах из черного хлеба с чесноком (200 гр).</description>
+			</offer>
+			<offer id="7780" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7780.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хумус 120 гр</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>В арабском языке и на иврите «хуммус» означает как просто горох нут, так и саму закуску. Закуска из нутового пюре, в состав которого обычно могут входить: оливковое масло, чеснок, сок лимона, паприка, кунжутная (сезамовая) паста (120 гр).</description>
+			</offer>
+			<offer id="7778" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7778.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хацилим 150 гр</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Хацилим пильпель в переводе с иврита - баклажаны с перцем - невероятно вкусный салат. Рецептов этого блюда в Израиле множество. Состав: запеченные баклажаны, чеснок, лимон, майонез (150 гр).</description>
+			</offer>
+			<offer id="7777" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7777.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маслины</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="7776" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7776.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сельдь по-русски</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Картофель, сельдь маринованные огурцы, маринованный лук (80/210 гр).</description>
+			</offer>
+			<offer id="7775" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7775.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пхалиули на выбор 210 гр</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Из шпината, фасоли или баклажан на выбор (210 гр). Словом «пхалиули», или «пхали», грузины называют блюда из травы и овощей, которые готовятся по одному принципу. Овощи или траву отваривают, отжимают воду, мелко рубят ножом и смешивают со специями, чесноком, зернами граната и орехами.</description>
+			</offer>
+			<offer id="7774" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7774.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зелень</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>лук зеленый, редис, кинза, петрушка, укроп, оливки (110 гр).</description>
+			</offer>
+			<offer id="7773" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7773.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти рыбное</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>форель или семга, красная икра, лимон, зелень(220 гр).</description>
+			</offer>
+			<offer id="7772" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7772.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти овощное «Соленья»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Капуста, огурцы, патиссоны (200 гр).</description>
+			</offer>
+			<offer id="7771" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1279</categoryId>
+				<picture>http://fasteda.ru/data/big/7771.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти из свежих овощей</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Помидоры, огурцы, сладкий перец, свежая зелень, оливки.
+Fresh vegetables plato. Tomato, cucumber, paprika, greens, olives
+(225 гр) 
+.</description>
+			</offer>
+			<offer id="7786" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1281</categoryId>
+				<picture>http://fasteda.ru/data/big/7786.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Цезарь»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>листья салата айсберг, куриное филе, гренки, помидоры черри, соус цезарь (200 гр).</description>
+			</offer>
+			<offer id="7784" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1281</categoryId>
+				<picture>http://fasteda.ru/data/big/7784.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Столичный»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Филе куры, картофель, горошек, морковь, соленные огурцы, майонез (150 гр).</description>
+			</offer>
+			<offer id="7785" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1281</categoryId>
+				<picture>http://fasteda.ru/data/big/7785.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Кавказский»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Огурцы, помидоры, лук, острый зеленый перец, зелень, уксус, грецкие орехи (200 гр).</description>
+			</offer>
+			<offer id="7966" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1281</categoryId>
+				<picture>http://fasteda.ru/data/big/7966.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Цезарь»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Листья салата айсберг, куриное филе, гренки, помидоры черри, соус цезарь (200 гр).</description>
+			</offer>
+			<offer id="7967" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1281</categoryId>
+				<picture>http://fasteda.ru/data/big/7967.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Туна»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Туна, кукуруза, лук красный, зелень, майонез, соленый огурец (150 гр).</description>
+			</offer>
+			<offer id="7968" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1281</categoryId>
+				<picture>http://fasteda.ru/data/big/7968.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Фантазия»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>форель, айсберг, болгарский перец, лук парей, свежие огурцы, 
+кунжут, оливковое масло (200/50 гр)
+.</description>
+			</offer>
+			<offer id="7969" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1281</categoryId>
+				<picture>http://fasteda.ru/data/big/7969.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Наслаждение»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Шампиньоны, свежие огурцы, маринованный лук, болгарский перец, укроп, черный перец, майонез (200 гр).</description>
+			</offer>
+			<offer id="7970" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1281</categoryId>
+				<picture>http://fasteda.ru/data/big/7970.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Тандури»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Курица, капуста айсберг, соус карри, орехи кешью (240/60 гр).</description>
+			</offer>
+			<offer id="7782" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1280</categoryId>
+				<picture>http://fasteda.ru/data/big/7782.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджабсандал</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Грузинская закуска. Состав:Баклажаны, томаты, паприка (200 гр).</description>
+			</offer>
+			<offer id="7783" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1280</categoryId>
+				<picture>http://fasteda.ru/data/big/7783.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобио красное</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>отборная фасоль тушенная со специями и зеленью (250/50 гр).</description>
+			</offer>
+			<offer id="7781" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1280</categoryId>
+				<picture>http://fasteda.ru/data/big/7781.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шакшука</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Известная в Израиле яичница с помидорами и специями в томатном соусе (200 гр).</description>
+			</offer>
+			<offer id="8029" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1393</categoryId>
+				<picture>http://fasteda.ru/data/big/8029.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Золотая рыбка</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Форель, помидоры черри, картофель фри, оливки, огурцы, лимон (120/300 гр).</description>
+			</offer>
+			<offer id="8030" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1393</categoryId>
+				<picture>http://fasteda.ru/data/big/8030.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форель «Царица Моря»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Филе форели, помидоры черри, лимон, зелень, оливки (300 гр).</description>
+			</offer>
+			<offer id="8031" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1393</categoryId>
+				<picture>http://fasteda.ru/data/big/8031.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Cациви рыбный</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Филе форели в ореховом соусе (150/150 гр).</description>
+			</offer>
+			<offer id="8032" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1393</categoryId>
+				<picture>http://fasteda.ru/data/big/8032.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фаршированное грибами филе судака</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Картофельное пюре, овощи, чесночный соус (150/190 гр).</description>
+			</offer>
+			<offer id="8033" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1393</categoryId>
+				<picture>http://fasteda.ru/data/big/8033.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк рыбный с овощами и соусом тар-тар</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(170/140 гр).</description>
+			</offer>
+			<offer id="8022" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1392</categoryId>
+				<picture>http://fasteda.ru/data/big/8022.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из куры</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(200/60 гр).</description>
+			</offer>
+			<offer id="8023" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1392</categoryId>
+				<picture>http://fasteda.ru/data/big/8023.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шаверма</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Курица, соус, майонез, огурцы, помидор, лук (300 гр).</description>
+			</offer>
+			<offer id="8024" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1392</categoryId>
+				<picture>http://fasteda.ru/data/big/8024.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шницель куриный</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="8025" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1392</categoryId>
+				<picture>http://fasteda.ru/data/big/8025.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цыпленок по-чкмерски</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Жаренный цыпленок с чесноком (350 гр).</description>
+			</offer>
+			<offer id="8026" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1392</categoryId>
+				<picture>http://fasteda.ru/data/big/8026.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чахохбили</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Кура тушеная с помидорами и специями (250 гр).</description>
+			</offer>
+			<offer id="8027" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1392</categoryId>
+				<picture>http://fasteda.ru/data/big/8027.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сациви</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Ломтики филе курицы в ореховом соусе с ароматными специями (250 гр).</description>
+			</offer>
+			<offer id="8028" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1392</categoryId>
+				<picture>http://fasteda.ru/data/big/8028.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный стейк с овощной нарезкой</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(150/100 гр).</description>
+			</offer>
+			<offer id="7979" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1387</categoryId>
+				<picture>http://fasteda.ru/data/big/7979.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оджахури</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>телятина с картофелем, зеленью и помидорами (300 гр).</description>
+			</offer>
+			<offer id="7980" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1387</categoryId>
+				<picture>http://fasteda.ru/data/big/7980.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чашушули</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Нежная телятина, тушенная с помидорами(250 гр).</description>
+			</offer>
+			<offer id="7981" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1387</categoryId>
+				<picture>http://fasteda.ru/data/big/7981.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Люля-кебаб</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(200/50 гр).</description>
+			</offer>
+			<offer id="8034" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1394</categoryId>
+				<picture>http://fasteda.ru/data/big/8034.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паста с овощами</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="8035" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1394</categoryId>
+				<picture>http://fasteda.ru/data/big/8035.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паста с грибами</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="8036" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1394</categoryId>
+				<picture>http://fasteda.ru/data/big/8036.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паста с мясом и овощами</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="7971" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1386</categoryId>
+				<picture>http://fasteda.ru/data/big/7971.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха по-царски</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Форель, майонез, специи (300 гр).</description>
+			</offer>
+			<offer id="7972" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1386</categoryId>
+				<picture>http://fasteda.ru/data/big/7972.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ по-украински с мясом</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="7973" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1386</categoryId>
+				<picture>http://fasteda.ru/data/big/7973.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ по-украински без мяса </name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Свекольный (300 гр).</description>
+			</offer>
+			<offer id="7974" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1386</categoryId>
+				<picture>http://fasteda.ru/data/big/7974.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бульон куриный по-домашнему</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="7975" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1386</categoryId>
+				<picture>http://fasteda.ru/data/big/7975.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грибной суп (из шампиньонов)</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="7976" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1386</categoryId>
+				<picture>http://fasteda.ru/data/big/7976.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной суп</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="7977" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1386</categoryId>
+				<picture>http://fasteda.ru/data/big/7977.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бульон куриный с креплах</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Креплах — это клецки, треугольная форма которых символизирует трех патриархов еврейского народа — Авраама, Ицхака и Яакова(200/100 гр).</description>
+			</offer>
+			<offer id="7978" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1386</categoryId>
+				<picture>http://fasteda.ru/data/big/7978.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп-Харчо</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Традиционный грузинский суп, который содержит говядину, рис, томаты, специи (330 гр).</description>
+			</offer>
+			<offer id="8037" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1395</categoryId>
+				<picture>http://fasteda.ru/data/big/8037.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи гриль</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="8038" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1395</categoryId>
+				<picture>http://fasteda.ru/data/big/8038.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="8039" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1395</categoryId>
+				<picture>http://fasteda.ru/data/big/8039.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель «Айдахо»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>Картофель жаренный в мундире с чесноком и укропом (150 гр).</description>
+			</offer>
+			<offer id="8040" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1395</categoryId>
+				<picture>http://fasteda.ru/data/big/8040.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель по-деревенски</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="8041" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1395</categoryId>
+				<picture>http://fasteda.ru/data/big/8041.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис отварной с овощами</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="8042" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1395</categoryId>
+				<picture>http://fasteda.ru/data/big/8042.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греча отварная</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="8048" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://fasteda.ru/data/big/8048.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури с грибами</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="8049" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://fasteda.ru/data/big/8049.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури со шпинатом</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="8050" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://fasteda.ru/data/big/8050.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури с мясом</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="8051" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://fasteda.ru/data/big/8051.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с джемом 3 шт</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(180/50 гр).</description>
+			</offer>
+			<offer id="8052" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://fasteda.ru/data/big/8052.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с медом 3 шт</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(180/30 гр).</description>
+			</offer>
+			<offer id="8053" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1398</categoryId>
+				<picture>http://fasteda.ru/data/big/8053.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с мясом 2 шт</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(120/80 гр).</description>
+			</offer>
+			<offer id="8046" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>10</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1397</categoryId>
+				<picture>http://fasteda.ru/data/big/8046.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хлеб черный</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(60 гр).</description>
+			</offer>
+			<offer id="8047" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1397</categoryId>
+				<picture>http://fasteda.ru/data/big/8047.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лаваш</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(110 гр).</description>
+			</offer>
+			<offer id="8054" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1399</categoryId>
+				<picture>http://fasteda.ru/data/big/8054.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожное «Пахлава»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(90 гр).</description>
+			</offer>
+			<offer id="8055" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1399</categoryId>
+				<picture>http://fasteda.ru/data/big/8055.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожное «Ореховый рулет»</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(80 гр).</description>
+			</offer>
+			<offer id="8056" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1400</categoryId>
+				<picture>http://fasteda.ru/data/big/8056.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода «Bon aqua» газ/негаз 0,5 л</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(0,5 л).</description>
+			</offer>
+			<offer id="8057" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1400</categoryId>
+				<picture>http://fasteda.ru/data/big/8057.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода «Нарзан» 0,33 л</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(0,33 л).</description>
+			</offer>
+			<offer id="8058" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1400</categoryId>
+				<picture>http://fasteda.ru/data/big/8058.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода «Нарзан» 0,5 л</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(0,5 л).</description>
+			</offer>
+			<offer id="8059" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1400</categoryId>
+				<picture>http://fasteda.ru/data/big/8059.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок в ассортименте 1 л</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(1 л).</description>
+			</offer>
+			<offer id="8060" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1400</categoryId>
+				<picture>http://fasteda.ru/data/big/8060.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс 0,2 л</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(0,2 л).</description>
+			</offer>
+			<offer id="8043" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1396</categoryId>
+				<picture>http://fasteda.ru/data/big/8043.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сацебели</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(50 гр).</description>
+			</offer>
+			<offer id="8044" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1396</categoryId>
+				<picture>http://fasteda.ru/data/big/8044.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тар-тар</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(50 гр).</description>
+			</offer>
+			<offer id="8045" available="true">
+				<url>http://fasteda.ru/menu/koshernaja_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1396</categoryId>
+				<picture>http://fasteda.ru/data/big/8045.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чесночный</name>
+				<vendor>Кошерный ресторан Goldencafe</vendor>
+				<description>(50 гр).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

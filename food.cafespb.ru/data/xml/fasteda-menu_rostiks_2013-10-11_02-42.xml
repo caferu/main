@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 02:42">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="25">Сандвичи</category>
+			<category id="24">Салаты</category>
+			<category id="23">Картофель</category>
+			<category id="14">Курица</category>
+			<category id="77">Баскеты</category>
+			<category id="117">Снэк бокс</category>
+			<category id="131">Снэки</category>
+			<category id="82">Соусы</category>
+			<category id="22">Десерты</category>
+			<category id="124">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="7580" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>25</categoryId>
+				<picture>http://fasteda.ru/data/big/7580.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>i-Twister Цезарь</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="175" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>25</categoryId>
+				<picture>http://fasteda.ru/data/big/175.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>i-Twister Cheese =)</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Сильно сырный i-Twister Cheese.</description>
+			</offer>
+			<offer id="171" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>25</categoryId>
+				<picture>http://fasteda.ru/data/big/171.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лонгер </name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Лонгер.</description>
+			</offer>
+			<offer id="167" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>25</categoryId>
+				<picture>http://fasteda.ru/data/big/167.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Классик</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Филе куриное жареное во фритюре, листья салата, майонез, булочка.</description>
+			</offer>
+			<offer id="166" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>25</categoryId>
+				<picture>http://fasteda.ru/data/big/166.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зингер</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Зингер (филе куриное, листья салата, майонез, булочка).</description>
+			</offer>
+			<offer id="163" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>103</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>25</categoryId>
+				<picture>http://fasteda.ru/data/big/163.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Твистер</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Твистер (тортилла лепешка, майонез, салат айсберг, помидоры, стрипсы).</description>
+			</offer>
+			<offer id="9276" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>25</categoryId>
+				<picture>http://fasteda.ru/data/big/9276.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Панини</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Горячий итальянский сандвич Панини. Это
+традиционный итальянский хлеб панини с сочным
+куриным филе в хрустящей панировке «11 трав и
+специй», нежным сыром, хрустящими
+маринованными огурчиками и ароматным
+чесночным соусом. Хлеб запекается в тостере до золотистой корочки и подается горячим, что
+усиливает вкус и аромат знаменитой курочки
+KFC..</description>
+			</offer>
+			<offer id="162" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>137</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>25</categoryId>
+				<picture>http://fasteda.ru/data/big/162.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Боксмастер</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Филе куриное, листья салата, соус деликатесный, помидоры, сыр плавленный, картофельная лепешка, тортилья.</description>
+			</offer>
+			<offer id="1207" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>148</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>25</categoryId>
+				<picture>http://fasteda.ru/data/big/1207.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Биггер</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Нежное филе в панировке, ломтик сыра, бекон, салат, кетчуп и булочка.</description>
+			</offer>
+			<offer id="172" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>24</categoryId>
+				<picture>http://fasteda.ru/data/big/172.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь New</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Салат с курицей (салат айсберг, гренки пшеничные, сыр 20 гр, филе классик, соус кари).</description>
+			</offer>
+			<offer id="2731" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>123</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>24</categoryId>
+				<picture>http://fasteda.ru/data/big/2731.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Веджи (овощной)</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Айсберг, капуста, морковь, помидоры, итальянская заправка.</description>
+			</offer>
+			<offer id="173" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>24</categoryId>
+				<picture>http://fasteda.ru/data/big/173.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Коул-Слоу</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Салат Коул-Слоу (капуста белокач., морковь, лук репчатый, заправка для салата Белые Ночи).</description>
+			</offer>
+			<offer id="170" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>39</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>23</categoryId>
+				<picture>http://fasteda.ru/data/big/170.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель фри Малый</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Малый картофель фри.</description>
+			</offer>
+			<offer id="176" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>57</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>23</categoryId>
+				<picture>http://fasteda.ru/data/big/176.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель фри стандарт.</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Большой картофель фри .</description>
+			</offer>
+			<offer id="188" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>23</categoryId>
+				<picture>http://fasteda.ru/data/big/188.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баскет картофель фри</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Самый большой картофель фри в баскете!.</description>
+			</offer>
+			<offer id="132" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>74</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14</categoryId>
+				<picture>http://fasteda.ru/data/big/132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>3 Крыла</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>ножка-75г, бедро-115г, ребро-100г, грудка-90г, крыло-70г (мясо цыпленка, неострая панировка, маринад, фритюр).</description>
+			</offer>
+			<offer id="133" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>117</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14</categoryId>
+				<picture>http://fasteda.ru/data/big/133.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>5 Крыльев</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Острые куриные крылья.</description>
+			</offer>
+			<offer id="164" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>167</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14</categoryId>
+				<picture>http://fasteda.ru/data/big/164.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>8 крыльев</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Острые куриные крылья.</description>
+			</offer>
+			<offer id="134" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>62</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14</categoryId>
+				<picture>http://fasteda.ru/data/big/134.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>1 кусок</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>ножка-75г, бедро-115г, ребро-100г, грудка-90г, крыло-70г (мясо цыпленка, неострая панировка, маринад, фритюр).</description>
+			</offer>
+			<offer id="135" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14</categoryId>
+				<picture>http://fasteda.ru/data/big/135.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>2 Куска</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Мясо цыпленка, неострая панировка, маринад, фритюр.</description>
+			</offer>
+			<offer id="136" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14</categoryId>
+				<picture>http://fasteda.ru/data/big/136.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>3 Куска</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Мясо цыпленка, неострая панировка, маринад, фритюр.</description>
+			</offer>
+			<offer id="169" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14</categoryId>
+				<picture>http://fasteda.ru/data/big/169.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>3 острых стрипса</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Куриные полоски.</description>
+			</offer>
+			<offer id="189" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14</categoryId>
+				<picture>http://fasteda.ru/data/big/189.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>5 острых стрипсов</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Острые куриные полоски.</description>
+			</offer>
+			<offer id="753" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>14</categoryId>
+				<picture>http://fasteda.ru/data/big/753.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>8 острых стрипсов</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1307" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>305</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>77</categoryId>
+				<picture>http://fasteda.ru/data/big/1307.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баскет 16 острых крыльев</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Новинка для двоих! 16 острых крыльев.</description>
+			</offer>
+			<offer id="182" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>305</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>77</categoryId>
+				<picture>http://fasteda.ru/data/big/182.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баскет Дуэт</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>2 куска цыплёнка, 4 стрипса, 4 острых крыла, 2 мал. картофеля фри.</description>
+			</offer>
+			<offer id="183" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>77</categoryId>
+				<picture>http://fasteda.ru/data/big/183.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баскет 25 острых крыльев</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>25 острых крыльев.</description>
+			</offer>
+			<offer id="139" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>77</categoryId>
+				<picture>http://fasteda.ru/data/big/139.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баскет Большой Куш</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>3 куска, 9 крыльев, 4 стрипса.</description>
+			</offer>
+			<offer id="754" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>73</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>117</categoryId>
+				<picture>http://fasteda.ru/data/big/754.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Снэк бокс с куском курицы</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>1 кусок курицы и картофель фри.</description>
+			</offer>
+			<offer id="755" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>73</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>117</categoryId>
+				<picture>http://fasteda.ru/data/big/755.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Снэк бокс стрипс</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>2 острых стрипса и картофель фри.</description>
+			</offer>
+			<offer id="756" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>73</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>117</categoryId>
+				<picture>http://fasteda.ru/data/big/756.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Снэк бокс лонгер</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Лонгер и картофель фри.</description>
+			</offer>
+			<offer id="757" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>73</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>117</categoryId>
+				<picture>http://fasteda.ru/data/big/757.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Снэк бокс мини-твистер</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Мини-твистер и картофель фри.</description>
+			</offer>
+			<offer id="190" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>131</categoryId>
+				<picture>http://fasteda.ru/data/big/190.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кукуруза</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Половинка початка кукурузы.</description>
+			</offer>
+			<offer id="2729" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>71</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>131</categoryId>
+				<picture>http://fasteda.ru/data/big/2729.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чикен Попкорн</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="178" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>82</categoryId>
+				<picture>http://fasteda.ru/data/big/178.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Кетчуп.</description>
+			</offer>
+			<offer id="511" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>82</categoryId>
+				<picture>http://fasteda.ru/data/big/511.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чесночный</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="512" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>82</categoryId>
+				<picture>http://fasteda.ru/data/big/512.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кисло-сладкий</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="513" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>82</categoryId>
+				<picture>http://fasteda.ru/data/big/513.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырный</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="515" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>82</categoryId>
+				<picture>http://fasteda.ru/data/big/515.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Барбекю</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12509" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>22</categoryId>
+				<picture>http://fasteda.ru/data/big/12509.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сладкий снек творожный</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12118" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>22</categoryId>
+				<picture>http://fasteda.ru/data/big/12118.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вафля бельгийская с карамелью</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12119" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>22</categoryId>
+				<picture>http://fasteda.ru/data/big/12119.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вафля бельгийская </name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="179" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>22</categoryId>
+				<picture>http://fasteda.ru/data/big/179.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мороженое с вареньем</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Мороженое с вареньем.</description>
+			</offer>
+			<offer id="2732" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>22</categoryId>
+				<picture>http://fasteda.ru/data/big/2732.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк </name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1738" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>51</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>124</categoryId>
+				<picture>http://fasteda.ru/data/big/1738.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Pepsi в стакане мал. 0,4 л</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>(400 мл).</description>
+			</offer>
+			<offer id="1739" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>63</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>124</categoryId>
+				<picture>http://fasteda.ru/data/big/1739.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Pepsi в стакане стандарт. 0,5 л</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7111" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>66</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>124</categoryId>
+				<picture>http://fasteda.ru/data/big/7111.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Pepsi в бутылке 0,6 л</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7112" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>77</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>124</categoryId>
+				<picture>http://fasteda.ru/data/big/7112.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Холодный чай Lipton 0,6 л</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>Уточните вариант менеджеру!.</description>
+			</offer>
+			<offer id="553" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>124</categoryId>
+				<picture>http://fasteda.ru/data/big/553.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола маленькая 0,5 л</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>(0,5 л).</description>
+			</offer>
+			<offer id="554" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>124</categoryId>
+				<picture>http://fasteda.ru/data/big/554.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола средняя 1 л.</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>(1 л.).</description>
+			</offer>
+			<offer id="555" available="true">
+				<url>http://fasteda.ru/menu/rostiks/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>124</categoryId>
+				<picture>http://fasteda.ru/data/big/555.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола большая 2 л.</name>
+				<vendor>Доставка из KFC</vendor>
+				<description>(2 л.).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 03:28">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="281">Крошка-Картошка</category>
+			<category id="282">Бутерброды</category>
+			<category id="285">Горячие блюда</category>
+			<category id="286">Супы</category>
+			<category id="545">Пельмени</category>
+			<category id="287">Салаты и закуски</category>
+			<category id="288">Десерты</category>
+			<category id="957">Дополнительные ингредиенты</category>
+			<category id="290">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="1657" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>281</categoryId>
+				<picture>http://fasteda.ru/data/big/1657.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель с укропом и растительным маслом</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Rартофель, масло растительное, зелень укропа, соль. (278 гр)
+.</description>
+			</offer>
+			<offer id="1658" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>281</categoryId>
+				<picture>http://fasteda.ru/data/big/1658.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель печеный с грибами</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Состав: картофель, грибы жареные, масло сливочное, соль. (325 гр)
+.</description>
+			</offer>
+			<offer id="1660" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>281</categoryId>
+				<picture>http://fasteda.ru/data/big/1660.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель печеный с сыром с маслом</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Аппетитный картофель, запеченный в фольге, позволит Вам полноценно пообедать с пользой для здоровья.
+Состав: картофель, масло сливочное, сыр, соль. (300 гр)
+.</description>
+			</offer>
+			<offer id="1661" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>281</categoryId>
+				<picture>http://fasteda.ru/data/big/1661.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель со сливочным маслом</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Картофель, масло сливочное, соль (270 гр).</description>
+			</offer>
+			<offer id="1656" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>281</categoryId>
+				<picture>http://fasteda.ru/data/big/1656.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель печеный с мясом с маслом</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Аппетитный картофель, запеченный в фольге, позволит Вам полноценно пообедать с пользой для здоровья.
+Состав: картофель, масло сливочное, говядина, свинина, лук, морковь, масло растительное, перец, соль. (315 гр)
+.</description>
+			</offer>
+			<offer id="1659" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>281</categoryId>
+				<picture>http://fasteda.ru/data/big/1659.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель с луком фри</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Аппетитный картофель, запеченный в фольге, позволит Вам полноценно пообедать с пользой для здоровья.
+Состав: картофель, лук фри, масло сливочное, соль. (288 гр)
+.</description>
+			</offer>
+			<offer id="5808" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>281</categoryId>
+				<picture>http://fasteda.ru/data/big/5808.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель с растительным маслом (постный)</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Картофель, масло растительное, соль. (269 гр).</description>
+			</offer>
+			<offer id="1664" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>62</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>282</categoryId>
+				<picture>http://fasteda.ru/data/big/1664.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бутерброд с ветчиной и сыром</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Булочка с кунжутом, сыр, огурцы маринованные, ветчина, салат Айсберг/капуста Пекинская, масло растительное. (175 гр).</description>
+			</offer>
+			<offer id="1665" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>92</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>282</categoryId>
+				<picture>http://fasteda.ru/data/big/1665.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Большой мясной бутерброд</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Булочка с кунжутом, сыр, помидоры свежие, огурцы маринованные, шницель свиной, салат айсберг/капуста пекинская, соус барбекю, масло раст. (268 гр).</description>
+			</offer>
+			<offer id="1666" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>92</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>282</categoryId>
+				<picture>http://fasteda.ru/data/big/1666.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Большой бутерброд с куриной грудкой</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Булочка с кунжутом, грудка куриная запеченная в маринаде, соус майонезный «тар-тар», салат Айсберг/капуста пекинская, масло раст. (222 гр).</description>
+			</offer>
+			<offer id="12482" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>285</categoryId>
+				<picture>http://fasteda.ru/data/big/12482.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с брынзой и зеленью</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12483" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>94</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>285</categoryId>
+				<picture>http://fasteda.ru/data/big/12483.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь ролл</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12484" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>285</categoryId>
+				<picture>http://fasteda.ru/data/big/12484.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вролс &amp;quot;4 сыра&amp;quot;</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5809" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>83</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>285</categoryId>
+				<picture>http://fasteda.ru/data/big/5809.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гратен с курицей и картофелем</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>филе куриное, картофель, сыр творожный, сыр растительный, майонез, яйцо, крахмал, жидкий дым, приправы, пищевая добавка «Цитри-фай», соль, перец ч/м, перец красный острый (200 гр).</description>
+			</offer>
+			<offer id="12485" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>286</categoryId>
+				<picture>http://fasteda.ru/data/big/12485.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем-суп из шампиньонов</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12486" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>83</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>286</categoryId>
+				<picture>http://fasteda.ru/data/big/12486.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ с мясом</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12487" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>83</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>286</categoryId>
+				<picture>http://fasteda.ru/data/big/12487.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гороховый суп с беконом</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1669" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>83</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>545</categoryId>
+				<picture>http://fasteda.ru/data/big/1669.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени ручной лепки</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Тесто для пельменей (мука пшеничная, сметана, яйцо куриное), фарш (говядина, свинина, кура, лук репчатый, соль, сахар, перец ч/м), масло сливочное.(9 шт./154 гр)
+.</description>
+			</offer>
+			<offer id="12488" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>287</categoryId>
+				<picture>http://fasteda.ru/data/big/12488.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат-коктейль &amp;quot;Овощной&amp;quot;</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1676" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>105</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>287</categoryId>
+				<picture>http://fasteda.ru/data/big/1676.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Для тех, кто любит более легкие блюда, мы можем предложить салат «Цезарь» на основе свежих овощей. 
+Состав: помидоры, салат Айсберг/капуста Пекинская, куриное филе, сыр, сухарики, соус «Цезарь», паприка. (190 гр)
+.</description>
+			</offer>
+			<offer id="5804" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>287</categoryId>
+				<picture>http://fasteda.ru/data/big/5804.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гренки белые</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Хлеб для сэндвичей, масло растительное, чеснок, укроп сухой. (65 гр).</description>
+			</offer>
+			<offer id="5805" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>287</categoryId>
+				<picture>http://fasteda.ru/data/big/5805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гренки черные</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Хлеб для сэндвичей зерновой, масло растительное, чеснок, укроп сухой. (65 гр).</description>
+			</offer>
+			<offer id="12489" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>288</categoryId>
+				<picture>http://fasteda.ru/data/big/12489.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт бисквитный с клубникой</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12490" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>288</categoryId>
+				<picture>http://fasteda.ru/data/big/12490.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тирамису</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1680" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>121</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>288</categoryId>
+				<picture>http://fasteda.ru/data/big/1680.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Торт творожный замороженный Чизкейк (порционный), вишневый десерт. (127 гр)
+.</description>
+			</offer>
+			<offer id="1751" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/1751.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сметана порц.</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(22 гр).</description>
+			</offer>
+			<offer id="1752" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/1752.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Майонез порц.</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(40 гр).</description>
+			</offer>
+			<offer id="1753" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/1753.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус барбекю порц.</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(20 гр).</description>
+			</offer>
+			<offer id="1754" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/1754.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус сырный порц.</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(20 гр).</description>
+			</offer>
+			<offer id="5826" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/5826.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус Цезарь порционный</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(35 гр).</description>
+			</offer>
+			<offer id="5827" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>27</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/5827.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сыр для картофеля</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="5828" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>27</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/5828.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясо для картофеля</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Говядина, свинина, лук репчатый, морковь, масло раст., перец ч/м, соль. (45 гр).</description>
+			</offer>
+			<offer id="5829" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>27</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/5829.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лук фри для картофеля</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(18 гр).</description>
+			</offer>
+			<offer id="5831" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>27</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/5831.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Масло сливочное для картофеля</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(20 гр).</description>
+			</offer>
+			<offer id="5832" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>27</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/5832.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Масло растительное для картофеля</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(19 гр).</description>
+			</offer>
+			<offer id="5833" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>27</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>957</categoryId>
+				<picture>http://fasteda.ru/data/big/5833.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зелень для картофеля</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>Масло раст, зелень укропа, соль. (28 гр).</description>
+			</offer>
+			<offer id="12491" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>290</categoryId>
+				<picture>http://fasteda.ru/data/big/12491.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний лимонад 0,3 л</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12492" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>290</categoryId>
+				<picture>http://fasteda.ru/data/big/12492.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний лимонад 0,5</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12493" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>290</categoryId>
+				<picture>http://fasteda.ru/data/big/12493.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний лимонад в бутылке  0,5</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5837" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>58</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>290</categoryId>
+				<picture>http://fasteda.ru/data/big/5837.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Квас (0,5 л)</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5838" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>56</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>290</categoryId>
+				<picture>http://fasteda.ru/data/big/5838.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс (0,3 л)</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5839" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>290</categoryId>
+				<picture>http://fasteda.ru/data/big/5839.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс (0,5 л)</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5840" available="true">
+				<url>http://fasteda.ru/menu/kartoshka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>290</categoryId>
+				<picture>http://fasteda.ru/data/big/5840.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс в бутылке</name>
+				<vendor>Доставка из Крошка Картошка</vendor>
+				<description>(0,5 л).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

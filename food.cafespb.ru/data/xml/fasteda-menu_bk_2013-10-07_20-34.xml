@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:34">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="267">Основное меню</category>
+			<category id="268">Закуски</category>
+			<category id="269">Салаты</category>
+			<category id="270">Десерты</category>
+			<category id="271">Напитки</category>
+			<category id="494">Соусы</category>
+		</categories>
+		<offers>
+			<offer id="1543" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1543.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мини Воппер™</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(161 гр., протеин - 11 гр.).</description>
+			</offer>
+			<offer id="1541" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>105</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1541.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Воппер™</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, говяжья котлета, майонез, айсберг, помидор, маринованные огурцы, кетчуп, лук. (274 гр., протеин - 26 гр.).</description>
+			</offer>
+			<offer id="1542" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1542.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Двойной воппер™</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, две говяжьи котлеты, майонез, айсберг, помидор, маринованные огурцы, кетчуп, лук.(355 гр., протеин - 44 гр.).</description>
+			</offer>
+			<offer id="1544" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>235</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1544.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тройной Воппер™</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, три говяжьи котлеты, майонез, айсберг, помидор, маринованные огурцы, кетчуп, лук.460 гр., протеин - 67 гр.).</description>
+			</offer>
+			<offer id="7099" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/7099.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейкхаус</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Настоящий стейк на гриле!.</description>
+			</offer>
+			<offer id="1549" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1549.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Биг Кинг™</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, две говяжьи котлеты, сыр, кинг соус, айсберг,  маринованные огурцы,лук.(200 гр., протеин - 17 гр.).</description>
+			</offer>
+			<offer id="1550" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1550.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Биг Кинг XXL™</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>булочка, две говяжьи котлеты, сыр, кинг соус, айсберг, маринованные огурцы, лук. (355 гр., протеин - 51 гр.).</description>
+			</offer>
+			<offer id="1545" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1545.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гамбургер</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, говяжья котлета,  маринованные огурцы, кетчуп, горчица.(111 гр., протеин - 8 гр.).</description>
+			</offer>
+			<offer id="1546" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>52</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1546.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизбургер</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, говяжья котлета,  сыр, маринованные огурцы, кетчуп, горчица.(123 гр., протеин - 10 гр.).</description>
+			</offer>
+			<offer id="1547" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>92</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1547.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Двойной чизбургер</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, две говяжьи котлеты, сыр, маринованные огурцы, кетчуп, горчица.(173 гр., протеин - 16 гр.).</description>
+			</offer>
+			<offer id="1548" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1548.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Двойной чизбургер XXL</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(312 гр., протеин - 50 гр.).</description>
+			</offer>
+			<offer id="1554" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1554.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Криспи Чикен™</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, майонез, куриная котлета, айсберг, помидор. (189 гр., протеин - 20 гр.).</description>
+			</offer>
+			<offer id="1553" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1553.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лонг Чикен™</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, майонез, айсберг, куриная котлета. (209 гр., протеин - 27 гр.).</description>
+			</offer>
+			<offer id="12511" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/12511.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Барбекю Чикен  Рэп</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3196" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/3196.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гриль Чикен Барбекю</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка с кукурузной крошкой, майонез, салат айсберг, помидоры, котлета куриная,бекон, соус барбекью, хрустящий лук (236 гр).</description>
+			</offer>
+			<offer id="1552" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1552.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тендеркрисп™</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Булочка, майонез, айсберг, куринная котлета, помидор. (268 гр., протеин - 30 гр.).</description>
+			</offer>
+			<offer id="1551" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/1551.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фиш Кинг</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>булочка, майонез, маринованные огурцы, айсберг, рыбная котлета. (190 гр., протеин - 16 гр.).</description>
+			</offer>
+			<offer id="12512" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/12512.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сендвич Фреш с вечиной и сыром</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12513" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>267</categoryId>
+				<picture>http://fasteda.ru/data/big/12513.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тортилья с ветчиной и сыром</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1557" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>268</categoryId>
+				<picture>http://fasteda.ru/data/big/1557.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кинг Фри™ станд.</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(142 гр., протеин - 5 гр.).</description>
+			</offer>
+			<offer id="1558" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>268</categoryId>
+				<picture>http://fasteda.ru/data/big/1558.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кинг Фри™ бол.</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(174 гр., протеин - 7 гр.).</description>
+			</offer>
+			<offer id="1559" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>268</categoryId>
+				<picture>http://fasteda.ru/data/big/1559.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки Кинг 3 шт.</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(114 гр., протеин - 25 гр.).</description>
+			</offer>
+			<offer id="1560" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>268</categoryId>
+				<picture>http://fasteda.ru/data/big/1560.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки Кинг 5 шт.</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(172 гр., протеин - 37 гр.).</description>
+			</offer>
+			<offer id="1561" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>268</categoryId>
+				<picture>http://fasteda.ru/data/big/1561.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки Кинг 8 шт.</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(258 гр., протеин - 56 гр.).</description>
+			</offer>
+			<offer id="1562" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>268</categoryId>
+				<picture>http://fasteda.ru/data/big/1562.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кинг Наггетс 6 шт.</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(96 гр., протеин - 15 гр.).</description>
+			</offer>
+			<offer id="1563" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>268</categoryId>
+				<picture>http://fasteda.ru/data/big/1563.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кинг Наггетс 9 шт.</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(144 гр., протеин - 23 гр.).</description>
+			</offer>
+			<offer id="1564" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>268</categoryId>
+				<picture>http://fasteda.ru/data/big/1564.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Луковые колечки 6 шт.</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(95 гр., протеин - 5 гр.).</description>
+			</offer>
+			<offer id="12514" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>268</categoryId>
+				<picture>http://fasteda.ru/data/big/12514.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель Деревенский станд.</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>Известный всем вкус деревенской картошки – в золотистых горячих ломтиках.</description>
+			</offer>
+			<offer id="1565" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>269</categoryId>
+				<picture>http://fasteda.ru/data/big/1565.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь с курицей</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(220 гр., протеин - 15 гр.).</description>
+			</offer>
+			<offer id="1566" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>145</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>269</categoryId>
+				<picture>http://fasteda.ru/data/big/1566.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кинг Салат</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(127 гр., протеин - 2 гр.).</description>
+			</offer>
+			<offer id="1574" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>269</categoryId>
+				<picture>http://fasteda.ru/data/big/1574.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат-микс</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(69 гр., протеин - 1 гр.).</description>
+			</offer>
+			<offer id="1568" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>270</categoryId>
+				<picture>http://fasteda.ru/data/big/1568.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ванильный Шейк мал</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>300 гр.</description>
+			</offer>
+			<offer id="1569" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>270</categoryId>
+				<picture>http://fasteda.ru/data/big/1569.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Клубничный Шейк мал</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>300 гр.</description>
+			</offer>
+			<offer id="1570" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>270</categoryId>
+				<picture>http://fasteda.ru/data/big/1570.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадный Шейк мал</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>300 гр.</description>
+			</offer>
+			<offer id="1571" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>270</categoryId>
+				<picture>http://fasteda.ru/data/big/1571.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сандей Клубничный (мороженое)</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="1572" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>270</categoryId>
+				<picture>http://fasteda.ru/data/big/1572.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячий Брауни</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(100 гр., протеин - 5 гр.).</description>
+			</offer>
+			<offer id="1573" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>270</categoryId>
+				<picture>http://fasteda.ru/data/big/1573.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячий Брауни с мороженым</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(150 гр., протеин - 7 гр.).</description>
+			</offer>
+			<offer id="3218" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/3218.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепси станд. 0,5 л</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(400 мл).</description>
+			</offer>
+			<offer id="3222" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/3222.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спрайт станд. 0,5 л</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(400 мл).</description>
+			</offer>
+			<offer id="3224" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/3224.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фанта станд. 0,5 л</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(400 мл).</description>
+			</offer>
+			<offer id="1575" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/1575.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кофе черный</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="1576" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/1576.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Каппучино</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="1577" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/1577.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Латте</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="1579" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/1579.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола в банке</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(0,33 гр.).</description>
+			</offer>
+			<offer id="1580" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/1580.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола мал. 0,5 л</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(0,5 л).</description>
+			</offer>
+			<offer id="1581" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/1581.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола станд. 1 л</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(1 л).</description>
+			</offer>
+			<offer id="1582" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>271</categoryId>
+				<picture>http://fasteda.ru/data/big/1582.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола бол. 2 л</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>(2 л).</description>
+			</offer>
+			<offer id="3200" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>494</categoryId>
+				<picture>http://fasteda.ru/data/big/3200.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3201" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>494</categoryId>
+				<picture>http://fasteda.ru/data/big/3201.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Майонез</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3202" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>494</categoryId>
+				<picture>http://fasteda.ru/data/big/3202.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус кисло-сладкий</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3203" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>494</categoryId>
+				<picture>http://fasteda.ru/data/big/3203.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус барбекью</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3204" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>494</categoryId>
+				<picture>http://fasteda.ru/data/big/3204.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус карри</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3205" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>25</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>494</categoryId>
+				<picture>http://fasteda.ru/data/big/3205.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус бальзамик</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="3206" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>494</categoryId>
+				<picture>http://fasteda.ru/data/big/3206.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус йогурт</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3207" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>494</categoryId>
+				<picture>http://fasteda.ru/data/big/3207.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус пряные травы</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3208" available="true">
+				<url>http://fasteda.ru/menu/bk/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>494</categoryId>
+				<picture>http://fasteda.ru/data/big/3208.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус сырный</name>
+				<vendor>Доставка Burger King   Бургер Кинг</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

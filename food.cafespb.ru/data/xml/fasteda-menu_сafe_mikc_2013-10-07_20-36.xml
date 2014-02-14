@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1564">Салаты</category>
+			<category id="1563">Бургеры</category>
+			<category id="1562">Рулле</category>
+			<category id="1565">Багеты</category>
+			<category id="1569">Снэки</category>
+			<category id="1575">Комбо-наборы</category>
+			<category id="1929">Супы</category>
+			<category id="1621">Булочки</category>
+			<category id="1571">Соусы</category>
+			<category id="1574">Пирожные</category>
+			<category id="2112">Кофе Julius Meinl</category>
+			<category id="2111">Чай Julius Meinl</category>
+			<category id="1627">Лимонады</category>
+			<category id="1622">Соки Rich</category>
+			<category id="1955">Морсы</category>
+		</categories>
+		<offers>
+			<offer id="8664" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8664.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощной</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Листья салата, помидоры Черри,  огурцы свежие, перец болгарский, соус.</description>
+			</offer>
+			<offer id="8665" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8665.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Оливье</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Картофель, ветчина, зеленый горошек, маринованные огурцы, свежие огурцы, яйцо, майонез.</description>
+			</offer>
+			<offer id="8666" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8666.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь с курицей</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Листья салата, куриное филе гриль, сыр Пармезан, помидоры Черри, гренки, соус.</description>
+			</offer>
+			<offer id="8667" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8667.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь с креветками</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Листья салата, помидоры Черри, креветки, сыр Пармезан, гренки, соус.</description>
+			</offer>
+			<offer id="8668" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8668.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Греческий </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Листья салата, огурцы свежие, помидоры Черри, перец болгарский, сыр Фета, маслины, соус.</description>
+			</offer>
+			<offer id="8669" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8669.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Миланский</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Филе тунца, яйцо, помидоры Черри, огурцы свежие, листья салата, соус.</description>
+			</offer>
+			<offer id="8672" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8672.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Римский </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Куриное филе гриль, помидоры Черри, огурцы маринованные, сыр, картофель, жульен из шампиньонов, яйцо, соус.</description>
+			</offer>
+			<offer id="8671" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8671.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Фитнес</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Куриное филе гриль, листья салата, помидоры Черри, болгарский перец, горчично-апельсиновая заправка.</description>
+			</offer>
+			<offer id="8673" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8673.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Венгерский теплый</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Мясная начинка, яйцо, красный лук, помидоры Черри, огурцы маринованные, перец болгарский, листья салата, соус.</description>
+			</offer>
+			<offer id="8674" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1564</categoryId>
+				<picture>http://fasteda.ru/data/big/8674.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мюнхен </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Куриное филе гриль, сыр, яйцо, помидоры Черри, огурцы свежие, огурцы маринованные, листья салата, перец болгарский, соус.</description>
+			</offer>
+			<offer id="8644" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1563</categoryId>
+				<picture>http://fasteda.ru/data/big/8644.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Итальяно бургер</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Куриная котлета, сыр, помидор, салат Айсберг, соус итальянский.</description>
+			</offer>
+			<offer id="8645" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1563</categoryId>
+				<picture>http://fasteda.ru/data/big/8645.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мини Итальяно</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Котлета куриная, салат Айсберг, соус итальянский.</description>
+			</offer>
+			<offer id="8648" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1563</categoryId>
+				<picture>http://fasteda.ru/data/big/8648.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Миксбургер</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Курица гриль, сыр, помидор, свежие огурцы, салат Айсберг, сливочный соус /соус кетчуп.</description>
+			</offer>
+			<offer id="8646" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1563</categoryId>
+				<picture>http://fasteda.ru/data/big/8646.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бургер Чикаго</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Котлета говяжья, сыр, красный лук, салат Айсберг, соус барбекю.</description>
+			</offer>
+			<offer id="8647" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1563</categoryId>
+				<picture>http://fasteda.ru/data/big/8647.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мини бургер</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Котлета говяжья, сыр, салат Айсберг, огурцы маринованные, соус Чили.</description>
+			</offer>
+			<offer id="8638" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1562</categoryId>
+				<picture>http://fasteda.ru/data/big/8638.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рулле Восточный</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Курица гриль, салат Айсберг, помидоры, сыр, соус сливочный.</description>
+			</offer>
+			<offer id="8639" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1562</categoryId>
+				<picture>http://fasteda.ru/data/big/8639.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рулле Техас </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Котлета говяжья, сыр, помидоры, салат Айсберг, соус Чили.</description>
+			</offer>
+			<offer id="8642" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1562</categoryId>
+				<picture>http://fasteda.ru/data/big/8642.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рулле Баварский</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Мясная начинка, сыр, салат Айсберг, помидоры, соус кетчуп.</description>
+			</offer>
+			<offer id="8640" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1562</categoryId>
+				<picture>http://fasteda.ru/data/big/8640.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рулле Поло</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Котлета куриная, сыр, грибной жульен, огурцы маринованные, соус сливочный.</description>
+			</offer>
+			<offer id="8641" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1562</categoryId>
+				<picture>http://fasteda.ru/data/big/8641.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хот Рулле</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Сыр, ветчина, салями, помидоры, маринованные огурцы, перец халапеньо, салат Айсберг, соус итальянский.</description>
+			</offer>
+			<offer id="8676" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1565</categoryId>
+				<picture>http://fasteda.ru/data/big/8676.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Багет Лион</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Ветчина, сыр, помидоры, салат Айсберг, кетчуп.</description>
+			</offer>
+			<offer id="8678" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1565</categoryId>
+				<picture>http://fasteda.ru/data/big/8678.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Багет Марсель</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Филе тунца, салат Айсберг, сыр, маринованные огурцы, соус.</description>
+			</offer>
+			<offer id="8677" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1565</categoryId>
+				<picture>http://fasteda.ru/data/big/8677.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Багет Орлеан</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Сыр, помидоры, куриное филе, салат Айсберг, соус.</description>
+			</offer>
+			<offer id="8685" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1569</categoryId>
+				<picture>http://fasteda.ru/data/big/8685.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель Фри</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8686" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1569</categoryId>
+				<picture>http://fasteda.ru/data/big/8686.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель по-деревенски</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8689" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1569</categoryId>
+				<picture>http://fasteda.ru/data/big/8689.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикенсы Стандарт  4 шт</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8688" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1569</categoryId>
+				<picture>http://fasteda.ru/data/big/8688.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикенсы Дабл 8 шт</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8690" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1569</categoryId>
+				<picture>http://fasteda.ru/data/big/8690.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крылья Гриль Стандарт</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8691" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1569</categoryId>
+				<picture>http://fasteda.ru/data/big/8691.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крылья Гриль Дабл </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8692" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1569</categoryId>
+				<picture>http://fasteda.ru/data/big/8692.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гренки</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>с чесноком и сыром.</description>
+			</offer>
+			<offer id="8852" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1575</categoryId>
+				<picture>http://fasteda.ru/data/big/8852.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №1 </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Восточный Рулле, картофель фри, Coca-Cola 0,4 л.</description>
+			</offer>
+			<offer id="8853" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1575</categoryId>
+				<picture>http://fasteda.ru/data/big/8853.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №2</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Салат Оливье, суп куриный / томатный суп с мясом, французская булочка, чай.</description>
+			</offer>
+			<offer id="8854" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1575</categoryId>
+				<picture>http://fasteda.ru/data/big/8854.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №3</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Итальяно бургер, картофель фри, Coca-Cola 0,4 л
+.</description>
+			</offer>
+			<offer id="8855" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1575</categoryId>
+				<picture>http://fasteda.ru/data/big/8855.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №4</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Суп грибной, багет Лион, чай.</description>
+			</offer>
+			<offer id="8856" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1575</categoryId>
+				<picture>http://fasteda.ru/data/big/8856.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №5</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Бургер Мини итальяно, Coca-Cola 
+0,4 л.</description>
+			</offer>
+			<offer id="8857" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1575</categoryId>
+				<picture>http://fasteda.ru/data/big/8857.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №6</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Суп куриный / суп грибной, салат Овощной, чай.</description>
+			</offer>
+			<offer id="9101" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1575</categoryId>
+				<picture>http://fasteda.ru/data/big/9101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Завтрак №1</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Каша овсяная, французская булочка, Американо / чай.</description>
+			</offer>
+			<offer id="9102" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1575</categoryId>
+				<picture>http://fasteda.ru/data/big/9102.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Завтрак №2</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Оладьи со сметаной / с джемом, Американо / чай.</description>
+			</offer>
+			<offer id="9103" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1575</categoryId>
+				<picture>http://fasteda.ru/data/big/9103.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Завтрак №3</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>Омлет с беконом / с сыром, французская булочка, Американо / чай.</description>
+			</offer>
+			<offer id="11271" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1929</categoryId>
+				<picture>http://fasteda.ru/data/big/11271.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Окрошка</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8679" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1929</categoryId>
+				<picture>http://fasteda.ru/data/big/8679.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп куриный</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8680" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1929</categoryId>
+				<picture>http://fasteda.ru/data/big/8680.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп грибной</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8681" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1929</categoryId>
+				<picture>http://fasteda.ru/data/big/8681.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп томатный с мясом </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8683" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>15</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1621</categoryId>
+				<picture>http://fasteda.ru/data/big/8683.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Булочка французская</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8684" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>15</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1621</categoryId>
+				<picture>http://fasteda.ru/data/big/8684.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Булочка пражская </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8700" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1571</categoryId>
+				<picture>http://fasteda.ru/data/big/8700.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чесночный</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8701" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1571</categoryId>
+				<picture>http://fasteda.ru/data/big/8701.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сырный</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8702" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1571</categoryId>
+				<picture>http://fasteda.ru/data/big/8702.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8703" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1571</categoryId>
+				<picture>http://fasteda.ru/data/big/8703.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кисло-сладкий</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11179" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1574</categoryId>
+				<picture>http://fasteda.ru/data/big/11179.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чизкейк карамельный</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8841" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1574</categoryId>
+				<picture>http://fasteda.ru/data/big/8841.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирог бруснично-кремовый</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8843" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1574</categoryId>
+				<picture>http://fasteda.ru/data/big/8843.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Эклер шоколадный</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8844" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1574</categoryId>
+				<picture>http://fasteda.ru/data/big/8844.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Эклер</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8845" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1574</categoryId>
+				<picture>http://fasteda.ru/data/big/8845.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тираммису Маскарпоне</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8846" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1574</categoryId>
+				<picture>http://fasteda.ru/data/big/8846.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чизкейк Нью-Йорк</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8851" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1574</categoryId>
+				<picture>http://fasteda.ru/data/big/8851.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Торт двойной шоколад</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8858" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2112</categoryId>
+				<picture>http://fasteda.ru/data/big/8858.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Эспрессо</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8859" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2112</categoryId>
+				<picture>http://fasteda.ru/data/big/8859.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Американо </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8861" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2112</categoryId>
+				<picture>http://fasteda.ru/data/big/8861.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Капучино</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8862" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>105</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2112</categoryId>
+				<picture>http://fasteda.ru/data/big/8862.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Латте классический </name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8863" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2112</categoryId>
+				<picture>http://fasteda.ru/data/big/8863.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Латте карамельный</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8874" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2111</categoryId>
+				<picture>http://fasteda.ru/data/big/8874.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чай (пакетированный в ассортименте)</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>В ассортименте: Черный, черный с бергамотом, зеленый, зеленый с жасмином, фруктовый.</description>
+			</offer>
+			<offer id="9104" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1627</categoryId>
+				<picture>http://fasteda.ru/data/big/9104.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Coca-Cola 0,4 л</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9105" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1627</categoryId>
+				<picture>http://fasteda.ru/data/big/9105.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Sprite 0,4 л</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9106" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1627</categoryId>
+				<picture>http://fasteda.ru/data/big/9106.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Coca-Cola в бутылке 0,25 л</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9107" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1627</categoryId>
+				<picture>http://fasteda.ru/data/big/9107.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>BonAqua в бутылке 0,5 л газ</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8877" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1622</categoryId>
+				<picture>http://fasteda.ru/data/big/8877.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок апельсиновый 0,2 л</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8878" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1622</categoryId>
+				<picture>http://fasteda.ru/data/big/8878.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок яблочный 0,2 л</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8879" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1622</categoryId>
+				<picture>http://fasteda.ru/data/big/8879.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок томатный 0,2 л</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11593" available="true">
+				<url>http://fasteda.ru/menu/сafe_mikc/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1955</categoryId>
+				<picture>http://fasteda.ru/data/big/11593.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Морс клюквенный 0,5 л</name>
+				<vendor>Кафе Miкc</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

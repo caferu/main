@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="365">Пиццы с беконом и ветчиной</category>
+			<category id="363">Мясные пиццы</category>
+			<category id="364">Овощные и сырные пиццы</category>
+			<category id="367">Пиццы с салями, пепперони, охотничьими колбасками</category>
+			<category id="369">Пицца с рыбой</category>
+			<category id="362">Десертные пиццы</category>
+			<category id="454">Горячие блюда</category>
+			<category id="488">Пасты</category>
+			<category id="375">Салаты</category>
+			<category id="371">Кальцоне и фокачиа</category>
+			<category id="377">Супы</category>
+			<category id="373">Пивное меню</category>
+			<category id="389">Гарниры</category>
+			<category id="379">Соусы</category>
+			<category id="413">Напитки</category>
+			<category id="391">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="2518" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>365</categoryId>
+				<picture>http://fasteda.ru/data/big/2518.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Карбонара ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Бекон, сыр, желток, сыр мимолетте, протёртые томаты, орегано. 40 см, 580 гр.</description>
+			</offer>
+			<offer id="4103" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>455</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>365</categoryId>
+				<picture>http://fasteda.ru/data/big/4103.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Пицца «Дерёвня» ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>бекон, сыр, шампиньоны, сметана, картофель, зелень.
+685 гр.</description>
+			</offer>
+			<offer id="2519" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>365</categoryId>
+				<picture>http://fasteda.ru/data/big/2519.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Ривьера ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Ветчина, помидор, цуккини, сыр, протёртые томаты, орегано. 4о см, 600 гр.</description>
+			</offer>
+			<offer id="2520" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>365</categoryId>
+				<picture>http://fasteda.ru/data/big/2520.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Грека ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Бекон, шампиньоны,  маслины, сыр, брынза, лук, оливковое масло,        чесночное масло, орегано. 40 см, 600 гр.</description>
+			</offer>
+			<offer id="2521" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>365</categoryId>
+				<picture>http://fasteda.ru/data/big/2521.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Прошутта-Фунги  ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Ветчина, шампиньоны,протёртые томаты, сыр, орегано. 40 см, 600 гр.</description>
+			</offer>
+			<offer id="2522" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>365</categoryId>
+				<picture>http://fasteda.ru/data/big/2522.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Франчеза ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Ветчина,шампиньоны, сыр, лук, брынза, майонез, протёртые томаты, орегано. 40 см, 660 гр.</description>
+			</offer>
+			<offer id="2523" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>525</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>365</categoryId>
+				<picture>http://fasteda.ru/data/big/2523.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Охотничья  ∅ 40  см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Бекон, кура, колбаски охотничьи, сыр, протёртые томаты, горчица, орегано. 40 см, 660 гр.</description>
+			</offer>
+			<offer id="4098" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>385</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>363</categoryId>
+				<picture>http://fasteda.ru/data/big/4098.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Пицца BBQ ∅ 30 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>куриное филе, бекон, шампиньоны, сыр, соус BBQ, соевый соус, лук, зелень
+
+30 см. 520 гр..</description>
+			</offer>
+			<offer id="4099" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>345</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>363</categoryId>
+				<picture>http://fasteda.ru/data/big/4099.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Пицца «Цезарь» ∅ 30 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>куриное филе, бекон, салат Айсберг, сыр, соус Цезарь, томаты, зелень
+
+30 см. 500 гр..</description>
+			</offer>
+			<offer id="4101" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>363</categoryId>
+				<picture>http://fasteda.ru/data/big/4101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Пицца «Джаконда» ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>куриное филе, бекон, сыр, ананасы,мёд,помидор,паприка,протёртые томаты,соус тобаско.
+750 гр.</description>
+			</offer>
+			<offer id="2509" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>363</categoryId>
+				<picture>http://fasteda.ru/data/big/2509.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Пицца с говядиной DeL Toro= ∅ 30 см </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>говядина филе,корнишон,лук репчатый,паприка,сыр,майонез,протёртые томаты,зелень, чеснок. 30 см, 480 гр.</description>
+			</offer>
+			<offer id="2510" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>363</categoryId>
+				<picture>http://fasteda.ru/data/big/2510.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Афумикато Полло  ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Копченая кура, паприка, цуккини, шампиньоны, сыр, чесночный соус,орегано. 40 см, 660 гр.</description>
+			</offer>
+			<offer id="2511" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>535</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>363</categoryId>
+				<picture>http://fasteda.ru/data/big/2511.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Фантазия  ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Куриное филе, ветчина, сыр,протёртые томаты, шампиньоны, паприка, орегано. 40 см, 650 гр.</description>
+			</offer>
+			<offer id="2512" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>525</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>363</categoryId>
+				<picture>http://fasteda.ru/data/big/2512.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Песто-полло  ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Куриное филе, шампиньоны, соус песто, сыр , сыр дор блю, орегано. 40 см, 590 гр.</description>
+			</offer>
+			<offer id="2513" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>363</categoryId>
+				<picture>http://fasteda.ru/data/big/2513.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name> Полло  ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Куриное филе, корнишоны, лук, паприка, протёртые томаты, майонез, сыр, орегано. 40 см, 690 гр.</description>
+			</offer>
+			<offer id="2514" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>364</categoryId>
+				<picture>http://fasteda.ru/data/big/2514.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Помидоро-Толли  ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Помидор,оливковое масло,чеснок,протёртые томаты,сыр,зелень,орегано - 40 см, 640 гр.</description>
+			</offer>
+			<offer id="2515" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>415</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>364</categoryId>
+				<picture>http://fasteda.ru/data/big/2515.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Веджетериана ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>шампиньоны, цуккини, помидор, паприка, лук,оливки,маслины,протёртые томаты - 40 см, 640 гр.</description>
+			</offer>
+			<offer id="2516" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>364</categoryId>
+				<picture>http://fasteda.ru/data/big/2516.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Кватро формаджио  ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Сыры эмменталер, дор блю, пармезан, рокишкио, протёртые томаты, орегано -40 см, 580 гр.</description>
+			</offer>
+			<offer id="2517" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>364</categoryId>
+				<picture>http://fasteda.ru/data/big/2517.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Маргарита  ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Протёртые томаты, сыр - 40 см, 510 гр.</description>
+			</offer>
+			<offer id="2524" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>http://fasteda.ru/data/big/2524.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Немецкая ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Пепперони, колбаски охотничьи,сыр, шампиньоны, мимолетте, паприка, протёртые томаты, горчица - 40 см, 640 гр.</description>
+			</offer>
+			<offer id="2525" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>http://fasteda.ru/data/big/2525.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Нью-Йорк (острая) ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Салями, охотничьи, сыр, шампиньоны, паприка, лук , табаско,             протёртые томаты, орегано - 40 см, 640 гр.</description>
+			</offer>
+			<offer id="2543" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>http://fasteda.ru/data/big/2543.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Супер Стрит  ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Пепперони,протёртые томаты, маслины, сыр, шампиньоны, ветчина, салями, оливки, паприка, орегано - 40 см, 710 гр.</description>
+			</offer>
+			<offer id="2545" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>http://fasteda.ru/data/big/2545.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Стрит ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Пепперони,протёртые томаты, маслины, сыр, паприка, орегано - 40 см, 600 гр.</description>
+			</offer>
+			<offer id="2547" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>495</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>http://fasteda.ru/data/big/2547.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Четыре сеньора ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Пепперони,ветчина,бекон,колбаски охотничьи,протёртые томаты,сыр,орегано - 40 см, 600 гр.</description>
+			</offer>
+			<offer id="2549" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>367</categoryId>
+				<picture>http://fasteda.ru/data/big/2549.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Салями ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Салями,протёртые томаты, сыр, орегано - 40 см, 540 гр.</description>
+			</offer>
+			<offer id="2551" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>695</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>369</categoryId>
+				<picture>http://fasteda.ru/data/big/2551.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Океаника ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Морской коктейль, лосось шеф посола, протёртые томаты,сыр,помидоры, орегано. 40 см, 680 гр.</description>
+			</offer>
+			<offer id="2553" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>369</categoryId>
+				<picture>http://fasteda.ru/data/big/2553.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Сальмоне ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Лосось шеф посола, сыр, оливки, лимон, лук, сметана, зелень. 40 см, 660 гр.</description>
+			</offer>
+			<offer id="2506" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>362</categoryId>
+				<picture>http://fasteda.ru/data/big/2506.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>«Ди меле» ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Яблоко, мёд, корица. 40 см  420 гр.</description>
+			</offer>
+			<offer id="2508" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>345</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>362</categoryId>
+				<picture>http://fasteda.ru/data/big/2508.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>«Дольче вита» ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Сметана, фруктовый сироп, бананы, ананасы, яблоки, персики, корица. 40 см, 680 гр.</description>
+			</offer>
+			<offer id="4105" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/4105.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Свинина с ананасами</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>свинина шея, ананас, сыр, черри маринованные.
+130 гр.</description>
+			</offer>
+			<offer id="4106" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/4106.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Судак по-польски</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>филе судака, картофельное пюре, яйцо, зелень.
+200 гр.</description>
+			</offer>
+			<offer id="2600" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2600.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Свинина запечённая с кольцами помидоров под сырной шапкой </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Свинина шея, помидор, специи, сыр. 135 гр .</description>
+			</offer>
+			<offer id="2601" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2601.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Медальоны &lt;&lt;Фламбе&gt;&gt; с грибным соусом</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Филе свинины, грибы, сливки, коньяк. 200 гр.</description>
+			</offer>
+			<offer id="2602" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2602.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Свинина  по-французски</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Cвинина шея, сыр, майонез, лук. 130 гр.</description>
+			</offer>
+			<offer id="2603" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2603.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Хрюшка в сухариках </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Свинина, сухари пшеничные, яйцо. 145 гр.</description>
+			</offer>
+			<offer id="2604" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2604.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Безшампурный шашлык из свинины,с луком и помидорами </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Свинина, лук, помидоры,чеснок,зелень, кетчуп. 200/150/30 гр.</description>
+			</offer>
+			<offer id="2605" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>215</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2605.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Свиной ломоть</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Свинина, специи, чесночное масло. 130/20/30 гр.</description>
+			</offer>
+			<offer id="2606" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2606.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Свинина по-дворянски</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Свинина, ветчина, шампиньоны, сыр. 130 гр.</description>
+			</offer>
+			<offer id="2607" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>305</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2607.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Бефстроганов с грибами</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Филе говядины, сливки , шампиньоны, лук, корнишоны, протёртые томаты. 200 гр.</description>
+			</offer>
+			<offer id="2608" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2608.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Куриная грудка с песто </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Филе куры, соус песто, томаты черри. 130/30 гр .</description>
+			</offer>
+			<offer id="2609" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2609.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Куриное филе запечённое </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Филе куры, помидоры, сыр. 125 гр.</description>
+			</offer>
+			<offer id="2610" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>205</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2610.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Куриное филе в сливочном соусе</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Филе куры, шампиньоны, паприка, сливки, цуккини, зелень. 200 гр.</description>
+			</offer>
+			<offer id="2611" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2611.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Лосось Фарфале</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Филе лосося, соус песто, лимон, зелень. 130/10 гр.</description>
+			</offer>
+			<offer id="2612" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>454</categoryId>
+				<picture>http://fasteda.ru/data/big/2612.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Лосось припущенный </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Филе лосося, лимон , специи, зелень. 120/10гр.</description>
+			</offer>
+			<offer id="3137" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3137.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Сливочно-копчёная паста</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Таглиотелли, ветчина, бекон, колбаски охотничьи, сливки, специи. (310 гр).</description>
+			</offer>
+			<offer id="3138" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3138.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Паста Стрит</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Спагетти, сыр Дор-блю, вино белое, сливки. (250 гр).</description>
+			</offer>
+			<offer id="3139" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>235</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3139.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name> Паста Ди Сальмоне</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Таглиотелли, лосось, сливки, водка, лимон. (300 гр).</description>
+			</offer>
+			<offer id="3140" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3140.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Паста Сливочно-грибная с говядиной </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Филе говядины, таглиотелли, паприка, грибы, пармезан, сливки, чеснок, зелень. (290 гр).</description>
+			</offer>
+			<offer id="3141" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3141.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Паста Каронара</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Спагетти, сливки , желток, лук репчатый, бекон, пармезан. (310 гр).</description>
+			</offer>
+			<offer id="3142" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>155</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3142.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Паста Неопалитана</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description> Спагетти, помидоры , лук репчатый, протёртые томаты, пармезан. (310 гр).</description>
+			</offer>
+			<offer id="3143" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3143.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name> Паста Прошутто-фунги</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Спагетти, ветчина, шампиньоны, протёртые томаты, сливки. (310 гр).</description>
+			</offer>
+			<offer id="3144" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3144.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Паста Фунги</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Таглиотелли, чеснок, сливки, шампиньоны, зелень, чеснок. (310 гр).</description>
+			</offer>
+			<offer id="3145" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3145.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Паста Амотричана</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Спагетти, бекон, помидоры, лук репчатый, протёртые томаты. (320 гр).</description>
+			</offer>
+			<offer id="3146" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3146.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Паста Примавера</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Таглиотелли, паприка, цуккини, шампиньоны, сливки, зелень. (320 гр).</description>
+			</offer>
+			<offer id="3147" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3147.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Паста Маринара</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Спагетти, сливки, морепродукты,оливковое масло, соевый соус, лук. (300 гр).</description>
+			</offer>
+			<offer id="3148" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>488</categoryId>
+				<picture>http://fasteda.ru/data/big/3148.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Ракушки обжаренные с сыром и орегано</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Ракушки, сыр, специи. (220 гр).</description>
+			</offer>
+			<offer id="2572" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2572.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Цезарь Стрит </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Кура филе,салат Айсберг,бекон,томаты черри, соус Цезарь,гренки. 210 гр.</description>
+			</offer>
+			<offer id="2573" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2573.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Сытный сырноветчинный салат с жареными шампиньонами  </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Сыр, огурец, ветчина, майонез, шампиньоны, паприка, яйцо. 190 гр.</description>
+			</offer>
+			<offer id="2574" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>145</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2574.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Салат с лососем в собственном соку и  молодым картофелем </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Лосось консервированный, картофель, морковь,лук,майонез,яйцо,печёный хлебушек. 170/20 гр.</description>
+			</offer>
+			<offer id="2575" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2575.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Пикантный салат</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Помидоры, огурцы, сыр мимолетте, филе куры, марин. шампиньоны, зелень,майонез. 180 гр.</description>
+			</offer>
+			<offer id="2576" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2576.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Сельдь под шубой</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Сельдь, картофель, свекла, лук, яйцо, майонез. 200гр.</description>
+			</offer>
+			<offer id="2577" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2577.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Куринный салат</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Куриное филе, соевый соус, яйцо, помидоры, салат Айсберг, зелень,майонез. 200 гр.</description>
+			</offer>
+			<offer id="2578" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2578.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Салат Оливье</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Картофель, ветчина, морковь, корнишоны, зелёный горошек, яйцо, зелень, майонез. 180 гр.</description>
+			</offer>
+			<offer id="2579" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>145</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2579.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Салат Стрит</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Ветчина, помидоры, яйцо, огурцы, корнишоны, зелень , салат Айсберг, майонез. 160 гр.</description>
+			</offer>
+			<offer id="2580" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2580.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Салат Каприз</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Ветчина, кура, маринованные шампиньоны, корнишоны, яйцо, зелень, майонез. 165 гр.</description>
+			</offer>
+			<offer id="2581" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2581.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Салат с языком</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Говяжий язык, картофель, корнишоны, шампиньоны, горчица,  яйцо, майонез. 160 гр.</description>
+			</offer>
+			<offer id="2582" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>375</categoryId>
+				<picture>http://fasteda.ru/data/big/2582.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Греческий салат</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Брынза, салат Айсберг, помидоры, огурцы, паприка, масло оливковое, маслины, лук. 180 гр.</description>
+			</offer>
+			<offer id="2555" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>371</categoryId>
+				<picture>http://fasteda.ru/data/big/2555.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Аль-Капоне</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Пепперони, ветчина,сыр, шампиньоны, соус песто. 400 гр.</description>
+			</offer>
+			<offer id="2557" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>371</categoryId>
+				<picture>http://fasteda.ru/data/big/2557.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Фокачиа с чесноком  220гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>220 гр.</description>
+			</offer>
+			<offer id="2558" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>371</categoryId>
+				<picture>http://fasteda.ru/data/big/2558.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Фокачиа с песто 220гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2583" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>145</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>377</categoryId>
+				<picture>http://fasteda.ru/data/big/2583.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Бульон куриный с лапшой  </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Бульон куриный, морковь, куриное филе, таглиотелли, зелень. 310 гр.</description>
+			</offer>
+			<offer id="2584" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>155</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>377</categoryId>
+				<picture>http://fasteda.ru/data/big/2584.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Сливочный суп  из  свежих грибов </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Бульон куриный, шампиньоны, сливки, морковь, специи, зелень. 270 гр.</description>
+			</offer>
+			<offer id="2585" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>377</categoryId>
+				<picture>http://fasteda.ru/data/big/2585.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Плато дель мар</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Морской коктейль, сливки, протертые томаты, белое вино, зелень. 200 гр.</description>
+			</offer>
+			<offer id="2586" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>377</categoryId>
+				<picture>http://fasteda.ru/data/big/2586.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Суп-пюре  томатный</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Бульон куриный, протёртые томаты, чеснок, пармезан, специи. 250 гр .</description>
+			</offer>
+			<offer id="2587" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>377</categoryId>
+				<picture>http://fasteda.ru/data/big/2587.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Супчик  &lt;&lt;Четыре-сеньора&gt;&gt;</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Копчености, куриное филе, сметана, лимон. 300/30 гр.</description>
+			</offer>
+			<offer id="2570" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2570.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Пицца Пивная ∅ 30 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Сыр, бекон, охотничьи колбаски,                         чесночное масло. 30 см, 380 гр.</description>
+			</offer>
+			<offer id="2571" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2571.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Пицца Супер Пивная ∅ 40 см</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Сыр, ветчина, бекон, охотничьи колбаски, лук, пармезан, чесночное масло. 40 см, 650 гр.</description>
+			</offer>
+			<offer id="2559" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2559.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Перчики халапеньо фаршированные моцареллой с сырным соусом 150/40гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>150/40 гр.</description>
+			</offer>
+			<offer id="2560" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2560.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Луковые кольца фри с сырным соусом 150/40гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2561" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2561.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Тонконарезанные Нежные копчёные свиные ушки  100гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="2562" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2562.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Копчёный жареный сыр с коньячным соусом 85/40гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>85/40 гр.</description>
+			</offer>
+			<offer id="2563" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2563.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Румянопрожаренные Охотные колбаски с  чесночным соусом 140/50гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>140/50гр.</description>
+			</offer>
+			<offer id="2564" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>715</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2564.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Свиная рулька Айсбан   с картофелем Айдахо  450/200/30гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>450/200/30гр.</description>
+			</offer>
+			<offer id="2565" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2565.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Картофель Фри с Охотничьими  колбасками и сырным соусом 130/50гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>130/50гр.</description>
+			</offer>
+			<offer id="2566" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2566.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Подпечённые свиные рёбрышки 170/50/30гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>170/50/30гр.</description>
+			</offer>
+			<offer id="2567" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2567.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Румяные куриные крылышки, в меру острые, с хрустящей корочкой 200/40гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>200/40гр.</description>
+			</offer>
+			<offer id="2568" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2568.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Креветки отварные норвежские                           с соусом Род Айленд 200/40/10 гр</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>200/40/10 гр.</description>
+			</offer>
+			<offer id="2569" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>373</categoryId>
+				<picture>http://fasteda.ru/data/big/2569.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Сырные пальчики \</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>120гр.</description>
+			</offer>
+			<offer id="2613" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>389</categoryId>
+				<picture>http://fasteda.ru/data/big/2613.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Овощи гриль</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Цуккини, паприка, шампиньоны, лук красный. 100 гр.</description>
+			</offer>
+			<offer id="2614" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>389</categoryId>
+				<picture>http://fasteda.ru/data/big/2614.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Картофель по-деревенски</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="2615" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>389</categoryId>
+				<picture>http://fasteda.ru/data/big/2615.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Золотистый рис </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>120 гр.</description>
+			</offer>
+			<offer id="2616" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>389</categoryId>
+				<picture>http://fasteda.ru/data/big/2616.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2617" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>389</categoryId>
+				<picture>http://fasteda.ru/data/big/2617.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Спагетти</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="2588" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2588.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name> Род Айленд </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Майонез, кетчуп,                   коньяк. 40 гр.</description>
+			</offer>
+			<offer id="2589" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2589.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Тар-тар</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Корнишон, майонез, лук, зелень. 40 гр.</description>
+			</offer>
+			<offer id="2590" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2590.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Стрит</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Сыр дор блю, сливки, петрушка. 40 гр.</description>
+			</offer>
+			<offer id="2591" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2591.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Мутти</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Протёртые томаты, оливковое масло, чеснок, базилик. 40 гр.</description>
+			</offer>
+			<offer id="2592" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2592.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Сырный </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>40 гр.</description>
+			</offer>
+			<offer id="2593" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2593.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Сметана</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>40 гр.</description>
+			</offer>
+			<offer id="2594" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2594.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>40гр.</description>
+			</offer>
+			<offer id="2595" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2595.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Майонез</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>40 гр.</description>
+			</offer>
+			<offer id="2596" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2596.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Чесночный</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>40 гр.</description>
+			</offer>
+			<offer id="2597" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2597.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Табаско</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>10 мл.</description>
+			</offer>
+			<offer id="2598" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2598.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Горчица</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>20 гр.</description>
+			</offer>
+			<offer id="2599" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>379</categoryId>
+				<picture>http://fasteda.ru/data/big/2599.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Хрен</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="4100" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>0</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>413</categoryId>
+				<picture>http://fasteda.ru/data/big/4100.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Пицца «Джаконда»</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2735" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>413</categoryId>
+				<picture>http://fasteda.ru/data/big/2735.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Сок Тропикана 1 л выберите свой вариант</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>Выберите свой вариант!.</description>
+			</offer>
+			<offer id="2744" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>413</categoryId>
+				<picture>http://fasteda.ru/data/big/2744.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Вода Акваминерале негаз. 0,6 л</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2745" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>413</categoryId>
+				<picture>http://fasteda.ru/data/big/2745.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Вода Акваминерале газ. 0,6 л</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2746" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>413</categoryId>
+				<picture>http://fasteda.ru/data/big/2746.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Pepsi 0,6 л</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2747" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>413</categoryId>
+				<picture>http://fasteda.ru/data/big/2747.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Липтон Айс Ти 0,6 л выберите свой вариант</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2752" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>413</categoryId>
+				<picture>http://fasteda.ru/data/big/2752.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Энергетический напиток Ред Булл 0,25 л</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2753" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>413</categoryId>
+				<picture>http://fasteda.ru/data/big/2753.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Ред Булл Кола 0,25 л</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2754" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>413</categoryId>
+				<picture>http://fasteda.ru/data/big/2754.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Энергетический напиток Адреналин Раш 0,25 л</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4107" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>391</categoryId>
+				<picture>http://fasteda.ru/data/big/4107.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Торт Морковный</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4108" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>391</categoryId>
+				<picture>http://fasteda.ru/data/big/4108.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Бруснично-кремовый пирог с белым шоколадом</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4109" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>391</categoryId>
+				<picture>http://fasteda.ru/data/big/4109.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Тирамису Маскарпоне</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4110" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>385</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>391</categoryId>
+				<picture>http://fasteda.ru/data/big/4110.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Мусс 3 шоколада</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4111" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>391</categoryId>
+				<picture>http://fasteda.ru/data/big/4111.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Карамельно - ореховый пирог</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2618" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>391</categoryId>
+				<picture>http://fasteda.ru/data/big/2618.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Чиз-кейк   Клубничный</name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>100/20/10 гр.</description>
+			</offer>
+			<offer id="2619" available="true">
+				<url>http://fasteda.ru/menu/pizza_bar/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>391</categoryId>
+				<picture>http://fasteda.ru/data/big/2619.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>210</local_delivery_cost>
+				<name>Чиз-кейк  Нью - Йорк </name>
+				<vendor>Пицца-бар Street</vendor>
+				<description>100/20/10 гр.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

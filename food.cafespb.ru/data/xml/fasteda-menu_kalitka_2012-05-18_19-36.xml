@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="500">Холодные закуски</category>
+			<category id="502">Соленья и маринады</category>
+			<category id="504">Салаты</category>
+			<category id="508">Супы</category>
+			<category id="506">Горячие закуски</category>
+			<category id="510">Основные блюда</category>
+			<category id="512">Блюда на углях</category>
+			<category id="519">Соусы на Ваш вкус</category>
+			<category id="516">Дополнения к вашему блюду</category>
+			<category id="521">Свежая выпечка</category>
+			<category id="520">Десерты</category>
+			<category id="576">Блины</category>
+		</categories>
+		<offers>
+			<offer id="3273" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3273.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось слабой соли с  домашним творогом </name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>100/30 гр.</description>
+			</offer>
+			<offer id="3272" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>630</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3272.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рыбная тарелка  нашей коптильни </name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>Лосось, сиг, стерлядь и скумбрия горячего копчения. 200/50 гр.</description>
+			</offer>
+			<offer id="3282" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3282.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти из свежих овощей и зелени</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200/50 гр.</description>
+			</offer>
+			<offer id="3281" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3281.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Буженина  с чёрными груздями в сметане</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150/100 гр.</description>
+			</offer>
+			<offer id="3280" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3280.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паштет деревенский из мяса дичи и печени</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>80/100/50 гр.</description>
+			</offer>
+			<offer id="3279" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3279.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Солонина домашняя с ржаным хлебом и солёным огурцом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>100/100/50/30 гр.</description>
+			</offer>
+			<offer id="3278" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3278.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мяснина домашнего приготовления</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>Телятина с дымком, буженина, утиная грудка, свиная грудинка горячего копчения. (200/50 гр).</description>
+			</offer>
+			<offer id="3277" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3277.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печень трески с перепелиными яйцами</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200/50 гр.</description>
+			</offer>
+			<offer id="3276" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3276.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Миноги маринованные</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3275" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3275.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе сельди с русским соусом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="3274" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>500</categoryId>
+				<picture>http://fasteda.ru/data/big/3274.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Икра сига с маслом и перепелиными яйцами </name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>50/100 гр.</description>
+			</offer>
+			<offer id="3287" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>502</categoryId>
+				<picture>http://fasteda.ru/data/big/3287.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Физалис</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3285" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>502</categoryId>
+				<picture>http://fasteda.ru/data/big/3285.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капуста белокочанная</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="3284" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>502</categoryId>
+				<picture>http://fasteda.ru/data/big/3284.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Огурцы соленые</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="3283" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>502</categoryId>
+				<picture>http://fasteda.ru/data/big/3283.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти домашних солений </name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>Квашеная капуста, огурцы, томаты, чёрные грузди, мочёная брусника. (90/90/90/90/20 гр).</description>
+			</offer>
+			<offer id="3296" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>504</categoryId>
+				<picture>http://fasteda.ru/data/big/3296.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из запеченных овощей с телятиной</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="3295" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>504</categoryId>
+				<picture>http://fasteda.ru/data/big/3295.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат  из копчёной куры с черносливом и домашней заправкой</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="3293" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>504</categoryId>
+				<picture>http://fasteda.ru/data/big/3293.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оливье  по – царски с тремя видами мяса</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="3292" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>504</categoryId>
+				<picture>http://fasteda.ru/data/big/3292.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с утиной грудкой, фруктами и медово-апельсиновым соусом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>220 гр.</description>
+			</offer>
+			<offer id="3291" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>504</categoryId>
+				<picture>http://fasteda.ru/data/big/3291.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из телятины с яблоком и сельдереем</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>100/150 гр.</description>
+			</offer>
+			<offer id="3290" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>504</categoryId>
+				<picture>http://fasteda.ru/data/big/3290.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сельдь под шубой</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="3288" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>504</categoryId>
+				<picture>http://fasteda.ru/data/big/3288.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Винегрет с килькой и ароматным маслом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200/50 гр.</description>
+			</offer>
+			<offer id="3307" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>508</categoryId>
+				<picture>http://fasteda.ru/data/big/3307.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха купеческая с расстегаем рыбным</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>400/60 гр.</description>
+			</offer>
+			<offer id="3306" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>508</categoryId>
+				<picture>http://fasteda.ru/data/big/3306.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Щи  по - вологодски с крошевом и пирожком с грибами</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>400/60 гр.</description>
+			</offer>
+			<offer id="3305" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>508</categoryId>
+				<picture>http://fasteda.ru/data/big/3305.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп с домашней лапшой, уткой и блинчиком с паштетом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>400/60 гр.</description>
+			</offer>
+			<offer id="3304" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>508</categoryId>
+				<picture>http://fasteda.ru/data/big/3304.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ по - стрелецки с пампушкой и смальцем</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>400/60/20 гр.</description>
+			</offer>
+			<offer id="3303" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>508</categoryId>
+				<picture>http://fasteda.ru/data/big/3303.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бульон с фрикадельками  и  пирожком с грибами</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>400/60 гр.</description>
+			</offer>
+			<offer id="3302" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>506</categoryId>
+				<picture>http://fasteda.ru/data/big/3302.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грибы в сметане по - смоленски в ржаном мешочке   </name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150/50 гр.</description>
+			</offer>
+			<offer id="3301" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>506</categoryId>
+				<picture>http://fasteda.ru/data/big/3301.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Дранники со сметаной</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200/80 гр.</description>
+			</offer>
+			<offer id="3300" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>506</categoryId>
+				<picture>http://fasteda.ru/data/big/3300.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины на опаре из ржаной муки</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>5 шт.</description>
+			</offer>
+			<offer id="3299" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>506</categoryId>
+				<picture>http://fasteda.ru/data/big/3299.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени сибирские</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="3298" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>506</categoryId>
+				<picture>http://fasteda.ru/data/big/3298.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печень кролика  с яблоками</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150/20 гр.</description>
+			</offer>
+			<offer id="3297" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>506</categoryId>
+				<picture>http://fasteda.ru/data/big/3297.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Буженина с жареным картофелем и грибами</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>80/150/50 гр.</description>
+			</offer>
+			<offer id="3319" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3319.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кулебяка со свежей капустой и лососем</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>271 гр.</description>
+			</offer>
+			<offer id="3318" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3318.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Телятина, запечённая с овощами </name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>120/277 гр.</description>
+			</offer>
+			<offer id="3317" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3317.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиная грудинка с гречневой кашей, луком и грибами</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150/215 гр.</description>
+			</offer>
+			<offer id="3316" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3316.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цыплёнок табака  с картофелем пай</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>450/144 гр.</description>
+			</offer>
+			<offer id="3315" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3315.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Телятина, жаренная на гриле с мозгами под соусом пьяная вишня</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150/118 гр.</description>
+			</offer>
+			<offer id="3314" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3314.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печень телячья тушёная с пюре и жареным луком</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>180/170 гр.</description>
+			</offer>
+			<offer id="3313" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3313.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе речной форели под миндальным маслом с пюре из батата и помидорным салатом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>190/200 гр.</description>
+			</offer>
+			<offer id="3312" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3312.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Щучьи котлеты   на шпинате с кедровыми орешками  и чесночным соусом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>180/240.</description>
+			</offer>
+			<offer id="3311" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>640</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3311.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жареное филе сига с гратеном  из сельдерея и помидорным салатом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>170/200 гр.</description>
+			</offer>
+			<offer id="3310" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3310.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк лосося, начинённый жульеном  с икорным  соусом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>240/188 гр.</description>
+			</offer>
+			<offer id="3309" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>510</categoryId>
+				<picture>http://fasteda.ru/data/big/3309.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Палтус, жареный с пюре из молодого горошка</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>300 гр.</description>
+			</offer>
+			<offer id="3323" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>512</categoryId>
+				<picture>http://fasteda.ru/data/big/3323.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из телятины</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200/50 гр.</description>
+			</offer>
+			<offer id="3325" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>512</categoryId>
+				<picture>http://fasteda.ru/data/big/3325.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиные ребрышки</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200/50 гр.</description>
+			</offer>
+			<offer id="3328" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>512</categoryId>
+				<picture>http://fasteda.ru/data/big/3328.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи гриль</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="3322" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>512</categoryId>
+				<picture>http://fasteda.ru/data/big/3322.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык  из свиной шеи</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>200/50 гр.</description>
+			</offer>
+			<offer id="3321" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>512</categoryId>
+				<picture>http://fasteda.ru/data/big/3321.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиная котлета на кости</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>260/181 гр.</description>
+			</offer>
+			<offer id="3320" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>512</categoryId>
+				<picture>http://fasteda.ru/data/big/3320.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Натуральные котлеты  из ягнёнка</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>140/182 гр.</description>
+			</offer>
+			<offer id="3382" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3382.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Масло растительное нерафинированное</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3381" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3381.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оливковое масло</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3380" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3380.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сметана</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3379" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3379.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сметанный соус с хреном</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3378" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3378.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чесночный</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3375" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3375.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вишневый </name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3376" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3376.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Клубничный</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3377" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3377.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Красный острый </name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3374" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3374.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медово-апельсиновый</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3373" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>519</categoryId>
+				<picture>http://fasteda.ru/data/big/3373.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Клюквенный</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3368" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>516</categoryId>
+				<picture>http://fasteda.ru/data/big/3368.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свежие помидоры с луком  и травами в масле</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3367" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>516</categoryId>
+				<picture>http://fasteda.ru/data/big/3367.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Отварной картофель с маслом и укропом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3366" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>516</categoryId>
+				<picture>http://fasteda.ru/data/big/3366.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тушёная квашеная капуста с яблоками</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3365" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>516</categoryId>
+				<picture>http://fasteda.ru/data/big/3365.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3364" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>516</categoryId>
+				<picture>http://fasteda.ru/data/big/3364.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель  Айдахо</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3363" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>516</categoryId>
+				<picture>http://fasteda.ru/data/big/3363.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Молодой зелёный горошек, жареный на оливковом масле</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3362" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>516</categoryId>
+				<picture>http://fasteda.ru/data/big/3362.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель жареный с лесными грибами</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3392" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>521</categoryId>
+				<picture>http://fasteda.ru/data/big/3392.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хлебная корзина</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>Хлеб ржаной, картофельный с луком и серый со злаками (180/20/30).</description>
+			</offer>
+			<offer id="3391" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>521</categoryId>
+				<picture>http://fasteda.ru/data/big/3391.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с картофелем и грибами</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3390" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>521</categoryId>
+				<picture>http://fasteda.ru/data/big/3390.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с ливером</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3389" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>521</categoryId>
+				<picture>http://fasteda.ru/data/big/3389.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с мясом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3388" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>521</categoryId>
+				<picture>http://fasteda.ru/data/big/3388.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с капустой и яйцом</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3387" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>521</categoryId>
+				<picture>http://fasteda.ru/data/big/3387.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Калитка с картофелем</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="3386" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>520</categoryId>
+				<picture>http://fasteda.ru/data/big/3386.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печенье домашнее</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="3385" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>520</categoryId>
+				<picture>http://fasteda.ru/data/big/3385.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Яблочный наполеон</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>170 гр.</description>
+			</offer>
+			<offer id="3384" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>520</categoryId>
+				<picture>http://fasteda.ru/data/big/3384.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Птичье молоко</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="3383" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>520</categoryId>
+				<picture>http://fasteda.ru/data/big/3383.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карамельно-медовый торт</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="3611" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>576</categoryId>
+				<picture>http://fasteda.ru/data/big/3611.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины  ржаные- 3 шт.</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3612" available="true">
+				<url>http://fasteda.ru/menu/kalitka/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>576</categoryId>
+				<picture>http://fasteda.ru/data/big/3612.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины  пшеничные-  3 шт</name>
+				<vendor>Ресторан Калитка</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

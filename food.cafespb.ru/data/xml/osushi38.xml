@@ -1,0 +1,3510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-08-14 19:20">
+<shop>
+<name>osushi</name>
+<company>osushi</company>
+<url>o-sushi.ru</url>
+<platform>osushi</platform>
+<version>1.1</version>
+<agency>osushi</agency>
+<email>sheviak@gmail.com</email>
+
+<currencies>
+<currency  id="RUR" rate="1"/>
+</currencies>
+
+<categories>
+<category id="60" parentId="58">123</category>
+<category id="74">Гарниры</category>
+<category id="73">Горячие блюда</category>
+<category id="71">Закуски</category>
+<category id="72">Салаты</category>
+<category id="70">Супы</category>
+<category id="68">Пицца</category>
+<category id="75">Суши</category>
+<category id="76">Роллы</category>
+<category id="77">Фирменные наборы</category>
+<category id="78">Десерты</category>
+<category id="149" parentId="76">Классические роллы </category>
+<category id="160" parentId="76">Фирменные роллы</category>
+<category id="180" parentId="76">Премиум роллы</category>
+<category id="187" parentId="76">Горячие роллы</category>
+<category id="213" parentId="75">Нигири</category>
+<category id="214" parentId="75">Острые суши</category>
+<category id="215" parentId="75">Запеченные суши</category>
+<category id="313">Напитки</category>
+<category id="381" parentId="76">Я люблю филадельфию</category>
+<category id="390" parentId="76">Евро роллы</category>
+<category id="398" parentId="76">Гриль роллы</category>
+<category id="418">Сезонное меню</category>
+</categories>
+
+<offers>
+
+<offer id="80" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#80</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Мисо</name>
+<description></description>
+</offer>
+
+<offer id="81" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#81</url>
+<price>89</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Острый</name>
+<description>с яйцом</description>
+</offer>
+
+<offer id="82" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#82</url>
+<price>89</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Суимоно</name>
+<description>с лососем и окунем</description>
+</offer>
+
+<offer id="365" available="true">
+<url>http://o-sushi.ru/catalog/category72.htm#365</url>
+<price>169</price>
+<currencyId>RUR</currencyId>
+<categoryId>72</categoryId>
+<picture>http://o-sushi.ru/images/catalog/g_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Осло</name>
+<description>авокадо, огурцы, лосось слабой соли, и спайси соус</description>
+</offer>
+
+<offer id="84" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#84</url>
+<price>149</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_8.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Сливочный с угрем</name>
+<description></description>
+</offer>
+
+<offer id="85" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#85</url>
+<price>109</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_7.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Сливочный с лососем</name>
+<description></description>
+</offer>
+
+<offer id="86" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#86</url>
+<price>89</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b7.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Минестроне</name>
+<description>итальянский овощной суп</description>
+</offer>
+
+<offer id="87" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#87</url>
+<price>139</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_9.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Солянка мясная сборная</name>
+<description></description>
+</offer>
+
+<offer id="88" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#88</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_14.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тайский кокосовый суп</name>
+<description>с креветками и курицей</description>
+</offer>
+
+<offer id="89" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#89</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_13.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Французский луковый суп</name>
+<description>с сырной гренкой</description>
+</offer>
+
+<offer id="90" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#90</url>
+<price>149</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Крем-суп грибной</name>
+<description>с лесными грибами</description>
+</offer>
+
+<offer id="91" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#91</url>
+<price>149</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Крем-суп из лосося</name>
+<description></description>
+</offer>
+
+<offer id="92" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#92</url>
+<price>149</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_11.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Крем-суп брокколи- шпинатный</name>
+<description>с копчеными лососем</description>
+</offer>
+
+<offer id="93" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#93</url>
+<price>199</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тартар из авокадо</name>
+<description>с салатными креветками, огурцами и майонезом</description>
+</offer>
+
+<offer id="94" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#94</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v_3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Капрезе</name>
+<description>баклажаны, помидоры, моццарелла, бальзамический соус</description>
+</offer>
+
+<offer id="95" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#95</url>
+<price>329</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Мясное Ассорти</name>
+<description> 
+ ростбиф, буженина, говяжий язык, с соусом хрен
+</description>
+</offer>
+
+<offer id="96" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#96</url>
+<price>329</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тигровые креветки</name>
+<description> 
+жареные с зеленью и чесноком
+</description>
+</offer>
+
+<offer id="97" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#97</url>
+<price>439</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Рыбное ассорти</name>
+<description> 
+копченый лосось, угорь, креветки
+</description>
+</offer>
+
+<offer id="98" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#98</url>
+<price>129</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Рататуй</name>
+<description> 
+овощное блюдо из цукини, паприки, цветной капусты, помидоров, моркови, лука и специй
+</description>
+</offer>
+
+<offer id="99" available="true">
+<url>http://o-sushi.ru/catalog/category72.htm#99</url>
+<price>159</price>
+<currencyId>RUR</currencyId>
+<categoryId>72</categoryId>
+<picture>http://o-sushi.ru/images/catalog/g1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Греческий</name>
+<description> 
+айсберг, помидоры, огурцы, паприка, сыр фета, маслины и греческий дрессинг
+</description>
+</offer>
+
+<offer id="100" available="true">
+<url>http://o-sushi.ru/catalog/category72.htm#100</url>
+<price>179</price>
+<currencyId>RUR</currencyId>
+<categoryId>72</categoryId>
+<picture>http://o-sushi.ru/images/catalog/g2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Чукка</name>
+<description> 
+маринованные водоросли с ореховым соусом
+</description>
+</offer>
+
+<offer id="101" available="true">
+<url>http://o-sushi.ru/catalog/category72.htm#101</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>72</categoryId>
+<picture>http://o-sushi.ru/images/catalog/g_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Азиатский</name>
+<description> 
+ пикинская капуста, кинза, морковь, лук красный, черри, острая заправка
+</description>
+</offer>
+
+<offer id="102" available="true">
+<url>http://o-sushi.ru/catalog/category72.htm#102</url>
+<price>159</price>
+<currencyId>RUR</currencyId>
+<categoryId>72</categoryId>
+<picture>http://o-sushi.ru/images/catalog/g4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Гютай</name>
+<description> 
+с говяжьим языком, паприкой, пекинской капустой, морковью, дайконом и ореховым соусом
+</description>
+</offer>
+
+<offer id="103" available="true">
+<url>http://o-sushi.ru/catalog/category72.htm#103</url>
+<price>139</price>
+<currencyId>RUR</currencyId>
+<categoryId>72</categoryId>
+<picture>http://o-sushi.ru/images/catalog/g5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Столичный</name>
+<description>с куриной грудкой</description>
+</offer>
+
+<offer id="104" available="true">
+<url>http://o-sushi.ru/catalog/category72.htm#104</url>
+<price>159</price>
+<currencyId>RUR</currencyId>
+<categoryId>72</categoryId>
+<picture>http://o-sushi.ru/images/catalog/g_8.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Чукка Айс</name>
+<description> 
+ чукка, салат айсберг, соус ореховый 
+</description>
+</offer>
+
+<offer id="367" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#367</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v7_v12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Якитори</name>
+<description>куриные сердца</description>
+</offer>
+
+<offer id="107" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#107</url>
+<price>269</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d_9.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Морской Окунь</name>
+<description> 
+ с картофелем и кокосо-лаймовым соусом
+</description>
+</offer>
+
+<offer id="108" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#108</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Курица терияки</name>
+<description> 
+курица обжаренная в терияки соусе, сервируется овощами
+</description>
+</offer>
+
+<offer id="109" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#109</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Лосось терияки</name>
+<description> 
+филе лосося обжаренное в терияки соусе, сервируется овощами
+</description>
+</offer>
+
+<offer id="110" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#110</url>
+<price>279</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Бефстроганов</name>
+<description>с картофельным пюре</description>
+</offer>
+
+<offer id="111" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#111</url>
+<price>149</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Жареный рис</name>
+<description>с говядиной</description>
+</offer>
+
+<offer id="112" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#112</url>
+<price>129</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Жареный рис</name>
+<description>с морепродуктами</description>
+</offer>
+
+<offer id="113" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#113</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Жареный рис</name>
+<description>с овощами</description>
+</offer>
+
+<offer id="114" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#114</url>
+<price>269</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Яки удон</name>
+<description> 
+лапша удон с говядиной, овощами, соусом тонкацу, оформляется стружкой тунца, нори и кунжутом
+</description>
+</offer>
+
+<offer id="115" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#115</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тори удон</name>
+<description> 
+лапша удон с курицей, овощами, соусом тонкацу, оформляется стружкой тунца, нори и кунжутом
+</description>
+</offer>
+
+<offer id="116" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#116</url>
+<price>279</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d7.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Лапша Широтаки</name>
+<description> 
+рисовая стеклянная лапша с филе говядины, овощами и соусом кама 
+</description>
+</offer>
+
+<offer id="117" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#117</url>
+<price>349</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d_11.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Свиная отбивная</name>
+<description> 
+с картофелем айдахо и соусом барбекью
+</description>
+</offer>
+
+<offer id="118" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#118</url>
+<price>349</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d9.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Свиные медальоны</name>
+<description> 
+ 
+  обернутые в бекон и обжаренные, сервируются кисло-сладким чили соусом и овощами гриль 
+  
+  
+  
+   
+</description>
+</offer>
+
+<offer id="119" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#119</url>
+<price>469</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Говядина по-сицилийски</name>
+<description> 
+медальоны из вырезки говядины, обжаренные на гриле, подаются с картофелем айдахо и сицилийским соусом
+</description>
+</offer>
+
+<offer id="120" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#120</url>
+<price>599</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d_13.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Стейк из говядины</name>
+<description>с копчеными шампиньонами, лопатками горошка и соусом деми-глас</description>
+</offer>
+
+<offer id="121" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#121</url>
+<price>199</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d_16.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Спагетти с  морепродуктами</name>
+<description> 
+креветки салатные, мидии салатные, кальмар, лосось, паприка с томатным соусом
+</description>
+</offer>
+
+<offer id="122" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#122</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d_15.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Куриная грудка пармезан</name>
+<description> 
+запекается с сыром и томатным соусом, подаётся с песто и стручковой фасолью
+</description>
+</offer>
+
+<offer id="123" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#123</url>
+<price>199</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d14.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Соба</name>
+<description> 
+гречневая лапша с креветками, мидиями, кальмаром, овощами и соевым соусом
+</description>
+</offer>
+
+<offer id="124" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#124</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/e1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Картофель Айдахо</name>
+<description>с томатным соусом</description>
+</offer>
+
+<offer id="125" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#125</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/e2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Картофель фри</name>
+<description>с томатным соусом</description>
+</offer>
+
+<offer id="126" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#126</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/e3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Жареные овощи</name>
+<description> 
+цукини, паприка, морковь, лук порей и стручковая фасоль
+</description>
+</offer>
+
+<offer id="127" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#127</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/e4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Пюре картофельное</name>
+<description></description>
+</offer>
+
+<offer id="128" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#128</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/e5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Стручковая фасоль</name>
+<description>с соусом песто</description>
+</offer>
+
+<offer id="129" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#129</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/e6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Рис</name>
+<description></description>
+</offer>
+
+<offer id="130" available="true">
+<url>http://o-sushi.ru/catalog/category74.htm#130</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>74</categoryId>
+<picture>http://o-sushi.ru/images/catalog/e7.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Крокеты из цветной капусты</name>
+<description></description>
+</offer>
+
+<offer id="131" available="true">
+<url>http://o-sushi.ru/catalog/category78.htm#131</url>
+<price>179</price>
+<currencyId>RUR</currencyId>
+<categoryId>78</categoryId>
+<picture>http://o-sushi.ru/images/catalog/j1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Десертный ролл</name>
+<description> 
+с бананами, яблоками, киви, десертным кремом
+</description>
+</offer>
+
+<offer id="132" available="true">
+<url>http://o-sushi.ru/catalog/category78.htm#132</url>
+<price>179</price>
+<currencyId>RUR</currencyId>
+<categoryId>78</categoryId>
+<picture>http://o-sushi.ru/images/catalog/j2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Чизкейк Нью-Йорк</name>
+<description></description>
+</offer>
+
+<offer id="133" available="true">
+<url>http://o-sushi.ru/catalog/category78.htm#133</url>
+<price>179</price>
+<currencyId>RUR</currencyId>
+<categoryId>78</categoryId>
+<picture>http://o-sushi.ru/images/catalog/j3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Чизкейк Малина</name>
+<description></description>
+</offer>
+
+<offer id="358" available="true">
+<url>http://o-sushi.ru/catalog/category78.htm#358</url>
+<price>199</price>
+<currencyId>RUR</currencyId>
+<categoryId>78</categoryId>
+<picture>http://o-sushi.ru/images/catalog/j_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Торт Профитроль</name>
+<description>с шоколадным мусом и заварным кремом</description>
+</offer>
+
+<offer id="135" available="true">
+<url>http://o-sushi.ru/catalog/category78.htm#135</url>
+<price>179</price>
+<currencyId>RUR</currencyId>
+<categoryId>78</categoryId>
+<picture>http://o-sushi.ru/images/catalog/j_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Торт Паризьен</name>
+<description>черный шоколад, ореховое безе и карамель</description>
+</offer>
+
+<offer id="136" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#136</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Лосось</name>
+<description> 
+Ролл Империя;  Нигири лосось 2 шт., Острый лосось 2 шт.
+</description>
+</offer>
+
+<offer id="137" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#137</url>
+<price>479</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Угорь</name>
+<description> 
+Ролл Острая Филадельфия Угорь, Нигири угорь 2 шт., Острый угорь 2 шт.
+</description>
+</offer>
+
+<offer id="138" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#138</url>
+<price>269</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Бинарио</name>
+<description> 
+Ролл: Бинарио Нигири: чукка 2шт.,томаго 2шт. 
+</description>
+</offer>
+
+<offer id="139" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#139</url>
+<price>349</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Метрополитан</name>
+<description> 
+Ролл Метрополитан, Нигири (4 шт.): копченый лосось, креветка, угорь, омлет
+</description>
+</offer>
+
+<offer id="140" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#140</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Чук и Гек</name>
+<description> 
+Ролл Чук и Гек; Микс-суши: язык, угорь-курица; Нигири: омлет, копченый лосось
+</description>
+</offer>
+
+<offer id="141" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#141</url>
+<price>439</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_7.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Острый</name>
+<description> 
+Ролл острая Филадельфия; Острые нигири(5 шт.) :окунь, угорь, креветка, мидии, кальмар
+</description>
+</offer>
+
+<offer id="142" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#142</url>
+<price>559</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_8.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Горячий №1</name>
+<description> 
+Запеченные Нигири ( 10 шт.): лосось, тунец, мидии, угорь, кальмар, окунь, краб, креветка, гребешок, салатные креветки
+</description>
+</offer>
+
+<offer id="143" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#143</url>
+<price>499</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/p8.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Горячий №2</name>
+<description> 
+Ролл  Гольфстрим, Запеченные Нигири ( 5 шт.): окунь, кальмар, гребешок, мидии, креветка
+</description>
+</offer>
+
+<offer id="144" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#144</url>
+<price>699</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_11.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Филадельфия ассорти</name>
+<description> 
+1/2Роллы: Теплая филадельфия, Филадельфия Микс, Филадельфия острый угорь, Премиум Филадельфия Угорь, Премиум Филадельфия
+</description>
+</offer>
+
+<offer id="145" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#145</url>
+<price>619</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Пять вкусов</name>
+<description> 
+1/2 Филадельфия, 1/2 Унаги, 1/2 Калифорния тобико, 1/2 Аляска, 1/2 Грин ролл
+</description>
+</offer>
+
+<offer id="146" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#146</url>
+<price>2299</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Филадельфия рай</name>
+<description> 
+9 роллов: 
+
+Теплая Филадельфия, Филадельфия Премиум, Острая
+Филадельфия, Копченая Филадельфия, Унаги, Теплая Филадельфия Угорь, Филадельфия
+Угорь Премиум, Острая Филадельфия Угорь, Филадельфия Икура 
+</description>
+</offer>
+
+<offer id="209" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#209</url>
+<price>249</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Маргарита</name>
+<description></description>
+</offer>
+
+<offer id="150" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#150</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Авокадо</name>
+<description></description>
+</offer>
+
+<offer id="151" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#151</url>
+<price>119</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l2_l3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Лосось</name>
+<description></description>
+</offer>
+
+<offer id="152" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#152</url>
+<price>129</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l2_l3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Острый лосось</name>
+<description></description>
+</offer>
+
+<offer id="153" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#153</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Огурец</name>
+<description></description>
+</offer>
+
+<offer id="154" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#154</url>
+<price>189</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l5_l6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тунец</name>
+<description></description>
+</offer>
+
+<offer id="155" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#155</url>
+<price>199</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l5_l6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Острый тунец</name>
+<description></description>
+</offer>
+
+<offer id="156" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#156</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Авокадо-Огурец</name>
+<description></description>
+</offer>
+
+<offer id="157" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#157</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l_3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Чукка</name>
+<description></description>
+</offer>
+
+<offer id="158" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#158</url>
+<price>149</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l9_l10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Угорь</name>
+<description></description>
+</offer>
+
+<offer id="159" available="true">
+<url>http://o-sushi.ru/catalog/category149.htm#159</url>
+<price>159</price>
+<currencyId>RUR</currencyId>
+<categoryId>149</categoryId>
+<picture>http://o-sushi.ru/images/catalog/l9_l10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Острый угорь</name>
+<description></description>
+</offer>
+
+<offer id="161" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#161</url>
+<price>259</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Rock-n-roll</name>
+<description> 
+тунец, окунь, лосось, тобико, авокадо, огурцы, майонез, салатный лист
+</description>
+</offer>
+
+<offer id="162" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#162</url>
+<price>249</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Аляска</name>
+<description> 
+лосось, огурцы, авокадо, майонез, тобико
+</description>
+</offer>
+
+<offer id="163" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#163</url>
+<price>219</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Бостон</name>
+<description>креветка, авокадо, огурцы, майонез</description>
+</offer>
+
+<offer id="164" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#164</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Калифорния</name>
+<description>краб, авокадо, огурцы, майонез</description>
+</offer>
+
+<offer id="165" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#165</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тобико Калифорния</name>
+<description>краб, масаго, авокадо, огурцы, майонез</description>
+</offer>
+
+<offer id="166" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#166</url>
+<price>349</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Унаги</name>
+<description>угорь, огурцы, авокадо, крем сыр</description>
+</offer>
+
+<offer id="167" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#167</url>
+<price>259</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Филадельфия</name>
+<description>лосось, крем сыр, авокадо, огурцы</description>
+</offer>
+
+<offer id="168" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#168</url>
+<price>259</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m8.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Грин Ролл</name>
+<description>угорь, авокадо, огурцы, крем сыр, укроп</description>
+</offer>
+
+<offer id="169" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#169</url>
+<price>269</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m_14.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Омега 3</name>
+<description> 
+острый лосось, масаго, копченый лосось, икра, огурцы
+</description>
+</offer>
+
+<offer id="170" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#170</url>
+<price>149</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Ясай</name>
+<description> 
+паприка, огурцы, авокадо, помидоры, морковь, соус понзу
+</description>
+</offer>
+
+<offer id="171" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#171</url>
+<price>199</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m_13.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Ниагара</name>
+<description> 
+спайси тунец, лук зеленый, крем-сыр, огурцы, авокадо, тобико
+</description>
+</offer>
+
+<offer id="172" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#172</url>
+<price>219</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Бродвей</name>
+<description> 
+копченый лосось, огурцы, авокадо, крем сыр, тобико
+</description>
+</offer>
+
+<offer id="173" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#173</url>
+<price>219</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m13.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Империя</name>
+<description> 
+копченый лосось, омлет, тобико, огурцы, спайси соус
+</description>
+</offer>
+
+<offer id="174" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#174</url>
+<price>249</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m_15.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Андорра</name>
+<description> 
+креветка, тобико, вяленные томаты, виола, огурцы, зеленый лук
+</description>
+</offer>
+
+<offer id="175" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#175</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m_10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Креветка темпура</name>
+<description> 
+ с огурцами, авокадо, тобико, спайси соусом
+</description>
+</offer>
+
+<offer id="176" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#176</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m16.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тропик</name>
+<description> 
+с лососем, тобико, спайси соусом, манго, авокадо
+</description>
+</offer>
+
+<offer id="177" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#177</url>
+<price>289</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Теплая Филадельфия</name>
+<description> 
+копченый лосось, лосось, масаго, авокадо, огурцы, спайси соус, крем-сыр
+</description>
+</offer>
+
+<offer id="178" available="true">
+<url>http://o-sushi.ru/catalog/category390.htm#178</url>
+<price>219</price>
+<currencyId>RUR</currencyId>
+<categoryId>390</categoryId>
+<picture>http://o-sushi.ru/images/catalog/o_3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Цезарь ролл</name>
+<description> 
+курица, помидоры, сыр пармезан, огурцы, салат ромейн,зеленый лук, анчоусный соус
+</description>
+</offer>
+
+<offer id="179" available="true">
+<url>http://o-sushi.ru/catalog/category390.htm#179</url>
+<price>219</price>
+<currencyId>RUR</currencyId>
+<categoryId>390</categoryId>
+<picture>http://o-sushi.ru/images/catalog/o_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Метрополитан</name>
+<description> 
+лосось, огурцы, авокадо, салатный лист, соус тар-тар
+</description>
+</offer>
+
+<offer id="181" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#181</url>
+<price>329</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Ямайка</name>
+<description> 
+ угорь, креветка, манго, тобико, крем-сыр
+</description>
+</offer>
+
+<offer id="182" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#182</url>
+<price>339</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Юкатан</name>
+<description> 
+копченый лосось, угорь, тобико, крем-сыр, авокадо, красная икра, огурцы
+</description>
+</offer>
+
+<offer id="183" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#183</url>
+<price>429</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Камчатка</name>
+<description> 
+красная икра, лосось слабой соли, крем сыр
+</description>
+</offer>
+
+<offer id="184" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#184</url>
+<price>359</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Хотатэ</name>
+<description> 
+лосось, гребешок, майонез, тобико, крем-сыр
+</description>
+</offer>
+
+<offer id="185" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#185</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Терияки</name>
+<description> 
+теплый ролл с лососем, крабом, авокадо, спайси соусом, огурцами, соусом терияки
+</description>
+</offer>
+
+<offer id="186" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#186</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Яшин Ролл</name>
+<description> 
+креветка темпура, краб, угорь, огурцы, тобико, зеленый лук, спайси соус
+</description>
+</offer>
+
+<offer id="188" available="true">
+<url>http://o-sushi.ru/catalog/category187.htm#188</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>187</categoryId>
+<picture>http://o-sushi.ru/images/catalog/r_3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Чук и Гек</name>
+<description> 
+креветка, крем-сыр, тобико, копченая курица, салатный лист, огурец, паприка, зеленый лук, майонез
+</description>
+</offer>
+
+<offer id="189" available="true">
+<url>http://o-sushi.ru/catalog/category187.htm#189</url>
+<price>279</price>
+<currencyId>RUR</currencyId>
+<categoryId>187</categoryId>
+<picture>http://o-sushi.ru/images/catalog/r_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>О`суши Хит</name>
+<description> 
+угорь, салатные креветки, масаго, спайси соус , крем-сыр
+</description>
+</offer>
+
+<offer id="190" available="true">
+<url>http://o-sushi.ru/catalog/category187.htm#190</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>187</categoryId>
+<picture>http://o-sushi.ru/images/catalog/r_2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Гольфстрим </name>
+<description> 
+копченый лосось, угорь,  зеленый лук, спайси соус
+</description>
+</offer>
+
+<offer id="191" available="true">
+<url>http://o-sushi.ru/catalog/category398.htm#191</url>
+<price>429</price>
+<currencyId>RUR</currencyId>
+<categoryId>398</categoryId>
+<picture>http://o-sushi.ru/images/catalog/p_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Солнечный краб</name>
+<description> 
+лосось, краб, гребешок, масаго, спайси соус
+</description>
+</offer>
+
+<offer id="192" available="true">
+<url>http://o-sushi.ru/catalog/category398.htm#192</url>
+<price>389</price>
+<currencyId>RUR</currencyId>
+<categoryId>398</categoryId>
+<picture>http://o-sushi.ru/images/catalog/p_2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>HOT MANHATTAN</name>
+<description> 
+лосось, угорь, тобико, спайси соус, крем-сыр
+</description>
+</offer>
+
+<offer id="193" available="true">
+<url>http://o-sushi.ru/catalog/category398.htm#193</url>
+<price>379</price>
+<currencyId>RUR</currencyId>
+<categoryId>398</categoryId>
+<picture>http://o-sushi.ru/images/catalog/p_3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>SOHO</name>
+<description> 
+мидии, кальмар, гребешок, угорь, лосось, спайси соус, тобико
+</description>
+</offer>
+
+<offer id="194" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#194</url>
+<price>39</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Лосось</name>
+<description></description>
+</offer>
+
+<offer id="195" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#195</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Копченый лосось</name>
+<description></description>
+</offer>
+
+<offer id="196" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#196</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Кальмар</name>
+<description></description>
+</offer>
+
+<offer id="197" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#197</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Тунец</name>
+<description></description>
+</offer>
+
+<offer id="198" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#198</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Креветка</name>
+<description></description>
+</offer>
+
+<offer id="199" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#199</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Гребешок</name>
+<description></description>
+</offer>
+
+<offer id="200" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#200</url>
+<price>39</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i7.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Окунь</name>
+<description></description>
+</offer>
+
+<offer id="201" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#201</url>
+<price>39</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i8.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Омлет</name>
+<description></description>
+</offer>
+
+<offer id="202" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#202</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i9.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Угорь</name>
+<description></description>
+</offer>
+
+<offer id="203" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#203</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Чукка</name>
+<description></description>
+</offer>
+
+<offer id="204" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#204</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i11.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Краб</name>
+<description></description>
+</offer>
+
+<offer id="205" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#205</url>
+<price>89</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Красная икра</name>
+<description></description>
+</offer>
+
+<offer id="206" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#206</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i13.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Тобико зеленая</name>
+<description></description>
+</offer>
+
+<offer id="207" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#207</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i14.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Тобико красная</name>
+<description></description>
+</offer>
+
+<offer id="208" available="true">
+<url>http://o-sushi.ru/catalog/category213.htm#208</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>213</categoryId>
+<picture>http://o-sushi.ru/images/catalog/i15.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Нигири Тобико черная</name>
+<description></description>
+</offer>
+
+<offer id="216" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#216</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k1_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Лосось</name>
+<description></description>
+</offer>
+
+<offer id="217" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#217</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k2_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Мидии</name>
+<description></description>
+</offer>
+
+<offer id="218" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#218</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k3_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Окунь</name>
+<description></description>
+</offer>
+
+<offer id="219" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#219</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k4_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Креветка</name>
+<description></description>
+</offer>
+
+<offer id="220" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#220</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k5_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Салатная креветка</name>
+<description></description>
+</offer>
+
+<offer id="221" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#221</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k6_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Угорь</name>
+<description></description>
+</offer>
+
+<offer id="222" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#222</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k7_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Гребешок</name>
+<description></description>
+</offer>
+
+<offer id="223" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#223</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k8_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Кальмар</name>
+<description></description>
+</offer>
+
+<offer id="224" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#224</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k9_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Краб</name>
+<description></description>
+</offer>
+
+<offer id="225" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#225</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k10_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тунец</name>
+<description></description>
+</offer>
+
+<offer id="226" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#226</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k11_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Микс-суши язык</name>
+<description></description>
+</offer>
+
+<offer id="227" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#227</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k12_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Микс-суши курица, угорь</name>
+<description></description>
+</offer>
+
+<offer id="228" available="true">
+<url>http://o-sushi.ru/catalog/category214.htm#228</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>214</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k13_o.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Микс-суши кальмар, гребешок, угорь</name>
+<description></description>
+</offer>
+
+<offer id="229" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#229</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k1_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Лосось</name>
+<description></description>
+</offer>
+
+<offer id="230" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#230</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k2_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Мидии</name>
+<description></description>
+</offer>
+
+<offer id="231" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#231</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k3_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Окунь</name>
+<description></description>
+</offer>
+
+<offer id="232" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#232</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k4_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Креветка</name>
+<description></description>
+</offer>
+
+<offer id="233" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#233</url>
+<price>59</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k5_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Салатная креветка</name>
+<description></description>
+</offer>
+
+<offer id="234" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#234</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k6_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Угорь</name>
+<description></description>
+</offer>
+
+<offer id="235" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#235</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k7_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Гребешок</name>
+<description></description>
+</offer>
+
+<offer id="236" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#236</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k8_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Кальмар</name>
+<description></description>
+</offer>
+
+<offer id="237" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#237</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k9_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Краб</name>
+<description></description>
+</offer>
+
+<offer id="238" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#238</url>
+<price>79</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k10_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тунец</name>
+<description></description>
+</offer>
+
+<offer id="239" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#239</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k11_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Микс-суши язык</name>
+<description></description>
+</offer>
+
+<offer id="240" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#240</url>
+<price>49</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k12_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Микс-суши курица, угорь</name>
+<description></description>
+</offer>
+
+<offer id="241" available="true">
+<url>http://o-sushi.ru/catalog/category215.htm#241</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>215</categoryId>
+<picture>http://o-sushi.ru/images/catalog/k13_z.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Микс-суши кальмар, гребешок, угорь</name>
+<description></description>
+</offer>
+
+<offer id="242" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#242</url>
+<price>379</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Маргарита Море</name>
+<description>с креветками и мидиями</description>
+</offer>
+
+<offer id="243" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#243</url>
+<price>459</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Маргарита</name>
+<description></description>
+</offer>
+
+<offer id="244" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#244</url>
+<price>659</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Маргарита Море</name>
+<description>с креветками и мидиями</description>
+</offer>
+
+<offer id="245" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#245</url>
+<price>329</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Прошуто фунге</name>
+<description>шампиньоны и ветчина</description>
+</offer>
+
+<offer id="246" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#246</url>
+<price>599</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Прошуто фунге</name>
+<description>шампиньоны и ветчина</description>
+</offer>
+
+<offer id="247" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#247</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Гавайская</name>
+<description>маринованная куриная грудка, ананасы, паприка</description>
+</offer>
+
+<offer id="248" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#248</url>
+<price>679</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Гавайская</name>
+<description>маринованная куриная грудка, ананасы, паприка</description>
+</offer>
+
+<offer id="249" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#249</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Микс</name>
+<description> 
+пепперони, ветчина, бекон, корнишоны, пармезан, черри, паприка, зеленый лук
+</description>
+</offer>
+
+<offer id="250" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#250</url>
+<price>679</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Микс</name>
+<description> 
+ 
+  пепперони, ветчина, бекон, корнишоны, пармезан, черри, паприка, зеленый лук
+  
+   
+</description>
+</offer>
+
+<offer id="251" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#251</url>
+<price>379</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Пепперони</name>
+<description>пепперони, перец халапеньо</description>
+</offer>
+
+<offer id="252" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#252</url>
+<price>659</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Пепперони</name>
+<description>пепперони, перец халапеньо</description>
+</offer>
+
+<offer id="253" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#253</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Суприм</name>
+<description> 
+пепперони, ветчина, шампиньоны, красный лук, паприка, маслины, черри
+</description>
+</offer>
+
+<offer id="254" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#254</url>
+<price>679</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Суприм</name>
+<description> 
+ 
+   пепперони, ветчина, шампиньоны, красный лук, паприка, маслины, черри
+  
+   
+</description>
+</offer>
+
+<offer id="255" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#255</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Вегетарианская</name>
+<description> 
+цукини, паприка, шампиньоны, стручковая фасоль, лук порей, соус песто
+</description>
+</offer>
+
+<offer id="256" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#256</url>
+<price>679</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Вегетарианская</name>
+<description> 
+ 
+  цукини, паприка, шампиньоны, стручковая фасоль, лук порей, соус песто
+  
+  
+  
+   
+</description>
+</offer>
+
+<offer id="257" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#257</url>
+<price>499</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Аль-Сальмоне</name>
+<description>филе лосося, каперсы, помидоры черри</description>
+</offer>
+
+<offer id="258" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#258</url>
+<price>799</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Аль-Сальмоне</name>
+<description>филе лосося, каперсы, помидоры черри</description>
+</offer>
+
+<offer id="259" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#259</url>
+<price>499</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Маринара</name>
+<description>тигровые креветки, салатные креветки, мидии, маслины</description>
+</offer>
+
+<offer id="260" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#260</url>
+<price>799</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Маринара</name>
+<description>тигровые креветки, салатные креветки, мидии, маслины</description>
+</offer>
+
+<offer id="319" available="true">
+<url>http://o-sushi.ru/catalog/category313.htm#319</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>313</categoryId>
+<picture>http://o-sushi.ru/images/catalog/z5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Ред Булл</name>
+<description></description>
+</offer>
+
+<offer id="318" available="true">
+<url>http://o-sushi.ru/catalog/category313.htm#318</url>
+<price>179</price>
+<currencyId>RUR</currencyId>
+<categoryId>313</categoryId>
+<picture>http://o-sushi.ru/images/catalog/z4_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Морс 1л.</name>
+<description></description>
+</offer>
+
+<offer id="317" available="true">
+<url>http://o-sushi.ru/catalog/category313.htm#317</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>313</categoryId>
+<picture>http://o-sushi.ru/images/catalog/z4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Морс 0,5л.</name>
+<description></description>
+</offer>
+
+<offer id="316" available="true">
+<url>http://o-sushi.ru/catalog/category313.htm#316</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>313</categoryId>
+<picture>http://o-sushi.ru/images/catalog/z3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Вода Харрогейт</name>
+<description></description>
+</offer>
+
+<offer id="315" available="true">
+<url>http://o-sushi.ru/catalog/category313.htm#315</url>
+<price>69</price>
+<currencyId>RUR</currencyId>
+<categoryId>313</categoryId>
+<picture>http://o-sushi.ru/images/catalog/z2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Бонаква минерале</name>
+<description></description>
+</offer>
+
+<offer id="314" available="true">
+<url>http://o-sushi.ru/catalog/category313.htm#314</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>313</categoryId>
+<picture>http://o-sushi.ru/images/catalog/z1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Кока-Кола в ассортименте</name>
+<description></description>
+</offer>
+
+<offer id="329" available="true">
+<url>http://o-sushi.ru/catalog/category313.htm#329</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>313</categoryId>
+<picture>http://o-sushi.ru/images/catalog/z4_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Соки в ассортименте</name>
+<description></description>
+</offer>
+
+<offer id="348" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#348</url>
+<price>499</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Мексиканская</name>
+<description>говяжий фарш, томаты, кукуруза, фасоль</description>
+</offer>
+
+<offer id="349" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#349</url>
+<price>799</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Мексиканская</name>
+<description> 
+говяжий фарш, томаты, кукуруза, фасоль
+</description>
+</offer>
+
+<offer id="350" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#350</url>
+<price>499</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Поло Песто</name>
+<description>курица, шампиньоны, соус песто</description>
+</offer>
+
+<offer id="351" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#351</url>
+<price>799</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Поло Песто</name>
+<description>курица, шампиньоны, соус песто</description>
+</offer>
+
+<offer id="352" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#352</url>
+<price>449</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Эль Ранчо</name>
+<description> копченая курица, колбаски,  шампиньоны, томаты, красный лук, соус томатный-барбекью</description>
+</offer>
+
+<offer id="353" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#353</url>
+<price>749</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Эль Ранчо</name>
+<description>копченая курица, колбаски,  шампиньоны, томаты, красный лук, соус томатный-барбекью</description>
+</offer>
+
+<offer id="354" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#354</url>
+<price>499</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Альбакор</name>
+<description>тунец, каперсы, лук красный, томаты, оливки</description>
+</offer>
+
+<offer id="355" available="true">
+<url>http://o-sushi.ru/catalog/category68.htm#355</url>
+<price>799</price>
+<currencyId>RUR</currencyId>
+<categoryId>68</categoryId>
+<picture>http://o-sushi.ru/images/catalog/a1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Альбакор</name>
+<description> 
+тунец, каперсы, лук красный, томаты, оливки
+</description>
+</offer>
+
+<offer id="359" available="true">
+<url>http://o-sushi.ru/catalog/category78.htm#359</url>
+<price>179</price>
+<currencyId>RUR</currencyId>
+<categoryId>78</categoryId>
+<picture>http://o-sushi.ru/images/catalog/j_6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Яблочно-брусничный пирог</name>
+<description></description>
+</offer>
+
+<offer id="360" available="true">
+<url>http://o-sushi.ru/catalog/category78.htm#360</url>
+<price>129</price>
+<currencyId>RUR</currencyId>
+<categoryId>78</categoryId>
+<picture>http://o-sushi.ru/images/catalog/j_7.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Муравейник</name>
+<description></description>
+</offer>
+
+<offer id="362" available="true">
+<url>http://o-sushi.ru/catalog/category73.htm#362</url>
+<price>259</price>
+<currencyId>RUR</currencyId>
+<categoryId>73</categoryId>
+<picture>http://o-sushi.ru/images/catalog/d3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Свинина Терияки</name>
+<description>свинина обжаренная в терияки соусе, сервируется овощами </description>
+</offer>
+
+<offer id="363" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#363</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Мисо </name>
+<description>с лососем</description>
+</offer>
+
+<offer id="364" available="true">
+<url>http://o-sushi.ru/catalog/category70.htm#364</url>
+<price>109</price>
+<currencyId>RUR</currencyId>
+<categoryId>70</categoryId>
+<picture>http://o-sushi.ru/images/catalog/b_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Мисо </name>
+<description>с креветками</description>
+</offer>
+
+<offer id="366" available="true">
+<url>http://o-sushi.ru/catalog/category72.htm#366</url>
+<price>269</price>
+<currencyId>RUR</currencyId>
+<categoryId>72</categoryId>
+<picture>http://o-sushi.ru/images/catalog/g_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Слоеный с угрем</name>
+<description> курица, угорь,  омлет, огурцы, айсберг, чукка, майонез, унаги соус</description>
+</offer>
+
+<offer id="368" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#368</url>
+<price>89</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v7_v12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Якитори</name>
+<description>курица</description>
+</offer>
+
+<offer id="369" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#369</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v7_v12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Якитори</name>
+<description>тигровые криветки</description>
+</offer>
+
+<offer id="370" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#370</url>
+<price>159</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v7_v12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Якитори</name>
+<description>лосось</description>
+</offer>
+
+<offer id="371" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#371</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v7_v12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Якитори</name>
+<description>свинина в беконе</description>
+</offer>
+
+<offer id="372" available="true">
+<url>http://o-sushi.ru/catalog/category71.htm#372</url>
+<price>449</price>
+<currencyId>RUR</currencyId>
+<categoryId>71</categoryId>
+<picture>http://o-sushi.ru/images/catalog/v7_v12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Якитори Ассорти </name>
+<description>5 шт.</description>
+</offer>
+
+<offer id="382" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#382</url>
+<price>329</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Зеленое Яблоко</name>
+<description>угорь, крем-сыр, яблоко, соус бальзамико</description>
+</offer>
+
+<offer id="383" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#383</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_9.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Филадельфия Угорь Премиум</name>
+<description>угорь, авокадо, огурец, крем-сыр, тобико</description>
+</offer>
+
+<offer id="384" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#384</url>
+<price>359</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_8.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Теплая Филадельфия Угорь</name>
+<description> угорь, масаго, авокадо, огурцы, спайси соус, крем-сыр</description>
+</offer>
+
+<offer id="385" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#385</url>
+<price>329</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name> Филадельфия Премиум</name>
+<description>лосось, авокадо, огурец, крем-сыр, тобико</description>
+</offer>
+
+<offer id="386" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#386</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Острая Филадельфия</name>
+<description>острый лосось, авокадо, огурец, крем-сыр</description>
+</offer>
+
+<offer id="387" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#387</url>
+<price>289</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Копченая Филадельфия</name>
+<description>копченый лосось, авокадо, огурец, крем-сыр</description>
+</offer>
+
+<offer id="388" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#388</url>
+<price>289</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Острая Филадельфия Угорь</name>
+<description>острый угорь, авокадо, огурец, крем-сыр</description>
+</offer>
+
+<offer id="389" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#389</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Калифорния Спайси</name>
+<description>краб, авокадо, огурцы, спайси соус</description>
+</offer>
+
+<offer id="391" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#391</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m_16.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Арлекино</name>
+<description>угорь, огурцы, виола, тобико</description>
+</offer>
+
+<offer id="392" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#392</url>
+<price>219</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m_17.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Фреш</name>
+<description>креветка, тобико, кляр, огурцы, спайси</description>
+</offer>
+
+<offer id="393" available="true">
+<url>http://o-sushi.ru/catalog/category160.htm#393</url>
+<price>199</price>
+<currencyId>RUR</currencyId>
+<categoryId>160</categoryId>
+<picture>http://o-sushi.ru/images/catalog/m_18.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Салмон скин</name>
+<description>кожа лосося, огурцы, крем-сыр, кунжут</description>
+</offer>
+
+<offer id="394" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#394</url>
+<price>179</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_11.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Филадельфия Икура</name>
+<description>крем-сыр, укроп, икра красная</description>
+</offer>
+
+<offer id="395" available="true">
+<url>http://o-sushi.ru/catalog/category381.htm#395</url>
+<price>289</price>
+<currencyId>RUR</currencyId>
+<categoryId>381</categoryId>
+<picture>http://o-sushi.ru/images/catalog/n_12.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Филадельфия Микс</name>
+<description>копченый лосось, угорь, огурец, крем-сыр, унаги соус, тобико</description>
+</offer>
+
+<offer id="396" available="true">
+<url>http://o-sushi.ru/catalog/category390.htm#396</url>
+<price>199</price>
+<currencyId>RUR</currencyId>
+<categoryId>390</categoryId>
+<picture>http://o-sushi.ru/images/catalog/o_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Бекон</name>
+<description>бекон, соус тар-тар, паприка, огурцы, салатный лист</description>
+</offer>
+
+<offer id="397" available="true">
+<url>http://o-sushi.ru/catalog/category390.htm#397</url>
+<price>199</price>
+<currencyId>RUR</currencyId>
+<categoryId>390</categoryId>
+<picture>http://o-sushi.ru/images/catalog/o_2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Версаль</name>
+<description>овощной ролл с баклажанами, паприкой, томатами и салатом</description>
+</offer>
+
+<offer id="399" available="true">
+<url>http://o-sushi.ru/catalog/category398.htm#399</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>398</categoryId>
+<picture>http://o-sushi.ru/images/catalog/p_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Голливуд</name>
+<description>лосось, краб, угорь, крем-сыр, тобико</description>
+</offer>
+
+<offer id="400" available="true">
+<url>http://o-sushi.ru/catalog/category398.htm#400</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>398</categoryId>
+<picture>http://o-sushi.ru/images/catalog/p_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>iRoll</name>
+<description>томаго, крем-сыр, креветка, окунь, майонез, масаго</description>
+</offer>
+
+<offer id="401" available="true">
+<url>http://o-sushi.ru/catalog/category398.htm#401</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>398</categoryId>
+<picture>http://o-sushi.ru/images/catalog/p_6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Альфа</name>
+<description> лосось терияки, крем-сыр, курица,спайси соус, укроп</description>
+</offer>
+
+<offer id="402" available="true">
+<url>http://o-sushi.ru/catalog/category398.htm#402</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>398</categoryId>
+<picture>http://o-sushi.ru/images/catalog/p_7.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Квин Ролл</name>
+<description>лосось копченый, виола, огурцы, креветки салатные, спайси соус, зеленый лук, тобико</description>
+</offer>
+
+<offer id="403" available="true">
+<url>http://o-sushi.ru/catalog/category398.htm#403</url>
+<price>239</price>
+<currencyId>RUR</currencyId>
+<categoryId>398</categoryId>
+<picture>http://o-sushi.ru/images/catalog/p_8.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Доминанта</name>
+<description>угорь,копченый лосось, огурец, омлет, майонез, пармезан,кунжут</description>
+</offer>
+
+<offer id="404" available="true">
+<url>http://o-sushi.ru/catalog/category187.htm#404</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>187</categoryId>
+<picture>http://o-sushi.ru/images/catalog/r_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Атлантик Сити</name>
+<description>креветка, крем-сыр, тобико, угорь, майонез, масаго</description>
+</offer>
+
+<offer id="405" available="true">
+<url>http://o-sushi.ru/catalog/category187.htm#405</url>
+<price>299</price>
+<currencyId>RUR</currencyId>
+<categoryId>187</categoryId>
+<picture>http://o-sushi.ru/images/catalog/r_5.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Кальдера</name>
+<description>креветка, тобико, краб, спайси соус</description>
+</offer>
+
+<offer id="406" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#406</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_7.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>U-2</name>
+<description>краб, манго, авокадо,  майонез, тобико </description>
+</offer>
+
+<offer id="407" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#407</url>
+<price>329</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_8.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Радуга</name>
+<description>лосось, тунец, окунь, угорь, огурцы, авокадо, тобико, майонез</description>
+</offer>
+
+<offer id="408" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#408</url>
+<price>329</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_9.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Инигма</name>
+<description>креветка темпура, огурцы,  угорь-курица, спайси лосось, тар-тар, спайси гребешок</description>
+</offer>
+
+<offer id="409" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#409</url>
+<price>329</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_10.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Брайтон</name>
+<description>кальмар, мидии, краб, гребешок, салатный лист, зеленое тобико, майонез</description>
+</offer>
+
+<offer id="410" available="true">
+<url>http://o-sushi.ru/catalog/category180.htm#410</url>
+<price>369</price>
+<currencyId>RUR</currencyId>
+<categoryId>180</categoryId>
+<picture>http://o-sushi.ru/images/catalog/c_11.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Фьорд</name>
+<description>кожа лосося, краб, огурцы, спайси соус, тобико</description>
+</offer>
+
+<offer id="411" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#411</url>
+<price>399</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Тунец</name>
+<description>Ролл Ниагара, Нигири тунец 2 шт., Острая нигири тунец  2 шт.</description>
+</offer>
+
+<offer id="412" available="true">
+<url>http://o-sushi.ru/catalog/category77.htm#412</url>
+<price>599</price>
+<currencyId>RUR</currencyId>
+<categoryId>77</categoryId>
+<picture>http://o-sushi.ru/images/catalog/t_13.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Большое ассорти</name>
+<description>Роллы: Фреш, Салмон Скин ; нигири (5 шт.): лосось, кальмар,  омлет,  копченый лосось,  угорь</description>
+</offer>
+
+<offer id="419" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#419</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_1_6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Ривьера</name>
+<description>мидии, креветки, лосось, спайси соус</description>
+</offer>
+
+<offer id="420" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#420</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_4_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Эби</name>
+<description> 
+креветка темпура, огурец, тобико, крем-сыр
+</description>
+</offer>
+
+<offer id="421" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#421</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_7_24.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>7 на 24</name>
+<description> 
+курица, сыр виола, паприка
+</description>
+</offer>
+
+<offer id="422" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#422</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_2_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Филадельфия Спешл</name>
+<description>лосось, крем-сыр</description>
+</offer>
+
+<offer id="423" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#423</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_3_4.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Трио</name>
+<description>
+мидии, креветки, кальмары, ромейн, огурцы, спайси соус
+</description>
+</offer>
+
+<offer id="424" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#424</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_4_2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Имбирный лосось</name>
+<description>
+терияки лосось, лук зеленый, имбирь, крем-сыр
+</description>
+</offer>
+
+<offer id="425" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#425</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp1_9.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Чукка</name>
+<description>
+чукка, авокадо, крем-сыр
+</description>
+</offer>
+
+<offer id="426" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#426</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_3_6.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Пуэрто Рико</name>
+<description>
+банан, апельсин, тобико, крем-сыр
+</description>
+</offer>
+
+<offer id="427" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#427</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_4_3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Гудзон</name>
+<description>
+лосось, омлет, огурец, авокадо, тобико
+</description>
+</offer>
+
+<offer id="428" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#428</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_3_1.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Бенто</name>
+<description>
+терияки лосось, тушеные овощи, огурец
+</description>
+</offer>
+
+<offer id="429" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#429</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_3_2.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Эйфель</name>
+<description>
+копченые грибы, огурцы, курица копченая, тобико
+</description>
+</offer>
+
+<offer id="430" available="true">
+<url>http://o-sushi.ru/catalog/category418.htm#430</url>
+<price>99</price>
+<currencyId>RUR</currencyId>
+<categoryId>418</categoryId>
+<picture>http://o-sushi.ru/images/catalog/sp_3_3.png</picture>
+<store>false</store>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<local_delivery_cost>0</local_delivery_cost>
+<name>Шельф</name>
+<description>
+лосось, окунь, тар-тар соус
+</description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

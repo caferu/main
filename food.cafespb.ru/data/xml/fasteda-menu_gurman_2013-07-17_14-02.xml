@@ -1,0 +1,3445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-07-17 14:02">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1594">Классические роллы</category>
+			<category id="1604">Фирменные роллы</category>
+			<category id="1603">Запеченные роллы</category>
+			<category id="1608">Запеченные наборы</category>
+			<category id="1624">Классические наборы</category>
+			<category id="1605">Суши</category>
+			<category id="1606">Запеченные суши</category>
+			<category id="1607">Острые суши</category>
+			<category id="1617">Сашими</category>
+			<category id="1625">XXXL Бургеры</category>
+			<category id="1593">Пицца</category>
+			<category id="1595">Лапша</category>
+			<category id="1598">Сытные блины</category>
+			<category id="1600">Горячие блюда</category>
+			<category id="1599">Салаты</category>
+			<category id="1597">Шаурма</category>
+			<category id="1596">Супы</category>
+			<category id="1602">Напитки</category>
+			<category id="1612">Фреш соки</category>
+			<category id="1601">Десерты</category>
+			<category id="1626">Дополнительно</category>
+		</categories>
+		<offers>
+			<offer id="8974" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1594</categoryId>
+				<picture>http://fasteda.ru/data/big/8974.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с лососем</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8975" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1594</categoryId>
+				<picture>http://fasteda.ru/data/big/8975.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с тунцом</name>
+				<vendor>GurMan</vendor>
+				<description>Тунец, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8976" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1594</categoryId>
+				<picture>http://fasteda.ru/data/big/8976.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с огурцом</name>
+				<vendor>GurMan</vendor>
+				<description>Огурец, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8977" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1594</categoryId>
+				<picture>http://fasteda.ru/data/big/8977.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с авокадо</name>
+				<vendor>GurMan</vendor>
+				<description>Авокадо, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8978" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1594</categoryId>
+				<picture>http://fasteda.ru/data/big/8978.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с угрем</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8979" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1594</categoryId>
+				<picture>http://fasteda.ru/data/big/8979.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с крабом</name>
+				<vendor>GurMan</vendor>
+				<description>Краб, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8980" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1594</categoryId>
+				<picture>http://fasteda.ru/data/big/8980.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с окунем</name>
+				<vendor>GurMan</vendor>
+				<description>Рис, нори, окунь.</description>
+			</offer>
+			<offer id="9012" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9012.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, сыр филадельфия, авокадо, огурец, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9008" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9008.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шитаке ролл</name>
+				<vendor>GurMan</vendor>
+				<description>Шампиньоны, омлет пф., рис, водоросли нори, майонез, соевый соус, укроп.</description>
+			</offer>
+			<offer id="9007" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9007.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овара</name>
+				<vendor>GurMan</vendor>
+				<description>Жареный лосось, тобико, огурец, стружка тунца,черный кунжут, рис, зеленый лук.</description>
+			</offer>
+			<offer id="9013" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9013.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дабл сяке</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, икра тобико, авокадо, огурец, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9003" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9003.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калейдоскоп</name>
+				<vendor>GurMan</vendor>
+				<description>Икра тобико, огурец, рис, водоросли нори, спайс соус (вегетариан. ролл).</description>
+			</offer>
+			<offer id="9015" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9015.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ясай</name>
+				<vendor>GurMan</vendor>
+				<description>Лолло-россо, огурец, паприка, морковь, рис, нори, соус васаби.</description>
+			</offer>
+			<offer id="8994" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/8994.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния</name>
+				<vendor>GurMan</vendor>
+				<description>Краб, икра тобико, рис, огурец, авокадо, майонез, водоросли нори.</description>
+			</offer>
+			<offer id="8995" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/8995.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния нью-стайл</name>
+				<vendor>GurMan</vendor>
+				<description>Краб,авокадо, рис, огурец, кунжут, майонез.</description>
+			</offer>
+			<offer id="8996" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/8996.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мидори</name>
+				<vendor>GurMan</vendor>
+				<description>Копченый лосось, сыр филадельфия, икра тобико зеленая, рис, водоросли нори,  лук зеленый.</description>
+			</offer>
+			<offer id="8997" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/8997.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия с угрем</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, сыр филадельфия, огурец, авокадо, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8993" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/8993.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, краб, сыр филадельфия, омлет, рис, водоросли нори, соус для запекания.</description>
+			</offer>
+			<offer id="8998" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/8998.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дракон</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь копченый, сыр филадельфия, стружка тунца, икра тобико, рис, водоросли нори,  спайс соус, лук зеленый.</description>
+			</offer>
+			<offer id="8999" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/8999.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гурман</name>
+				<vendor>GurMan</vendor>
+				<description>Тунец, угорь, икра тобико, спайс соус, перец болгарский, кунжут, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9000" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9000.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Унаги урумаки</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, лосось, сыр филадельфия, огурец, авокадо, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9001" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9001.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дзитаку</name>
+				<vendor>GurMan</vendor>
+				<description>Краб, угорь, авокадо, рис, майонез, водоросли нори, кунжут.</description>
+			</offer>
+			<offer id="9002" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9002.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кунсей батакон</name>
+				<vendor>GurMan</vendor>
+				<description>Бекон, копченый лосось, сыр филадельфия, огурец, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9004" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9004.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спайс темпура</name>
+				<vendor>GurMan</vendor>
+				<description>Креветки темпурные, рис, икра тобико, огурец, спайс соус, водоросли нори.</description>
+			</offer>
+			<offer id="9005" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9005.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Унаги тидзу</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь копченый, лосось, икра тобико микс, огурец, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9006" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9006.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия фьюжен</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, красная икра, сыр филадельфия, авокадо, огурец, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9009" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9009.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия микс</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, лосось, сыр филадельфия, авокадо, огурец, кунжут, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9010" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9010.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Радуга</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, тунец, копченый лосось, креветка, сыр филадельфия, огурец, кунжут, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9011" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9011.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чидори</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, краб, икра тобико, сыр филадельфия, кунжут, спайс соус, зеленый лук, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9014" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9014.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Самурай</name>
+				<vendor>GurMan</vendor>
+				<description>Окунь, тунец, лосось, стружка тунца, рис, нори, соус комчи.</description>
+			</offer>
+			<offer id="9016" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1604</categoryId>
+				<picture>http://fasteda.ru/data/big/9016.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спайс ролл</name>
+				<vendor>GurMan</vendor>
+				<description>рис, нори, лосось, окунь, авокадо, кунжут микс, спайс соус.</description>
+			</offer>
+			<offer id="8981" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8981.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кагуваси</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось жареный с чесноком, базилик, сыр виолла, рис, водоросли нори, лук зеленый, мука, кляр.</description>
+			</offer>
+			<offer id="8982" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8982.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кунсено яси</name>
+				<vendor>GurMan</vendor>
+				<description>Курица, сыр виолла, перец болгарский, икра тобико, огурец, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8983" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8983.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Итальянский ролл</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, сыр чеддар, сыр филадельфия, сыр виола, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8984" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8984.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сегун</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, креветка спайс, сыр филадельфия, икра тобико, огурец, авокадо, соус для запекания, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8985" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8985.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сенсей</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, лосось, сыр филадельфия, авокадо, кляр, сухари панировочные, рис, водоросли нори.</description>
+			</offer>
+			<offer id="8986" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8986.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вагаси</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, креветка спайс, авокадо, рис, водоросли нори, кунжут,  соус для запекания.</description>
+			</offer>
+			<offer id="8987" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8987.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осака</name>
+				<vendor>GurMan</vendor>
+				<description>Гребешок, угорь, лосось, соус для запекания, водоросли нори, рис.</description>
+			</offer>
+			<offer id="8988" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8988.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Киото</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, лосось, икра масаго, сыр филадельфия, кунжут, соус для запекания, рис.</description>
+			</offer>
+			<offer id="8989" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8989.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оригами</name>
+				<vendor>GurMan</vendor>
+				<description>Краб, угорь, гребешок, икра масаго, спайс соус, соус для запекания.</description>
+			</offer>
+			<offer id="8990" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8990.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оригато</name>
+				<vendor>GurMan</vendor>
+				<description>Гребешок, креветка, лосось, икра масаго, авокадо, соус для запекания,рис, нори.</description>
+			</offer>
+			<offer id="8991" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8991.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Нагасаки</name>
+				<vendor>GurMan</vendor>
+				<description>Краб, креветка, авокадо, кунжут, спайс соус, соус для запекания, рис.</description>
+			</offer>
+			<offer id="8992" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1603</categoryId>
+				<picture>http://fasteda.ru/data/big/8992.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Унаги кани</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, краб, спайс соус, рис, водоросли нори, соус для запекания.</description>
+			</offer>
+			<offer id="9043" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1608</categoryId>
+				<picture>http://fasteda.ru/data/big/9043.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хот сет 3</name>
+				<vendor>GurMan</vendor>
+				<description>Кагувасе ролл, вагаси ролл, итальянский ролл.</description>
+			</offer>
+			<offer id="9044" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1608</categoryId>
+				<picture>http://fasteda.ru/data/big/9044.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хот сет 2</name>
+				<vendor>GurMan</vendor>
+				<description>Сенсей ролл, вагаси ролл, суши запеченные с креветкой, с лососем, с крабом.</description>
+			</offer>
+			<offer id="9045" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1608</categoryId>
+				<picture>http://fasteda.ru/data/big/9045.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хот сет 1</name>
+				<vendor>GurMan</vendor>
+				<description>Кагувасе ролл, сенсей ролл, кунсено яси.</description>
+			</offer>
+			<offer id="9046" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1608</categoryId>
+				<picture>http://fasteda.ru/data/big/9046.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хот сет 4</name>
+				<vendor>GurMan</vendor>
+				<description>Вагаси ролл, суши запеченые с крабом, с креветкой, с  лососем, с угрем, с тунцом.</description>
+			</offer>
+			<offer id="9047" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>1050</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1608</categoryId>
+				<picture>http://fasteda.ru/data/big/9047.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хот сет 5</name>
+				<vendor>GurMan</vendor>
+				<description>Нагасаки ролл, унаги кани ролл, сенсей ролл, сегун ролл.</description>
+			</offer>
+			<offer id="9049" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1608</categoryId>
+				<picture>http://fasteda.ru/data/big/9049.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хот сет 6</name>
+				<vendor>GurMan</vendor>
+				<description>Ролл Осака, ролл Токио, суши: лосось, угорь, краб, креветка, тунец, гребешок, окунь.</description>
+			</offer>
+			<offer id="9050" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1608</categoryId>
+				<picture>http://fasteda.ru/data/big/9050.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хот сет 7</name>
+				<vendor>GurMan</vendor>
+				<description>Осака, Киото, Сегун.</description>
+			</offer>
+			<offer id="9051" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>770</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9051.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фуне ичи</name>
+				<vendor>GurMan</vendor>
+				<description>Калифорния ролл, суши лосось - 5шт, суши угорь - 5шт.</description>
+			</offer>
+			<offer id="9052" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9052.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мини сет</name>
+				<vendor>GurMan</vendor>
+				<description>Ролл с лососем, ролл с угрем, ролл с огурцом, суши с копченым лососем -2шт., суши острые с креветкой -2шт.</description>
+			</offer>
+			<offer id="9053" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>1290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9053.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Якудза</name>
+				<vendor>GurMan</vendor>
+				<description>Ролл гурман, калифорния, кунсей батакон, спайс темпура, саке кунсей ролл.</description>
+			</offer>
+			<offer id="9054" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9054.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кайсо сет</name>
+				<vendor>GurMan</vendor>
+				<description>Филадельфия с угрем, кунсей батакон, острые суши с лососем, острые суши с угрем, острые суши с креветкой.</description>
+			</offer>
+			<offer id="9055" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9055.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вакидзаси</name>
+				<vendor>GurMan</vendor>
+				<description>Ролл с тунцом, ролл с крабом, ролл с авакадо, суши острые с угрем, суши острые с тунцом.</description>
+			</offer>
+			<offer id="9056" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9056.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Катана сет</name>
+				<vendor>GurMan</vendor>
+				<description>Дракон ролл, дзитаку ролл, мидори ролл.</description>
+			</offer>
+			<offer id="9057" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>1190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9057.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Окинава сет</name>
+				<vendor>GurMan</vendor>
+				<description>Калифорния ролл, мидори ролл, спайс темпура, тори кунсей, унаги урумаки.</description>
+			</offer>
+			<offer id="9058" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>999</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9058.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>7 роллов</name>
+				<vendor>GurMan</vendor>
+				<description>Филадельфия, мидори, шитаке, овара, дракон, кунсей батакон,  калифорния нью-стайл.</description>
+			</offer>
+			<offer id="9059" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9059.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мориавасэ</name>
+				<vendor>GurMan</vendor>
+				<description>Суши лосось, тунец, креветка, копченый лосось, окунь, ролл с лососем.</description>
+			</offer>
+			<offer id="9060" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9060.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дуэт</name>
+				<vendor>GurMan</vendor>
+				<description>Филадельфия люкс, Филадельфия с угрем, ролл огурец, суши лосось, суши угорь.</description>
+			</offer>
+			<offer id="9061" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>630</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1624</categoryId>
+				<picture>http://fasteda.ru/data/big/9061.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый сет</name>
+				<vendor>GurMan</vendor>
+				<description>Острые суши: лосось, угорь, краб, креветка, тунец, гребешок, окунь. Спайс ролл.</description>
+			</offer>
+			<offer id="9017" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9017.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, рис.</description>
+			</offer>
+			<offer id="9018" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9018.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>GurMan</vendor>
+				<description>Тунец, рис.</description>
+			</offer>
+			<offer id="9019" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9019.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, рис.</description>
+			</offer>
+			<offer id="9020" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9020.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Копченый лосось</name>
+				<vendor>GurMan</vendor>
+				<description>Копченый лосось, рис.</description>
+			</offer>
+			<offer id="9021" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9021.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветка</name>
+				<vendor>GurMan</vendor>
+				<description>Креветка, рис.</description>
+			</offer>
+			<offer id="9022" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9022.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Краб</name>
+				<vendor>GurMan</vendor>
+				<description>Краб, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9023" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9023.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Икра тобико</name>
+				<vendor>GurMan</vendor>
+				<description>Икра тобико, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9024" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9024.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочная икура</name>
+				<vendor>GurMan</vendor>
+				<description>Сыр филадельфия, икра лосося, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9025" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9025.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Икра лосося</name>
+				<vendor>GurMan</vendor>
+				<description>Икра лосося, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9026" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9026.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чука</name>
+				<vendor>GurMan</vendor>
+				<description>Водоросли чука, водоросли нори.</description>
+			</offer>
+			<offer id="9027" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9027.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гребешок</name>
+				<vendor>GurMan</vendor>
+				<description>Гребешок, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9028" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1605</categoryId>
+				<picture>http://fasteda.ru/data/big/9028.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Окунь</name>
+				<vendor>GurMan</vendor>
+				<description>Окунь, рис.</description>
+			</offer>
+			<offer id="9029" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1606</categoryId>
+				<picture>http://fasteda.ru/data/big/9029.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось запеченный</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, рис, водоросли нори, соус для запекания.</description>
+			</offer>
+			<offer id="9030" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1606</categoryId>
+				<picture>http://fasteda.ru/data/big/9030.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Угорь запеченный</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, рис, водоросли нори, соус для запекания.</description>
+			</offer>
+			<offer id="9031" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1606</categoryId>
+				<picture>http://fasteda.ru/data/big/9031.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Краб запеченный</name>
+				<vendor>GurMan</vendor>
+				<description>Краб, рис, водоросли нори, соус для запекания.</description>
+			</offer>
+			<offer id="9032" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1606</categoryId>
+				<picture>http://fasteda.ru/data/big/9032.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветка запеченная</name>
+				<vendor>GurMan</vendor>
+				<description>Креветка тигровая, рис, водоросли нори, соус для запекания.</description>
+			</offer>
+			<offer id="9033" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1606</categoryId>
+				<picture>http://fasteda.ru/data/big/9033.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тунец запеченный</name>
+				<vendor>GurMan</vendor>
+				<description>Тунец, рис, водоросли нори, соус для запекания.</description>
+			</offer>
+			<offer id="9034" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1606</categoryId>
+				<picture>http://fasteda.ru/data/big/9034.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гребешок запеченный</name>
+				<vendor>GurMan</vendor>
+				<description>Гребешок, рис, водоросли нори, соус для запекания.</description>
+			</offer>
+			<offer id="9035" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1606</categoryId>
+				<picture>http://fasteda.ru/data/big/9035.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морской окунь запеченный</name>
+				<vendor>GurMan</vendor>
+				<description>Морской окунь, рис, водоросли нори, соус для запекания.</description>
+			</offer>
+			<offer id="9036" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1607</categoryId>
+				<picture>http://fasteda.ru/data/big/9036.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось острый</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, рис, острый соус спайс, водоросли нори.</description>
+			</offer>
+			<offer id="9037" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1607</categoryId>
+				<picture>http://fasteda.ru/data/big/9037.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Угорь острый</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, острый соус спайс, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9038" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1607</categoryId>
+				<picture>http://fasteda.ru/data/big/9038.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Краб острый</name>
+				<vendor>GurMan</vendor>
+				<description>Краб, острый соус спайс, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9039" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1607</categoryId>
+				<picture>http://fasteda.ru/data/big/9039.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тунец острый</name>
+				<vendor>GurMan</vendor>
+				<description>Тунец, острый соус спайси, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9040" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1607</categoryId>
+				<picture>http://fasteda.ru/data/big/9040.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветка острая</name>
+				<vendor>GurMan</vendor>
+				<description>Тигровая креветка, рис, водоросли нори, острый соус спайси.</description>
+			</offer>
+			<offer id="9041" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1607</categoryId>
+				<picture>http://fasteda.ru/data/big/9041.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гребешок острый</name>
+				<vendor>GurMan</vendor>
+				<description>Гребешок, рис, водоросли нори, острый соус спайс.</description>
+			</offer>
+			<offer id="9042" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1607</categoryId>
+				<picture>http://fasteda.ru/data/big/9042.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морской окунь острый</name>
+				<vendor>GurMan</vendor>
+				<description>Морской окунь, острый соус спайс, рис, водоросли нори.</description>
+			</offer>
+			<offer id="9235" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>1200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1617</categoryId>
+				<picture>http://fasteda.ru/data/big/9235.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сашими ассорти</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, окунь, креветка, угорь, тунец, гребешок, копченый лосось, дайкон.</description>
+			</offer>
+			<offer id="9236" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1617</categoryId>
+				<picture>http://fasteda.ru/data/big/9236.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9237" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1617</categoryId>
+				<picture>http://fasteda.ru/data/big/9237.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9238" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1617</categoryId>
+				<picture>http://fasteda.ru/data/big/9238.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Окунь</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9239" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1617</categoryId>
+				<picture>http://fasteda.ru/data/big/9239.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветка</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9240" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1617</categoryId>
+				<picture>http://fasteda.ru/data/big/9240.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9241" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1617</categoryId>
+				<picture>http://fasteda.ru/data/big/9241.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гребешок</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9242" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1617</categoryId>
+				<picture>http://fasteda.ru/data/big/9242.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Копченый лосось</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9226" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1625</categoryId>
+				<picture>http://fasteda.ru/data/big/9226.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бургер со свининой</name>
+				<vendor>GurMan</vendor>
+				<description>Свиная котлета, сыр плавленый Чеддер, томаты, салат, огурцы соленые, соус, булочка (305 гр).</description>
+			</offer>
+			<offer id="9227" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1625</categoryId>
+				<picture>http://fasteda.ru/data/big/9227.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизбургер</name>
+				<vendor>GurMan</vendor>
+				<description>Говяжья котлета, сыр плавленый Чеддер, лук репчатый, огурец соленый, соус, булочка (260 гр).</description>
+			</offer>
+			<offer id="9228" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1625</categoryId>
+				<picture>http://fasteda.ru/data/big/9228.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чикенбургер</name>
+				<vendor>GurMan</vendor>
+				<description>Куриная котлета, сыр плавленый Чеддер, огурец, томат, салат, соус, булочка (295 гр).</description>
+			</offer>
+			<offer id="9229" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1625</categoryId>
+				<picture>http://fasteda.ru/data/big/9229.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Двойной чикенбургер</name>
+				<vendor>GurMan</vendor>
+				<description>Куриные котлеты, салат, соус, томат, булочка (385 гр).</description>
+			</offer>
+			<offer id="9230" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1625</categoryId>
+				<picture>http://fasteda.ru/data/big/9230.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Двойной бургер</name>
+				<vendor>GurMan</vendor>
+				<description>Говяжьи котлеты, томат, огурец соленый, соус, булочка (340 гр).</description>
+			</offer>
+			<offer id="9231" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1625</categoryId>
+				<picture>http://fasteda.ru/data/big/9231.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чикенбургер с беконом</name>
+				<vendor>GurMan</vendor>
+				<description>Куриное филе, паприка, томат, салат Айсберг, лук красный, бекон, соус, булочка (335 гр).</description>
+			</offer>
+			<offer id="9232" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1625</categoryId>
+				<picture>http://fasteda.ru/data/big/9232.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Двойной бургер МИКС</name>
+				<vendor>GurMan</vendor>
+				<description>Свиная и говяжья котлеты, сыр плавленый Чеддер, томат, салат,соус, лук репчатый, булочка (385 гр).</description>
+			</offer>
+			<offer id="9233" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1625</categoryId>
+				<picture>http://fasteda.ru/data/big/9233.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сендвич с лососем</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, огурец свежий, сыр плавленый Чеддер, лук красный, салат, соус Тар-тар, булочка (285 гр).</description>
+			</offer>
+			<offer id="9234" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1625</categoryId>
+				<picture>http://fasteda.ru/data/big/9234.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сендвич с копченой семгой</name>
+				<vendor>GurMan</vendor>
+				<description>Семга, сыр плавленый Чеддер, лук красный, салат, огурец свежий, соус Тар-тар, булочка (310 гр).</description>
+			</offer>
+			<offer id="9144" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9144.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дары моря</name>
+				<vendor>GurMan</vendor>
+				<description>Морской коктейль, сыр моцарелла, вино белое, томаты, соус, базилик, чеснок, зелень (755 гр).</description>
+			</offer>
+			<offer id="9145" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9145.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Царская</name>
+				<vendor>GurMan</vendor>
+				<description>Креветки тигровые, томаты черри, вино белое, сыр моцарелла, сыр пармезан, соус, базилик, специи, зелень (655 гр).</description>
+			</offer>
+			<offer id="9146" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9146.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>По-римски</name>
+				<vendor>GurMan</vendor>
+				<description>Ветчина, бекон, болгарский перец, сыр моцарелла, лук, соус, зелень (600 гр).</description>
+			</offer>
+			<offer id="9147" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9147.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Неаполитанская</name>
+				<vendor>GurMan</vendor>
+				<description>Ветчина, оливки, маслины, томаты, сыр моцарелла, соус, зелень (555 гр).</description>
+			</offer>
+			<offer id="9148" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>640</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9148.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гурман</name>
+				<vendor>GurMan</vendor>
+				<description>Куриное филе, говядина, бекон, перец болгарский, сыр моцарелла, соус, чили перец, зелень (715 гр).</description>
+			</offer>
+			<offer id="9149" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9149.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Четыре сыра</name>
+				<vendor>GurMan</vendor>
+				<description>Сыр моцарелла, сыр дор-блю, сыр пармезан, сыр чедр, соус, зелень (565гр).</description>
+			</offer>
+			<offer id="9150" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9150.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Весенняя</name>
+				<vendor>GurMan</vendor>
+				<description>Бекон, ветчина, пеперони, сыр моцарелла, перец болгарский, томаты, соус, лук, зелень (695гр).</description>
+			</offer>
+			<offer id="9151" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>610</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9151.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Императорская</name>
+				<vendor>GurMan</vendor>
+				<description>Ветчина, куриное филе, колбаса, сыр моцарелла, томаты, чили перец, лук, соус, зелень (660гр).</description>
+			</offer>
+			<offer id="9152" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9152.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Венеция</name>
+				<vendor>GurMan</vendor>
+				<description>Ветчина, шампиньоны, томаты, маслины, оливки, сыр моцарелла, соус, зелень (635гр).</description>
+			</offer>
+			<offer id="9153" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9153.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Биг бен</name>
+				<vendor>GurMan</vendor>
+				<description>Бекон, колбаса, сыр моцарелла, шампиньоны, томаты, яйцо куриное, соус, зелень (630гр).</description>
+			</offer>
+			<offer id="9154" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9154.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепперони</name>
+				<vendor>GurMan</vendor>
+				<description>Колбаса с.к., сыр моцарелла, лук, соус, зелень (535гр).</description>
+			</offer>
+			<offer id="9155" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9155.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>По-немецки</name>
+				<vendor>GurMan</vendor>
+				<description>Ветчина, колбаса, сыр моцарелла, сыр колбасный, огурчики, лук, соус, зелень (615гр).</description>
+			</offer>
+			<offer id="9156" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9156.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Времена года</name>
+				<vendor>GurMan</vendor>
+				<description>Куриное филе, шампиньоны, томаты, сыр моцарелла, соус, зелень (575гр).</description>
+			</offer>
+			<offer id="9157" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9157.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Прима вера</name>
+				<vendor>GurMan</vendor>
+				<description>Куриное филе, сыр моцарелла, колбаса, шампиньоны, томаты, огурчики, лук, соус, зелень (675гр).</description>
+			</offer>
+			<offer id="9158" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1593</categoryId>
+				<picture>http://fasteda.ru/data/big/9158.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Маргарита</name>
+				<vendor>GurMan</vendor>
+				<description>Сыр моцарелла, томаты, соус, зелень (565гр).</description>
+			</offer>
+			<offer id="9159" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9159.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша стеклянная со свининой и овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша, свинина, перец болгарский, лук, морковь, цукини, соус соевый, масло растительное, зелень (350гр).</description>
+			</offer>
+			<offer id="9160" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9160.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша стеклянная с овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша стеклянная, морковь, цукини, лук репчатый, перец болгарский, масло растительное, соевый соус, зелень (350гр).</description>
+			</offer>
+			<offer id="9161" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9161.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша удон с креветками и овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша, креветки тигровые, перец болгарский, лук репчатый, морковь, лук зеленый, цукини, масло растительное, соевый соус, перец чили, зелень (350гр).</description>
+			</offer>
+			<offer id="9162" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9162.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша удон с морепродуктами и овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша, морской коктейль, перец болгарский, лук, морковь, цукини, масло растительное, соевый соус, зелень (350гр).</description>
+			</offer>
+			<offer id="9163" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9163.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша стеклянная с курицей и овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша, курица, перец болгарский, лук, морковь, цукини, масло растительное, соевый соус, зелень (350гр).</description>
+			</offer>
+			<offer id="9164" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9164.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша удон с курицей и овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша, курица, цукини, лук, морковь, перец болгарский, масло растительное, соус соевый, зелень (350гр).</description>
+			</offer>
+			<offer id="9165" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9165.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гречневая лапша с мясом и овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша, говядина вырезка, перец болгарский, лук, морковь, цукини, масло растительное, соус соевый, масло кунжутное, зелень (350гр).</description>
+			</offer>
+			<offer id="9166" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9166.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Удон с мясом и овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша, говядина вырезка, перец болгарский, лук, морковь, цукини, масло растительное, соевый соус, масло кунжутное, зелень (350гр).</description>
+			</offer>
+			<offer id="9167" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9167.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Удон с овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша, перец болгарский, морковь, лук, цукини, соевый соус, масло растительное, зелень (350гр).</description>
+			</offer>
+			<offer id="9168" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1595</categoryId>
+				<picture>http://fasteda.ru/data/big/9168.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гречневая лапша с овощами</name>
+				<vendor>GurMan</vendor>
+				<description>Лапша, перец болгарский, лук, морковь, цукини, масло растительное, соус соевый, масло кунжутное, зелень (350гр).</description>
+			</offer>
+			<offer id="9185" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9185.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинбургер с куриной котлетой</name>
+				<vendor>GurMan</vendor>
+				<description>котлета, сыр чеддер, огурцы солёные, салат, блин.</description>
+			</offer>
+			<offer id="9186" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9186.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинбургер со свиной котлетой</name>
+				<vendor>GurMan</vendor>
+				<description>котлета, сыр чеддер, огурцы солёные, салат, блин.</description>
+			</offer>
+			<offer id="9187" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9187.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинбургер с говяжьей котлетой</name>
+				<vendor>GurMan</vendor>
+				<description>котлета, сыр чеддер, огурцы солёные, салат, блин.</description>
+			</offer>
+			<offer id="9188" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9188.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясной блин с курой</name>
+				<vendor>GurMan</vendor>
+				<description>фарш, морковь, лук, блинчик.</description>
+			</offer>
+			<offer id="9189" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9189.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясной блин со свининой</name>
+				<vendor>GurMan</vendor>
+				<description>фарш, морковь, лук, блинчик.</description>
+			</offer>
+			<offer id="9190" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9190.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясной блин с говядиной</name>
+				<vendor>GurMan</vendor>
+				<description>фарш, морковь, лук, блинчик.</description>
+			</offer>
+			<offer id="9191" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9191.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с гусиным паштетом</name>
+				<vendor>GurMan</vendor>
+				<description>гусиный паштет, огурцы солёные, блин, зелень.</description>
+			</offer>
+			<offer id="9192" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9192.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с творогом</name>
+				<vendor>GurMan</vendor>
+				<description>Творог, специи, зелень (143гр).</description>
+			</offer>
+			<offer id="9193" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9193.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин к чаю</name>
+				<vendor>GurMan</vendor>
+				<description>На выбор: Вишня, Клубника, Абрикос, Шоколадный крем, Мёд, Сгущенка, Сметана (130гр).</description>
+			</offer>
+			<offer id="9194" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9194.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с сыром филадельфия</name>
+				<vendor>GurMan</vendor>
+				<description>Сыр филадельфия (120гр).</description>
+			</offer>
+			<offer id="9195" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9195.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с опятами</name>
+				<vendor>GurMan</vendor>
+				<description>Опята, лук репчатый, специи, масло растительное, зелень (149гр).</description>
+			</offer>
+			<offer id="9196" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9196.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с икрой</name>
+				<vendor>GurMan</vendor>
+				<description>Красная икра (110гр).</description>
+			</offer>
+			<offer id="9197" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9197.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с курицей и грибами</name>
+				<vendor>GurMan</vendor>
+				<description>Куриное филе, грибы шампиньоны, специи, зелень, масло растительное, лук (164гр).</description>
+			</offer>
+			<offer id="9198" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9198.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с ветчиной и сыром</name>
+				<vendor>GurMan</vendor>
+				<description>Ветчина, сыр, зелень (125гр).</description>
+			</offer>
+			<offer id="9199" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9199.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с грибами, томатами и сыром</name>
+				<vendor>GurMan</vendor>
+				<description>Шампиньоны, томаты, сыр, масло растительное, специи, зелень (168гр).</description>
+			</offer>
+			<offer id="9200" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9200.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с ветчиной и грибами</name>
+				<vendor>GurMan</vendor>
+				<description>Шампиньоны, ветчина, лук репчатый, специи, масло растительное, зелень (158гр).</description>
+			</offer>
+			<offer id="9201" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9201.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с сыром моцарелла</name>
+				<vendor>GurMan</vendor>
+				<description>Сыр моцарелла (120гр).</description>
+			</offer>
+			<offer id="9202" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9202.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с семгой</name>
+				<vendor>GurMan</vendor>
+				<description>Семга слабой соли, укроп, петрушка, лимон (131гр).</description>
+			</offer>
+			<offer id="9203" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1598</categoryId>
+				<picture>http://fasteda.ru/data/big/9203.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блин с беконом и грибами</name>
+				<vendor>GurMan</vendor>
+				<description>Бекон, шампиньоны, специи, масло растительное, лук, сливки, зелень (198гр).</description>
+			</offer>
+			<offer id="9204" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9204.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тори терияки</name>
+				<vendor>GurMan</vendor>
+				<description>Курица с овощами под соусом терияки (350г).</description>
+			</offer>
+			<offer id="9205" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9205.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Терияки саке</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось с овощами под соусом терияки(350г).</description>
+			</offer>
+			<offer id="9206" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9206.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченные мидии</name>
+				<vendor>GurMan</vendor>
+				<description>Мидии, соус, лимон, салат, зелень.(240/80).</description>
+			</offer>
+			<offer id="9207" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9207.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из лосося под сливочным соусом.</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, икра лососевая, вино белое, базилик, лимон, зелень, чеснок, специи, масло(235г).</description>
+			</offer>
+			<offer id="9208" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9208.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из курицы</name>
+				<vendor>GurMan</vendor>
+				<description>Курица, помидор , огурец, зелень, специи.(250г).</description>
+			</offer>
+			<offer id="9209" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9209.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из лосося</name>
+				<vendor>GurMan</vendor>
+				<description>Лосось, помидор, огурец, зелень, специи.(240г).</description>
+			</offer>
+			<offer id="9210" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9210.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины</name>
+				<vendor>GurMan</vendor>
+				<description>Свинина, помидор, огурец, зелень, специи.(250г).</description>
+			</offer>
+			<offer id="9211" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9211.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из креветок</name>
+				<vendor>GurMan</vendor>
+				<description>Тигровые креветки, помидор, огурец, специи.(180г).</description>
+			</offer>
+			<offer id="9212" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9212.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из говядины</name>
+				<vendor>GurMan</vendor>
+				<description>(240г).</description>
+			</offer>
+			<offer id="9213" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9213.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки в темпуре</name>
+				<vendor>GurMan</vendor>
+				<description>Креветки тигровые, мука, кляр, зелень, соус чесночный.(160г).</description>
+			</offer>
+			<offer id="9214" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9214.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Курица в устричном соусе</name>
+				<vendor>GurMan</vendor>
+				<description>Курица, перец болг., лук, грибы шитаке, соус устричный, масло кунжутное, масло растительное.(243г).</description>
+			</offer>
+			<offer id="9215" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9215.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина в устричном соусе</name>
+				<vendor>GurMan</vendor>
+				<description>Свинина, перец болг., лук, грибы шитаке, соус устричный, масло кунжутное, масло растительное.(243г).</description>
+			</offer>
+			<offer id="9216" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9216.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из говядины</name>
+				<vendor>GurMan</vendor>
+				<description>Говядина вырезка, перец болгарский, цукини, зелень, специи, масло(305г).</description>
+			</offer>
+			<offer id="9217" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9217.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриные крылышки под соусом</name>
+				<vendor>GurMan</vendor>
+				<description>Куриные крылышки, соус, имбирь, чеснок, соевый соус, зелень.</description>
+			</offer>
+			<offer id="9218" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9218.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки в пикантном соусе</name>
+				<vendor>GurMan</vendor>
+				<description>Креветки тигровые, миндальная стружка, мука, кляр, соус.(210г).</description>
+			</offer>
+			<offer id="9219" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9219.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Курица гриль</name>
+				<vendor>GurMan</vendor>
+				<description>Специи, огурец, помидор, зелень.(1300г).</description>
+			</offer>
+			<offer id="9220" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9220.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок табака</name>
+				<vendor>GurMan</vendor>
+				<description>Кура 1/2, картофель фри, специи, чили перец, чеснок, огурец, помидор, зелень(800гр).</description>
+			</offer>
+			<offer id="9221" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9221.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриные наггетсы</name>
+				<vendor>GurMan</vendor>
+				<description>Курица, яйцо, специи, мука, сухари панировочные, зелень, лимон, помидор(160 гр).</description>
+			</offer>
+			<offer id="9222" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9222.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриный рулет с грибами и сыром</name>
+				<vendor>GurMan</vendor>
+				<description>Курица, шампиньоны, сыр, укроп, масло сливочное, мука, яйцо, сухари панировочные, специи, салат \&amp;quot;лоло россо\&amp;quot;, лимон, помидор, зелень.(186г).</description>
+			</offer>
+			<offer id="9223" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9223.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Курица в остром соусе</name>
+				<vendor>GurMan</vendor>
+				<description>Курица, соевый соус, имбирь, салат \&amp;quot;лоло россо\&amp;quot;, зелень, лимон, чеснок.(150г).</description>
+			</offer>
+			<offer id="9224" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9224.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тонкацу дон</name>
+				<vendor>GurMan</vendor>
+				<description>Свинина шея, специи, кляр, сухари понировачные, яйцо, зеленый лук.(250г).</description>
+			</offer>
+			<offer id="9225" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1600</categoryId>
+				<picture>http://fasteda.ru/data/big/9225.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина по-сычуански</name>
+				<vendor>GurMan</vendor>
+				<description>Говядина, грибы шитаке, перец болгарский, острый соус, имбирь, чеснок, перец чили, зеленый лук.(220г).</description>
+			</offer>
+			<offer id="9243" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9243.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь классический</name>
+				<vendor>GurMan</vendor>
+				<description>Салат ромейн, салат айсберг, соус для цезаря, томат черри, сыр пармезан, зелень (155гр).</description>
+			</offer>
+			<offer id="9244" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9244.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с копченым лососем</name>
+				<vendor>GurMan</vendor>
+				<description>Салат лоло россо, копченый лосось, огурец, перец балгарский, соус, зелень(165гр).</description>
+			</offer>
+			<offer id="9245" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9245.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с копченой курицей</name>
+				<vendor>GurMan</vendor>
+				<description>Курица с. к., шампиньоны, перец болгарский, огурец, лук репчатый, соус, зелень (150гр).</description>
+			</offer>
+			<offer id="9246" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9246.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с курицей в сливочном соусе</name>
+				<vendor>GurMan</vendor>
+				<description>Куриное филе, стручковая фасоль, перец балгарский, саке, соус соевый, сливки, зелень (180гр).</description>
+			</offer>
+			<offer id="9247" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9247.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с тунцом</name>
+				<vendor>GurMan</vendor>
+				<description>Тунец, салат лоло россо, стручковая фасоль, перец балгарский, яйцо вареное, оливки, масло растительное,специи (165гр).</description>
+			</offer>
+			<offer id="9248" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9248.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Греческий</name>
+				<vendor>GurMan</vendor>
+				<description>Огурец, помидор, оливки, салат, сыр фета, масло оливковое, специи (215гр).</description>
+			</offer>
+			<offer id="9249" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9249.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат стеклянная лапша с угрём</name>
+				<vendor>GurMan</vendor>
+				<description>Стеклянная лапша, угорь копченый, перец болгарский, огурец, соевый соус, масло растительное, масло кунжутное, зелень (123гр).</description>
+			</offer>
+			<offer id="9250" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9250.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с креветками</name>
+				<vendor>GurMan</vendor>
+				<description>Салат ромейн, салат айсберг, креветки тигровые, томаты черри, соус для цезаря, зелень (215гр).</description>
+			</offer>
+			<offer id="9251" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9251.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с курицей</name>
+				<vendor>GurMan</vendor>
+				<description>Салат ромейн, салат айсберг, куриное филе, сыр пармезан, томаты черри, соус для цезаря, зелень (215гр).</description>
+			</offer>
+			<offer id="9252" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9252.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с беконом</name>
+				<vendor>GurMan</vendor>
+				<description>Салат ромейн, салат айсберг, бекон,сыр пармезан, томат черри, соус для цезаря, зелень (205гр).</description>
+			</offer>
+			<offer id="9253" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9253.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Мидори сарада</name>
+				<vendor>GurMan</vendor>
+				<description>Салат лоло росо, ромейн, перец болгарский, помидор, огурец, лук, заправка (250гр).</description>
+			</offer>
+			<offer id="9254" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9254.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Эби сарада</name>
+				<vendor>GurMan</vendor>
+				<description>Креветки, салат ромейн, икра тобико, соус (150гр).</description>
+			</offer>
+			<offer id="9255" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9255.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Шитаке сарада</name>
+				<vendor>GurMan</vendor>
+				<description>Грибы шитаке, устричный соус, кунжут, специи, зеленый лук (230гр.).</description>
+			</offer>
+			<offer id="9256" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1599</categoryId>
+				<picture>http://fasteda.ru/data/big/9256.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат чука в ореховом соусе.</name>
+				<vendor>GurMan</vendor>
+				<description>(125гр).</description>
+			</offer>
+			<offer id="9178" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1597</categoryId>
+				<picture>http://fasteda.ru/data/big/9178.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шаурма на тарелке</name>
+				<vendor>GurMan</vendor>
+				<description>Курица, картофель фри, огурец, помидор, лук, соус, зелень.</description>
+			</offer>
+			<offer id="9179" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1597</categoryId>
+				<picture>http://fasteda.ru/data/big/9179.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шаурма в пите</name>
+				<vendor>GurMan</vendor>
+				<description>Курица, пита, соус, помидор, огурец, лук, зелень.</description>
+			</offer>
+			<offer id="9180" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1597</categoryId>
+				<picture>http://fasteda.ru/data/big/9180.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шаурма в лаваше</name>
+				<vendor>GurMan</vendor>
+				<description>Лаваш армянский, курица, соус, огурец, помидор, лук, зелень.</description>
+			</offer>
+			<offer id="9181" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1597</categoryId>
+				<picture>http://fasteda.ru/data/big/9181.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Двойная шаурма в лаваше</name>
+				<vendor>GurMan</vendor>
+				<description>Лаваш армянский, курица, соус, огурец, помидор, лук, зелень.(Увеличенное количество ингредиентов).</description>
+			</offer>
+			<offer id="9182" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1597</categoryId>
+				<picture>http://fasteda.ru/data/big/9182.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шаурма с лососем</name>
+				<vendor>GurMan</vendor>
+				<description>Пшеничный ролл, лосось, авокадо, салат айсберг, огурец, соус тар-тар, лук зеленый, соус light.</description>
+			</offer>
+			<offer id="9183" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1597</categoryId>
+				<picture>http://fasteda.ru/data/big/9183.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шаурма с тигровой креветкой</name>
+				<vendor>GurMan</vendor>
+				<description>Пшеничный ролл, креветки тигровые, салат айсберг, помидор, огурец, лук зеленый, соус light.</description>
+			</offer>
+			<offer id="9184" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1597</categoryId>
+				<picture>http://fasteda.ru/data/big/9184.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шаурма с говядиной</name>
+				<vendor>GurMan</vendor>
+				<description>Пшеничный ролл, говядина, соус light, помидор, огурец, лук репчатый.</description>
+			</offer>
+			<offer id="9169" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1596</categoryId>
+				<picture>http://fasteda.ru/data/big/9169.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп суимоно с курицей</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9170" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1596</categoryId>
+				<picture>http://fasteda.ru/data/big/9170.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кимчи тиги</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9171" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1596</categoryId>
+				<picture>http://fasteda.ru/data/big/9171.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый мисо с креветками</name>
+				<vendor>GurMan</vendor>
+				<description>Мисо бульон, соус табаско, креветка тигровая, лук зеленый.222гр.</description>
+			</offer>
+			<offer id="9172" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1596</categoryId>
+				<picture>http://fasteda.ru/data/big/9172.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп с лососем и грибами</name>
+				<vendor>GurMan</vendor>
+				<description>Мисо бульон, лосось, грибочки, лук зеленый, лапша удон.235гр.</description>
+			</offer>
+			<offer id="9173" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1596</categoryId>
+				<picture>http://fasteda.ru/data/big/9173.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочный суп с креветками</name>
+				<vendor>GurMan</vendor>
+				<description>Бульон бонита, кокосовое молоко, креветка тигровая, грибы, баклажан, морковь, соус табаско, корень имбиря, чеснок.477гр.</description>
+			</offer>
+			<offer id="9174" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1596</categoryId>
+				<picture>http://fasteda.ru/data/big/9174.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочный суп с угрем</name>
+				<vendor>GurMan</vendor>
+				<description>Угорь, сливки, рис, водоросли чука, молоко, кунжут, зелень.</description>
+			</offer>
+			<offer id="9175" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1596</categoryId>
+				<picture>http://fasteda.ru/data/big/9175.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кимчи суп</name>
+				<vendor>GurMan</vendor>
+				<description>Кимчи бейс соус, вакаме водоросли, кунжутное масло, яйцо.225гр.</description>
+			</offer>
+			<offer id="9176" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1596</categoryId>
+				<picture>http://fasteda.ru/data/big/9176.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мисо суп</name>
+				<vendor>GurMan</vendor>
+				<description>Мисо бульон, водоросли вакаме, тофу, лук зеленый, опята.225гр.</description>
+			</offer>
+			<offer id="9177" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1596</categoryId>
+				<picture>http://fasteda.ru/data/big/9177.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочный суп с беконом</name>
+				<vendor>GurMan</vendor>
+				<description>Молоко, бульон бонито, бекон, лук, морковь, катайская капуста.265гр.</description>
+			</offer>
+			<offer id="11272" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/11272.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Квас «Василеостровский»</name>
+				<vendor>GurMan</vendor>
+				<description>0,5 л.</description>
+			</offer>
+			<offer id="9078" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9078.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морс клюквенный</name>
+				<vendor>GurMan</vendor>
+				<description>0,5 л         70руб.</description>
+			</offer>
+			<offer id="9079" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9079.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок Добрый</name>
+				<vendor>GurMan</vendor>
+				<description>Апельсин, яблоко, мультифрут, томат.</description>
+			</offer>
+			<offer id="9080" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9080.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок Rich</name>
+				<vendor>GurMan</vendor>
+				<description>Апельсин, яблоко, мультифрут, томат.</description>
+			</offer>
+			<offer id="9081" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9081.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-cola 0,5л</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9082" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9082.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Bon Agua 0,5 л</name>
+				<vendor>GurMan</vendor>
+				<description>Газированная, не газированная.</description>
+			</offer>
+			<offer id="9083" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9083.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Fanta 0,5 л</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9084" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9084.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite 0,5 л</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9085" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9085.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Pepsi 0,6 л</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9086" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9086.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Nestea 0,5 л</name>
+				<vendor>GurMan</vendor>
+				<description>Персик,лимон,лесная ягода.</description>
+			</offer>
+			<offer id="9087" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9087.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-cola 2 л</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9088" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9088.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Fanta 2 л</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9089" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9089.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite 2 л</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9090" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9090.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Pepsi 2 л</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9091" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1602</categoryId>
+				<picture>http://fasteda.ru/data/big/9091.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ред булл</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9069" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1612</categoryId>
+				<picture>http://fasteda.ru/data/big/9069.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Апельсиновый фреш</name>
+				<vendor>GurMan</vendor>
+				<description>0,25л      .</description>
+			</offer>
+			<offer id="9070" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1612</categoryId>
+				<picture>http://fasteda.ru/data/big/9070.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грейпфрутовый фреш</name>
+				<vendor>GurMan</vendor>
+				<description>0,25л        .</description>
+			</offer>
+			<offer id="9071" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1612</categoryId>
+				<picture>http://fasteda.ru/data/big/9071.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Коктейль антигриппин</name>
+				<vendor>GurMan</vendor>
+				<description>Апельсин + грейпфрут 0,5 л         (0,250л.).</description>
+			</offer>
+			<offer id="9072" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1612</categoryId>
+				<picture>http://fasteda.ru/data/big/9072.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морковный фреш</name>
+				<vendor>GurMan</vendor>
+				<description>0,5 л     .</description>
+			</offer>
+			<offer id="9073" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1612</categoryId>
+				<picture>http://fasteda.ru/data/big/9073.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яблочный фреш</name>
+				<vendor>GurMan</vendor>
+				<description>0,25 л       .</description>
+			</offer>
+			<offer id="9074" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1612</categoryId>
+				<picture>http://fasteda.ru/data/big/9074.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фреш из стебля сельдерея</name>
+				<vendor>GurMan</vendor>
+				<description>0,25 л         .</description>
+			</offer>
+			<offer id="9075" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1612</categoryId>
+				<picture>http://fasteda.ru/data/big/9075.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яблочно-морковный фреш</name>
+				<vendor>GurMan</vendor>
+				<description>0,25 л       .</description>
+			</offer>
+			<offer id="9076" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1612</categoryId>
+				<picture>http://fasteda.ru/data/big/9076.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яблочно-Сельдереевый фреш</name>
+				<vendor>GurMan</vendor>
+				<description>0,25 л         .</description>
+			</offer>
+			<offer id="9077" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1612</categoryId>
+				<picture>http://fasteda.ru/data/big/9077.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морковно-Сельдереевый фреш</name>
+				<vendor>GurMan</vendor>
+				<description>0,25 л        .</description>
+			</offer>
+			<offer id="9257" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1601</categoryId>
+				<picture>http://fasteda.ru/data/big/9257.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Манила ролл</name>
+				<vendor>GurMan</vendor>
+				<description>Ананас, киви, крем пф., сироп клубничный, омлет пф.</description>
+			</offer>
+			<offer id="9258" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1601</categoryId>
+				<picture>http://fasteda.ru/data/big/9258.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куро ёру</name>
+				<vendor>GurMan</vendor>
+				<description>Шоколадный блин, крем манила, ананас, киви, клубника, банан, миндальная стружка, сироп шоколадный (160гр).</description>
+			</offer>
+			<offer id="9259" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1601</categoryId>
+				<picture>http://fasteda.ru/data/big/9259.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фруктовый ролл</name>
+				<vendor>GurMan</vendor>
+				<description>Блин сладкий, манила крем, банан, киви, ананас, клубника, арахис (155гр).</description>
+			</offer>
+			<offer id="9260" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1601</categoryId>
+				<picture>http://fasteda.ru/data/big/9260.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тирамису</name>
+				<vendor>GurMan</vendor>
+				<description>(110гр).</description>
+			</offer>
+			<offer id="9261" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1601</categoryId>
+				<picture>http://fasteda.ru/data/big/9261.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Клубничный</name>
+				<vendor>GurMan</vendor>
+				<description>(106гр).</description>
+			</offer>
+			<offer id="9262" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1601</categoryId>
+				<picture>http://fasteda.ru/data/big/9262.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сиро Хи</name>
+				<vendor>GurMan</vendor>
+				<description>Ананас, клубника, миндаль, крем манила, сладкий бли.</description>
+			</offer>
+			<offer id="9263" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1601</categoryId>
+				<picture>http://fasteda.ru/data/big/9263.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Нью-Йорк классически</name>
+				<vendor>GurMan</vendor>
+				<description>(106гр).</description>
+			</offer>
+			<offer id="9264" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9264.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соевый соус</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9265" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9265.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Имбирь</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9266" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9266.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Васаби</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9267" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9267.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спайс соус</name>
+				<vendor>GurMan</vendor>
+				<description>Майонез, кимчи бейс, чеснок, паприка.</description>
+			</offer>
+			<offer id="9268" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9268.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус Мери Роуз</name>
+				<vendor>GurMan</vendor>
+				<description>Майонез, кетчуп.</description>
+			</offer>
+			<offer id="9269" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9269.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9270" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9270.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кунсено соус</name>
+				<vendor>GurMan</vendor>
+				<description>Кетчуп, чеснок, апельсиновый сок.</description>
+			</offer>
+			<offer id="9271" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9271.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус Тар-тар</name>
+				<vendor>GurMan</vendor>
+				<description>Майонез, огурчики консервированные, чеснок, зелень.</description>
+			</offer>
+			<offer id="9272" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9272.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9273" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9273.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис</name>
+				<vendor>GurMan</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9274" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9274.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Попкорн</name>
+				<vendor>GurMan</vendor>
+				<description>Соленый или сладкий.</description>
+			</offer>
+			<offer id="9275" available="true">
+				<url>http://fasteda.ru/menu/gurman/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1626</categoryId>
+				<picture>http://fasteda.ru/data/big/9275.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тяхан</name>
+				<vendor>GurMan</vendor>
+				<description>Рис с жареными овощами.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

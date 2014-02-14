@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-08-08 19:34">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="741">Обеды</category>
+			<category id="743">Сэндвичи</category>
+			<category id="744">Картофель фри и специальные предложения</category>
+			<category id="745">Закуски и салаты</category>
+			<category id="747">Молочные коктейли</category>
+			<category id="746">Мороженое</category>
+			<category id="748">Соусы</category>
+			<category id="749">Прохладительные напитки</category>
+			<category id="756">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="4381" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>188</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4381.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Беконбургером</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Беконбургером от Hesburger – это стандартная порция картофеля фри, напиток 0,5 (на выбор)и сочный Беконбургер - отборная высококачественная говядина, хрустящие маринованные огурчики, свежие листья салата, спелые томаты, сыр Чеддер, сочный жареный бекон на сдобной булочке, приправленной пикантным соусом.</description>
+			</offer>
+			<offer id="4382" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>186</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4382.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Двойным чизбургером</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Двойным чизбургером от Hesburger – это стандартная порция картофеля фри, напиток 0,5 (на выбор) и Двойной Чизбургер - две отборные, рубленные, высококачественные говяжие котлеты, хрустящие маринованные огурчики, сыр Чеддер, репчатый лук на сдобной булочке с кунжутом, приправленной кетчупом, горчицей и фирменным огуречным соусом.</description>
+			</offer>
+			<offer id="4383" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>243</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4383.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Мегой</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Мегой от Hesburger - это стандартная порция картофеля фри, напиток 0,5 л (на выбор) и вкуснейшая Мега - две большие котлеты (150 гр) из отборной, сочной высококачественной говядины, хрустящие маринованные огурчики, свежие листья салата, спелые томаты, сыр Чеддер на большой сдобной булочке с кунжутом, приправлен фирменными огуречным и папричным соусами
+
+ 
+.</description>
+			</offer>
+			<offer id="4384" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>183</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4384.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Минимегой</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Минимегой от Hesburger - это стандартная порция картофеля фри, напиток 0,5 (на выбор) и мега вкусная Минимега - отборная, сочная высококачественная говядина, хрустящие маринованные огурчики, свежие листья салата, сыр Чеддер, спелые томаты, репчатый лук на сдобной булочке, приправлен фирменными огуречным и папричным соусами.</description>
+			</offer>
+			<offer id="4385" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>223</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4385.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Ржаным бургером</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Ржаным бургером от Hesburger – это стандартная порция картофеля фри, напиток 0,5 (на выбор) и самый необычный сэндвич от Hesburger – Ржаной бургер, состоящий из сочной свиной отбивной, хрустящих маринованных огурчиков, спелых томатов, луковых колец на ржаной булочке, приправленный фирменными огуречным и папричным соусами.</description>
+			</offer>
+			<offer id="4386" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>191</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4386.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Хезбургером</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Хезбургером от Hesburger – это стандартная порция картофеля фри, напиток 0,5 (на выбор) и аппетитный Хезбургер - две котлеты (90 гр) из отборной, сочной высококачественной говядины, репчатый лук, хрустящие маринованные огурчики, свежие листья салата, сыр Чеддер на сдобной булочке с кунжутом, приправлен кетчупом и фирменными огуречным и папричным соусами.</description>
+			</offer>
+			<offer id="4387" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>191</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4387.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Хезфиш</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Хезфиш от Hesburger – это стандартная порция картофеля фри, напиток 0,5 (на выбор) и Хезфиш - филе норвежской семги в сочетании с листьями свежего салата и фирменного белого соуса от Hesburger на пышной сдобной булочке
+.</description>
+			</offer>
+			<offer id="4388" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>198</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4388.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Хезчикен</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Хезчикен от Hesburger – это стандартная порция картофеля фри, напиток 0,5 (на выбор) и Хезчикен - хрустящая котлета из куриной грудки, свежие листья салата, маринованные огурчики, в сочетании с фирменным соусом от Hesburger на длинной сдобной булочке с кунжутом
+.</description>
+			</offer>
+			<offer id="4389" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>223</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4389.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Тортильей Классика</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Тортильей Классика или Барбекью от Hesburger – это стандартная порция картофеля фри, напиток 0,5 (на выбор) и Тортилья Классика или Тортилья Барбекью на выбор!  Кусочки сочного куриного филе, свежий салатик, спелый помидор, кусочки сыра Фета на теплой тортилье! С классическим соусом или более пикантный вариант с соусом Барбекью! Выбирай на свой вкус!.</description>
+			</offer>
+			<offer id="4390" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>228</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>741</categoryId>
+				<picture>http://fasteda.ru/data/big/4390.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обед с Горячей Головой</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Обед с Горячей Головой от Hesburger - это стандартная порция картофеля фри, напиток 0,5 (на выбор) и очень острая Горячая голова! Большая котлета из отборной, сочной высококачественной говядины, свежие листья салата, спелые томаты, сыр Чеддер на большой сдобной булочке с кунжутом, приправлен фирменным папричным соусом и конечно же с добавлением острого и такого пикантного перчика Халапеньо.</description>
+			</offer>
+			<offer id="4391" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4391.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Беконбургер</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Беконбургер от Hesburger – это беконосочно! Отборная высококачественная говядина, хрустящие маринованные огурчики, свежие листья салата, спелые томаты, сыр Чеддер, сочный жареный бекон на сдобной булочке, приправленной пикантным соусом.</description>
+			</offer>
+			<offer id="4392" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>34</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4392.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гамбургер</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Гамбургер от Hesburger – это базовый вариант вкуса! Отборная, сочная высококачественная говядина, репчатый лук, хрустящие маринованные огурчики на сдобной булочке, приправлен кетчупом из спелых томатов, дижонской горчицей высочайшего качества и фирменным огуречным соусом на основе майонеза.</description>
+			</offer>
+			<offer id="4393" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4393.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Двойной Чизбургер</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Двойной чизбургер от Hesburger – это две отборные, рубленные, высококачественные говяжие котлеты, хрустящие маринованные огурчики, сыр Чеддер, репчатый лук на сдобной булочке с кунжутом, приправленной кетчупом, горчицей и фирменным огуречным соусом.</description>
+			</offer>
+			<offer id="4394" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4394.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мега</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Мега от Hesburger – это мега аппетитно и вкусно! Две большие котлеты (150 гр) из отборной, сочной высококачественной говядины, хрустящие маринованные огурчики, свежие листья салата, спелые томаты, сыр Чеддер на большой сдобной булочке с кунжутом, приправлен фирменными огуречным и папричным соусами.</description>
+			</offer>
+			<offer id="4395" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4395.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Минимега</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Минимега от Hesburger – это мега вкусно в компактном размере! Отборная, сочная высококачественная говядина, хрустящие маринованные огурчики, свежие листья салата, сыр Чеддер, спелые томаты, репчатый лук на сдобной булочке, приправлен фирменными огуречным и папричным соусами.</description>
+			</offer>
+			<offer id="4396" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4396.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ржаной бургер</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Ржаной бургер от Hesburger – это самый необычный сэндвич от Hesburger! Сочная свиная отбивная, хрустящие маринованные огурчики, спелые томаты, луковые кольца на ржаной булочке, приправлен фирменными огуречным и папричным соусами.</description>
+			</offer>
+			<offer id="4397" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>87</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4397.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хезбургер</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Хезбургер от Hesburger – это флагманский сэндвич, эталон вкуса! Две котлеты (90 гр) из отборной, сочной высококачественной говядины, репчатый лук, хрустящие маринованные огурчики, свежие листья салата, сыр Чеддер на сдобной булочке с кунжутом, приправлен кетчупом и фирменными огуречным и папричным соусами.</description>
+			</offer>
+			<offer id="4398" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>91</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4398.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хезфиш</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Хезфиш от Hesburger – это Филе норвежской семги в сочетании с листьями свежего салата и фирменного белого соуса от Hesburger на пышной сдобной булочке.</description>
+			</offer>
+			<offer id="4399" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>94</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4399.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хезчикен</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Хезчикен от Hesburger – это Хрустящая котлета из куриной грудки, свежие листья салата, маринованные огурчики, в сочетании с фирменным соусом от Hesburger на длинной сдобной булочке с кунжутом.</description>
+			</offer>
+			<offer id="4401" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>124</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4401.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Горячая голова</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Горячая голова – Новый и очень острый бургер! Большая котлета из отборной, сочной высококачественной говядины, свежие листья салата, спелые томаты, сыр Чеддер на большой сдобной булочке с кунжутом, приправлен фирменным папричным соусом и конечно же с добавлением острого и такого пикантного перчика Халапеньо
+.</description>
+			</offer>
+			<offer id="4400" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4400.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чизбургер</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Чизбургер от Hesburger – это просто и вкусно! Отборная, сочная высококачественная говядина, репчатый лук, хрустящие маринованные огурчики и сыр Чеддер на сдобной булочке, приправлен кетчупом из спелых томатов, дижонской горчицей высочайшего качества и фирменным огуречным соусом на основе майонеза
+.</description>
+			</offer>
+			<offer id="4402" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4402.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тортилья Классика</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Тортилья Классика от Hesburger - это кусочки сочного куриного филе, свежий салатик, спелый помидор, кусочки сыра Фета на теплой тортилье с классическим соусом.</description>
+			</offer>
+			<offer id="4403" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4403.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Тортилья Барбекью</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Тортилья Барбекью от Hesburger - это кусочки сочного куриного филе, свежий салатик, спелый помидор, кусочки сыра Фета на теплой тортилье с пикантным соусом Барбекью
+.</description>
+			</offer>
+			<offer id="4404" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>743</categoryId>
+				<picture>http://fasteda.ru/data/big/4404.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кебаб</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Кебаб от Hesburger – это наивкуснейшее сочетание настоящего Восточного вкуса и знаменитого Финского качества!  Отборная высококачественная говядина, спелые томаты, острый халапеньо, свежая капуста и морковь, все заправлено фирменными соусами от Hesburger!.</description>
+			</offer>
+			<offer id="4405" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4405.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель дольками</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Картофель дольками от Hesburger – это сочные дольки молодого картофеля, обжаренные до золотистого цвета
+
+ 
+.</description>
+			</offer>
+			<offer id="4406" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>42</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4406.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри мал.</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Картофель фри от Hesburger - это прекрасные тонко нарезанные ломтики хрустящего картофеля, обжаренные до золотистого цвета.</description>
+			</offer>
+			<offer id="4407" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4407.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри стандарт.</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Картофель фри от Hesburger - это прекрасные тонко нарезанные ломтики хрустящего картофеля, обжаренные до золотистого цвета.</description>
+			</offer>
+			<offer id="4408" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4408.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри бол.</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Картофель фри от Hesburger - это прекрасные тонко нарезанные ломтики хрустящего картофеля, обжаренные до золотистого цвета.</description>
+			</offer>
+			<offer id="4409" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>72</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4409.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Луковые кольца</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Луковые кольца от Hesburger – это хрустящий сочный лучок в нежном кляре.</description>
+			</offer>
+			<offer id="4410" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>87</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4410.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикеннагетс 6 шт</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Чикеннагетс от Hesburger – это Кусочки свежей курочки в хрустящей панировке, обжаренные до золотистого цвета.</description>
+			</offer>
+			<offer id="4411" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>112</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4411.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикеннагетс 9 шт</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Чикеннагетс от Hesburger – это Кусочки свежей курочки в хрустящей панировке, обжаренные до золотистого цвета.</description>
+			</offer>
+			<offer id="4412" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4412.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикеннагетс 21 шт</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Чикеннагетс от Hesburger – это Кусочки свежей курочки в хрустящей панировке, обжаренные до золотистого цвета.</description>
+			</offer>
+			<offer id="4413" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4413.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриные крылья 4 шт</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Хрустящие куриные крылышки от Hesburger, всегда сочные и щрустящие! Ммммм...... Устоять невозможно!
+.</description>
+			</offer>
+			<offer id="4475" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4475.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриные крылья 8 шт</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Хрустящие куриные крылышки от Hesburger, всегда сочные и щрустящие! Ммммм...... Устоять невозможно!.</description>
+			</offer>
+			<offer id="4476" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>744</categoryId>
+				<picture>http://fasteda.ru/data/big/4476.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриные крылья 21 шт</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Хрустящие куриные крылышки от Hesburger, всегда сочные и щрустящие! Ммммм...... Устоять невозможно!.</description>
+			</offer>
+			<offer id="4414" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>745</categoryId>
+				<picture>http://fasteda.ru/data/big/4414.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Цезарь</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Салат Цезарь от Hesburger – это Свежие листья салата Латук, кусочки нежной куриной грудки, помидоры черри, хрустящие сухарики, с итальянским сыром Пармиджано Реджано заправленный фирменным соусом «Цезарь».</description>
+			</offer>
+			<offer id="4415" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>745</categoryId>
+				<picture>http://fasteda.ru/data/big/4415.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Лайт</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Салат Цезарь Лайт от Hesburger – это Свежие листья салата Латук, помидоры черри, хрустящие сухарики, с итальянским сыром Пармиджано Реджано заправленный фирменным соусом «Цезарь».</description>
+			</offer>
+			<offer id="4419" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>62</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>747</categoryId>
+				<picture>http://fasteda.ru/data/big/4419.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Молочный коктейль мал.</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Молочные коктейли от Hesburger – это Разнообразие вкусов в сочетании со свежим 100 % молоком. Вы можете выбрать шоколадный, ванильный, банановый или клубничный!.</description>
+			</offer>
+			<offer id="4420" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>747</categoryId>
+				<picture>http://fasteda.ru/data/big/4420.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Молочный коктейль стандарт.</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Молочные коктейли от Hesburger – это Разнообразие вкусов в сочетании со свежим 100 % молоком. Вы можете выбрать шоколадный, ванильный, банановый или клубничный!.</description>
+			</offer>
+			<offer id="4416" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>746</categoryId>
+				<picture>http://fasteda.ru/data/big/4416.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мороженое с шоколадным сиропом</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Мороженое от Hesburger – это Вкуснейший десерт, из натурального молока, политый шоколадом или карамелью, а также фруктовыми соусами из киви или клубники на Ваш выбор
+
+ 
+.</description>
+			</offer>
+			<offer id="4429" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>748</categoryId>
+				<picture>http://fasteda.ru/data/big/4429.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус карри </name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>Соусы от компании Heinz сырный, кисло-сладкий, карри, барбекью, томатный кетчуп, а также новинки горчичный и чесночный!.</description>
+			</offer>
+			<offer id="4430" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>748</categoryId>
+				<picture>http://fasteda.ru/data/big/4430.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус барбекью</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4431" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>748</categoryId>
+				<picture>http://fasteda.ru/data/big/4431.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус сырный</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4432" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>748</categoryId>
+				<picture>http://fasteda.ru/data/big/4432.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус кисло-сладкий</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4433" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>748</categoryId>
+				<picture>http://fasteda.ru/data/big/4433.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Томатный кетчуп</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4434" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>748</categoryId>
+				<picture>http://fasteda.ru/data/big/4434.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус горчичный</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4435" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>748</categoryId>
+				<picture>http://fasteda.ru/data/big/4435.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус чесночный</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4436" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4436.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Rich яблочный 0,2 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4437" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4437.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Rich апельсиновый 0,2 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4438" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4438.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Rich вишневый 0,2 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4439" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>67</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4439.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чай холодный Нести лимон 0,5 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4440" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>67</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4440.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чай холодный Нести со вкусом лесных ягод 0,5 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4441" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>67</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4441.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чай холодный Нести со вкусом персика 0,5 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4442" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4442.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вода Бон Аква негаз. 0,5 л </name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4443" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4443.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вода Бон Аква газ. 0,5 л </name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4444" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4444.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кока кола 0,5 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4445" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4445.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фанта 0,5 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4446" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4446.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спрайт 0,5 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4447" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>749</categoryId>
+				<picture>http://fasteda.ru/data/big/4447.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кока кола лайт 0,5 л</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4477" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>756</categoryId>
+				<picture>http://fasteda.ru/data/big/4477.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирожок с вишней</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4478" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>756</categoryId>
+				<picture>http://fasteda.ru/data/big/4478.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирожок с яблоком</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4479" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>756</categoryId>
+				<picture>http://fasteda.ru/data/big/4479.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ромовая вишня</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4480" available="true">
+				<url>http://fasteda.ru/menu/hesburger/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>756</categoryId>
+				<picture>http://fasteda.ru/data/big/4480.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шоколадный апельсин</name>
+				<vendor>Доставка Hesburger</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

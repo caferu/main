@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 14:20">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="2087">Холодные закуски</category>
+			<category id="2088">Салаты</category>
+			<category id="2110">Первые блюда</category>
+			<category id="2089">Вторые блюда</category>
+			<category id="2108">Рыбные блюда</category>
+			<category id="2090">Блюда на мангале</category>
+			<category id="2091">Выпечка</category>
+			<category id="2109">Соусы</category>
+		</categories>
+		<offers>
+			<offer id="12632" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12632.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баклажаны в чесночном соусе</name>
+				<vendor>Чито Гврито</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12633" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12633.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Еладжи</name>
+				<vendor>Чито Гврито</vendor>
+				<description>кукурузная мука твердая вареная с сулугуни
+250 гр.</description>
+			</offer>
+			<offer id="12634" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12634.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощная тарелка</name>
+				<vendor>Чито Гврито</vendor>
+				<description>500.</description>
+			</offer>
+			<offer id="12915" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12915.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баклажаны с грецким орехом</name>
+				<vendor>Чито Гврито</vendor>
+				<description>начинка из острой ореховой пасты с зёрнами граната
+150 гр.</description>
+			</offer>
+			<offer id="12918" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12918.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капуста по-грузински</name>
+				<vendor>Чито Гврито</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12922" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12922.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пхали</name>
+				<vendor>Чито Гврито</vendor>
+				<description>зеленая фасоль с грецкими орехами
+150 гр.</description>
+			</offer>
+			<offer id="12923" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12923.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рыбное ассорти</name>
+				<vendor>Чито Гврито</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="12926" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12926.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сациви с курицей</name>
+				<vendor>Чито Гврито</vendor>
+				<description>нежное куриное бедро под соусом из грецких орехов и домашних мегрельских специй
+150/150 гр.</description>
+			</offer>
+			<offer id="12930" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12930.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соленья ассорти</name>
+				<vendor>Чито Гврито</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12938" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12938.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сыр Сулугуни</name>
+				<vendor>Чито Гврито</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12945" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12945.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Язык отварной говяжий</name>
+				<vendor>Чито Гврито</vendor>
+				<description>75/25 гр.</description>
+			</offer>
+			<offer id="12946" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12946.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджабсандали</name>
+				<vendor>Чито Гврито</vendor>
+				<description>овощное рагу, баклажаны, зеленая фасоль, болгарский перец, лук, приправа
+200 гр.</description>
+			</offer>
+			<offer id="12949" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2087</categoryId>
+				<picture>http://fasteda.ru/data/big/12949.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оджахури в кецах</name>
+				<vendor>Чито Гврито</vendor>
+				<description>кусочки обжареного мяса с добавлением картофеля, свежих томатом, аджики и зелени
+100/150 гр.</description>
+			</offer>
+			<offer id="12635" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2088</categoryId>
+				<picture>http://fasteda.ru/data/big/12635.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Чито</name>
+				<vendor>Чито Гврито</vendor>
+				<description>говядина, курица, лук, перепелиное яйцо, майонез, огурец
+200 гр.</description>
+			</offer>
+			<offer id="12636" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2088</categoryId>
+				<picture>http://fasteda.ru/data/big/12636.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат овощной</name>
+				<vendor>Чито Гврито</vendor>
+				<description>огурцы, помидоры, лук, зелень, болгарский перец, оливки
+150 гр.</description>
+			</offer>
+			<offer id="12637" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2088</categoryId>
+				<picture>http://fasteda.ru/data/big/12637.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фанари</name>
+				<vendor>Чито Гврито</vendor>
+				<description>язык говяжий, редис, сыр, зеленый лук, укроп, майонез
+150 гр.</description>
+			</offer>
+			<offer id="12638" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2088</categoryId>
+				<picture>http://fasteda.ru/data/big/12638.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Деревенский</name>
+				<vendor>Чито Гврито</vendor>
+				<description>ветчина, язык, буженина, свежие огурцы, помидоры, сыр Сулугуни, майонез
+150 гр.</description>
+			</offer>
+			<offer id="12639" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2088</categoryId>
+				<picture>http://fasteda.ru/data/big/12639.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Похмелье</name>
+				<vendor>Чито Гврито</vendor>
+				<description>помидоры, свежие огурцы, баклажаны, зелень, специи, уксус, лук
+200 гр.</description>
+			</offer>
+			<offer id="12640" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2088</categoryId>
+				<picture>http://fasteda.ru/data/big/12640.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат греческий</name>
+				<vendor>Чито Гврито</vendor>
+				<description>салат овощной, сыр сулугуни, маслины
+150 гр.</description>
+			</offer>
+			<offer id="12924" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2088</categoryId>
+				<picture>http://fasteda.ru/data/big/12924.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат по-грузински с орехами</name>
+				<vendor>Чито Гврито</vendor>
+				<description>салат из свежих томатов и огурцов, приправленый зеленью и грецким орехом
+150 гр.</description>
+			</offer>
+			<offer id="12925" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2088</categoryId>
+				<picture>http://fasteda.ru/data/big/12925.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат столичный</name>
+				<vendor>Чито Гврито</vendor>
+				<description>курица, картофель, зелень, огурцы, зеленый горошек, яйцо, майонез
+150 гр.</description>
+			</offer>
+			<offer id="12942" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2110</categoryId>
+				<picture>http://fasteda.ru/data/big/12942.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чанахи</name>
+				<vendor>Чито Гврито</vendor>
+				<description>баранина в горшочке тушеная с баклажанами, томатами, картофелем, паприкой, зеленью и специями
+300 гр.</description>
+			</offer>
+			<offer id="12641" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12641.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чито Гврито</name>
+				<vendor>Чито Гврито</vendor>
+				<description>телятина, сыр Сулугуни, картофель фри, грибы жареные, баклажаны, помидоры свежие, болгарский перец
+300 гр.</description>
+			</offer>
+			<offer id="12642" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12642.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грибы чкмерули в кецах</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12643" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12643.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Люля-Кебаб</name>
+				<vendor>Чито Гврито</vendor>
+				<description>говядина, свинина, лук, зелень, приправы
+250 гр.</description>
+			</offer>
+			<offer id="12644" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12644.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рафаэлло</name>
+				<vendor>Чито Гврито</vendor>
+				<description>Сырные шарики жареные
+200 гр.</description>
+			</offer>
+			<offer id="12645" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12645.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лангет с телятиной</name>
+				<vendor>Чито Гврито</vendor>
+				<description>отбивная телятина, картофель жареный, приправы
+100/50 гр.</description>
+			</offer>
+			<offer id="12646" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12646.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Купаты по имеретински</name>
+				<vendor>Чито Гврито</vendor>
+				<description>в натуральной оболочке
+200 гр.</description>
+			</offer>
+			<offer id="12647" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12647.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Перепелка 2 шт</name>
+				<vendor>Чито Гврито</vendor>
+				<description>300 гр.</description>
+			</offer>
+			<offer id="12916" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12916.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Джигирис чашушули в кецах</name>
+				<vendor>Чито Гврито</vendor>
+				<description>говяжьи потроха, тушеные с томатами, зеленью, луком и специями
+200 гр.</description>
+			</offer>
+			<offer id="12917" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12917.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Долма</name>
+				<vendor>Чито Гврито</vendor>
+				<description>рубленное мясо со специями в виноградных листьях
+200 гр.</description>
+			</offer>
+			<offer id="12919" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12919.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Котлеты по-грузински с пюре</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200/300 гр.</description>
+			</offer>
+			<offer id="12920" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12920.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кучмачи в кецах</name>
+				<vendor>Чито Гврито</vendor>
+				<description>нежные телячьи потрошка со специями и гранатовыми зернами
+200 гр.</description>
+			</offer>
+			<offer id="12921" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12921.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобио по-грузински</name>
+				<vendor>Чито Гврито</vendor>
+				<description>красная перетертая фасоль с особой аджикой, кинзой и специями
+250 гр.</description>
+			</offer>
+			<offer id="12937" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12937.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сыр сулугуни жареный в кецах</name>
+				<vendor>Чито Гврито</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="12940" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12940.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хинкалии</name>
+				<vendor>Чито Гврито</vendor>
+				<description>большие грузинские пельмени с сочным мясным фаршем
+300 гр.</description>
+			</offer>
+			<offer id="12941" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12941.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цыпленок табака</name>
+				<vendor>Чито Гврито</vendor>
+				<description>1 шт.</description>
+			</offer>
+			<offer id="12943" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12943.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чахобили</name>
+				<vendor>Чито Гврито</vendor>
+				<description>курица, лук, томаты, зелень, приправы
+250 гр.</description>
+			</offer>
+			<offer id="12944" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12944.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чкмирули в кецах</name>
+				<vendor>Чито Гврито</vendor>
+				<description>ципленок запеченный по чкмерскому рецепту в специях и чесночном соусе
+300 гр.</description>
+			</offer>
+			<offer id="12947" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12947.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оджахури в кецах из свинины</name>
+				<vendor>Чито Гврито</vendor>
+				<description>кусочки обжареного мяса с добавлением картофеля, свежих томатом, аджики и зелени
+100/150 гр.</description>
+			</offer>
+			<offer id="12948" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12948.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оджахури в кецах из баранины</name>
+				<vendor>Чито Гврито</vendor>
+				<description>кусочки обжареного мяса с добавлением картофеля, свежих томатом, аджики и зелени
+100/150 гр.</description>
+			</offer>
+			<offer id="12950" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12950.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык в кецах из свинины</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12951" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12951.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык в кецах из баранины</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12952" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12952.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык в кецах из телятины</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12953" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2089</categoryId>
+				<picture>http://fasteda.ru/data/big/12953.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык в кецах из кури</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12927" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2108</categoryId>
+				<picture>http://fasteda.ru/data/big/12927.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Семга в баже</name>
+				<vendor>Чито Гврито</vendor>
+				<description>соус с грецким орехом
+150/150 гр.</description>
+			</offer>
+			<offer id="12928" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2108</categoryId>
+				<picture>http://fasteda.ru/data/big/12928.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Семга в киндзмаре</name>
+				<vendor>Чито Гврито</vendor>
+				<description>соус из кинзы в виноградном уксусе
+150 гр.</description>
+			</offer>
+			<offer id="12929" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2108</categoryId>
+				<picture>http://fasteda.ru/data/big/12929.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Семга жареная</name>
+				<vendor>Чито Гврито</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12648" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2090</categoryId>
+				<picture>http://fasteda.ru/data/big/12648.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриные крылышки</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12649" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2090</categoryId>
+				<picture>http://fasteda.ru/data/big/12649.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из курицы</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12650" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2090</categoryId>
+				<picture>http://fasteda.ru/data/big/12650.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из свинины</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12651" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2090</categoryId>
+				<picture>http://fasteda.ru/data/big/12651.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из баранины</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12652" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2090</categoryId>
+				<picture>http://fasteda.ru/data/big/12652.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из телятины</name>
+				<vendor>Чито Гврито</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12653" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2091</categoryId>
+				<picture>http://fasteda.ru/data/big/12653.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури лобиани</name>
+				<vendor>Чито Гврито</vendor>
+				<description>с фасолью
+600 гр.</description>
+			</offer>
+			<offer id="12654" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2091</categoryId>
+				<picture>http://fasteda.ru/data/big/12654.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури по-аджарски</name>
+				<vendor>Чито Гврито</vendor>
+				<description>пышный открытый пирог с начинкой из сыра Сулугуни со слегка запеченным яйцом и маслом
+300 гр.</description>
+			</offer>
+			<offer id="12655" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2091</categoryId>
+				<picture>http://fasteda.ru/data/big/12655.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури слоёный</name>
+				<vendor>Чито Гврито</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="12656" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2091</categoryId>
+				<picture>http://fasteda.ru/data/big/12656.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури по имеретински</name>
+				<vendor>Чито Гврито</vendor>
+				<description>Круглый закрытый пирог с начинкой из сыра Сулугуни и имеретинского сыра
+300 гр.</description>
+			</offer>
+			<offer id="12657" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2091</categoryId>
+				<picture>http://fasteda.ru/data/big/12657.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури особый</name>
+				<vendor>Чито Гврито</vendor>
+				<description>двойной
+600 гр.</description>
+			</offer>
+			<offer id="12658" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2091</categoryId>
+				<picture>http://fasteda.ru/data/big/12658.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури Кубдари с мясом</name>
+				<vendor>Чито Гврито</vendor>
+				<description>острый пирог с рубленым мясом свинины и говядины с добавлением специально привезенной сванской ароматной специи
+400 гр.</description>
+			</offer>
+			<offer id="12659" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2091</categoryId>
+				<picture>http://fasteda.ru/data/big/12659.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лаваш из тандыра</name>
+				<vendor>Чито Гврито</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12660" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2091</categoryId>
+				<picture>http://fasteda.ru/data/big/12660.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лаваш</name>
+				<vendor>Чито Гврито</vendor>
+				<description>120 гр.</description>
+			</offer>
+			<offer id="12939" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2091</categoryId>
+				<picture>http://fasteda.ru/data/big/12939.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури по-мегрельски</name>
+				<vendor>Чито Гврито</vendor>
+				<description>сулугуни в тесте, сверху засыпан тертым сыром
+300 гр.</description>
+			</offer>
+			<offer id="12931" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2109</categoryId>
+				<picture>http://fasteda.ru/data/big/12931.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджика</name>
+				<vendor>Чито Гврито</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="12932" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2109</categoryId>
+				<picture>http://fasteda.ru/data/big/12932.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус сацибели</name>
+				<vendor>Чито Гврито</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="12933" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2109</categoryId>
+				<picture>http://fasteda.ru/data/big/12933.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Белый соус чесночный</name>
+				<vendor>Чито Гврито</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="12934" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2109</categoryId>
+				<picture>http://fasteda.ru/data/big/12934.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ткемали</name>
+				<vendor>Чито Гврито</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="12935" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2109</categoryId>
+				<picture>http://fasteda.ru/data/big/12935.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сметана</name>
+				<vendor>Чито Гврито</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="12936" available="true">
+				<url>http://fasteda.ru/menu/chitogvrito/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2109</categoryId>
+				<picture>http://fasteda.ru/data/big/12936.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баже с грецким орехом</name>
+				<vendor>Чито Гврито</vendor>
+				<description>50 гр.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

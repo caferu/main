@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:41">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="2008">Салаты и холодные закуски</category>
+			<category id="2009">Супы</category>
+			<category id="2010">Горячие блюда</category>
+			<category id="2011">Пиццы</category>
+			<category id="2012">Роллы и суши</category>
+			<category id="2013">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="12019" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12019.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Холодная закуска с лососем</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Салат с лососем и муссом из сыра Фета в блинчике, 1/270гр.</description>
+			</offer>
+			<offer id="12125" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12125.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Оливье»</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Традиционный салат «Оливье» с телячьим языком, 1/310гр.</description>
+			</offer>
+			<offer id="12020" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12020.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобио из красной фасоли</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Лобио из красной фасоли с грецкими орехами и кинзой, 1/220/5/5гр.</description>
+			</offer>
+			<offer id="12021" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12021.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сациви из куриного филе</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Сациви из куриного филе в соусе из грецкого ореха, 1/150/70/15гр.</description>
+			</offer>
+			<offer id="12022" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12022.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось пряного посола</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Лосось пряного посола ломтиками с лимоном, каперсами, оливками и укропом, 1/90/35/40гр.</description>
+			</offer>
+			<offer id="12023" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12023.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясная закуска</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Домашняя буженина, отварной язык и ростбиф с горчицей и хреном, 1/105/80/50гр.</description>
+			</offer>
+			<offer id="12024" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12024.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти из маринованных и соленых грибов</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Aссорти из лесных грибов: грузди, боровики, опята, 1/90/45/190гр.</description>
+			</offer>
+			<offer id="12025" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12025.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти кавказских солений</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Ассорти кавказских солений из зеленых помидоров, соленых огурцов, черемши, маринованного чеснока, маринованных помидоров и острого перца, 1/365гр.</description>
+			</offer>
+			<offer id="12026" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12026.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашняя солонина</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Слегка подмаринованные ломтики говяжьей вырезки с чесночным соусом и овощами, 1/80/30гр.</description>
+			</offer>
+			<offer id="12027" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12027.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Полведра раков</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Cваренных по шведскому рецепту в пиве с морской солью, укропом, черным перцем, ароматными кореньями и лавровым листом, 500/300/30гр.</description>
+			</offer>
+			<offer id="12028" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12028.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки цыпленка гриль</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Крылышки гриль из цыпленка в остром мексиканском соусе,
+1/255/70/30гр.</description>
+			</offer>
+			<offer id="12029" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12029.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пти Плато де Фромаж</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Маленькая сырная тарелка с какамбером, бри, шевр и домашним луковым мармеладом, 1/105/50/10/30/30 гр.</description>
+			</offer>
+			<offer id="12030" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12030.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Патэ Ле Дуо</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Дуэт паштетов из кроличьей и телячьей печени с крестьянским маслом, луковым мармеладом и целым багетом, 1/90/90/40/250 гр.</description>
+			</offer>
+			<offer id="12031" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12031.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Де Бетрав Кюи Фромаж де Шевр эт Пиньон де Пан</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Салат с печеной свеклой, козьим сыром, красным виноградом, грецким орехом и кедровыми орехами, 1/240гр.</description>
+			</offer>
+			<offer id="12032" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2008</categoryId>
+				<picture>http://fasteda.ru/data/big/12032.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рийет де Канар</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Паштет из утиного мяса с двумя видами мармелада и целым багетом, 1/90/50/20/20/250гр.</description>
+			</offer>
+			<offer id="12033" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2009</categoryId>
+				<picture>http://fasteda.ru/data/big/12033.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха царская с растегаем</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Паштет из утиного мяса с двумя видами мармелада и целым багетом, 1/90/50/20/20/250гр.</description>
+			</offer>
+			<offer id="12034" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2009</categoryId>
+				<picture>http://fasteda.ru/data/big/12034.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чанахи с бараниной</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Чанахи с бараниной, дольками из картофеля и баклажан, 1/350гр.</description>
+			</offer>
+			<offer id="12035" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2009</categoryId>
+				<picture>http://fasteda.ru/data/big/12035.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Харчо</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Суп Харчо из телятины, 1/400/50гр.</description>
+			</offer>
+			<offer id="12036" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2009</categoryId>
+				<picture>http://fasteda.ru/data/big/12036.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп де Пуассон а-ля Марсель</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Уха по-марсельски из трех видов рыбы на крепком шафранном бульоне с креветками, мидиями и кальмарами, 1/300/30/30/30гр.</description>
+			</offer>
+			<offer id="12037" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2009</categoryId>
+				<picture>http://fasteda.ru/data/big/12037.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мисо-суп</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Классический японский мисо-суп, 1/450гр.</description>
+			</offer>
+			<offer id="12038" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2009</categoryId>
+				<picture>http://fasteda.ru/data/big/12038.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Том Ям Кунг</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Тайский острый суп с королевской креветкой,  1/500/100гр.</description>
+			</offer>
+			<offer id="12039" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2009</categoryId>
+				<picture>http://fasteda.ru/data/big/12039.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Том Кха Кай</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Tайский кокосовый суп с куриным филе и рисом, 1/500/100гр.</description>
+			</offer>
+			<offer id="12040" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2009</categoryId>
+				<picture>http://fasteda.ru/data/big/12040.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тайский сливочный суп с угрем</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Сливочный суп с угрем, 1/315гр.</description>
+			</offer>
+			<offer id="12041" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2009</categoryId>
+				<picture>http://fasteda.ru/data/big/12041.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тайский куриный суп</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Тайский куриный суп с рисовой лапшой, вонтонами и куриным филе, 1/385гр.</description>
+			</offer>
+			<offer id="12042" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12042.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиные ребрышки барбекю</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Свиные ребрышки барбекю, 1/250гр.</description>
+			</offer>
+			<offer id="12043" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12043.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Половинка маринованного цыпленка</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Половинка маринованного цыпленка, обжаренная на гриле с острой сальсой, 1/450/50гр.</description>
+			</offer>
+			<offer id="12044" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12044.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Острый венгерский гуляш из говядины</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Острый венгерский гуляш из говядины, 1/280/180/50гр.</description>
+			</offer>
+			<offer id="12045" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12045.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из лосося</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Стейк из лосося, припущенный в белом вине с горчично-сливочным соусом, 1/150/50/50гр.</description>
+			</offer>
+			<offer id="12046" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12046.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Большой кусок свинины</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Большой кусок свинины с картофелем Айдахо, 1/216/240/30гр.</description>
+			</offer>
+			<offer id="12047" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12047.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Долма</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Долма с рубленой говядиной и бараниной с зеленью и сметаной, 1/200/50гр.</description>
+			</offer>
+			<offer id="12048" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12048.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Большой Кайзер-гамбургер</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>C говяжьей котлетой гриль, сыром, маринованными огурцами, томатами и зеленым салатом, с картофелем фри и острым томатным соусом,  1/388/130/30гр.</description>
+			</offer>
+			<offer id="12049" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12049.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кассероль о Де Пуассон</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Кассероль из двух видов рыбы: лосося и судака с картофельным пюре, 1/150/250гр.</description>
+			</offer>
+			<offer id="12050" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12050.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сандр а-ля соус Оланьез</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Судак под голландским соусом на омлете с овощным жульеном, 1/140/80/50/50гр.</description>
+			</offer>
+			<offer id="12051" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12051.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сотэ де Фрюи де Мер</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Сотэ из креветок, кальмаров, мидий и филе судака, припущеные в белом вине и сливочном масле с фенхелем, сельдереем и луком шалот, 1/400гр.</description>
+			</offer>
+			<offer id="12052" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12052.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кюсс де канар Конфи</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Утиная ножка Конфи с печеным яблоком и вишнево-клюквенным соусом, 1/150/120/50гр.</description>
+			</offer>
+			<offer id="12053" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12053.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супрем де Пижон Эскарго</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Голубь с жареными белыми грибами и виноградными улитками, 1/130/70/50/40гр.</description>
+			</offer>
+			<offer id="12054" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12054.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рагу де Лапан</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Рагу из кролика с картофельным пюре, 1/200/250/100гр.</description>
+			</offer>
+			<offer id="12055" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12055.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паровые вонтоны с говядиной и свининой, 1/160/35гр</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Паровые вонтоны с говядиной и свининой, 1/160/35гр.</description>
+			</offer>
+			<offer id="12056" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12056.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гёдза со свининой и креветками</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Гёдза (китайские пельмени) со свининой и креветками, 1/150/30гр.</description>
+			</offer>
+			<offer id="12057" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2010</categoryId>
+				<picture>http://fasteda.ru/data/big/12057.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гёдза с вишней</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Гёдза (китайские пельмени) с вишней, 1/130/40/5/5гр.</description>
+			</offer>
+			<offer id="12058" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2011</categoryId>
+				<picture>http://fasteda.ru/data/big/12058.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с моцареллой</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Пицца с моцареллой, соусом из помидоров и оливками, 1/510гр.</description>
+			</offer>
+			<offer id="12059" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2011</categoryId>
+				<picture>http://fasteda.ru/data/big/12059.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца 4 сыра</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Пицца с моцареллой, эмменталем, пармезаном и дор блю, 1/360гр.</description>
+			</offer>
+			<offer id="12060" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2011</categoryId>
+				<picture>http://fasteda.ru/data/big/12060.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с беконом</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Пицца с беконом, яйцом и сыром пармезан, 1/400гр.</description>
+			</offer>
+			<offer id="12061" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2011</categoryId>
+				<picture>http://fasteda.ru/data/big/12061.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с креветками</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Пицца с креветками, грибами и ветчиной, 1/360гр.</description>
+			</offer>
+			<offer id="12062" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2012</categoryId>
+				<picture>http://fasteda.ru/data/big/12062.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Запеченные суши-ассорти</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Суши с лососем 2шт., с крабом 2шт., с угрем 2шт.,  1/80/80/80/20/5/5гр.</description>
+			</offer>
+			<offer id="12063" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2012</categoryId>
+				<picture>http://fasteda.ru/data/big/12063.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Запеченные суши-ассорти на двоих</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Суши с лососем 2шт., с крабом 2шт., с угрем 2шт., ролл Хидэёши, 1/80/80/80/210/20/5/5гр .</description>
+			</offer>
+			<offer id="12064" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>890</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2012</categoryId>
+				<picture>http://fasteda.ru/data/big/12064.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Большое японское ассорти</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Ролл Филадельфия, ролл Унаги Анигара, ролл Калифорния тобико, нигири с лососем 2шт., нигири с угрем 2шт., нигири с креветкой 2шт., 1/230/185/200/80/80/80/20/5/5гр .</description>
+			</offer>
+			<offer id="12065" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2012</categoryId>
+				<picture>http://fasteda.ru/data/big/12065.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Калифорния</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Ролл Калифорния с крабом и тобико, 1/200/20/5/5гр.</description>
+			</offer>
+			<offer id="12066" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2012</categoryId>
+				<picture>http://fasteda.ru/data/big/12066.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Калифорния с лососем</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Ролл Калифорния с лососем, 1/230/20/5/5гр.</description>
+			</offer>
+			<offer id="12067" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2012</categoryId>
+				<picture>http://fasteda.ru/data/big/12067.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Дракон</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Ролл с крабовым мясом, филе угря Унаги, авокадо и огурцом, 1/265/20/5/5гр.</description>
+			</offer>
+			<offer id="12068" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2012</categoryId>
+				<picture>http://fasteda.ru/data/big/12068.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Запеченный ролл Хидэёши</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Запеченный ролл Хидэёши с лососем, авокадо и огурцом, 1/210/20/5/5гр.</description>
+			</offer>
+			<offer id="12069" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2012</categoryId>
+				<picture>http://fasteda.ru/data/big/12069.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Унаги Анигара</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Ролл Унаги Анигара с сыром Филадельфия, угрем, авокадо и огурцом, 1/185/20/5/5гр.</description>
+			</offer>
+			<offer id="12070" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2012</categoryId>
+				<picture>http://fasteda.ru/data/big/12070.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Филадельфия</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Ролл Филадельфия с лососем, авокадо и огурцом, 1/230/20/5/5гр.</description>
+			</offer>
+			<offer id="12071" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12071.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс клюквенный</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>0,5л.</description>
+			</offer>
+			<offer id="12072" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12072.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фруктовый микс-компот</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Фруктовый компот из свежих фруктов, 0,5л.</description>
+			</offer>
+			<offer id="12073" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12073.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс черносмородиновый</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>0,5л.</description>
+			</offer>
+			<offer id="12074" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12074.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Апельсиновый фрэш</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Свежевыжатый апельсиновый сок, 0,5л.</description>
+			</offer>
+			<offer id="12075" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12075.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Яблочный фрэш</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Свежевыжатый яблочный сок, 0,5л.</description>
+			</offer>
+			<offer id="12076" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12076.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грейпфрутовый фрэш</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Свежевыжатый грейпфрутовый сок, 0,5л.</description>
+			</offer>
+			<offer id="12077" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12077.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морковный сок</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Свежевыжатый морковный сок, 0,5л.</description>
+			</offer>
+			<offer id="12078" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12078.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сельдереевый сок</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Свежевыжатый сельдереевый сок, 0,5л.</description>
+			</offer>
+			<offer id="12079" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12079.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода Бадуа</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Бутылка 0,33л.</description>
+			</offer>
+			<offer id="12080" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12080.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода Эвиан</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Бутылка 0,33л.</description>
+			</offer>
+			<offer id="12081" available="true">
+				<url>http://fasteda.ru/menu/bering/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2013</categoryId>
+				<picture>http://fasteda.ru/data/big/12081.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода Ессентуки17</name>
+				<vendor>Ресторан Беринг</vendor>
+				<description>Бутылка 0,5л.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

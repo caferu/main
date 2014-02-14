@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-12 05:14">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="2045">Классические сабы</category>
+			<category id="2046">Чиабатта</category>
+			<category id="2047">Деликатесные сабы</category>
+			<category id="2048">Премиум салаты и рэпсы</category>
+			<category id="2049">Супы</category>
+			<category id="2077">Печенье</category>
+			<category id="2078">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="12310" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2045</categoryId>
+				<picture>http://fasteda.ru/data/big/12310.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Классик Италия ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Пепперони,салями, капикола, ветчина, моцарелла, соус с винным уксусом, томаты, оливки, лук, айсберг.</description>
+			</offer>
+			<offer id="12311" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2045</categoryId>
+				<picture>http://fasteda.ru/data/big/12311.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Индейка с двойным сыром  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Индейка, швейцарский сыр, соус рэнч, лук, томаты, айсберг.</description>
+			</offer>
+			<offer id="12312" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2045</categoryId>
+				<picture>http://fasteda.ru/data/big/12312.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тунец с сыром чеддер  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Тунец, сыр чеддер, соус с винным уксусом, томаты, айсберг.</description>
+			</offer>
+			<offer id="12313" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2045</categoryId>
+				<picture>http://fasteda.ru/data/big/12313.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Клаб Классик  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Индейка, ветчина, бекон, чеддер, майонез, томаты, айсберг.</description>
+			</offer>
+			<offer id="12314" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2045</categoryId>
+				<picture>http://fasteda.ru/data/big/12314.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной с гуакамоле  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Моцарелла, чеддер, соус гуакамоле из авокадо, соус с винным уксусом, овощи на ваш выбор.</description>
+			</offer>
+			<offer id="12315" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>339</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2046</categoryId>
+				<picture>http://fasteda.ru/data/big/12315.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свинина по-техасски  ∅ 30 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Свинина, моцарелла, чеддер, соус барбекю, горчица, соленые огурчики.</description>
+			</offer>
+			<offer id="12316" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>339</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2046</categoryId>
+				<picture>http://fasteda.ru/data/big/12316.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Классик Италия  ∅ 30 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Пепперони, салями, капикола, ветчина, моцарелла, соус с винным уксусом, томаты, оливки, лук, айсберг.</description>
+			</offer>
+			<offer id="12317" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>339</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2046</categoryId>
+				<picture>http://fasteda.ru/data/big/12317.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Индейка Клаб с беконом  ∅ 30 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Индейка, бекон, чеддер, майонез, томаты, айсберг.</description>
+			</offer>
+			<offer id="12318" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2047</categoryId>
+				<picture>http://fasteda.ru/data/big/12318.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Перечный Прайм Риб  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Говядина, моцарелла, мягкий перечный соус, жареный лук.</description>
+			</offer>
+			<offer id="12319" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2047</categoryId>
+				<picture>http://fasteda.ru/data/big/12319.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свинина по-техасски  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Свинина, чеддер, моцарелла, соус барбекю, горчица, соленые огурчики.</description>
+			</offer>
+			<offer id="12320" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2047</categoryId>
+				<picture>http://fasteda.ru/data/big/12320.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чикен Карбонара  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Курица, бекон, моцарелла, соус альфредо, жареные грибы.</description>
+			</offer>
+			<offer id="12321" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2047</categoryId>
+				<picture>http://fasteda.ru/data/big/12321.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баха Чикен  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Курица, бекон, чеддер, соус барбекю, майонез острый, лук.</description>
+			</offer>
+			<offer id="12322" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2047</categoryId>
+				<picture>http://fasteda.ru/data/big/12322.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мэскит Чикен  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Курица, бекон, чеддер, соус рэнч, томаты, лук, айсберг.</description>
+			</offer>
+			<offer id="12323" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2047</categoryId>
+				<picture>http://fasteda.ru/data/big/12323.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баварский Чикен  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>Курица, бекон, швейцарский сыр, горчица сладкая, томаты, лук, айсберг.</description>
+			</offer>
+			<offer id="12324" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2047</categoryId>
+				<picture>http://fasteda.ru/data/big/12324.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Прайм Риб с двойным сыром  ∅ 15 см</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12325" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2048</categoryId>
+				<picture>http://fasteda.ru/data/big/12325.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Харвест Чикен</name>
+				<vendor>Quiznos</vendor>
+				<description>Курица, сладкая горчица, черничный соус, яблоки, виноград, томаты, огурцы, клюква сушеная, тыквенные семечки, микс салатов.</description>
+			</offer>
+			<offer id="12326" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2048</categoryId>
+				<picture>http://fasteda.ru/data/big/12326.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чикен Цезарь</name>
+				<vendor>Quiznos</vendor>
+				<description>Курица, пармезан, томаты, соус цезарь перечный, микс салатов.</description>
+			</offer>
+			<offer id="12327" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2048</categoryId>
+				<picture>http://fasteda.ru/data/big/12327.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чикен Цацики</name>
+				<vendor>Quiznos</vendor>
+				<description>Курица, пармезан, томаты, огурцы, оливки, соус греческий цацики, микс салатов.</description>
+			</offer>
+			<offer id="12328" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2048</categoryId>
+				<picture>http://fasteda.ru/data/big/12328.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баварский Чикен</name>
+				<vendor>Quiznos</vendor>
+				<description>Курица, бекон, чеддер, сладкая горчица, томаты, микс салатов.</description>
+			</offer>
+			<offer id="12329" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2049</categoryId>
+				<picture>http://fasteda.ru/data/big/12329.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Брокколи и сыр</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12330" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2049</categoryId>
+				<picture>http://fasteda.ru/data/big/12330.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем-суп грибной</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12331" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2049</categoryId>
+				<picture>http://fasteda.ru/data/big/12331.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чикен с лапшой</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12332" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2049</categoryId>
+				<picture>http://fasteda.ru/data/big/12332.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12565" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2077</categoryId>
+				<picture>http://fasteda.ru/data/big/12565.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овсяное с изюмом</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12567" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2077</categoryId>
+				<picture>http://fasteda.ru/data/big/12567.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овсяное с шоколадом</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12568" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2077</categoryId>
+				<picture>http://fasteda.ru/data/big/12568.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овсяное с корицей</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12569" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2077</categoryId>
+				<picture>http://fasteda.ru/data/big/12569.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овсяное и мороженое</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12590" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2078</categoryId>
+				<picture>http://fasteda.ru/data/big/12590.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-кола 0,5 л</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12591" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2078</categoryId>
+				<picture>http://fasteda.ru/data/big/12591.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фанта 0,5 л</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12592" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2078</categoryId>
+				<picture>http://fasteda.ru/data/big/12592.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спраит 0,5 л</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12570" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2078</categoryId>
+				<picture>http://fasteda.ru/data/big/12570.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эспрессо</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12571" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2078</categoryId>
+				<picture>http://fasteda.ru/data/big/12571.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Американо</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12572" available="true">
+				<url>http://fasteda.ru/menu/quiznos/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2078</categoryId>
+				<picture>http://fasteda.ru/data/big/12572.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капучино</name>
+				<vendor>Quiznos</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 21:08">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1095">Пицца 2 начинки</category>
+			<category id="1098">Пицца 3 начинки</category>
+			<category id="1100">Пицца 4 начинки</category>
+			<category id="1102">Пицца 5 начинок</category>
+			<category id="1104">Салаты</category>
+			<category id="1108">Котцоне</category>
+		</categories>
+		<offers>
+			<offer id="6549" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6549.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Опера ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, ветчина.</description>
+			</offer>
+			<offer id="6550" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6550.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Опера ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, ветчина.</description>
+			</offer>
+			<offer id="6557" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6557.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Алла Полло ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, кусочки цыпленка, ананас.</description>
+			</offer>
+			<offer id="6558" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6558.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Алла Полло ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, кусочки цыпленка, ананас.</description>
+			</offer>
+			<offer id="6555" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6555.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепперони ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, колбаса «Пепперони».</description>
+			</offer>
+			<offer id="6556" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6556.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепперони ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, колбаса «Пепперони».</description>
+			</offer>
+			<offer id="6551" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6551.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Каприччиозо ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, шампиньоны.</description>
+			</offer>
+			<offer id="6552" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6552.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Каприччиозо ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, шампиньоны.</description>
+			</offer>
+			<offer id="6553" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6553.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тропикана ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, ананас.</description>
+			</offer>
+			<offer id="6554" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6554.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тропикана ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, ананас.</description>
+			</offer>
+			<offer id="6631" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6631.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маргарита ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6632" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1095</categoryId>
+				<picture>http://fasteda.ru/data/big/6632.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маргарита ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6582" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6582.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Поло Мексикана ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ананас, филе цыпленка, перец «Халапенью».</description>
+			</offer>
+			<offer id="6581" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6581.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Поло Мексикана ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ананас, филе цыпленка, перец «Халапенью».</description>
+			</offer>
+			<offer id="6579" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6579.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, грибы, цыпленок, красный лук.</description>
+			</offer>
+			<offer id="6580" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6580.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная ∅38 см.</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, грибы, цыпленок, красный лук.</description>
+			</offer>
+			<offer id="6578" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6578.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашняя ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, бекон,шампиньоны.</description>
+			</offer>
+			<offer id="6577" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6577.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашняя ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, бекон,шампиньоны.</description>
+			</offer>
+			<offer id="6570" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6570.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Американа ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, ананас, сыр с синей плесенью.</description>
+			</offer>
+			<offer id="6571" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6571.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Американа ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, ананас, сыр с синей плесенью.</description>
+			</offer>
+			<offer id="6572" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6572.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Полло Американа ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, кусочки цыпленка, ананас, сыр с синей плесенью.</description>
+			</offer>
+			<offer id="6573" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6573.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Полло Американа ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, кусочки цыпленка, ананас, сыр с синей плесенью.</description>
+			</offer>
+			<offer id="6575" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6575.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С беконом ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, куриное яйцо, красный лук.</description>
+			</offer>
+			<offer id="6576" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6576.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С беконом ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, куриное яйцо, красный лук.</description>
+			</offer>
+			<offer id="6561" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6561.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фрутти Ди Маре ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, крабовое мясо, мидии.</description>
+			</offer>
+			<offer id="6563" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6563.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фрутти Ди Маре ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, крабовое мясо, мидии.</description>
+			</offer>
+			<offer id="6564" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6564.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спешл Опера ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, ветчина, салями.</description>
+			</offer>
+			<offer id="6565" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6565.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спешл Опера ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, ветчина, салями.</description>
+			</offer>
+			<offer id="6566" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6566.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Качиатора ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, салями, перец сладкий, оливки.</description>
+			</offer>
+			<offer id="6567" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6567.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Качиатора ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, салями, перец сладкий, оливки.</description>
+			</offer>
+			<offer id="6568" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6568.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вегетариана ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, оливки, перец сладкий, шампиньоны.</description>
+			</offer>
+			<offer id="6569" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6569.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вегетариана ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, оливки, перец сладкий, шампиньоны.</description>
+			</offer>
+			<offer id="6559" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6559.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Классика ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный сосу, сыр, ветчина, салями, шампиньоны. </description>
+			</offer>
+			<offer id="6560" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1098</categoryId>
+				<picture>http://fasteda.ru/data/big/6560.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Классика ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, салями, шампиньоны.</description>
+			</offer>
+			<offer id="6603" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6603.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Перфетта ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, 4 начинки по вашему выбору.</description>
+			</offer>
+			<offer id="6604" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6604.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Перфетта ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, 4 начинки по вашему выбору.</description>
+			</offer>
+			<offer id="6599" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6599.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Белиссимо ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, шампиньоны, перец сладкий, свежие помидоры.</description>
+			</offer>
+			<offer id="6600" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6600.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Белиссимо ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, шампиньоны, перец сладкий, свежие помидоры.</description>
+			</offer>
+			<offer id="6601" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6601.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мексикана ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, свежие помидоры, пепперони, маринованные огурчики.</description>
+			</offer>
+			<offer id="6602" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6602.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мексикана ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, свежие помидоры, пепперони, маринованные огурчики.</description>
+			</offer>
+			<offer id="6590" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6590.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>4 сыра ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр Чеддер, сыр Эмменталь, сыр с голубой плесенью, сыр Пармезан.</description>
+			</offer>
+			<offer id="6591" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6591.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>4 сыра ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр Чеддер, сыр Эмменталь, сыр с голубой плесенью, сыр Пармезан.</description>
+			</offer>
+			<offer id="6592" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6592.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фрутти Ди Маре + ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, креветки, крабовое мясо, мидии.</description>
+			</offer>
+			<offer id="6593" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6593.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фрутти Ди Маре + ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, креветки, крабовое мясо, мидии.</description>
+			</offer>
+			<offer id="6594" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6594.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греческая ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, маслины, свежие помидоры, сыр Фета.</description>
+			</offer>
+			<offer id="6595" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6595.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греческая ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, маслины, свежие помидоры, сыр Фета.</description>
+			</offer>
+			<offer id="6597" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6597.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пасса ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, ветчина, свежие помидоры, маринованные огурчики.</description>
+			</offer>
+			<offer id="6598" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6598.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пасса ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, ветчина, свежие помидоры, маринованные огурчики.</description>
+			</offer>
+			<offer id="6589" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6589.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Барбекью ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, яйцо, салями, красный лук.</description>
+			</offer>
+			<offer id="6588" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6588.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Барбекью ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, яйцо, салями, красный лук.</description>
+			</offer>
+			<offer id="6587" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6587.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вегетариана + ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, оливки, шампиньоны, помидоры, перец сладкий.</description>
+			</offer>
+			<offer id="6586" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6586.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вегетариана + ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, оливки, шампиньоны, помидоры, перец сладкий.</description>
+			</offer>
+			<offer id="6585" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6585.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куатро Стажиони ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, ветчина, шампиньоны, креветки.</description>
+			</offer>
+			<offer id="6584" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1100</categoryId>
+				<picture>http://fasteda.ru/data/big/6584.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куатро Стажиони ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, тунец, ветчина, шампиньоны, креветки.</description>
+			</offer>
+			<offer id="6613" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6613.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Столичная ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, ветчина, кусочки цыпленка, шампиньоны, сладкий перец.</description>
+			</offer>
+			<offer id="6615" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6615.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Столичная ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, ветчина, кусочки цыпленка, шампиньоны, сладкий перец.</description>
+			</offer>
+			<offer id="6618" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6618.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Нью Йорк ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, салями, шампиньоны, сладкий перец, маслины.</description>
+			</offer>
+			<offer id="6619" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6619.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Нью Йорк ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, бекон, салями, шампиньоны, сладкий перец, маслины.</description>
+			</offer>
+			<offer id="6607" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6607.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер мясная ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, салями, пепперони, бекон, кусочки цыпленка.</description>
+			</offer>
+			<offer id="6608" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6608.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер мясная ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, салями, пепперони, бекон, кусочки цыпленка.</description>
+			</offer>
+			<offer id="6609" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6609.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сертаки ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, маслины, свежие помидоры, сыр Фета, перец сладкий.</description>
+			</offer>
+			<offer id="6610" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6610.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сертаки ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, маслины, свежие помидоры, сыр Фета, перец сладкий.</description>
+			</offer>
+			<offer id="6611" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6611.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер Фрутти Ди Маре ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, креветки, мидии, тунец, крабовое мясо, оливки.</description>
+			</offer>
+			<offer id="6612" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6612.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер Фрутти Ди Маре ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, креветки, мидии, тунец, крабовое мясо, оливки.</description>
+			</offer>
+			<offer id="6605" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6605.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер Вегетариана ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, оливки, шампиньоны, красный лук, перец сладкий, помидоры.</description>
+			</offer>
+			<offer id="6606" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6606.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер Вегетариана ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, оливки, шампиньоны, красный лук, перец сладкий, помидоры.</description>
+			</offer>
+			<offer id="6616" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6616.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Деревенская ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, бекон, свежие помидоры, шампиньоны, маринованные огурчики.</description>
+			</offer>
+			<offer id="6617" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1102</categoryId>
+				<picture>http://fasteda.ru/data/big/6617.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Деревенская ∅38 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ветчина, бекон, свежие помидоры, шампиньоны, маринованные огурчики.</description>
+			</offer>
+			<offer id="6621" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1104</categoryId>
+				<picture>http://fasteda.ru/data/big/6621.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Куриный»</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Помидоры, соус на выбор, листовой салат, ананасы, кусочки цыпленка.
+(200 гр).</description>
+			</offer>
+			<offer id="6622" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1104</categoryId>
+				<picture>http://fasteda.ru/data/big/6622.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Морской»</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Креветки, салат, листовой салат, помидоры, оливки, соус на выбор.
+(200 гр).</description>
+			</offer>
+			<offer id="6623" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1104</categoryId>
+				<picture>http://fasteda.ru/data/big/6623.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Витаминный»</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Капуста, морковь, растительное масло.
+(200 гр).</description>
+			</offer>
+			<offer id="6620" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1104</categoryId>
+				<picture>http://fasteda.ru/data/big/6620.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греческий</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Помидоры, огурцы, сладкий перец, красный лук,греческий сыр, оливки, оливковое масло.
+(200 гр).</description>
+			</offer>
+			<offer id="6628" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1108</categoryId>
+				<picture>http://fasteda.ru/data/big/6628.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Перфетта ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, листья салата, соус, 2 начинки по вашему выбору.</description>
+			</offer>
+			<offer id="6629" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1108</categoryId>
+				<picture>http://fasteda.ru/data/big/6629.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вегетариана ∅28 см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, листья салата, соус, шампиньоны, перец сладкий.</description>
+			</offer>
+			<offer id="6630" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1108</categoryId>
+				<picture>http://fasteda.ru/data/big/6630.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепперони ∅28см</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, листья салата, соус, красный лук, колбаса «Пепперони».</description>
+			</offer>
+			<offer id="6627" available="true">
+				<url>http://fasteda.ru/menu/kotipizza/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1108</categoryId>
+				<picture>http://fasteda.ru/data/big/6627.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная ∅28 см.</name>
+				<vendor>Кoti Pizza</vendor>
+				<description>Томатный соус, сыр, ананас, листья салата, кусочки цыпленка, соус.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

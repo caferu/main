@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:37">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="667">Салаты и закуски</category>
+			<category id="665">Дим-самы</category>
+			<category id="663">bollywood</category>
+			<category id="669">Супы</category>
+			<category id="671">Горячие блюда</category>
+			<category id="673">Наборы</category>
+			<category id="675">Роллы и хэнд-роллы</category>
+			<category id="677">Суши и сашими</category>
+			<category id="679">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="4016" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4016.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с тунцом гриль и овощами</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4017" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4017.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат куриный с овощами</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4018" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4018.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с утиной грудкой,фруктами и гранатовым соусом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4019" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4019.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат весенний</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4020" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4020.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рулет с тунцом и копченым лососем</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4021" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4021.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с копченым лососем</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4022" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4022.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Теплый салат с говядиной</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4023" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4023.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Теплый салат с мидиями и креветками</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4024" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4024.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощной спринг-ролл со сливочным сыром и сливовым соусом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4025" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4025.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат  с языком,черри и перепелиным яйцом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4026" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4026.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Морские водоросли с ореховым соусом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4027" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4027.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат куриной печенью и морским гребешком</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4028" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4028.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Карпаччо из тунца с соусом базилик</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4029" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>667</categoryId>
+				<picture>http://fasteda.ru/data/big/4029.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Карпаччо из лосося с соусом базилик</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4005" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4005.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тайские пельмени ХаКао с креветками</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4006" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4006.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареные пельмени со свининой</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4007" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4007.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тайские пельмени СуиМаи с креветками</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4008" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4008.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Булочка на пару со сладким кремом из тыквы</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4009" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4009.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тайские пельмени СуиМаи с крабом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4010" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4010.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тайские пельмени Дамплинг</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4011" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4011.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тайские пельмени СуиМаи с креветками и икрой Тобико</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4012" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4012.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вонтоны с окунем</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4013" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4013.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вонтоны с уткой</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4014" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4014.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №1</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4015" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>665</categoryId>
+				<picture>http://fasteda.ru/data/big/4015.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №2</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3996" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>663</categoryId>
+				<picture>http://fasteda.ru/data/big/3996.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи в темпуре с томатным чатни</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3997" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>663</categoryId>
+				<picture>http://fasteda.ru/data/big/3997.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Самоса с курицей и соусом райта</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3999" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>663</categoryId>
+				<picture>http://fasteda.ru/data/big/3999.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриные крылышки с  соусом тамаринд</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4000" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>663</categoryId>
+				<picture>http://fasteda.ru/data/big/4000.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикен Тандури с соусом индийский карри</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4001" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>663</categoryId>
+				<picture>http://fasteda.ru/data/big/4001.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спринг-ролл с паниром и соусом манговый чатни</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4002" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>663</categoryId>
+				<picture>http://fasteda.ru/data/big/4002.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Окунь в соусе карри с жасминовым рисом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4003" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>663</categoryId>
+				<picture>http://fasteda.ru/data/big/4003.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крем-суп из чечевицы</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4004" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>663</categoryId>
+				<picture>http://fasteda.ru/data/big/4004.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Томатный суп </name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4030" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>669</categoryId>
+				<picture>http://fasteda.ru/data/big/4030.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тыквенный суп с крабом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4031" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>669</categoryId>
+				<picture>http://fasteda.ru/data/big/4031.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рыбный суп с морепродуктами и филе акулы</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4032" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>669</categoryId>
+				<picture>http://fasteda.ru/data/big/4032.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп карри с лапшой удон и куриным филе</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>Острый.</description>
+			</offer>
+			<offer id="4033" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>669</categoryId>
+				<picture>http://fasteda.ru/data/big/4033.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мясной суп с острой капустой кимчи</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>Острый.</description>
+			</offer>
+			<offer id="4034" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>669</categoryId>
+				<picture>http://fasteda.ru/data/big/4034.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сливочный суп с креветками</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4035" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>669</categoryId>
+				<picture>http://fasteda.ru/data/big/4035.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тайский суп Том Ям</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4036" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>669</categoryId>
+				<picture>http://fasteda.ru/data/big/4036.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сингапурский суп Лакса</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>Острый.</description>
+			</offer>
+			<offer id="4037" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>669</categoryId>
+				<picture>http://fasteda.ru/data/big/4037.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Летающая тарелка с морепродуктами и яичной лапшой</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4038" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>669</categoryId>
+				<picture>http://fasteda.ru/data/big/4038.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Летающая тарелка с курицей и яичной лапшой</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4039" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4039.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось на пару с овощами и сладким соевым соусом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4040" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4040.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Окунь на пару</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4041" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4041.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк акулы на пару и сладким соевым соусом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4042" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4042.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сингапурская лапша с курицей и креветками</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4043" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4043.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Яичная лапша с курицей и креветками</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4044" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4044.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Голубые мидии в сливочном соусе</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4045" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4045.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареная дорадо с мини-картофелем и томатами</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4046" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4046.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк из говядины с острым гранатовым соусом или соусом Томаринд</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4047" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4047.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Утиная грудка с соусом Анис</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4048" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4048.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис с курицей</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4049" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4049.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сингапурское рыбное мули</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4050" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4050.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис с говядиной и яйцом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4051" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4051.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина в панировке</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4052" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4052.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Курица с соусом карри</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4053" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4053.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Запеченные зеленые мидии</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4054" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4054.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось, фаршированный морепродуктами со спаржей</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4055" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4055.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Морской гребешок и тигровые креветки гриль</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4056" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4056.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось в соусе Терияки</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4057" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4057.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Каре барашка с овощами в соусе Терияки</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4058" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4058.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4059" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4059.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лапша удон с овощами</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4060" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4060.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мини-картофель</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4061" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4061.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи на пару с оливковым маслом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4062" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4062.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлычки из кальмара</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4063" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4063.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлычки из куриного филе с соусом Сатай</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4064" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>671</categoryId>
+				<picture>http://fasteda.ru/data/big/4064.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет мясной</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4065" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>670</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>673</categoryId>
+				<picture>http://fasteda.ru/data/big/4065.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Набор для двоих 3</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4066" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>680</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>673</categoryId>
+				<picture>http://fasteda.ru/data/big/4066.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Набор для двоих 4</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4067" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>673</categoryId>
+				<picture>http://fasteda.ru/data/big/4067.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Запеченый набор для двоих - Запеканка</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4068" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>673</categoryId>
+				<picture>http://fasteda.ru/data/big/4068.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Набор для одного - Один дома</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4069" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>673</categoryId>
+				<picture>http://fasteda.ru/data/big/4069.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Набор для одного - Одинокий волк</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4070" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>673</categoryId>
+				<picture>http://fasteda.ru/data/big/4070.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый набор для одного - РХЧП</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>Острый.</description>
+			</offer>
+			<offer id="4071" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4071.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощной рулет</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4072" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4072.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лонг-ролл лосось-карамель</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4073" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4073.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пресс-суши с тунцом и трюфельной пастой</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4074" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4074.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филадельфия</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4075" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4075.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Калифорнийский рулет</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4076" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4076.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареный лонг-ролл с тунцом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4077" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4077.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сливочный </name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4078" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4078.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Скандинавский</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4079" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4079.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рулет запеченный с мидиями</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4080" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4080.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лонг-ролл с лососем</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4081" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4081.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый лосось</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4082" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4082.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Запеченный ролл с лососем и гребешком</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4083" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4083.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Угорь-паприка-бонито</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4084" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4084.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рулет лосось-киви-сливочный сыр-фисташки</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4085" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4085.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Норвежский</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4086" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>675</categoryId>
+				<picture>http://fasteda.ru/data/big/4086.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хэнд-ролл тунец</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4087" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4087.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тунец гриль</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4088" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4088.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши лосось</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4089" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4089.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши креветка - Лодочка</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4090" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4090.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши маринованные водоросли</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4091" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4091.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сашими морской окунь</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4223" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4223.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши авокадо</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4224" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4224.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши креветка тигровая</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4225" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4225.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши морской окунь</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4226" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4226.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши тунец</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4227" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4227.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши осьминог</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4228" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4228.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши кальмар</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4229" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4229.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши угорь</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4230" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4230.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши мидии</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4231" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4231.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши краб</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4232" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4232.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши острый лосось</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4233" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4233.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши острая креветка</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4234" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4234.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши острый краб</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4235" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4235.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши острый угорь</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4236" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4236.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши острый окунь в огурце</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4237" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4237.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши острый тунец в огурце</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4239" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4239.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши запеченный лосось</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4240" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4240.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши запеченный кальмар</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4241" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4241.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши запеченный краб</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4242" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4242.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши запеченный угорь</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4243" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4243.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши запеченный осьминог</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4244" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4244.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суши запеченный окунь</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4245" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4245.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сашими тунец</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4246" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4246.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сашими угорь</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4247" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4247.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сашими кальмар</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4248" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>677</categoryId>
+				<picture>http://fasteda.ru/data/big/4248.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сашими лосось</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4093" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>679</categoryId>
+				<picture>http://fasteda.ru/data/big/4093.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рулет со сливочным сыром и фруктами</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4094" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>679</categoryId>
+				<picture>http://fasteda.ru/data/big/4094.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шоколадно-ореховый ролл с клубничным соусом</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4095" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>679</categoryId>
+				<picture>http://fasteda.ru/data/big/4095.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сладкий рулет</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4096" available="true">
+				<url>http://fasteda.ru/menu/dvepalochki/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>679</categoryId>
+				<picture>http://fasteda.ru/data/big/4096.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Брауни</name>
+				<vendor>Доставка суши из ресторанов «Две палочки»</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

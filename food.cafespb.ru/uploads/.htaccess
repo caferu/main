@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$   http://www.intranet.basespb.ru/uploads/$1

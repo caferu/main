@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="347">Хачапури</category>
+			<category id="345">Холодные закуски</category>
+			<category id="346">Горячие закуски</category>
+			<category id="349">Вторые блюда</category>
+			<category id="355">Шашлыки</category>
+			<category id="344">Салаты</category>
+			<category id="357">Рыбные блюда</category>
+			<category id="348">Супы</category>
+			<category id="351">Соусы</category>
+			<category id="352">Гарниры</category>
+			<category id="350">Хлеб</category>
+		</categories>
+		<offers>
+			<offer id="2442" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2442.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Менгрельский</name>
+				<vendor>Не горюй</vendor>
+				<description>Грузинская лепёшка с сыром (открытая)500 гр.</description>
+			</offer>
+			<offer id="2443" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2443.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджарский (большой)</name>
+				<vendor>Не горюй</vendor>
+				<description>Грузинская лепёшка в форме лодочки с сыром и яйцом (500 гр).</description>
+			</offer>
+			<offer id="2490" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2490.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Имеретинский (большой)</name>
+				<vendor>Не горюй</vendor>
+				<description>1000 гр.</description>
+			</offer>
+			<offer id="2491" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2491.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кубдари (с мясом)</name>
+				<vendor>Не горюй</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="2492" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2492.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобиани (с фасолью</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2435" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2435.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Язык говяжий с грецкими орехами</name>
+				<vendor>Не горюй</vendor>
+				<description> 100 гр.</description>
+			</offer>
+			<offer id="2436" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2436.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баструма</name>
+				<vendor>Не горюй</vendor>
+				<description>70 гр.</description>
+			</offer>
+			<offer id="2437" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2437.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капуста по-грузинский</name>
+				<vendor>Не горюй</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="2438" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2438.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баклажаны с грецкими орехами</name>
+				<vendor>Не горюй</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="2439" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2439.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобио с орехами</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2462" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2462.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пхали</name>
+				<vendor>Не горюй</vendor>
+				<description>Шпинат, баклажаны, морковь, лобио, болгарский перец, орехи (200 гр).</description>
+			</offer>
+			<offer id="2465" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2465.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куч-мачи</name>
+				<vendor>Не горюй</vendor>
+				<description>Ливер с грецкими орехами (150 гр).</description>
+			</offer>
+			<offer id="2468" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2468.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Болгарский перец с орехами</name>
+				<vendor>Не горюй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2476" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2476.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пряный травы</name>
+				<vendor>Не горюй</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="2477" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2477.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маринады</name>
+				<vendor>Не горюй</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="2478" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2478.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тарелка с сулугуни</name>
+				<vendor>Не горюй</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="2479" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2479.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сациви с курицей / баклажанами </name>
+				<vendor>Не горюй</vendor>
+				<description>150гр.</description>
+			</offer>
+			<offer id="2440" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>346</categoryId>
+				<picture>http://fasteda.ru/data/big/2440.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджапсандали</name>
+				<vendor>Не горюй</vendor>
+				<description>Баклажаны, лук, паприка, помидор. </description>
+			</offer>
+			<offer id="2441" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>346</categoryId>
+				<picture>http://fasteda.ru/data/big/2441.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобио горячий</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр. </description>
+			</offer>
+			<offer id="2446" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2446.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хинкали</name>
+				<vendor>Не горюй</vendor>
+				<description>400 гр. </description>
+			</offer>
+			<offer id="2447" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2447.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Долма</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр. </description>
+			</offer>
+			<offer id="2460" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2460.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эларджи</name>
+				<vendor>Не горюй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2461" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2461.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оджахури</name>
+				<vendor>Не горюй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2463" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2463.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name></name>
+				<vendor>Не горюй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2464" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2464.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мамалыга</name>
+				<vendor>Не горюй</vendor>
+				<description>Грузинское национальное блюдо: кукурузная каша. (200 гр).</description>
+			</offer>
+			<offer id="2466" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2466.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Купаты</name>
+				<vendor>Не горюй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2467" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2467.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бефстроганоф с картошкой</name>
+				<vendor>Не горюй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2470" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2470.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Не горюй!  горячее</name>
+				<vendor>Не горюй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2486" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2486.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Яхни</name>
+				<vendor>Не горюй</vendor>
+				<description>Говядина с грецкими орехами (200 гр).</description>
+			</offer>
+			<offer id="2487" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2487.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лангрет с картофелем по-грузински</name>
+				<vendor>Не горюй</vendor>
+				<description>Филе свинины, грибы, майонез (300 гр).</description>
+			</offer>
+			<offer id="2495" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>349</categoryId>
+				<picture>http://fasteda.ru/data/big/2495.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мадам Бовари</name>
+				<vendor>Не горюй</vendor>
+				<description>Свинина, грибы, сыр, майонез (300 гр).</description>
+			</offer>
+			<offer id="2448" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2448.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из Свинины</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр. </description>
+			</offer>
+			<offer id="2449" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2449.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из баранины</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр. </description>
+			</offer>
+			<offer id="2450" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2450.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык кавказский</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр. </description>
+			</offer>
+			<offer id="2451" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2451.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баранина на рёбрах </name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2459" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2459.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык куринный</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2496" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2496.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки куриные</name>
+				<vendor>Не горюй</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="2433" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2433.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Не горюй!»</name>
+				<vendor>Не горюй</vendor>
+				<description>Состав: огурцы, яблоки, грибы, майонез (200 гр.).</description>
+			</offer>
+			<offer id="2434" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2434.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из свеклы</name>
+				<vendor>Не горюй</vendor>
+				<description> Салат с черносливом и грецкими орехами (150 гр.).</description>
+			</offer>
+			<offer id="2480" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2480.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Витаминный салат</name>
+				<vendor>Не горюй</vendor>
+				<description>Капуста, морковь, огурцы, яблоки, зелень (150 гр).</description>
+			</offer>
+			<offer id="2481" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2481.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной по-грузински</name>
+				<vendor>Не горюй</vendor>
+				<description>Огурцы, помидоры, зелень, лук (200 гр).</description>
+			</offer>
+			<offer id="2482" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2482.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2483" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2483.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тёплый салат</name>
+				<vendor>Не горюй</vendor>
+				<description>куриное филе / лосось (200 гр).</description>
+			</offer>
+			<offer id="2484" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2484.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греческий</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2493" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>357</categoryId>
+				<picture>http://fasteda.ru/data/big/2493.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форель на мангале</name>
+				<vendor>Не горюй</vendor>
+				<description>600 гр.</description>
+			</offer>
+			<offer id="2494" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>357</categoryId>
+				<picture>http://fasteda.ru/data/big/2494.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форель по-королевски</name>
+				<vendor>Не горюй</vendor>
+				<description>380 гр.</description>
+			</offer>
+			<offer id="2444" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/2444.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Харчо</name>
+				<vendor>Не горюй</vendor>
+				<description>400 гр. </description>
+			</offer>
+			<offer id="2445" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/2445.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чакапули</name>
+				<vendor>Не горюй</vendor>
+				<description>400 гр. </description>
+			</offer>
+			<offer id="2485" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/2485.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный бульон</name>
+				<vendor>Не горюй</vendor>
+				<description>400 гр.</description>
+			</offer>
+			<offer id="2455" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>351</categoryId>
+				<picture>http://fasteda.ru/data/big/2455.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ткемали</name>
+				<vendor>Не горюй</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="2456" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>351</categoryId>
+				<picture>http://fasteda.ru/data/big/2456.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сацебели</name>
+				<vendor>Не горюй</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="2489" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>351</categoryId>
+				<picture>http://fasteda.ru/data/big/2489.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чесночный</name>
+				<vendor>Не горюй</vendor>
+				<description>40 гр.</description>
+			</offer>
+			<offer id="2458" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>352</categoryId>
+				<picture>http://fasteda.ru/data/big/2458.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель по-грузински</name>
+				<vendor>Не горюй</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="2488" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>352</categoryId>
+				<picture>http://fasteda.ru/data/big/2488.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи со сливками</name>
+				<vendor>Не горюй</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="2452" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>350</categoryId>
+				<picture>http://fasteda.ru/data/big/2452.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лаваш</name>
+				<vendor>Не горюй</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="2453" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>350</categoryId>
+				<picture>http://fasteda.ru/data/big/2453.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чади (кукурузная лепешка)</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2454" available="true">
+				<url>http://fasteda.ru/menu/negoruj/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>350</categoryId>
+				<picture>http://fasteda.ru/data/big/2454.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чвиштари (кукурузная лепешка с сыром)</name>
+				<vendor>Не горюй</vendor>
+				<description>200 гр. </description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

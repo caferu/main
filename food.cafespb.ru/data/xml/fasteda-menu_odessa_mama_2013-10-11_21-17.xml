@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 21:17">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1110">Фирменные блюда</category>
+			<category id="1144">Блюда из говядины и телятины</category>
+			<category id="1148">Блюда из свинины</category>
+			<category id="1142">Блюда из рыбы</category>
+			<category id="1150">Блюда из птицы</category>
+			<category id="1146">Блюда из телятины и баранины</category>
+			<category id="1140">Супы</category>
+			<category id="1134">Салаты</category>
+			<category id="1132">Холодные закуски</category>
+			<category id="1136">Горячие закуски</category>
+			<category id="1138">Закуски к пиву</category>
+			<category id="1152">Гарниры</category>
+			<category id="1156">Вареники</category>
+			<category id="1154">Десерты</category>
+			<category id="1186">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="6637" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1110</categoryId>
+				<picture>http://fasteda.ru/data/big/6637.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с судаком «для Ришелье»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Обжаренный судак с сыром, в блинах в кляре, подается с соусом тар-тар.
+(250/50 гр).</description>
+			</offer>
+			<offer id="6638" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1110</categoryId>
+				<picture>http://fasteda.ru/data/big/6638.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Камбала «Черноморочка»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Камбала, картофельное пюре, соус.
+(250/100/50 гр).</description>
+			</offer>
+			<offer id="6635" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1110</categoryId>
+				<picture>http://fasteda.ru/data/big/6635.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рапаны «По солидному»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Кокот из ропанов и грибов шампиньонов, заправленный сливками, белым вином и устричным соусом, подается в ракушке.
+(250 гр).</description>
+			</offer>
+			<offer id="6639" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1110</categoryId>
+				<picture>http://fasteda.ru/data/big/6639.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бычки черноморские</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="6640" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1110</categoryId>
+				<picture>http://fasteda.ru/data/big/6640.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Котлетки рыбные от тёти Сары</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Рубленое филе семги и судака с добавлением лимона, зелени и чеснока, подается с салатом из рукколы, томатов черри и пюре.
+(200/150/100 гр).</description>
+			</offer>
+			<offer id="6641" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1110</categoryId>
+				<picture>http://fasteda.ru/data/big/6641.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Стреляная» утка</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Обжаренная утиная грудка, подается на печеных яблоках с апельсиновым соусом
+(350 гр).</description>
+			</offer>
+			<offer id="6634" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1110</categoryId>
+				<picture>http://fasteda.ru/data/big/6634.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с семгой «Русалка»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Малосольная семга, микс салатных листьев с томатами черри и огурцом, с добавлением перепелиных яиц и красной икры, заправленный французским дрессингом.
+(300 гр).</description>
+			</offer>
+			<offer id="6636" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1110</categoryId>
+				<picture>http://fasteda.ru/data/big/6636.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мидии «Фельдеперсовые»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Гигантские мидии в ракушке, подаются с сыром пармезан, грецким орехом и соусом.
+(250/50 гр).</description>
+			</offer>
+			<offer id="6633" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1110</categoryId>
+				<picture>http://fasteda.ru/data/big/6633.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Сезон Охоты»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Оленина с брусничным соус, подается с картофелем Айдахо.
+(250/150 гр).</description>
+			</offer>
+			<offer id="6836" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1144</categoryId>
+				<picture>http://fasteda.ru/data/big/6836.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк «Рога и Копыта»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Говядина вырезка в беконе, грибы,овощи гриль, соус барбекю.
+(200/100/50 гр).</description>
+			</offer>
+			<offer id="6837" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1144</categoryId>
+				<picture>http://fasteda.ru/data/big/6837.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк Классический</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Сочный стейк из филе говядины, подается на миксе салатных листьев с шашлычным соусом.
+(200/50 гр).</description>
+			</offer>
+			<offer id="6838" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1144</categoryId>
+				<picture>http://fasteda.ru/data/big/6838.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Телятина на косточке</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Подается с соусом димегляс.
+(280/50 гр).</description>
+			</offer>
+			<offer id="6839" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1144</categoryId>
+				<picture>http://fasteda.ru/data/big/6839.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Телячья нежность с черносливом</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Филе телятины с черносливом в соусе на основе красного вина.
+(250 гр).</description>
+			</offer>
+			<offer id="6840" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1144</categoryId>
+				<picture>http://fasteda.ru/data/big/6840.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печень с миндалем</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Печень телятины с миндалем и грибами шампиньонами в сливочном соусе.
+(200 гр).</description>
+			</offer>
+			<offer id="6835" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1144</categoryId>
+				<picture>http://fasteda.ru/data/big/6835.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>БефстроганоFF</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Говядина вырезка, лук, грибы, сметана, картофельное пюре.
+(230/150 гр).</description>
+			</offer>
+			<offer id="6851" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1148</categoryId>
+				<picture>http://fasteda.ru/data/big/6851.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Голубцы со свининой</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Подаются со сметаной.
+(200/50 гр).</description>
+			</offer>
+			<offer id="6846" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1148</categoryId>
+				<picture>http://fasteda.ru/data/big/6846.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Три богатыря»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Свинина вырезка, куриное филе, говядина вырезка, томат, кабачок, перец болгарский, грибы, картофель.
+(280/100/50 гр).</description>
+			</offer>
+			<offer id="6848" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1148</categoryId>
+				<picture>http://fasteda.ru/data/big/6848.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Челогач</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Свинина на косточке, подается с соте из овощей и соусом барбекю.
+(250/100/50 гр).</description>
+			</offer>
+			<offer id="6849" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1148</categoryId>
+				<picture>http://fasteda.ru/data/big/6849.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык свиной</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Подается с картофелем с грибами.
+(200/50 гр).</description>
+			</offer>
+			<offer id="6850" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1148</categoryId>
+				<picture>http://fasteda.ru/data/big/6850.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свыня по-пересыпьски</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Филе свинины с грибным кокотом под сыром, подается с картофелем по-домашнему с луком.
+(150/115/60 гр).</description>
+			</offer>
+			<offer id="6847" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1148</categoryId>
+				<picture>http://fasteda.ru/data/big/6847.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медальоны из свинины</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Сочное филе свинины с обжаренным картофелем под имбирным соусом.
+(200/100 гр).</description>
+			</offer>
+			<offer id="6834" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1142</categoryId>
+				<picture>http://fasteda.ru/data/big/6834.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кефаль «Костя привез...»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Подается с печеным картофелем.
+(230/120 гр).</description>
+			</offer>
+			<offer id="6832" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1142</categoryId>
+				<picture>http://fasteda.ru/data/big/6832.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сибас запеченный в фольге</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Сибас, кедровые орехи, томаты черри, маслины, зелень, соус.
+(350/50 гр).</description>
+			</offer>
+			<offer id="6831" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1142</categoryId>
+				<picture>http://fasteda.ru/data/big/6831.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Заблудшая Мадам»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Семга филе, креветки, соус тар-тар.
+(180/30/50 гр).</description>
+			</offer>
+			<offer id="6830" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1142</categoryId>
+				<picture>http://fasteda.ru/data/big/6830.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Кралечка»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Скумбрия гриль,рис, соус тар-тар.
+(180/75/70 гр).</description>
+			</offer>
+			<offer id="6833" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1142</categoryId>
+				<picture>http://fasteda.ru/data/big/6833.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сибас запеченный с понтами!</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Сибас, шпинат, рис, томаты черри, маслины, зелень, соус.
+(250/100/50 гр).</description>
+			</offer>
+			<offer id="6854" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1150</categoryId>
+				<picture>http://fasteda.ru/data/big/6854.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Котлета куриная по Одесски</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Кура, яйцо, сыр, ветчина, панировка.
+(250/50 гр).</description>
+			</offer>
+			<offer id="6852" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1150</categoryId>
+				<picture>http://fasteda.ru/data/big/6852.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Ох, уж эта Цыпа...»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Цыпленок табака, картофель фри, соус чемергез.
+(300/100/30 гр).</description>
+			</offer>
+			<offer id="6853" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1150</categoryId>
+				<picture>http://fasteda.ru/data/big/6853.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк от Мони</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Кура, грибы,рис, соус барбекю.
+(160/130/50 гр).</description>
+			</offer>
+			<offer id="6855" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1150</categoryId>
+				<picture>http://fasteda.ru/data/big/6855.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Котлета куриная по-киевски</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Кура, яйцо, масло сливочное, панировка.
+(225/50 гр).</description>
+			</offer>
+			<offer id="6856" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1150</categoryId>
+				<picture>http://fasteda.ru/data/big/6856.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык куриный</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Подается с картофелем с грибами.
+(200/50 гр).</description>
+			</offer>
+			<offer id="6841" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1146</categoryId>
+				<picture>http://fasteda.ru/data/big/6841.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Телятина в сыре</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Филе телятины в сочетании с соусом из трех сыров и белого вина.
+(300 гр).</description>
+			</offer>
+			<offer id="6842" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1146</categoryId>
+				<picture>http://fasteda.ru/data/big/6842.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Телятина на яблоках</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Медальоны из телятины на печеных яблоках, с соусом на основе красного вина и вишни.
+(200/100/50 гр).</description>
+			</offer>
+			<offer id="6843" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1146</categoryId>
+				<picture>http://fasteda.ru/data/big/6843.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Колокольчики</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Бычьи яйца в сухарях с соусом барбекю.
+(200/50 гр).</description>
+			</offer>
+			<offer id="6844" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1146</categoryId>
+				<picture>http://fasteda.ru/data/big/6844.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Каре ягненка</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Подается с картофелем айдахо и соусом барбекю.
+(250/150 гр).</description>
+			</offer>
+			<offer id="6845" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1146</categoryId>
+				<picture>http://fasteda.ru/data/big/6845.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тефтели из Мутона</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Нежные тефтельки из рубленой баранины, запеченные под соусом лечо,подается с пюре.
+(200/150 гр).</description>
+			</offer>
+			<offer id="6818" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1140</categoryId>
+				<picture>http://fasteda.ru/data/big/6818.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супчик куриный, да с потрошками</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Подается с гренками.
+(450 гр).</description>
+			</offer>
+			<offer id="6820" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1140</categoryId>
+				<picture>http://fasteda.ru/data/big/6820.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха одесская</name>
+				<vendor>Одесса Мама</vendor>
+				<description>По одесскому рецепту варят рыбу: карпа, семгу и судака, добавляют томат, картофель, чеснок, подают с соусом чемергес.
+(450 гр).</description>
+			</offer>
+			<offer id="6822" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1140</categoryId>
+				<picture>http://fasteda.ru/data/big/6822.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ украинский на свиных ребрах</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Свиные ребра, овощи, сметана.
+(450 гр).</description>
+			</offer>
+			<offer id="6829" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1140</categoryId>
+				<picture>http://fasteda.ru/data/big/6829.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Голимый супец</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Супчик из брокколи, спаржи, болгарского перца, цветной капусты, беби моркови, томата, заправленный оливковым маслом и шпинатом.
+(300 гр).</description>
+			</offer>
+			<offer id="6828" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1140</categoryId>
+				<picture>http://fasteda.ru/data/big/6828.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем-суп Грибной</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Крем-суп из грибов шампиньонов, с добавлением белых грибов, сливками и миндалем.
+(300 гр).</description>
+			</offer>
+			<offer id="6826" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1140</categoryId>
+				<picture>http://fasteda.ru/data/big/6826.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Селянка</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Копчености с Одесского привоза, лимон, маслины, зелень.
+(450 гр).</description>
+			</offer>
+			<offer id="6824" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1140</categoryId>
+				<picture>http://fasteda.ru/data/big/6824.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Буйабес</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Мидии, тигровые креветки, судак, кальмар, семга, овощи.
+(450 гр).</description>
+			</offer>
+			<offer id="6799" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1134</categoryId>
+				<picture>http://fasteda.ru/data/big/6799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Капитанский»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Салат с обжаренной на гриле говяжьей вырезки, со свежими овощами:томат, болгарский перец,огурец, лук красный с добавлением кунжута и петрушки, заправленный соусом устричным.
+(250 гр).</description>
+			</offer>
+			<offer id="6800" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1134</categoryId>
+				<picture>http://fasteda.ru/data/big/6800.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Золотой Дюк»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Микс из салатных листьев с томатами черри, заправленный соусом из шпината и свежеобжаренное на гриле куриное филе в беконе под соусом с добавлением сыра пармезан.
+(250 гр).</description>
+			</offer>
+			<offer id="6802" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1134</categoryId>
+				<picture>http://fasteda.ru/data/big/6802.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Теплый салат с печенью»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Обжаренная куриная печень в сочетании с томатами черри, огурцом, грибами шампиньонами, миксом салатных листьев, лука, под соусом одесский с добавлением сыра пармезан.
+(250 гр).</description>
+			</offer>
+			<offer id="6794" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1134</categoryId>
+				<picture>http://fasteda.ru/data/big/6794.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Афродита»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Королевские креветки, салат руккола, томаты черри с заправкой из бальзамического уксуса и масла оливкового, под панцирем сыра пармезана и кедровых орехов.
+(250 гр).</description>
+			</offer>
+			<offer id="6796" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1134</categoryId>
+				<picture>http://fasteda.ru/data/big/6796.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Полный тунец»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Нежное филе тунца в собственном соку в сочетании с томатом, картофелем, миксом из салатных листьев,яйца, под оливковым маслом с добавлением прованских трав.
+(250 гр).</description>
+			</offer>
+			<offer id="6798" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1134</categoryId>
+				<picture>http://fasteda.ru/data/big/6798.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Пиндосский»(Греческий)</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Микс салатных листьев, огурец, томат, болгарский перец, лук красный с добавлением сыра фета, маслин, заправленный маслом оливковым.
+(200 гр)
+.</description>
+			</offer>
+			<offer id="6797" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1134</categoryId>
+				<picture>http://fasteda.ru/data/big/6797.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Рыбачка Соня»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Скумбрия холодного копчения, томаты черри,огурец маринованный, микс салатных листьев с соусом на основе зернистой горчицы с добавлением чесночных гренок из бородинского хлеба и сыра дор-блю.
+(250 гр).</description>
+			</offer>
+			<offer id="6801" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1134</categoryId>
+				<picture>http://fasteda.ru/data/big/6801.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Партизанский»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Салат с куриным филе и маринованными лесными грибами с добавлением микса салатных листьев и овощей заправленный соусом на основе майонеза и лимонного сока.
+(300 гр).</description>
+			</offer>
+			<offer id="6795" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1134</categoryId>
+				<picture>http://fasteda.ru/data/big/6795.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Царь морей» теплый салат</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Дары моря: креветки тигровые, новозеландская мидия в ракушке, мясо мидий, гребешок, кальмар, на миксе из салатных листьев с морской капустой и томатом под соусом из шпината с сыром пармезан.
+(250 гр).</description>
+			</offer>
+			<offer id="6788" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6788.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Болтливый язык»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Ломтики говяжьего языка, подаются с майонезом и хреном.
+(150/50 гр).</description>
+			</offer>
+			<offer id="6789" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6789.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная шейка</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Фаршируется с потрошками, подается с горчицей.
+(150/30 гр).</description>
+			</offer>
+			<offer id="6791" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6791.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Икра из синих по-одесски</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Икра из баклажанов с томатом, болгарским перцем, чесноком и луком.
+(180 гр).</description>
+			</offer>
+			<offer id="6785" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6785.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи с орошаемых полей</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Томат, огурец, перец болгарский, грибы шампиньоны, зелень, подаются с соусом из шпината.
+(250 гр).</description>
+			</offer>
+			<offer id="6783" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6783.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форшмак</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Еврейская закуска из филе сельди с добавлением картофеля, яйца, яблока, лука, заправленная маринадом, подается на тостах из белого и черного хлеба с соусом тар-тар.
+(250/50гр).</description>
+			</offer>
+			<offer id="6782" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6782.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с семгой и икрой</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Оригинальный рецепт блинов с малосольной семгой,сыром, зеленью, добавлением красной икры и микса салатных листьев.
+(250гр).</description>
+			</offer>
+			<offer id="6780" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6780.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«По щучьему веленью»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Ира щучья, подается с зеленым маслом и тостами из белого и черного хлеба.
+(100/30/60 гр).</description>
+			</offer>
+			<offer id="6792" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6792.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Привет от Цили»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Обжаренные кольца кабачков, в майонезно-чесночном соусе.
+(250 гр).</description>
+			</offer>
+			<offer id="6793" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6793.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цимес из фасоли с грецким орехом</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Тот самый цимес из отварной красной фасоли с обжаренным луком, с добавлением чеснока, кинзы, грецкого ореха.
+(160 гр).</description>
+			</offer>
+			<offer id="6790" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6790.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соления из бочки</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Соленый огурец, квашеная капуста, соленый томат, черемша, грибы маринованные.
+(250 гр).</description>
+			</offer>
+			<offer id="6786" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6786.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Мясоедовская улица моя»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Мясное ассорти прямо с одесского привоза!Таки да!
+(200/30 гр).</description>
+			</offer>
+			<offer id="6787" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6787.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Роллы по-одесски»(сало с черемшой)</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Неординарная закуска из сала соленого и почеревка завернутого в черемшу, с добавлением чеснока и в сопровождении ягод клюквы.
+(50/50/30 гр).</description>
+			</offer>
+			<offer id="6784" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6784.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>рИба фаршированная</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Подается со сливочным соусом на основе хрена.
+(150/50гр).</description>
+			</offer>
+			<offer id="6781" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1132</categoryId>
+				<picture>http://fasteda.ru/data/big/6781.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«По моему хотенью»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Икра красная, подается со сливочным маслом и тостами.
+(50/30/60 гр).</description>
+			</offer>
+			<offer id="6807" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1136</categoryId>
+				<picture>http://fasteda.ru/data/big/6807.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Распальцованный цыпленок»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Обжаренное куриное филе в пивном кляре, гарнируется картофелем фри, подается с соусом барбекю, с соусом тар-тар.
+(250/100 гр).</description>
+			</offer>
+			<offer id="6809" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1136</categoryId>
+				<picture>http://fasteda.ru/data/big/6809.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Драники</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Картофельные оладьи с добавлением лука, яйца, чеснока, подаются со сметаной.
+(180/50 гр).</description>
+			</offer>
+			<offer id="6808" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1136</categoryId>
+				<picture>http://fasteda.ru/data/big/6808.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картопляники</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Зразы картофельные фаршированные говядиной и грибами шампиньонами, подаются со сметаной.
+(180/50 гр).</description>
+			</offer>
+			<offer id="6805" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1136</categoryId>
+				<picture>http://fasteda.ru/data/big/6805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Биточки из тюлечки</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Тюлечка, яйцо, зелень, соус тар-тар.
+(200/25 гр).</description>
+			</offer>
+			<offer id="6803" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1136</categoryId>
+				<picture>http://fasteda.ru/data/big/6803.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Судак на цырлах»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Обжаренное филе судака в кляре, гарнируется свежими овощами и рисом, подается с соусом тар-тар.
+(100/80/50 гр).</description>
+			</offer>
+			<offer id="6810" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1136</categoryId>
+				<picture>http://fasteda.ru/data/big/6810.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сыр Фри Олива</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Сырные шарики, фаршированные оливками, подаются с миксом салатных листьев и соусом тар-тар.
+(200/50 гр)
+.</description>
+			</offer>
+			<offer id="6806" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1136</categoryId>
+				<picture>http://fasteda.ru/data/big/6806.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медальоны из баклажан</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Обжаренные на гриле кольца баклажана, кольца томата, подаются с соусом на выбор: аджика/майонезно-ореховый.
+(200 гр).</description>
+			</offer>
+			<offer id="6804" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1136</categoryId>
+				<picture>http://fasteda.ru/data/big/6804.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пилав с мидиями</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="6817" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1138</categoryId>
+				<picture>http://fasteda.ru/data/big/6817.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гренки</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(100/50 гр).</description>
+			</offer>
+			<offer id="6813" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1138</categoryId>
+				<picture>http://fasteda.ru/data/big/6813.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Ангельские крылышки»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Обжаренные куриные крылышки, подаются с соусом барбекю.
+(450/50 гр).</description>
+			</offer>
+			<offer id="6816" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1138</categoryId>
+				<picture>http://fasteda.ru/data/big/6816.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пивной набор</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Гренки из бородинского хлеба, скумбрия холодного копчения, сыр Фета.
+(250 гр).</description>
+			</offer>
+			<offer id="6814" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1138</categoryId>
+				<picture>http://fasteda.ru/data/big/6814.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Королевские креветки жаренные </name>
+				<vendor>Одесса Мама</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="6815" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1138</categoryId>
+				<picture>http://fasteda.ru/data/big/6815.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырные палочки</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(200/50 гр).</description>
+			</offer>
+			<offer id="6812" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1138</categoryId>
+				<picture>http://fasteda.ru/data/big/6812.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Спасательный круг»</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Кальмар в сухарях, соус чесночный.
+Кальмар в муке.
+Кальмар в кляре.
+(150/50 гр).</description>
+			</offer>
+			<offer id="6811" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1138</categoryId>
+				<picture>http://fasteda.ru/data/big/6811.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тюлька по-домашнему</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Тюлька обжаренная, подается с соусом тар-тар.
+(200/50 гр).</description>
+			</offer>
+			<offer id="6858" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1152</categoryId>
+				<picture>http://fasteda.ru/data/big/6858.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6861" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1152</categoryId>
+				<picture>http://fasteda.ru/data/big/6861.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель Айдахо</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6857" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1152</categoryId>
+				<picture>http://fasteda.ru/data/big/6857.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соте из овощей</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Баклажаны, кабачки, болгарский перец, грибы шампиньоны, томаты.
+(200 гр).</description>
+			</offer>
+			<offer id="6862" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1152</categoryId>
+				<picture>http://fasteda.ru/data/big/6862.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи гриль</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Баклажаны, кабачки, болгарский перец, грибы шампиньоны, томаты.
+(200 гр).</description>
+			</offer>
+			<offer id="6863" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1152</categoryId>
+				<picture>http://fasteda.ru/data/big/6863.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жареный сельдерей</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="6864" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1152</categoryId>
+				<picture>http://fasteda.ru/data/big/6864.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Запеченный картофель с беконом</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="6865" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1152</categoryId>
+				<picture>http://fasteda.ru/data/big/6865.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6859" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1152</categoryId>
+				<picture>http://fasteda.ru/data/big/6859.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис с овощами</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6860" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1152</categoryId>
+				<picture>http://fasteda.ru/data/big/6860.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6876" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6876.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с вишней</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6877" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6877.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с творогом</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6878" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6878.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с картофелем и грибами</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6879" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6879.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с языком</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6880" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6880.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники по-флотски</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6881" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6881.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с квашеной капустой</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6882" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6882.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с капустой и шкварками</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6883" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6883.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с потрошками</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6884" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6884.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с креветками</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6885" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1156</categoryId>
+				<picture>http://fasteda.ru/data/big/6885.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с семгой</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(230/50 гр).</description>
+			</offer>
+			<offer id="6872" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1154</categoryId>
+				<picture>http://fasteda.ru/data/big/6872.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блинчики со сметаной</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(120/50 гр).</description>
+			</offer>
+			<offer id="6873" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1154</categoryId>
+				<picture>http://fasteda.ru/data/big/6873.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блинчики с джемом</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(120/50 гр).</description>
+			</offer>
+			<offer id="6874" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1154</categoryId>
+				<picture>http://fasteda.ru/data/big/6874.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блинчики с творогом</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(120/60 гр).</description>
+			</offer>
+			<offer id="6871" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1154</categoryId>
+				<picture>http://fasteda.ru/data/big/6871.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макоед</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Слоеное тесто с маковой начинкой и грецким орехом, подается с шариком мороженного и топингом.
+(150/50 гр).</description>
+			</offer>
+			<offer id="6868" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1154</categoryId>
+				<picture>http://fasteda.ru/data/big/6868.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чернослив</name>
+				<vendor>Одесса Мама</vendor>
+				<description>С орехом в сметанном соусе.
+(200 гр).</description>
+			</offer>
+			<offer id="6875" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1154</categoryId>
+				<picture>http://fasteda.ru/data/big/6875.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырники со сметаной</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Творог, изюм,грецкий орех.
+(180/50 гр).</description>
+			</offer>
+			<offer id="6869" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1154</categoryId>
+				<picture>http://fasteda.ru/data/big/6869.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Яблочный беспредел</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Слоеное тесто с яблочной начинкой, подается с шариком мороженого и топингом.
+(150/50 гр).</description>
+			</offer>
+			<offer id="6870" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1154</categoryId>
+				<picture>http://fasteda.ru/data/big/6870.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пьяная вишня</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Слоеное тесто с вишневой начинкой, подается с шариком мороженого и топингом.
+(150/50 гр).</description>
+			</offer>
+			<offer id="6867" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1154</categoryId>
+				<picture>http://fasteda.ru/data/big/6867.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мороженое в ассортименте</name>
+				<vendor>Одесса Мама</vendor>
+				<description>Мороженое, грецкий орех, топпинг.
+(100/30 гр).</description>
+			</offer>
+			<offer id="7063" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1186</categoryId>
+				<picture>http://fasteda.ru/data/big/7063.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Перье</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(0.33 л).</description>
+			</offer>
+			<offer id="7062" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1186</categoryId>
+				<picture>http://fasteda.ru/data/big/7062.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эвиан</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(0.33 л).</description>
+			</offer>
+			<offer id="7064" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1186</categoryId>
+				<picture>http://fasteda.ru/data/big/7064.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Миргородская вода </name>
+				<vendor>Одесса Мама</vendor>
+				<description>(0.5 л).</description>
+			</offer>
+			<offer id="7065" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1186</categoryId>
+				<picture>http://fasteda.ru/data/big/7065.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аква Минерале</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(0.25 л).</description>
+			</offer>
+			<offer id="7066" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1186</categoryId>
+				<picture>http://fasteda.ru/data/big/7066.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепси-Кола</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(0.2 л).</description>
+			</offer>
+			<offer id="7067" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1186</categoryId>
+				<picture>http://fasteda.ru/data/big/7067.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тоник</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(0.2 л).</description>
+			</offer>
+			<offer id="7068" available="true">
+				<url>http://fasteda.ru/menu/odessa_mama/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1186</categoryId>
+				<picture>http://fasteda.ru/data/big/7068.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок в ассортименте</name>
+				<vendor>Одесса Мама</vendor>
+				<description>(0.25 л).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

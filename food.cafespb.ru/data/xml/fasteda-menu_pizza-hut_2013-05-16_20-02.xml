@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-05-16 20:02">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="321">МАРГАРИТА</category>
+			<category id="322">КЛАССИЧЕСКАЯ ПИЦЦА</category>
+			<category id="320">ОСОБАЯ ПИЦЦА</category>
+			<category id="323">СУПРИМ ПИЦЦА</category>
+			<category id="324">СУПЕР СУПРИМ</category>
+			<category id="207">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="1124" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>321</categoryId>
+				<picture>http://fasteda.ru/data/big/1124.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маргарита маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла.</description>
+			</offer>
+			<offer id="1125" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>305</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>321</categoryId>
+				<picture>http://fasteda.ru/data/big/1125.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маргарита средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла.</description>
+			</offer>
+			<offer id="1126" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>427</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>321</categoryId>
+				<picture>http://fasteda.ru/data/big/1126.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маргарита большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла.</description>
+			</offer>
+			<offer id="1130" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1130.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепперони маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла, колбаса пепперони.</description>
+			</offer>
+			<offer id="1131" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепперони средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла, колбаса пепперони.</description>
+			</offer>
+			<offer id="1132" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>553</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепперони большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла, колбаса пепперони.</description>
+			</offer>
+			<offer id="1133" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1133.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Славянская маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Кусочки ветчины, красный лук, зеленый перец, шампиньоны, сыр Моцарелла, на фирменном томатном соусе.</description>
+			</offer>
+			<offer id="1134" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1134.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Славянская средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Кусочки ветчины, красный лук, зеленый перец, шампиньоны, сыр Моцарелла, на фирменном томатном соусе.</description>
+			</offer>
+			<offer id="1135" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>553</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1135.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Славянская большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Кусочки ветчины, красный лук, зеленый перец, шампиньоны, сыр Моцарелла, на фирменном томатном соусе.</description>
+			</offer>
+			<offer id="1136" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1136.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Нью-Йоркер маленькая - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина, грибы.</description>
+			</offer>
+			<offer id="1137" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1137.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Нью-Йоркер средняя - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина, грибы.</description>
+			</offer>
+			<offer id="1138" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>553</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1138.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Нью-Йоркер большая</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина, грибы.</description>
+			</offer>
+			<offer id="1139" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1139.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карбонара маленькая - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Соус Карбонара, сыр Моцарелла, бекон, грибы.</description>
+			</offer>
+			<offer id="1140" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1140.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карбонара средняя - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Соус Карбонара, сыр Моцарелла, бекон, грибы.</description>
+			</offer>
+			<offer id="1141" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>553</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>322</categoryId>
+				<picture>http://fasteda.ru/data/big/1141.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карбонара большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Соус Карбонара, сыр Моцарелла, бекон, грибы.</description>
+			</offer>
+			<offer id="1127" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1127.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name> Пепперони острая маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла, колбаса пепперони, острые мексиканские перчики халопеньо.</description>
+			</offer>
+			<offer id="1128" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>443</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1128.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепперони острая средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла, колбаса пепперони, острые мексиканские перчики халопеньо.</description>
+			</offer>
+			<offer id="1129" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>605</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1129.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепперони острая большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла, колбаса пепперони, острые мексиканские перчики халопеньо.</description>
+			</offer>
+			<offer id="1142" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1142.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вегетарианская маленькая - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, лук, зеленый перец, грибы, помидор.</description>
+			</offer>
+			<offer id="1143" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>443</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1143.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вегетарианская средняя - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, лук, зеленый перец, грибы, помидор.</description>
+			</offer>
+			<offer id="1145" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>605</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1145.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вегетарианская большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, лук, зеленый перец, грибы, помидор.</description>
+			</offer>
+			<offer id="1146" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1146.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гавайская маленькая - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина с ломтиками ананаса.</description>
+			</offer>
+			<offer id="1147" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>443</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1147.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гавайская средняя - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина с ломтиками ананаса.</description>
+			</offer>
+			<offer id="1148" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>605</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1148.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гавайская большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина с ломтиками ананаса.</description>
+			</offer>
+			<offer id="1149" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1149.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Европейская маленькая - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина, говядина, грибы.</description>
+			</offer>
+			<offer id="1150" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>443</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1150.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Европейская средняя - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина, говядина, грибы.</description>
+			</offer>
+			<offer id="1151" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>605</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/1151.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Европейская большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина, говядина, грибы.</description>
+			</offer>
+			<offer id="2244" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/2244.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Деревенская маленькая - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла, говядина, свинина, лук.</description>
+			</offer>
+			<offer id="2245" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>443</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/2245.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Деревенская средняя - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла, говядина, свинина, лук.</description>
+			</offer>
+			<offer id="2248" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>605</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>320</categoryId>
+				<picture>http://fasteda.ru/data/big/2248.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Деревенская большая  - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр моцарелла, говядина, свинина, лук.</description>
+			</offer>
+			<offer id="1152" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>261</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1152.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капрезе Кон Песто маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, шарики Моцарелла, томаты, соус Песто, листья базилика и провансальские травы.</description>
+			</offer>
+			<offer id="1153" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>469</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1153.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капрезе Кон Песто средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, шарики Моцарелла, томаты, соус Песто, листья базилика и провансальские травы.</description>
+			</offer>
+			<offer id="1154" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>658</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1154.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капрезе Кон Песто большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, шарики Моцарелла, томаты, соус Песто, листья базилика и провансальские травы.</description>
+			</offer>
+			<offer id="1161" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>261</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1161.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суприм маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, колбаса Пепперони, говядина, грибы, лук, зеленый перец.</description>
+			</offer>
+			<offer id="1162" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>469</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1162.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суприм средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, колбаса Пепперони, говядина, грибы, лук, зеленый перец.</description>
+			</offer>
+			<offer id="1163" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>658</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1163.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суприм большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, колбаса Пепперони, говядина, грибы, лук, зеленый перец.</description>
+			</offer>
+			<offer id="1164" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>261</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1164.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясной пир маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, колбаса Пепперони, говядина, свинина, ветчина.</description>
+			</offer>
+			<offer id="1165" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>469</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1165.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясной пир средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, колбаса Пепперони, говядина, свинина, ветчина.</description>
+			</offer>
+			<offer id="1166" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>658</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1166.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясной пир большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, колбаса Пепперони, говядина, свинина, ветчина.</description>
+			</offer>
+			<offer id="1167" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>261</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1167.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный суприм маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, курица, грибы, лук, маслины, зеленый перец.</description>
+			</offer>
+			<offer id="1168" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>469</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1168.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный суприм средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, курица, грибы, лук, маслины, зеленый перец.</description>
+			</offer>
+			<offer id="1169" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>658</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1169.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный суприм большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, курица, грибы, лук, маслины, зеленый перец.</description>
+			</offer>
+			<offer id="1170" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>261</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1170.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name> Капричиоза маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина, грибы, дольки помидоров, зеленые оливки.</description>
+			</offer>
+			<offer id="1171" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>469</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1171.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капричиоза средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина, грибы, дольки помидоров, зеленые оливки.</description>
+			</offer>
+			<offer id="1172" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>658</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/1172.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капричоза большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, ветчина, грибы, дольки помидоров, зеленые оливки.</description>
+			</offer>
+			<offer id="2259" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>261</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/2259.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карбонара суприм маленькая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Сырный соус, сыр, томаты, бекон, грибы, чесночное масло, лук, пармезан, листики свежего базилика.</description>
+			</offer>
+			<offer id="2261" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>469</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/2261.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карбонара суприм средняя - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Сырный соус, сыр, томаты, бекон, грибы, чесночное масло, лук, пармезан, листики свежего базилика.</description>
+			</offer>
+			<offer id="2269" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>658</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>323</categoryId>
+				<picture>http://fasteda.ru/data/big/2269.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карбонара суприм большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Сырный соус, сыр, томаты, бекон, чесночное масло, лук, пармезан, листики свежего базелика.</description>
+			</offer>
+			<offer id="1155" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>282</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>324</categoryId>
+				<picture>http://fasteda.ru/data/big/1155.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер суприм маленькая - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатныйы соус, сыр Моцарелла, пепперони, ветчина, говядина, свинина, грибы, лук, маслины, зеленый перец.</description>
+			</offer>
+			<offer id="1156" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>508</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>324</categoryId>
+				<picture>http://fasteda.ru/data/big/1156.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер суприм средняя - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатныйы соус, сыр Моцарелла, пепперони, ветчина, говядина, свинина, грибы, лук, маслины, зеленый перец.</description>
+			</offer>
+			<offer id="1157" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>712</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>324</categoryId>
+				<picture>http://fasteda.ru/data/big/1157.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер суприм большая</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатныйы соус, сыр Моцарелла, пепперони, ветчина, говядина, свинина, грибы, лук, маслины, зеленый перец.</description>
+			</offer>
+			<offer id="1158" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>282</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>324</categoryId>
+				<picture>http://fasteda.ru/data/big/1158.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кваттро Формаджи маленькая - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, сыр Чеддер, голубой сыр, сыр Камамбер, томаты.</description>
+			</offer>
+			<offer id="1159" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>508</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>324</categoryId>
+				<picture>http://fasteda.ru/data/big/1159.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кваттро Формаджи средняя - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, сыр Чеддер, голубой сыр, сыр Камамбер, томаты.</description>
+			</offer>
+			<offer id="1160" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>712</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>324</categoryId>
+				<picture>http://fasteda.ru/data/big/1160.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кваттро Формаджи большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Томатный соус, сыр Моцарелла, сыр Чеддер, голубой сыр, сыр Камамбер, томаты.</description>
+			</offer>
+			<offer id="1173" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>282</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>324</categoryId>
+				<picture>http://fasteda.ru/data/big/1173.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сальмоне маленькая - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Сыр Моцарелла, копченая семга, сливочный сью, зеленые оливки, свежий укроп.</description>
+			</offer>
+			<offer id="1174" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>508</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>324</categoryId>
+				<picture>http://fasteda.ru/data/big/1174.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сальмоне средняя - тонкое тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Сыр Моцарелла, копченая семга, сливочный сью, зеленые оливки, свежий укроп.</description>
+			</offer>
+			<offer id="1175" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>712</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>324</categoryId>
+				<picture>http://fasteda.ru/data/big/1175.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сальмоне большая - пышное тесто</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Сыр Моцарелла, копченая семга, сливочный сью, зеленые оливки, свежий укроп.</description>
+			</offer>
+			<offer id="1176" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>207</categoryId>
+				<picture>http://fasteda.ru/data/big/1176.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола в банке</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>(0,33 л.).</description>
+			</offer>
+			<offer id="1177" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>207</categoryId>
+				<picture>http://fasteda.ru/data/big/1177.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола маленькая 0,5</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>(0,5 л.).</description>
+			</offer>
+			<offer id="1178" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>207</categoryId>
+				<picture>http://fasteda.ru/data/big/1178.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола средняя 1 л.</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>(1 л.).</description>
+			</offer>
+			<offer id="1179" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>207</categoryId>
+				<picture>http://fasteda.ru/data/big/1179.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола большая 2 л.</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>(2 л.).</description>
+			</offer>
+			<offer id="1180" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>207</categoryId>
+				<picture>http://fasteda.ru/data/big/1180.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аква Минерале Актив с лимоном 0,6 л.</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Для молодых, энергичных, динамичных людей, достигающих успеха, живущих преимущественно в городах, и заботящихся о своем здоровье и современном стиле жизни.</description>
+			</offer>
+			<offer id="1181" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>207</categoryId>
+				<picture>http://fasteda.ru/data/big/1181.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аква Минерале Актив с апельсином 0,6 л.</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Для молодых, энергичных, динамичных людей, достигающих успеха, живущих преимущественно в городах, и заботящихся о своем здоровье и современном стиле жизни.</description>
+			</offer>
+			<offer id="1182" available="true">
+				<url>http://fasteda.ru/menu/pizza-hut/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>207</categoryId>
+				<picture>http://fasteda.ru/data/big/1182.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Энергетический напиток Ред Булл 0,35 л.</name>
+				<vendor>Доставка из Pizza Hut</vendor>
+				<description>Повышает работоспособность, повышает концентрацию внимания и скорость реакции, повышает бдительность, улучшает эмоциональное состояние, стимулирует обмен веществ.
+Эффективность Ред Булла подтверждена известными спортсменами, успешными менеджерами, студентами и специалистами во всем мире.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

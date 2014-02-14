@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 04:53">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1019">Шашлыки</category>
+			<category id="1025">Рыба</category>
+			<category id="1023">Кебаб</category>
+			<category id="1031">Долма</category>
+			<category id="1029">Гарниры</category>
+			<category id="1021">Закуски и салаты</category>
+			<category id="1027">Пицца</category>
+			<category id="1035">Выпечка</category>
+			<category id="1033">Соусы</category>
+			<category id="1037">Десерты</category>
+			<category id="1039">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="6256" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6256.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из курицы (на косточке)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(210 гр).</description>
+			</offer>
+			<offer id="6257" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6257.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шаурма на мангале</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Куриная грудка, картофель фри, соус белый.
+(270 гр).</description>
+			</offer>
+			<offer id="6258" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6258.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name> Шашлык из курицы (грудка)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6259" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6259.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины (шея)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6260" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6260.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины (ребро)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="6261" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6261.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины (корейка)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="6262" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6262.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из телятины (ребро)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="6263" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6263.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из ягненка (филе)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>С курдюком, ики-бир.
+(180 гр).</description>
+			</offer>
+			<offer id="6264" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6264.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из ягненка (на кости)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="6265" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6265.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок (целый)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="6266" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6266.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из телятины (филе)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(170 гр).</description>
+			</offer>
+			<offer id="6267" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6267.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из телятины (корейка)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(180гр).</description>
+			</offer>
+			<offer id="6268" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6268.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из ягненка (корейка)</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(160 гр).</description>
+			</offer>
+			<offer id="6269" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>1700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1019</categoryId>
+				<picture>http://fasteda.ru/data/big/6269.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ассорти «Шашлыкович» на 6 персон</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Шея свиная, филе ягненка, телятина филе, куриное филе, свиное ребро, ягненок корейка.
+(1300 гр)
+.</description>
+			</offer>
+			<offer id="6280" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://fasteda.ru/data/big/6280.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из сёмги</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6281" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://fasteda.ru/data/big/6281.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из целой форели</name>
+				<vendor>Шашлыкович</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6282" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1025</categoryId>
+				<picture>http://fasteda.ru/data/big/6282.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из креветок</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6277" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://fasteda.ru/data/big/6277.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кебаб из куры</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(170 гр).</description>
+			</offer>
+			<offer id="6278" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://fasteda.ru/data/big/6278.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кебаб из говядины</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(170 гр).</description>
+			</offer>
+			<offer id="6279" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1023</categoryId>
+				<picture>http://fasteda.ru/data/big/6279.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кебаб из баранины</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(170 гр).</description>
+			</offer>
+			<offer id="6294" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1031</categoryId>
+				<picture>http://fasteda.ru/data/big/6294.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Долма с виноградными листьями</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Начинка из говяжего фарша, завернутая в виногратные листья с соусом.
+(200 гр).</description>
+			</offer>
+			<offer id="6289" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1029</categoryId>
+				<picture>http://fasteda.ru/data/big/6289.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Молодой картофель, запечёный на углях</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(120 гр).</description>
+			</offer>
+			<offer id="6291" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1029</categoryId>
+				<picture>http://fasteda.ru/data/big/6291.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(120 гр).</description>
+			</offer>
+			<offer id="6292" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1029</categoryId>
+				<picture>http://fasteda.ru/data/big/6292.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шампиньоны на мангале с сыром</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Шампиньоны, сыр.
+(120 гр).</description>
+			</offer>
+			<offer id="6293" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1029</categoryId>
+				<picture>http://fasteda.ru/data/big/6293.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощной шашлык</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Баклажан, помидор, перец.
+(120 гр).</description>
+			</offer>
+			<offer id="6270" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1021</categoryId>
+				<picture>http://fasteda.ru/data/big/6270.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соленья</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Капуста, огурцы, помидоры, перец, черемша.
+(200 гр).</description>
+			</offer>
+			<offer id="6271" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1021</categoryId>
+				<picture>http://fasteda.ru/data/big/6271.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат «Греческий»</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Огурцы, помидоры, перец, брынза, маслины, зелень.
+(220 гр).</description>
+			</offer>
+			<offer id="6272" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1021</categoryId>
+				<picture>http://fasteda.ru/data/big/6272.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощной букет с сыром</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Огурцы, помидоры, перец, зелень, сыр.
+(300 гр).</description>
+			</offer>
+			<offer id="6273" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1021</categoryId>
+				<picture>http://fasteda.ru/data/big/6273.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат «Цезарь» с курицей</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Курица, салат, помидоры, перепелиные яйца, сухарики, соус.
+(200 гр).</description>
+			</offer>
+			<offer id="6274" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1021</categoryId>
+				<picture>http://fasteda.ru/data/big/6274.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бастурма и суджух</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Мясные деликатесы из говядины.
+(100 гр).</description>
+			</offer>
+			<offer id="6275" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1021</categoryId>
+				<picture>http://fasteda.ru/data/big/6275.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат из лосося</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Лосось копченый, огурцы, салат, кукуруза, зелень, оливки, соус.
+(200 гр).</description>
+			</offer>
+			<offer id="6276" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1021</categoryId>
+				<picture>http://fasteda.ru/data/big/6276.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фирменный салат «Шашлыкович»</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Картофель-пай, свинина, перепелиные яйца, салат, стебель сельдерея, лук порей, маринованные огурцы, соус песто.
+(200 гр).</description>
+			</offer>
+			<offer id="6283" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1027</categoryId>
+				<picture>http://fasteda.ru/data/big/6283.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Нью-Йорк на пышном тесте</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Моцарелла, фирменный соус, грибы, ветчина, колбаса, помидоры, оливки, перец.
+(720 гр).</description>
+			</offer>
+			<offer id="6284" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1027</categoryId>
+				<picture>http://fasteda.ru/data/big/6284.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карбонара</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Бекон, моцарелла, шампиньоны, фирменный соус.
+(520 гр).</description>
+			</offer>
+			<offer id="6285" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1027</categoryId>
+				<picture>http://fasteda.ru/data/big/6285.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суприм на пышном тесте</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Моцарелла, фирменный соус, грибы, куриное филе, буженина, помидор, лук порей, оливки, перец.
+(750 гр).</description>
+			</offer>
+			<offer id="6286" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1027</categoryId>
+				<picture>http://fasteda.ru/data/big/6286.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пеперони</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Моцарелла, колбаса пеперони, перец, фирменный соус.
+(520 гр).</description>
+			</offer>
+			<offer id="6287" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1027</categoryId>
+				<picture>http://fasteda.ru/data/big/6287.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Улов рыбака</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Моцарелла, лосось копчёный, кальмары, креветки, кукуруза, оливки, икра, фирменный соус.
+(620 гр).</description>
+			</offer>
+			<offer id="6288" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1027</categoryId>
+				<picture>http://fasteda.ru/data/big/6288.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пицца по Вашему рецепту</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Выберите начинку и мы приготовим пиццу по Вашему рецепту.
+(650 гр).</description>
+			</offer>
+			<offer id="6298" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>10</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1035</categoryId>
+				<picture>http://fasteda.ru/data/big/6298.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лепёшка</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(70 гр).</description>
+			</offer>
+			<offer id="6299" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>10</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1035</categoryId>
+				<picture>http://fasteda.ru/data/big/6299.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лаваш</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(50 гр).</description>
+			</offer>
+			<offer id="6300" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1035</categoryId>
+				<picture>http://fasteda.ru/data/big/6300.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лагмаджо</name>
+				<vendor>Шашлыкович</vendor>
+				<description>Лепёшка с мясом и фирменным соусом.</description>
+			</offer>
+			<offer id="6301" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1035</categoryId>
+				<picture>http://fasteda.ru/data/big/6301.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хачапури аджария</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(240 гр).</description>
+			</offer>
+			<offer id="6295" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1033</categoryId>
+				<picture>http://fasteda.ru/data/big/6295.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Томатный соус</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="6296" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1033</categoryId>
+				<picture>http://fasteda.ru/data/big/6296.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочный соус</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="6297" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1033</categoryId>
+				<picture>http://fasteda.ru/data/big/6297.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Наршараб</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="6302" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1037</categoryId>
+				<picture>http://fasteda.ru/data/big/6302.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк «Нью-Йорк»</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="6303" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1037</categoryId>
+				<picture>http://fasteda.ru/data/big/6303.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пахлава</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="6304" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://fasteda.ru/data/big/6304.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тан (айран) домашний</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(0.5 л).</description>
+			</offer>
+			<offer id="6305" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://fasteda.ru/data/big/6305.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Cola 0,5 л</name>
+				<vendor>Шашлыкович</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6306" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://fasteda.ru/data/big/6306.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite 0,5 л</name>
+				<vendor>Шашлыкович</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6307" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://fasteda.ru/data/big/6307.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Fanta 0,5 л</name>
+				<vendor>Шашлыкович</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6308" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://fasteda.ru/data/big/6308.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лимонад «Тархун»</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(0.5 л).</description>
+			</offer>
+			<offer id="6309" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://fasteda.ru/data/big/6309.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лимонад «Дюшес»</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(0.5 л).</description>
+			</offer>
+			<offer id="6310" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://fasteda.ru/data/big/6310.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Минеральная вода «Джермук»</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(0.5 л).</description>
+			</offer>
+			<offer id="6311" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://fasteda.ru/data/big/6311.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Минеральная вода «Аква»</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(0.5 л).</description>
+			</offer>
+			<offer id="6312" available="true">
+				<url>http://fasteda.ru/menu/shashlikovich_dostavka/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1039</categoryId>
+				<picture>http://fasteda.ru/data/big/6312.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок RICH в ассортименте</name>
+				<vendor>Шашлыкович</vendor>
+				<description>(1 л).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

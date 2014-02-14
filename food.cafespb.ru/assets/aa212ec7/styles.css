@@ -1,0 +1,152 @@
+.grid-view-loading {
+    background: url(loading.gif) no-repeat;
+}
+
+.grid-view table.items {
+    background-color: #fff;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.grid-view table.items th, .grid-view table.items td {
+    font-size: 0.9em;
+    border: 1px white solid;
+    padding: 5px;
+}
+
+.grid-view table.items thead {
+    background-color: #fff;
+}
+.grid-view table.items thead.fixed {
+    position: fixed;
+    z-index: 10;
+}
+
+.grid-view table.items thead {
+    background-color: #fff;
+}
+.grid-view table.items thead.fixed {
+    position: fixed;
+    z-index: 10;
+}
+
+.grid-view table.items th {
+    font-size: 11px;
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+}
+
+.grid-view table.items th a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.grid-view table.items th a:hover {
+    /*color: #FFF;*/
+}
+
+.grid-view table.items th a.asc {
+    background: url(up.gif) right center no-repeat;
+    padding-right: 10px;
+}
+
+.grid-view table.items th a.desc {
+    background: url(down.gif) right center no-repeat;
+    padding-right: 10px;
+}
+
+.grid-view table.items tr.even {
+
+}
+
+.grid-view table.items tr.odd {
+    background: #F8F8F8;
+}
+
+.grid-view table.items tr.p_even {
+    background: #F8F8F8; cursor: pointer;
+}
+
+.grid-view table.items tr.p_odd {
+    background: #E5F1F4; cursor: pointer;
+}
+
+.grid-view table.items tr.selected {
+    background: #ecffe6;
+}
+
+.grid-view table.items tr:hover {
+    background: #f0fbdf;
+}
+
+.grid-view .link-column img {
+    border: 0;
+}
+
+.grid-view .button-column {
+    text-align: center;
+    width: 60px;
+}
+
+.grid-view .button-column img {
+    border: 0;
+}
+
+.grid-view .checkbox-column {
+    width: 15px;
+}
+
+.grid-view .grid-actions {
+    background-color: #F9F9F9;
+    border-top: 1px solid #d0d0d0;
+    padding: 5px;
+}
+.grid-view .grid-bottom {
+    font-size: 12px;
+    background-color: #F9F9F9;
+    border-top: 1px solid #d0d0d0;
+    padding: 10px;
+}
+.grid-view .summary {
+    text-align: right;
+}
+
+.grid-view .pager {}
+
+.grid-view .empty {
+    display: block;
+    font-style: italic;
+    padding: 10px;
+    border: 5px solid #eee;
+}
+
+.grid-view .filters td {
+    text-align: center;
+}
+.grid-view .filters input,
+.grid-view .filters select {font-size: 11px}
+
+.grid-view table.items div.group {
+    font-weight: bold;
+}
+
+.grid-view div.grid-preview-wrapper {
+    background-color: #F8F8F8;
+    margin: 5px;
+    padding: 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.grid-view div.grid-preview-wrapper div.grid-preview {
+
+}
+.grid-view div.grid-preview-wrapper div.grid-preview div.choose-element {
+    text-align: center;
+    font-size: 18px;
+    color: #999;
+    text-shadow: #CCC 2px 2px 2px;
+    min-height: 25px;
+}
+.grid-view div.grid-preview-wrapper div.grid-preview div.choose-element img{float: left; display: block; padding: 3px}

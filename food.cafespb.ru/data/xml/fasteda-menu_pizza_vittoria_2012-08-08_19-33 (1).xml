@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-08-08 19:33">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="484">Пицца</category>
+			<category id="485">Фирменная пицца</category>
+			<category id="486">Вегетарианская пицца</category>
+		</categories>
+		<offers>
+			<offer id="3053" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3053.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дон Капоне 26 см (традиционное тесто, 860 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Очень сытная. Томатный соус, сыр моцарелла, шампиньоны, томаты черри, ошпаренный лук, ветчина, бекон, пеперони, куриное филе в нашем фирменном маринаде, пармезан, зелень, оливковое масло. (860 гр).</description>
+			</offer>
+			<offer id="3054" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3054.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дон Капоне 26 см (фирменное  тесто, 910 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр.Томатный соус, сыр моцарелла, шампиньоны, томаты черри, ошпаренный лук, ветчина, бекон, пеперони, куриное филе в нашем фирменном маринаде, пармезан, зелень, оливковое масло.(910 гр).</description>
+			</offer>
+			<offer id="3059" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3059.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Баварская 26 см (традиционное тесто, 830 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Очень сытная. Фирменный томатный соус, сыр моцарелла, ветчина, бекон, колбаски охотничьи, колбаски баварские, свинина в фирменном маринаде, французская горчица, маслины, зелень, оливковое масло. (830 гр).</description>
+			</offer>
+			<offer id="3060" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3060.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Баварская 26 см (фирменное тесто, 880 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Фирменный томатный соус, сыр моцарелла, ветчина, бекон, колбаски охотничьи, колбаски баварские, свинина в фирменном маринаде, французская горчица, маслины, зелень, оливковое масло.Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр.  (880 гр).</description>
+			</offer>
+			<offer id="3065" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3065.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Маринара 26 см (традиционное тесто, 690 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Очень сытная, морская. Фирменный сливочно-сырный соус Vittoria, сыр моцарелла, осьминоги, кальмары, мидии, креветки, оливковое масло, зелень, лимон. (690 гр).</description>
+			</offer>
+			<offer id="3066" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3066.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Маринара 26 см (фирменное тесто, 740 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Очень сытная, морская.Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр. Фирменный сливочно-сырный соус Vittoria, сыр моцарелла, осьминоги, кальмары, мидии, креветки, оливковое масло, зелень, лимон. (740 гр).</description>
+			</offer>
+			<offer id="3071" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3071.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Деревенская 26 см (традиционное тесто, 840 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Очень сытная, аппетитная.Фирменный томатный соус Деревенский, сыр моцарелла, шампиньоны, ветчина , бекон, свинина в фирменном маринаде, куриное филе, томаты черри, красный лук, маслины, пармезан, зелень, оливковое масло. (840 гр).</description>
+			</offer>
+			<offer id="3072" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3072.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Деревенская 26 см (фирменное тесто, 900 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Очень сытная, аппетитная. Фирменный томатный соус Деревенский, сыр моцарелла, шампиньоны, ветчина , бекон, свинина в фирменном маринаде, куриное филе, томаты черри, красный лук, маслины, пармезан, зелень, оливковое масло. (900 гр).</description>
+			</offer>
+			<offer id="3077" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3077.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Песто 26 см (традиционное тесто, 720 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Сытная, деликатесная. Соус песто, сыр моцарелла, шампиньоны, томаты черри, куриное филе в фирменом маринаде, голубой сыр, сыр пармезан, прованские травы, оливковое масло. (720 гр).</description>
+			</offer>
+			<offer id="3078" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3078.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Песто 26 см (фирменное тесто, 770 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Сытная деликатесная. Соус песто, сыр моцарелла, шампиньоны, томаты черри, куриное филе в фирменном маринаде, голубой сыр, сыр пармезан, прованские травы, оливковое масло. Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается. (770 гр) .</description>
+			</offer>
+			<offer id="3089" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3089.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочно-грибная с курицей 26 см (традиционное тесто)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Нежная, сытная. Фирменный сливочно-сырный соус Vittoria, нежный грибной жульен из шампиньонов и белых грибов, сыр моцарелла, ошпаренный лук, куриное филе в фирменом маринаде, оливковое масло. (690 гр) .</description>
+			</offer>
+			<offer id="3090" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3090.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочно-грибная с курицей 26 см (фирменное тесто)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Нежная, сытная. Фирменный сливочно-сырный соус Vittoria, нежный грибной жульен из шампиньонов и белых грибов, сыр моцарелла, ошпаренный лук, куриное филе в фирменом маринаде, оливковое масло. Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте.  (740 гр) .</description>
+			</offer>
+			<offer id="3101" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофельная 26 см (традиционное тесто, 860 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Сытная, аппетитная. Домашнее картофельное пюре, фирменный сливочный соус Vittoria, сыр моцарелла, грибы, лук, помидоры, бекон, ветчина, свинина в нашем фирменном маринаде, пармезан, зелень, оливковое масло. (860 гр).</description>
+			</offer>
+			<offer id="3102" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3102.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофельная 26 см (фирменное тесто, 920 гр) </name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Сытная, аппетитная. Домашнее картофельное пюре, фирменный сливочный соус Vittoria, сыр моцарелла, грибы, лук, помидоры, бекон, ветчина, свинина в нашем фирменном маринаде, пармезан, зелень, оливковое масло. Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр.  (920 гр) .</description>
+			</offer>
+			<offer id="3119" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3119.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепперони с грибами 26 см (традиционное тесто, 690 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, классика. Томатный соус, сыр моцарелла, шампиньоны, пепперони, оливковое масло. (690 гр).</description>
+			</offer>
+			<offer id="3120" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3120.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепперони с грибами 26 см (фирменное тесто, 740 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, классика. Томатный соус, сыр моцарелла, шампиньоны, пепперони, оливковое масло. Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр. (740 гр).</description>
+			</offer>
+			<offer id="3125" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3125.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепперони классическая 26 см (традиционное тесто, 580 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, острая. Томатный соус, сыр моцарелла, пепперони, оливковое масло, острые перчики алапеньо. (580 гр).</description>
+			</offer>
+			<offer id="3126" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3126.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепперони классическая 26 см (фирменное  тесто, 640 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, острая. Томатный соус, сыр моцарелла, пепперони, оливковое масло, острые перчики алапеньо.Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр. (640 гр).</description>
+			</offer>
+			<offer id="3083" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3083.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кватро формаджи   26 см (традиционное тесто)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Нежная, сырная. Томатный соус, сыр Моцарелла, Гауда, Дор-Блю, Пармезан, прованские травы, оливковое масло.(750 гр).</description>
+			</offer>
+			<offer id="3084" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3084.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кватро формаджи   26 см (фирменное тесто)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Нежная, сырная. Томатный соус, сыр Моцарелла, Гауда, Дор-Блю, Пармезан, прованские травы, оливковое масло.Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр. (810 гр).</description>
+			</offer>
+			<offer id="3095" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3095.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мексиканская 26 см (традиционное тесто, 760 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Сытная, острая. Томатный соус, сыр моцарелла, красный лук, фасоль красная, кукуруза, томаты, фарш с соусом Taco, острые перчики алапеньо, сыр пармезан, оливковое масло. (760 гр) .</description>
+			</offer>
+			<offer id="3096" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3096.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мексиканская 26 см (фирменное тесто, 820 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Сытная, острая. Томатный соус, сыр моцарелла, красный лук, фасоль красная, кукуруза, томаты, фарш с соусом Taco, острые перчики алапеньо, сыр пармезан, оливковое масло. Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается. (820 гр) .</description>
+			</offer>
+			<offer id="3107" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3107.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Маргарита 26 см (традиционное тесто,  580 гр) </name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, классика. Томатный соус, сыр моцарелла, прованские травы, базилик, оливковое масло. (580 гр).</description>
+			</offer>
+			<offer id="3108" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3108.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Маргарита 26 см (фирменное тесто, 630 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, классика. Томатный соус, сыр моцарелла, прованские травы, базилик, оливковое масло. Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр. (630 гр).</description>
+			</offer>
+			<offer id="3113" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3113.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Милано 26 см (традиционное тесто, 580 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, классика. Томатный соус, сыр моцарелла, салями, орегано, оливковое масло. (580 гр).</description>
+			</offer>
+			<offer id="3114" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>484</categoryId>
+				<picture>http://fasteda.ru/data/big/3114.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Милано 26 см (фирменное тесто, 630 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, классика. Томатный соус, сыр моцарелла, салями, орегано, оливковое масло. Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр. (630 гр).</description>
+			</offer>
+			<offer id="3047" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>485</categoryId>
+				<picture>http://fasteda.ru/data/big/3047.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Vittoria  26 см (традиционное тесто, 790 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Очень сытная, морская.Фирменный сливочно-сырный соус Vittoria, сыр моцарелла, лосось, креветки, тунец, каперсы, томаты черри, маслины, пармезан, зелень, лимон, оливковое масло. (790гр).</description>
+			</offer>
+			<offer id="3048" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>485</categoryId>
+				<picture>http://fasteda.ru/data/big/3048.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Vittoria 26 см (фирменное тесто)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Очень сытная, морская.Фирменный сливочно-сырный соус Vittoria, сыр моцарелла, лосось, креветки, тунец, каперсы, томаты черри, маслины, пармезан, зелень, лимон, оливковое масло. Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр. (850 гр).</description>
+			</offer>
+			<offer id="3131" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>486</categoryId>
+				<picture>http://fasteda.ru/data/big/3131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вегетарианская 26 см (традиционное тесто, 690 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, нежная. Томатный соус, сыр моцарелла, шампиньоны, маслины, болгарский перец, брокколи, баклажаны, оливковое масло. (690 гр).</description>
+			</offer>
+			<offer id="3132" available="true">
+				<url>http://fasteda.ru/menu/pizza_vittoria/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>486</categoryId>
+				<picture>http://fasteda.ru/data/big/3132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вегетарианская 26 см (фирменное тесто, 750 гр)</name>
+				<vendor>Доставка пиццы Vittoria</vendor>
+				<description>Лёгкая, нежная. Томатный соус, сыр моцарелла, шампиньоны, маслины, болгарский перец, брокколи, баклажаны, оливковое масло. Фирменное тесто Vittoria или хрустящая корочка с сырной начинкой. В край пиццы на тонком тесте запекается сыр. (750 гр).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

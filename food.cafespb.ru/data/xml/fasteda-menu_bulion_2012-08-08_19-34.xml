@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-08-08 19:34">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="759">Салаты и холодные закуски</category>
+			<category id="761">Супы</category>
+			<category id="765">Горячее</category>
+			<category id="763">Паста</category>
+			<category id="767">Гарниры</category>
+			<category id="769">Десерты</category>
+			<category id="771">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="4493" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4493.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Язык с хреном, горчицей и зеленым горошком</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(280гр).</description>
+			</offer>
+			<offer id="4482" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4482.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Традиционный салат Цезарь с курицей </name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(360гр).</description>
+			</offer>
+			<offer id="4483" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4483.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Традиционный салат Цезарь с креветками </name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(380гр).</description>
+			</offer>
+			<offer id="4484" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4484.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат «Оливье» с языком</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(280гр).</description>
+			</offer>
+			<offer id="4485" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4485.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат «Оливье» с курой</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(330гр).</description>
+			</offer>
+			<offer id="4487" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4487.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясной салат </name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(440гр).</description>
+			</offer>
+			<offer id="4486" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4486.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тёплый салат  с цыпленком</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(390гр).</description>
+			</offer>
+			<offer id="4481" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4481.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощной салат с брынзой</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(310гр).</description>
+			</offer>
+			<offer id="4488" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4488.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сельдь атлантическая  с мини-картофелем и луком</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(260гр).</description>
+			</offer>
+			<offer id="4489" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4489.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сырная тарелка</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(210гр).</description>
+			</offer>
+			<offer id="4490" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4490.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясная тарелка</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(330гр).</description>
+			</offer>
+			<offer id="4491" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4491.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыбная тарелка</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(320гр).</description>
+			</offer>
+			<offer id="4492" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>759</categoryId>
+				<picture>http://fasteda.ru/data/big/4492.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соленья</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(320гр).</description>
+			</offer>
+			<offer id="4494" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>761</categoryId>
+				<picture>http://fasteda.ru/data/big/4494.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриный бульон с перепелиным яйцом</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(210гр).</description>
+			</offer>
+			<offer id="4495" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>761</categoryId>
+				<picture>http://fasteda.ru/data/big/4495.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофельный суп-пюре с беконом и ржаными  гренками</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(350гр).</description>
+			</offer>
+			<offer id="4496" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>761</categoryId>
+				<picture>http://fasteda.ru/data/big/4496.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грибной крем суп</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(230гр).</description>
+			</offer>
+			<offer id="4497" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>761</categoryId>
+				<picture>http://fasteda.ru/data/big/4497.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочный сырный суп</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(320гр).</description>
+			</offer>
+			<offer id="4498" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>761</categoryId>
+				<picture>http://fasteda.ru/data/big/4498.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Уха из благородных  рыб и помидорами</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(350гр).</description>
+			</offer>
+			<offer id="4499" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>761</categoryId>
+				<picture>http://fasteda.ru/data/big/4499.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясной борщ с пампушками</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(340гр).</description>
+			</offer>
+			<offer id="4500" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>761</categoryId>
+				<picture>http://fasteda.ru/data/big/4500.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясная солянка </name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(320гр).</description>
+			</offer>
+			<offer id="4506" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4506.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Драники со сметаной и беконом</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(250гр).</description>
+			</offer>
+			<offer id="4507" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4507.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Треска в чесночном соусе  с зелеными овощами</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(340гр).</description>
+			</offer>
+			<offer id="4510" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4510.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Медовый лосось  с овощными спагетти</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(350гр).</description>
+			</offer>
+			<offer id="4511" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>760</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4511.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сибас, фаршированный овощами и шпинатом</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(320гр).</description>
+			</offer>
+			<offer id="4512" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4512.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриные котлетки с картофельным пюре</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(270гр).</description>
+			</offer>
+			<offer id="4513" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4513.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из куриной грудки с соусом песто и сыром моцарелла</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(200гр).</description>
+			</offer>
+			<offer id="4514" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4514.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриный рулет с соусом дор-блю</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(290гр).</description>
+			</offer>
+			<offer id="4515" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4515.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок табака с соусом сальса</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(350гр).</description>
+			</offer>
+			<offer id="4518" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4518.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина на драниках</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(420гр).</description>
+			</offer>
+			<offer id="4519" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4519.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свиная отбивная с томатами</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(300гр).</description>
+			</offer>
+			<offer id="4520" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4520.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Медальоны из говядины </name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(200гр).</description>
+			</offer>
+			<offer id="4521" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>670</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4521.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из говядины</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(200гр).</description>
+			</offer>
+			<offer id="4522" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4522.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бефстроганов с грибами и картофельным пюре</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(220гр).</description>
+			</offer>
+			<offer id="4523" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>720</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4523.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Каре барашка с брусничным соусом</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(320гр).</description>
+			</offer>
+			<offer id="4508" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4508.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыбные котлеты с рисом</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(270гр).</description>
+			</offer>
+			<offer id="4509" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4509.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Судак запеченный с картофельным пюре</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(360гр).</description>
+			</offer>
+			<offer id="4516" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4516.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Утиная грудка с яблоками и шафраном</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(300гр).</description>
+			</offer>
+			<offer id="4517" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>765</categoryId>
+				<picture>http://fasteda.ru/data/big/4517.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Две домашние котлеты с жареным картофелем</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(270гр).</description>
+			</offer>
+			<offer id="4501" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>763</categoryId>
+				<picture>http://fasteda.ru/data/big/4501.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Паста с цукини и креветками</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(340гр).</description>
+			</offer>
+			<offer id="4502" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>763</categoryId>
+				<picture>http://fasteda.ru/data/big/4502.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Паста с лососем в сливочном соусе</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(340гр).</description>
+			</offer>
+			<offer id="4503" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>763</categoryId>
+				<picture>http://fasteda.ru/data/big/4503.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Паста Карбонара</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(340гр).</description>
+			</offer>
+			<offer id="4504" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>763</categoryId>
+				<picture>http://fasteda.ru/data/big/4504.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Паста Болоньезе</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(340гр).</description>
+			</offer>
+			<offer id="4524" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>767</categoryId>
+				<picture>http://fasteda.ru/data/big/4524.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(150гр).</description>
+			</offer>
+			<offer id="4525" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>767</categoryId>
+				<picture>http://fasteda.ru/data/big/4525.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Отварной картофель с зеленью</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(150гр).</description>
+			</offer>
+			<offer id="4526" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>767</categoryId>
+				<picture>http://fasteda.ru/data/big/4526.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис с овощами</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(150гр).</description>
+			</offer>
+			<offer id="4527" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>767</categoryId>
+				<picture>http://fasteda.ru/data/big/4527.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цветная капуста, запечённая с сыром</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(150гр).</description>
+			</offer>
+			<offer id="4528" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>767</categoryId>
+				<picture>http://fasteda.ru/data/big/4528.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощи запечённые</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(150гр).</description>
+			</offer>
+			<offer id="4529" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>769</categoryId>
+				<picture>http://fasteda.ru/data/big/4529.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Домашнее печенье</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(120гр).</description>
+			</offer>
+			<offer id="4530" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>769</categoryId>
+				<picture>http://fasteda.ru/data/big/4530.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мороженое</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(160гр).</description>
+			</offer>
+			<offer id="4531" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>769</categoryId>
+				<picture>http://fasteda.ru/data/big/4531.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Панна Котта</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(150гр).</description>
+			</offer>
+			<offer id="4532" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>769</categoryId>
+				<picture>http://fasteda.ru/data/big/4532.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шарлотка с ванильным соусом и мороженным</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(200гр).</description>
+			</offer>
+			<offer id="4533" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>769</categoryId>
+				<picture>http://fasteda.ru/data/big/4533.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Брусничный пирог</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(170гр).</description>
+			</offer>
+			<offer id="4534" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>769</categoryId>
+				<picture>http://fasteda.ru/data/big/4534.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики Креп Сюзет со взбитыми сливками и шоколадом</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(170гр).</description>
+			</offer>
+			<offer id="4535" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>769</categoryId>
+				<picture>http://fasteda.ru/data/big/4535.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карпаччо из ананаса</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(170гр).</description>
+			</offer>
+			<offer id="4536" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>769</categoryId>
+				<picture>http://fasteda.ru/data/big/4536.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Трубочка с маркарпоне</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>(150гр).</description>
+			</offer>
+			<offer id="4537" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>771</categoryId>
+				<picture>http://fasteda.ru/data/big/4537.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Есентуки №4</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>0.5л.</description>
+			</offer>
+			<offer id="4538" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>771</categoryId>
+				<picture>http://fasteda.ru/data/big/4538.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вода «Гальванина» </name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>газ/негаз  .</description>
+			</offer>
+			<offer id="4539" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>771</categoryId>
+				<picture>http://fasteda.ru/data/big/4539.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ягодный морс  </name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>0.2л.</description>
+			</offer>
+			<offer id="4541" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>771</categoryId>
+				<picture>http://fasteda.ru/data/big/4541.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соки свежевыжатые цитрусовые 0,25 л</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4546" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>771</categoryId>
+				<picture>http://fasteda.ru/data/big/4546.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соки в ассортименте 0.2л</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4547" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>771</categoryId>
+				<picture>http://fasteda.ru/data/big/4547.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лимонад в ассортименте 0.25л</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4548" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>771</categoryId>
+				<picture>http://fasteda.ru/data/big/4548.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кофе Американо</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4552" available="true">
+				<url>http://fasteda.ru/menu/bulion/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>771</categoryId>
+				<picture>http://fasteda.ru/data/big/4552.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чай в ассортименте 0.3л</name>
+				<vendor>Ресторан Бульон</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

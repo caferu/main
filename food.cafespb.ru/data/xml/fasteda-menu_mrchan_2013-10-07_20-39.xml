@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:39">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1588">Салаты</category>
+			<category id="1665">Горячие блюда</category>
+			<category id="1581">Роллы</category>
+			<category id="1584">Суши</category>
+			<category id="1666">Горячие закуски</category>
+			<category id="1589">Супы</category>
+			<category id="1667">Wok</category>
+			<category id="1231">Напитки</category>
+			<category id="1590">Соусы</category>
+			<category id="1931">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="11275" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1588</categoryId>
+				<picture>http://fasteda.ru/data/big/11275.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с копченным лососем</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Легкий салат из свежих овощей, айсберга, копченого лосося, заправленный фирменным соусом.
+(240 гр).</description>
+			</offer>
+			<offer id="8943" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1588</categoryId>
+				<picture>http://fasteda.ru/data/big/8943.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Фунчоза</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Фунчоза, паприка, морковь, огурец, соус соевый, кунжутное масло, уксус рисовый.</description>
+			</offer>
+			<offer id="8944" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1588</categoryId>
+				<picture>http://fasteda.ru/data/big/8944.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Уми Сарадо - теплый салат с морепродуктами</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Мидии, кальмары, морской гребешок, лосось, огурец, салат пекинский, соус ореховый гамадари.</description>
+			</offer>
+			<offer id="8154" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1588</categoryId>
+				<picture>http://fasteda.ru/data/big/8154.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат чука</name>
+				<vendor>Мистер Чен</vendor>
+				<description>салат из морских водорослей с пикантной заправкой. Подается с арахисовым соусом (180 гр).</description>
+			</offer>
+			<offer id="8155" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>147</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1588</categoryId>
+				<picture>http://fasteda.ru/data/big/8155.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тайский салат с говядиной</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Нежные кусочки говядины с китайскими грибами, овощами и фирменной заправкой(147 гр).</description>
+			</offer>
+			<offer id="8156" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1588</categoryId>
+				<picture>http://fasteda.ru/data/big/8156.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Лайт</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Лапша фунчоза с огурцами и морковью, приправленная кисло-сладким соусом (260 гр).</description>
+			</offer>
+			<offer id="11279" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/11279.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кальмары с овощами</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Кусочки кальмаров и овощей в устричном соусе.
+(300 гр).</description>
+			</offer>
+			<offer id="11278" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>209</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/11278.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина в кисло-сладком соусе</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Сочные кусочки свинины в кисло-сладком соусе. подается с вареным рисом.
+(320 гр).</description>
+			</offer>
+			<offer id="11277" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/11277.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина терияки</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Кусочки говядины, приготовленные в соусе терияки. Подается с рисом.
+(320 гр).</description>
+			</offer>
+			<offer id="11276" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/11276.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Курица терияки</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Нежные кусочки курицы в соусе терияки. Подается с вареным рисом.
+(320 гр).</description>
+			</offer>
+			<offer id="8947" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/8947.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гедза со свининой</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Японские пельмени.</description>
+			</offer>
+			<offer id="8168" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/8168.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина по-харбински</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Нежные кусочки говядины с овощами, древесными грибами и шиитаке, под фирменным соусом (310 гр)
+.</description>
+			</offer>
+			<offer id="8167" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>271</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/8167.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось терияки</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Нежные кусочки лосося с овощами под фирменным соусом терияки (380 гр)
+.</description>
+			</offer>
+			<offer id="8163" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>247</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/8163.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Курица в кисло-сладком соусе</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Нежное куриное филе с ананасом в кисло-сладком соусе (350 гр).</description>
+			</offer>
+			<offer id="8164" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/8164.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина в чесночном соусе</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Кусочки свинины, обжаренные с овощами и китайскими грибами в пикантном соусе	(270 гр)
+.</description>
+			</offer>
+			<offer id="7307" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>225</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/7307.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина по-сычуаньски</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Рис, обжаренный с овощами, специями и кусочками говядины, заправлен пикантным остро-прянным соусом. Рекомендуемые добавки: говядина, сыр тофу, яйцо (350 гр).</description>
+			</offer>
+			<offer id="7305" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/7305.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Азиатский рис</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Рис,обжаренный с овощами и яйцом,специями и кусочками курицы, заправлен пикантным азиатским соусом (350 гр).</description>
+			</offer>
+			<offer id="9499" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/9499.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощи wok</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Кусочки овощей, быстро обжаренные на сковороде wok с добавлением соевого соуса и кунжутного масла (280 гр).</description>
+			</offer>
+			<offer id="9498" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/9498.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вок с курицей</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Яичная лапша с курицей и овощами, заправленная азиатским соусом (310 гр).</description>
+			</offer>
+			<offer id="9500" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1665</categoryId>
+				<picture>http://fasteda.ru/data/big/9500.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гарнир для горячих блюд вареный рис</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11288" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/11288.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Батакон тидзу</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Бекон, моцарелла, курица, сыр плавленный, майонез. </description>
+			</offer>
+			<offer id="11287" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/11287.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грибной ролл</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Шиитаке, куриное филе,сыр плавленный, моцарелла, кунжут.</description>
+			</offer>
+			<offer id="11286" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/11286.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кани тидзу АКЦИЯ</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Краб, жаренный лосось, сыр плавленый, моцарелла, яки соус.</description>
+			</offer>
+			<offer id="11285" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/11285.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Эби сакана АКЦИЯ</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Креветка, окунь жаренный, сыр плавленный, моцарелла, яки соус.</description>
+			</offer>
+			<offer id="11284" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/11284.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Акито (острый)</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Мидии, лосось жаренный, моцарелла спайс соус.</description>
+			</offer>
+			<offer id="11283" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/11283.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Токио лосось</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Угорь, моцарелла, огурец, кунжут, яки соус.</description>
+			</offer>
+			<offer id="11282" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/11282.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Микадо</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Угорь, моцарелла, филадельфия  огурец, омлет, яки соус.</description>
+			</offer>
+			<offer id="11281" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/11281.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сегун</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Лосось, моцарелла, филадельфия, огурец, омлет, яки соус.</description>
+			</offer>
+			<offer id="11280" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/11280.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кунсей батакон</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Бекон, плавленный сыр, куриное филе, огурец.</description>
+			</offer>
+			<offer id="8959" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8959.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филидельфия</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8953" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8953.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочный угорь</name>
+				<vendor>Мистер Чен</vendor>
+				<description>угорь, филадельфия, огурец, тобико красная.</description>
+			</offer>
+			<offer id="8948" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8948.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния</name>
+				<vendor>Мистер Чен</vendor>
+				<description>краб снежный, тобико красная, огурец, майонез.</description>
+			</offer>
+			<offer id="8958" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8958.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аляска</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Копченый лосось, Филадельфия огурец кунжут.</description>
+			</offer>
+			<offer id="8949" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8949.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осака</name>
+				<vendor>Мистер Чен</vendor>
+				<description>краб снежный, лосось, огурец, майонез, кунжут микс.</description>
+			</offer>
+			<offer id="8957" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8957.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Томаго</name>
+				<vendor>Мистер Чен</vendor>
+				<description>лосось копченый, омлет, соус спайси, лук порей, кунжут.</description>
+			</offer>
+			<offer id="8956" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>205</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8956.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Канада</name>
+				<vendor>Мистер Чен</vendor>
+				<description>лосось, угорь, Филадельфия, огурец, кунжут.</description>
+			</offer>
+			<offer id="8960" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8960.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бонито</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Лосось жареный, сыр плавленный, тобико красная, спайси соус,стружка тунца.</description>
+			</offer>
+			<offer id="8961" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>205</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8961.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Киото</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Окунь жареный, Филадельфия тобико черная огурец спайси соус.</description>
+			</offer>
+			<offer id="8962" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>205</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8962.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фудзияма</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Лосось копченый,омлет, Филадельфия, кунжут черный.</description>
+			</offer>
+			<offer id="8955" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>205</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8955.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Окинава</name>
+				<vendor>Мистер Чен</vendor>
+				<description>тунец, филадельфия, огурец, спайси соус, стружка тунца.</description>
+			</offer>
+			<offer id="8968" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8968.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Масаго ролл</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Креветка тигровая, икра масаго, огурец, Филадельфия.</description>
+			</offer>
+			<offer id="8967" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8967.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощной ролл</name>
+				<vendor>Мистер Чен</vendor>
+				<description>чука, паприка, огурец, соус ореховый гамадари.</description>
+			</offer>
+			<offer id="8966" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8966.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дабл Сяке</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Лосось, тобико красная, Филадельфия огурец.</description>
+			</offer>
+			<offer id="8965" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>215</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8965.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дабл Унаги</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Угорь, тобико красная, Филадельфия, огурец.</description>
+			</offer>
+			<offer id="8964" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>215</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8964.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Самурай</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Лосось, окунь, тунец, спайси соус, кунжут.</description>
+			</offer>
+			<offer id="8963" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8963.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл лосось</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8954" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8954.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл копченый лосось</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8950" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>115</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8950.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл угорь</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8952" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>105</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8952.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл тунец</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8951" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8951.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл огурец</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8924" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>225</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8924.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Горячий ролл Якудза</name>
+				<vendor>Мистер Чен</vendor>
+				<description>лосось, сыр плавленный, спайси соус, кляр, сухари панко.</description>
+			</offer>
+			<offer id="8923" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>215</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8923.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Горячий ролл Хокайдо</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Окунь, сыр плавленный, спайси соус, кляр, панко.</description>
+			</offer>
+			<offer id="8921" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8921.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый ролл Унаги спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Угорь, тобико черная, огурец, соус спайси.</description>
+			</offer>
+			<offer id="8920" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1581</categoryId>
+				<picture>http://fasteda.ru/data/big/8920.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый ролл Сяке спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>лосось, тобико красная, огурец, спайси соус.</description>
+			</offer>
+			<offer id="8933" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>39</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8933.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось </name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8932" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8932.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Копченый лосось</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8930" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8930.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8928" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8928.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8927" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8927.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тобико красная</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8926" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8926.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тобико черная</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8929" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8929.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Окунь</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8931" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8931.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветка</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8925" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8925.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чука</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8942" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8942.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8941" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8941.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Угорь спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8940" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8940.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Окунь спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8939" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8939.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гребешок спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8938" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8938.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кальмар спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8937" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8937.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тунец спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8936" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8936.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мидии спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8935" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8935.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветка спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8934" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1584</categoryId>
+				<picture>http://fasteda.ru/data/big/8934.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Краб спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7317" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/7317.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Азиатский бургер</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Бургер с панированой курочкой, овощами, специальным соусом и специями (250 гр).</description>
+			</offer>
+			<offer id="7314" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>157</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/7314.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Панини с курицей</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Нежное филе панированной курицы с овощами, заправленное соусом карри и специальными специями, подается в хрустящем лаваше (250 гр).</description>
+			</offer>
+			<offer id="8160" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>187</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/8160.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спринг роллы с курицей</name>
+				<vendor>Мистер Чен</vendor>
+				<description>обжаренные спринг ролы с курицей и овощами, подаются с остро-сладким соусом (280 гр)
+
+.</description>
+			</offer>
+			<offer id="7324" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>238</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/7324.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спринг роллы с креветками</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Обжаренные спринг роллы с овощами, стекляной лапшой и креветками, подаются с остро-сладким соусом (200 гр).</description>
+			</offer>
+			<offer id="7309" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/7309.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спринг роллы с овощами</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Обжаренные спринг роллы с овощами, подаются с остро-сладким соусом (140 гр).</description>
+			</offer>
+			<offer id="8161" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>145</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/8161.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Скай ролл</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Нежное филе курицы в лаваше, заправленное фирменным соусом (170 гр)
+.</description>
+			</offer>
+			<offer id="8162" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/8162.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фишстикс</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Палочки из нежного филе судака, обжаренные в хрустящей панировке, подаются с белым соусом (163 гр).</description>
+			</offer>
+			<offer id="9501" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>177</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/9501.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крылья дракона</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Пикантные куриные крылышки, подаются с соусом (6 шт).</description>
+			</offer>
+			<offer id="9502" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/9502.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Курица темпура</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Нежные кусочки курицы, обжаренные в кляре темпура, подаются с соусом (250 гр).</description>
+			</offer>
+			<offer id="7308" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/7308.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спринг роллы с бананами</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Обжаренные спринг роллы с банановой начинкой, подаются со сливовым соусом  (140 гр).</description>
+			</offer>
+			<offer id="9503" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/9503.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бананы в кляре</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(180).</description>
+			</offer>
+			<offer id="11266" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/11266.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофельные дольки</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Подаются с соусом
+(150 гр).</description>
+			</offer>
+			<offer id="11265" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1666</categoryId>
+				<picture>http://fasteda.ru/data/big/11265.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель Фри</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Подается с соусом
+(150 гр).</description>
+			</offer>
+			<offer id="11291" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1589</categoryId>
+				<picture>http://fasteda.ru/data/big/11291.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кани-эби-рамен</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Насыщенный суп с морепродуктами, лапшой и яйцом.</description>
+			</offer>
+			<offer id="11274" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1589</categoryId>
+				<picture>http://fasteda.ru/data/big/11274.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Том ям</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Классический тайский суп с креветками, овощами, грибами шитаке и кокосовым молоком.
+(350 гр).</description>
+			</offer>
+			<offer id="8945" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1589</categoryId>
+				<picture>http://fasteda.ru/data/big/8945.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп сливочный с угрем</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Рис, угорь, вакамэ, бульон рыбный, сливки, лук зеленый (350 гр).</description>
+			</offer>
+			<offer id="8946" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1589</categoryId>
+				<picture>http://fasteda.ru/data/big/8946.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп сливочный с лососем</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Рис, лосось, вакамэ, бульон рыбный, сливки, лук зеленый (350 гр).</description>
+			</offer>
+			<offer id="8159" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1589</categoryId>
+				<picture>http://fasteda.ru/data/big/8159.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кисло-сладкий суп</name>
+				<vendor>Мистер Чен</vendor>
+				<description>нежный суп с курицей и овощами в кисло-сладком соусе (350 гр).</description>
+			</offer>
+			<offer id="8158" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>87</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1589</categoryId>
+				<picture>http://fasteda.ru/data/big/8158.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп с говядиной</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Насыщенный суп с говядиной, овощами, грибами шитаке и яичной лапшой (350 гр).</description>
+			</offer>
+			<offer id="8157" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>71</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1589</categoryId>
+				<picture>http://fasteda.ru/data/big/8157.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриный бульон</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Ароматный бульон с кусочками курицы и яичной лапшой (350 гр).</description>
+			</offer>
+			<offer id="8244" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1667</categoryId>
+				<picture>http://fasteda.ru/data/big/8244.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стеклянная лапша</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Основа с овощами.</description>
+			</offer>
+			<offer id="7346" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1667</categoryId>
+				<picture>http://fasteda.ru/data/big/7346.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яичная Лапша</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Основа с овощами.</description>
+			</offer>
+			<offer id="7347" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1667</categoryId>
+				<picture>http://fasteda.ru/data/big/7347.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Основа с овощами.</description>
+			</offer>
+			<offer id="7350" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1667</categoryId>
+				<picture>http://fasteda.ru/data/big/7350.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пшеничная Лапша</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Основа с овощами.</description>
+			</offer>
+			<offer id="7353" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1667</categoryId>
+				<picture>http://fasteda.ru/data/big/7353.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рисовая Лапша</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7348" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1667</categoryId>
+				<picture>http://fasteda.ru/data/big/7348.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гречневая Лапша</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Основа с овощами.</description>
+			</offer>
+			<offer id="11264" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1667</categoryId>
+				<picture>http://fasteda.ru/data/big/11264.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша домашняя «Удон»</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11261" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/11261.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Имбирный напиток</name>
+				<vendor>Мистер Чен</vendor>
+				<description>0,5 л.</description>
+			</offer>
+			<offer id="7328" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/7328.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Pepsi в бутылке 0,6 л</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(0,6 л).</description>
+			</offer>
+			<offer id="7333" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/7333.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>7-Up в бутылке 0,6 л</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(0,6 л).</description>
+			</offer>
+			<offer id="7335" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/7335.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Mirinda в бутылке 0,6 л</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(0,6 л).</description>
+			</offer>
+			<offer id="7336" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/7336.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок 0,2 л</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(0,2 л).</description>
+			</offer>
+			<offer id="7337" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/7337.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Холодный чай Lipton 0,6 л</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(0,6 л).</description>
+			</offer>
+			<offer id="7338" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/7338.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Разливной морс 0,5 л</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(0,5 л).</description>
+			</offer>
+			<offer id="7339" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/7339.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Минеральная вода негаз. 0,5 л</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11260" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/11260.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фруктовые напитки</name>
+				<vendor>Мистер Чен</vendor>
+				<description>0,5 л.</description>
+			</offer>
+			<offer id="11259" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1231</categoryId>
+				<picture>http://fasteda.ru/data/big/11259.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Китайский чай</name>
+				<vendor>Мистер Чен</vendor>
+				<description>0,5 л.</description>
+			</offer>
+			<offer id="8969" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>25</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1590</categoryId>
+				<picture>http://fasteda.ru/data/big/8969.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Имбирь</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8970" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>25</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1590</categoryId>
+				<picture>http://fasteda.ru/data/big/8970.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Васаби</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8971" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1590</categoryId>
+				<picture>http://fasteda.ru/data/big/8971.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус ореховый Гамадари</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8972" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>25</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1590</categoryId>
+				<picture>http://fasteda.ru/data/big/8972.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соевый соус</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8973" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1590</categoryId>
+				<picture>http://fasteda.ru/data/big/8973.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус Спайси</name>
+				<vendor>Мистер Чен</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="11255" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1590</categoryId>
+				<picture>http://fasteda.ru/data/big/11255.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карри</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11256" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1590</categoryId>
+				<picture>http://fasteda.ru/data/big/11256.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мистер Чен</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11258" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1590</categoryId>
+				<picture>http://fasteda.ru/data/big/11258.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Остро-сладкий</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11257" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1590</categoryId>
+				<picture>http://fasteda.ru/data/big/11257.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Терияки</name>
+				<vendor>Мистер Чен</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11290" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1931</categoryId>
+				<picture>http://fasteda.ru/data/big/11290.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фруктово-ореховый ролл</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Грецкий орех, киви, банан, филадельфия, сгущенное молоко, сахарная пудра, сироп .</description>
+			</offer>
+			<offer id="11289" available="true">
+				<url>http://fasteda.ru/menu/mrchan/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1931</categoryId>
+				<picture>http://fasteda.ru/data/big/11289.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фруктовый ролл</name>
+				<vendor>Мистер Чен</vendor>
+				<description>Киви, ананас, банан, филадельфия, сахарная пудра, сироп.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

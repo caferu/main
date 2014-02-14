@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 04:49">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="456">Роллы фирменные</category>
+			<category id="468">Суши</category>
+			<category id="462">Запечённые суши</category>
+			<category id="464">Острые суши</category>
+			<category id="460">Роллы</category>
+			<category id="472">Запечённые роллы</category>
+			<category id="458">Наборы</category>
+			<category id="474">Китайская лапша</category>
+			<category id="470">Супы</category>
+			<category id="466">Гункан-маки</category>
+			<category id="757">Торт из роллов</category>
+			<category id="2040">Европейская кухня</category>
+		</categories>
+		<offers>
+			<offer id="2936" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2936.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия чука</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, сыр сливочный ,огурец, чука , рис, нори.</description>
+			</offer>
+			<offer id="2937" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2937.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия люкс</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, сыр сливочный, огурец, икра лососёвая, рис, нори.</description>
+			</offer>
+			<offer id="2938" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2938.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия с угрём</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, сыр сливочный, огурец, рис, нори.</description>
+			</offer>
+			<offer id="2939" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2939.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Калифорния</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Краб, икра тобико, майонез, огурец, авокадо, рис, нори.</description>
+			</offer>
+			<offer id="2940" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2940.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Зеленый дом</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось , сыр сливочный, огурец, зелёная тобико, рис нори.</description>
+			</offer>
+			<offer id="2941" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2941.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Футо Маки</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>угорь, огурец, грибы Шитаке, рис, нори.</description>
+			</offer>
+			<offer id="2942" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2942.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Самурай маки</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Краб, креветка, авокадо, лук порей, лосось, сыр сливочный, рис, нори.</description>
+			</offer>
+			<offer id="2943" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2943.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Канадский</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, авокадо, лосось, сыр сливочный, кунжут, рис, нори, соус унаги.</description>
+			</offer>
+			<offer id="2944" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2944.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Острый с угрем</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, огурец, соус кимчи, кунжут, рис, нори.</description>
+			</offer>
+			<offer id="2934" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2934.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Инь Янь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Тунец, лосось, рис, нори.</description>
+			</offer>
+			<offer id="2945" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2945.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Чёрный сёгун</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, сыр сливочный , огурец, тобико чёрная, кунжут, рис, нори.</description>
+			</offer>
+			<offer id="2946" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2946.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Сливочный</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, сыр сливочный, тобико малиновая, авокадо, рис, нори.</description>
+			</offer>
+			<offer id="2947" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2947.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Аляска фиш</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, огурец, авокадо, кунжут, рис, нори, майонез.</description>
+			</offer>
+			<offer id="2948" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2948.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Аляска</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Краб микс, сыр сливочный, авокадо, огурец, кунжут, рис, нори.</description>
+			</offer>
+			<offer id="2949" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2949.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Радуга</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, угорь, краб, тунец, авокадо, огурец, рис , нори.</description>
+			</offer>
+			<offer id="2950" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2950.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Шитаке Чукка Маки</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>сыр, сливочный лук зелёный , грибы шитаке, чука, рис, нори.</description>
+			</offer>
+			<offer id="2951" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2951.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Самурайка</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, лосось, сыр сливочный, огурец, имбирь, кунжут, тобико красная, рис, нори.</description>
+			</offer>
+			<offer id="2952" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2952.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Япония</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Краб, сыр сливочный , авокадо, креветка, кимчи, тобико зелёная, тобико красная, рис, нори.</description>
+			</offer>
+			<offer id="2953" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2953.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Цезарь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Курица, сыр сливочный, томат, салатный лист, сухарики, рис, нори.</description>
+			</offer>
+			<offer id="2954" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2954.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Греческий рай</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Огурец, томат, перец, сыр фета, зелёный лук, рис, кунжут, нори.</description>
+			</offer>
+			<offer id="2955" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>225</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2955.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Калифорния в угре</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, икра тобико, майонез, огурец, авокадо, рис, нори.</description>
+			</offer>
+			<offer id="2956" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2956.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Сурими острый</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Острый соус кимчи, огурец, сурими.</description>
+			</offer>
+			<offer id="2957" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2957.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Красный сёгун</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Копченый лосось, сыр сливочный, огурец, чёрная и красная тобико.</description>
+			</offer>
+			<offer id="2958" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2958.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Филадельфия Ноа</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Сыр сливочный, лосось, нори, рис.</description>
+			</offer>
+			<offer id="2959" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2959.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Грин</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, укроп, краб, авокадо, рис, нори.</description>
+			</offer>
+			<offer id="2960" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2960.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Васабико</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, краб, васаби, сливочный сыр, рис, нори.</description>
+			</offer>
+			<offer id="2961" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2961.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Тигровый</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Краб, тобико, майонез, лист салата, огурец, рис, нори.</description>
+			</offer>
+			<offer id="2962" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2962.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Самура</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Окунь, огурец, авокадо, тобико, кунжут, сыр сливочный , рис, нори.</description>
+			</offer>
+			<offer id="2963" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2963.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Гейша</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, авокадо, кунжут, сыр сливочный, рис, нори.</description>
+			</offer>
+			<offer id="2964" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2964.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Бонито</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Тунец, огурец, сыр сливочный , стружка тунца , рис, нори.</description>
+			</offer>
+			<offer id="2965" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2965.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Сакура</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, салат чука, огурец, кунжут , рис, нори.</description>
+			</offer>
+			<offer id="2935" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>456</categoryId>
+				<picture>http://fasteda.ru/data/big/2935.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, сливочный сыр, огурец, рис, нори.</description>
+			</offer>
+			<offer id="3004" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>468</categoryId>
+				<picture>http://fasteda.ru/data/big/3004.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Лосось</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3005" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>468</categoryId>
+				<picture>http://fasteda.ru/data/big/3005.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Морской окунь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3006" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>468</categoryId>
+				<picture>http://fasteda.ru/data/big/3006.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Копченый лосось</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3007" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>468</categoryId>
+				<picture>http://fasteda.ru/data/big/3007.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Тунец</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3008" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>468</categoryId>
+				<picture>http://fasteda.ru/data/big/3008.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Тигровая креветка</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3009" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>468</categoryId>
+				<picture>http://fasteda.ru/data/big/3009.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Угорь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3010" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>468</categoryId>
+				<picture>http://fasteda.ru/data/big/3010.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Молюск Хокигай</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3011" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>468</categoryId>
+				<picture>http://fasteda.ru/data/big/3011.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Осьминог</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2983" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>462</categoryId>
+				<picture>http://fasteda.ru/data/big/2983.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённые суши Креветка</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2984" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>462</categoryId>
+				<picture>http://fasteda.ru/data/big/2984.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённые суши Угорь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2985" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>462</categoryId>
+				<picture>http://fasteda.ru/data/big/2985.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённые суши Тунец</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2986" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>462</categoryId>
+				<picture>http://fasteda.ru/data/big/2986.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённые суши Гребешок</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2987" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>462</categoryId>
+				<picture>http://fasteda.ru/data/big/2987.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённые суши Осьминог</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2988" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>462</categoryId>
+				<picture>http://fasteda.ru/data/big/2988.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённые суши Окунь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2989" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>462</categoryId>
+				<picture>http://fasteda.ru/data/big/2989.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённые суши Лосось</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2990" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>464</categoryId>
+				<picture>http://fasteda.ru/data/big/2990.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши Лосось</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2991" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>464</categoryId>
+				<picture>http://fasteda.ru/data/big/2991.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши Окунь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2992" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>464</categoryId>
+				<picture>http://fasteda.ru/data/big/2992.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши Осьминог</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2993" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>464</categoryId>
+				<picture>http://fasteda.ru/data/big/2993.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши Креветка</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2994" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>464</categoryId>
+				<picture>http://fasteda.ru/data/big/2994.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши Кальмар</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2995" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>464</categoryId>
+				<picture>http://fasteda.ru/data/big/2995.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши Краб</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2996" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>464</categoryId>
+				<picture>http://fasteda.ru/data/big/2996.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши Тунец</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2997" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>464</categoryId>
+				<picture>http://fasteda.ru/data/big/2997.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши Угорь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2998" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>464</categoryId>
+				<picture>http://fasteda.ru/data/big/2998.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши Копченый лосось</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2972" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2972.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Лосось</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, нори, рис.</description>
+			</offer>
+			<offer id="2973" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2973.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Тунец</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Тунец, нори, рис.</description>
+			</offer>
+			<offer id="2974" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2974.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Угорь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, нори, рис.</description>
+			</offer>
+			<offer id="2975" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2975.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Огурец</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Огурец, нори, рис. 6 шт.</description>
+			</offer>
+			<offer id="2977" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2977.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Осьминог</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Осьминог, нори, рис. 6 шт.</description>
+			</offer>
+			<offer id="2978" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2978.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Окунь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Окунь, нори, рис. 6 щт.</description>
+			</offer>
+			<offer id="2979" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2979.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Чука</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Чука, нори, рис.</description>
+			</offer>
+			<offer id="2980" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2980.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Имбирь</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Имбирь, нори, рис.</description>
+			</offer>
+			<offer id="2981" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2981.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Копченый лосось</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Копчёный лосось, нори, рис.</description>
+			</offer>
+			<offer id="2982" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2982.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Авокадо</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Авокадо, нори , рис. 6 шт.</description>
+			</offer>
+			<offer id="2976" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>460</categoryId>
+				<picture>http://fasteda.ru/data/big/2976.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Гребешок</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Гребешок, нори , рис.</description>
+			</offer>
+			<offer id="3018" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3018.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Гиннотаки</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Сыр Гауда, майонез, масага икра, огурец, лосось, краб, угорь, рис, нори.</description>
+			</offer>
+			<offer id="3019" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3019.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Нагано</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Краб, креветка, окунь, лосось, кунжут, сыр Гауда, сливочный сыр, авокадо, рис, нори.</description>
+			</offer>
+			<offer id="3020" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3020.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Императорский</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, копченый лосось, лосось, сливочный сыр, рис, нори, кунжут, зелень, унаги соус.</description>
+			</offer>
+			<offer id="3021" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3021.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Токио</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, креветка, авокадо, огурец, лосось, унаги соус, рис, нори, кунжут.</description>
+			</offer>
+			<offer id="3022" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3022.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Шинако</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Краб микс, копченый лосось, сливочный сыр, икра масага, унаги соус, кунжут. 8 шт.</description>
+			</offer>
+			<offer id="3023" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3023.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Сага</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, гребешок, краб микс, сливочный сыр, икра масага, унаги соус, кунжут. 5 шт.</description>
+			</offer>
+			<offer id="3024" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>225</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3024.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый Французский ролл</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, сыр Гауда майонез, лук , рис, нори. 5 шт.</description>
+			</offer>
+			<offer id="3025" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3025.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Гуру</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Угорь, тобико, сыр сливочный, темпура, рис, нори.</description>
+			</offer>
+			<offer id="3026" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3026.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Тёплая Калифорния</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Краб, огурец, авокадо, тобико, майонез , темпура, рис, нори.</description>
+			</offer>
+			<offer id="3027" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3027.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Терияки</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Курица, лук , майонез, сыр Гауда , рис, нори.</description>
+			</offer>
+			<offer id="3028" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3028.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Хоккайдо</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Мидии, сливочный сыр, спайси соус, рис, нори.</description>
+			</offer>
+			<offer id="3029" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>472</categoryId>
+				<picture>http://fasteda.ru/data/big/3029.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запечённый ролл Тёплый лосось</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Лосось, салат, спайси соус, рис, нори.</description>
+			</offer>
+			<offer id="6131" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>1350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/6131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор Фудзи</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Ролл Филадельфия, Ролл Аляска, Ролл Бекон маки, Ролл Калифорния, Ролл, Острый с угрём, Ролл Цезарь, Ролл Чиккен, Суши Копчёный Лосось — 2 шт, 
+Суши Лосось — 2 шт, Острые Суши Лосось — 4 шт..</description>
+			</offer>
+			<offer id="6132" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/6132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор из сладких роллов</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Три вида фруктовых роллов, политых шоколадом. Крем от Шеф-повара, сладкий рис. Начинки: киви, банан, клубника, банан, груша, банан.</description>
+			</offer>
+			<offer id="12277" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>840</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/12277.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченный сет</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Роллы: Терьяки, Бенто, Запеченная моцарелла, Суши запеченные – лосось 2, окунь 2.</description>
+			</offer>
+			<offer id="12278" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/12278.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор Япония</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Роллы: Аляска, Калифорния, Филадельфия, Шитаке чука маки
+Суши: лосось 2, копченый лосось 2, острый краб 2.</description>
+			</offer>
+			<offer id="2966" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/2966.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор запеченный на троих Вагаси</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Ролл Нагано, ролл Французкий, ролл Гиннотаки.</description>
+			</offer>
+			<offer id="2967" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>1000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/2967.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор Лайф на двоих</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Ролл с лососем, ролл с огурцом, ролл филадельфия, ролл красный сегун, суши с лососем - 2 шт., суши с угрём - 2 шт., суши с креветкой -2 шт.</description>
+			</offer>
+			<offer id="2968" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>1200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/2968.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор Фила-сет на четверых</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Филадельфия с огурцом, Филадельфия люкс, Филадельфия с чукой, Филадельфия НОА, Филадельфия с угрём (угорь внутри).</description>
+			</offer>
+			<offer id="2969" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/2969.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор Лайф на троих</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Ролл зелёный дом, ролл калифорния ролл, аляска, ролл острый с угрём.</description>
+			</offer>
+			<offer id="2970" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>1500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/2970.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор Японо мама на пятерых</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Сливочный ролл,. ролл с угрём, филадельфия люкс, аляска фиш, ролл тигровый, ролл с лососем и лососёвой икрой, ролл с авокадо, ролл острый с тунцом, суши с креветкой, суши тобико красная, суши запеченная с лососем, суши острая с лососем.</description>
+			</offer>
+			<offer id="2971" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>2350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>458</categoryId>
+				<picture>http://fasteda.ru/data/big/2971.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор Уно на шесть человек</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Ролл Филадельфия - 2 шт. Ролл Филадельфия Угорь-2шт. Ролл Калифорния -1/2. Ролл Запечённый Императорский -1шт. Ролл Аляска- 2 шт. Ролл Бонито -1 шт. Запечённые суши с крабом -4 шт. Запечённые суши с лососем - 4 шт. Гункан-маки с красной тобико - 2 шт. Суши с тунцом -2 шт . Суши с угрём-2 шт.</description>
+			</offer>
+			<offer id="3030" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>474</categoryId>
+				<picture>http://fasteda.ru/data/big/3030.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Китайская лапша Удон - собери свою коробочку</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>Китайская лапша + овощи + соус
+
+На выбор соус: Острый, Пикантный, Терияки
+
+На выбор топинг - нажмите кнопку Добавки и выбирайте!
+
+
+.</description>
+			</offer>
+			<offer id="3031" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>474</categoryId>
+				<picture>http://fasteda.ru/data/big/3031.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Китайская лапша Фунчоза - собери свою коробочку</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>На выбор соус: Острый, Пикантный, Терияки.
+
+На выбор топинг - нажмите кнопку Добавки и выбирайте!.</description>
+			</offer>
+			<offer id="3032" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>474</categoryId>
+				<picture>http://fasteda.ru/data/big/3032.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Китайская лапша Пшеничная - собери свою коробочку</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>На выбор соус: Острый, Пикантный, Терияки.
+
+На выбор топинг - нажмите на кнопку Добавки и выбирайте!.</description>
+			</offer>
+			<offer id="3012" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>470</categoryId>
+				<picture>http://fasteda.ru/data/big/3012.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп Мисо с креветкой</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3013" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>470</categoryId>
+				<picture>http://fasteda.ru/data/big/3013.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп Мисо</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3014" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>470</categoryId>
+				<picture>http://fasteda.ru/data/big/3014.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп Кимчи</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3015" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>470</categoryId>
+				<picture>http://fasteda.ru/data/big/3015.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп Сливочный</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3016" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>470</categoryId>
+				<picture>http://fasteda.ru/data/big/3016.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп Мисо с курицей</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3017" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>470</categoryId>
+				<picture>http://fasteda.ru/data/big/3017.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп Мисо с лососем</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2999" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>466</categoryId>
+				<picture>http://fasteda.ru/data/big/2999.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гункан-маки с зелёной тобико</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3000" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>466</categoryId>
+				<picture>http://fasteda.ru/data/big/3000.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гункан-маки с оранжевой тобико</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3001" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>466</categoryId>
+				<picture>http://fasteda.ru/data/big/3001.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гункан-маки с лососёвой икрой</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3046" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>0</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>757</categoryId>
+				<picture>http://fasteda.ru/data/big/3046.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Торт из роллов</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>ТОРТ ИЗ РОЛЛОВ украсит любой ваш праздник и сделает его незабываемым!!!
+
+Состав торта на выбор, он может быть как из сладких роллов, так и из рыбных.
+
+Украшение торта индивидуально.
+
+Торт необходимо заказать за 3 дня.
+Везём торт в любой район города.
+.</description>
+			</offer>
+			<offer id="12279" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2040</categoryId>
+				<picture>http://fasteda.ru/data/big/12279.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из куриного филе</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>филе куриное
+лук репчатый
+перец болгарский
+шампиньоны свежие
+лимон.</description>
+			</offer>
+			<offer id="12280" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2040</categoryId>
+				<picture>http://fasteda.ru/data/big/12280.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из лосося</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>филе лосося
+соус тартар
+лимон
+помидоры черри
+зелень.</description>
+			</offer>
+			<offer id="12281" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2040</categoryId>
+				<picture>http://fasteda.ru/data/big/12281.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины с овощами</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>свинина
+баклажан
+болгарский перец
+помидор черри
+лук репчатый.</description>
+			</offer>
+			<offer id="12282" available="true">
+				<url>http://fasteda.ru/menu/sushi_samuraj/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2040</categoryId>
+				<picture>http://fasteda.ru/data/big/12282.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк свиной или лосось</name>
+				<vendor>Суши-самурай - доставка суши</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

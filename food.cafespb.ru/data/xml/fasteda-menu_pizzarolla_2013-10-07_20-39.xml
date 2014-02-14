@@ -1,0 +1,2795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:39">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1515">Пицца на тонком тесте</category>
+			<category id="1516">Пицца на пышном тесте</category>
+			<category id="1663">Горячие блюда</category>
+			<category id="1518">Салаты</category>
+			<category id="1522">Роллы</category>
+			<category id="1523">Суши</category>
+			<category id="1524">Гунканы</category>
+			<category id="1525">Наборы</category>
+			<category id="1526">Запеченные роллы</category>
+			<category id="1527">Мексиканские роллы</category>
+			<category id="1528">Суши пицца</category>
+			<category id="1529">Супы</category>
+			<category id="1531">Горячие блюда</category>
+			<category id="1533">Соусы</category>
+			<category id="1535">Соки, лимонады, вода</category>
+			<category id="1536">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="8725" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8725.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Маргарита ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, базилик, пицца соус 
+30 см/430 гр.</description>
+			</offer>
+			<offer id="8343" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>319</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8343.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карбонара ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, бекон, желток, черн. перец, пицца соус.</description>
+			</offer>
+			<offer id="8344" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8344.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Реалто ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, орегано, баварские колбаски, кура, ветчина, шампиньоны, чеддер, паприка, тобаско, пицца соус
+(30 см/590 гр.).</description>
+			</offer>
+			<offer id="8345" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8345.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мексикана ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, паприка, лук, рагу, перчики халапенью, пицца соус
+(30 см/550 гр.).</description>
+			</offer>
+			<offer id="8346" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>429</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8346.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дон жульён ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, шампиньоны, лук, кура, грибной соус, пицца соус
+(30 см/580 гр.).</description>
+			</offer>
+			<offer id="8347" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>369</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8347.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Либерта ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, томат, шампиньоны, ветчина, корнишоны, пармезан, пицца соус
+(30 см/560 гр.).</description>
+			</offer>
+			<offer id="8348" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>389</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8348.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Поло песто ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, сметана, соус песто, кура, шампиньоны, томат, пицца соус
+(30 см/530 гр.).</description>
+			</offer>
+			<offer id="8349" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8349.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Каччиаторе ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, кура, бекон, лук красный, красная и желтая паприка, пицца соус
+(30 см/550 гр.).</description>
+			</offer>
+			<offer id="8350" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>379</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8350.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кватро формаджи ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыры: моцарелла, дор-блю, чеддер, пармезан, томат, пицца соус
+(30 см/530 гр.).</description>
+			</offer>
+			<offer id="8351" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8351.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тонце ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, тунец, лук, огурец свежий, пицца соус
+(30 см/550 гр.).</description>
+			</offer>
+			<offer id="8352" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8352.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Веджетале ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, паприка, лук порей, брокколи, маслины, шампиньоны, кукуруза, помидор, пицца соус
+(30 см/580 гр.).</description>
+			</offer>
+			<offer id="8353" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8353.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гранд карне ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, свинина, говядина, кура, бекон, лук, пицца соус
+(30 см/530 гр.).</description>
+			</offer>
+			<offer id="8354" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>389</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1515</categoryId>
+				<picture>http://fasteda.ru/data/big/8354.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Альверма ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, кура, огурец, томат, лук, чесночный и томатный соус, пицца соус
+(30 см/730 гр.).</description>
+			</offer>
+			<offer id="8727" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>499</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8727.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ленинградская ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, кура, шампиньоны, паприка, томат, бекон, говядина, пицца соус
+30 см/890гр.</description>
+			</offer>
+			<offer id="8729" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>429</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8729.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жар-птица ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, корнишоны, томат, пепперони, говядина, перчики халапенью, пицца соус
+(30 см/820 гр).</description>
+			</offer>
+			<offer id="8730" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>529</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8730.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Петровская ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, бекон, лук красный, ветчина, кура, пепперони, томат, пармезан, шампиньоны, пицца соус
+
+(30 см/940 гр).</description>
+			</offer>
+			<offer id="8731" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>429</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8731.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спайси с морепродуктам ∅ 30 сми </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, морской коктель, лимон, укроп, сметана, спайси соус
+
+(30 см/770 гр).</description>
+			</offer>
+			<offer id="8732" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>449</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8732.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Барбекю ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, шампиньоны, лук, бекон, кура, томат, пицца соус 
+
+(30 см/840 гр).</description>
+			</offer>
+			<offer id="8733" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>389</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8733.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Домашняя ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, шампиньоны, ветчина, томат, пармезан, лук-порей, пицца соус 
+(30 см/820 гр).</description>
+			</offer>
+			<offer id="8734" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>379</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8734.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вегетарианская ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, лук, шампиньоны, паприка, томат, кукуруза, маслины, укроп, пицца соус 
+(30 см/840 гр).</description>
+			</offer>
+			<offer id="8432" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>429</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8432.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>4 сыра ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыры: моцарелла, дор-блю, чеддер, пармезан, пицца соус
+
+(30 см/740 гр).</description>
+			</offer>
+			<offer id="8433" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>629</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8433.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Райская ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, шампиньоны, бекон, ветчина, томат, кура, укроп, говяжий язык, пицца соус
+
+(30 см/940 гр).</description>
+			</offer>
+			<offer id="8434" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>469</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8434.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аль капоне ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, шампиньоны, бекон, пепперони, томат, паприка, сыр чеддер, маслины, пицца соус
+
+(30 см/885 гр).</description>
+			</offer>
+			<offer id="8435" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>459</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8435.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Нью-йорк ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, пепперони, ветчина, паприка, маслины, орегано, пармезан, пицца соус
+
+(30 см/790 гр).</description>
+			</offer>
+			<offer id="8436" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>499</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1516</categoryId>
+				<picture>http://fasteda.ru/data/big/8436.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суприм ∅ 30 см</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, лук, пепперони, паприка, баварские колбаски, маслины, мясное рагу, шампиньоны, пицца соус
+
+(30 см/890 гр).</description>
+			</offer>
+			<offer id="9490" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1663</categoryId>
+				<picture>http://fasteda.ru/data/big/9490.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спагетти карбонара</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Спагетти, пармезан, желток, сливки, бекон, лук, чеснок, черный перец
+(330 гр).</description>
+			</offer>
+			<offer id="9491" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1663</categoryId>
+				<picture>http://fasteda.ru/data/big/9491.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спагетти болоньезе</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Спагетти, пармезан, рагу болонез, черн перец.
+(350 гр).</description>
+			</offer>
+			<offer id="9492" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1663</categoryId>
+				<picture>http://fasteda.ru/data/big/9492.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тальятелли фунги</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Тальятелли, пармезан, сливки, базилик, шампиньоны
+(320 гр).</description>
+			</offer>
+			<offer id="9495" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1663</categoryId>
+				<picture>http://fasteda.ru/data/big/9495.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриные крылышки</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="9496" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1663</categoryId>
+				<picture>http://fasteda.ru/data/big/9496.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель Айдахо</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Картофель, масло растительное, чеснок, зелень
+(250 гр).</description>
+			</offer>
+			<offer id="9497" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1663</categoryId>
+				<picture>http://fasteda.ru/data/big/9497.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сырные палочки</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сыр моцарелла, сухари панировочные,яйцо, масло подсолнечное
+(290 гр).</description>
+			</offer>
+			<offer id="9493" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1663</categoryId>
+				<picture>http://fasteda.ru/data/big/9493.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лазанья Болоньезе</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лазанья вареная,соус бешамель, рагу болоньез, сыр моцарелла, пицца соус
+(280 гр).</description>
+			</offer>
+			<offer id="9494" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1663</categoryId>
+				<picture>http://fasteda.ru/data/big/9494.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лазанья с ветчиной</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Ветчина, шампиньоны, сыр моцарелла, соус бешамель
+(280 гр).</description>
+			</offer>
+			<offer id="8704" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8704.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Венеция</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Салат айсберг, пармезан, ветчина, св. огурец, майонез, жар. шампиньоны с луком, маслины, петрушка
+(200 гр).</description>
+			</offer>
+			<offer id="8705" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8705.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Столичный</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Картофель, кура, майонез, огурец консервированный, зеленый горошек, яйцо вар. 
+(200 гр).</description>
+			</offer>
+			<offer id="8706" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8706.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Греческий</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Салат \&amp;quot;айсберг\&amp;quot;, огурец, томат, паприка, сыр фета, маслины, оливк. масло, петрушка 
+(200 гр.).</description>
+			</offer>
+			<offer id="8707" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8707.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с курицей</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Салат \&amp;quot;айсберг\&amp;quot;, соус цезарь, сыр пармезан, яйцо, томаты, филе цыплёнка, гренки 
+(200 гр.) .</description>
+			</offer>
+			<offer id="8708" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8708.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Миланский </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Ветчина, томат, паприка, чеснок молотый, майонез, макароны, зелень 
+(200 гр.).</description>
+			</offer>
+			<offer id="8709" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8709.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Итальянский</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Ветчина, помидоры, паприка, моцарелла, майонез, талеотелли, зелень  
+(200 гр.).</description>
+			</offer>
+			<offer id="8710" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8710.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Витаминый</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Яблоко, капуста белокочанная, огурец свежий, китайская капуста, паприка, масло растительное, уксус, морковь, сахар, соль, зелень 
+ 
+(200 гр.).</description>
+			</offer>
+			<offer id="8711" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8711.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оливье</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Ветчина, картофель отварной, огурец маринованный, огурец свежий, яйцо, горошек консервированный, майонез, морковь отварная, зелень. 
+(210 гр.).</description>
+			</offer>
+			<offer id="8712" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8712.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь ролл</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Салат айсберг, соус цезарь, нагетс, томат, пармезан
+(240 гр).</description>
+			</offer>
+			<offer id="8713" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8713.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фиш ролл</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Салат \&amp;quot;айсберг\&amp;quot;, классический соус, паприка, огурец, копч. лосось 
+(240 гр.)
+.</description>
+			</offer>
+			<offer id="8745" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8745.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат чукка</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Чукка, кунжут, ореховый соус 
+(130 гр).</description>
+			</offer>
+			<offer id="8746" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8746.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с копченым лососем</name>
+				<vendor>Pizzarolla</vendor>
+				<description> Копченый лосось, паприка, салат айсберг, кунжут, огурец 
+(170 гр.).</description>
+			</offer>
+			<offer id="8748" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>279</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1518</categoryId>
+				<picture>http://fasteda.ru/data/big/8748.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Cалат с угрем</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, огурец, салат айсберг, ямогобо, кунжут 
+(170 гр.).</description>
+			</offer>
+			<offer id="8832" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8832.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия с креветкой</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Креветка тигровая, филадельфия, огурец
+(219 гр.).</description>
+			</offer>
+			<offer id="8833" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8833.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия спайси</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филадельфия, лосось, апельсин, спайси соус
+(190 гр.).</description>
+			</offer>
+			<offer id="8834" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8834.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия с копченым лососем</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филадельфия, лосось копченый, огурец
+(210 гр.).</description>
+			</offer>
+			<offer id="8835" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8835.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия с беконом</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Бекон, филадельфия, огурец
+(210 гр.).</description>
+			</offer>
+			<offer id="8836" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8836.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия с тунцом</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Тунец, филадельфия, огурец
+(210 гр.).</description>
+			</offer>
+			<offer id="8837" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8837.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия с угрем</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, филадельфия, такуан
+(210 гр.).</description>
+			</offer>
+			<offer id="8838" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>499</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8838.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия премиум</name>
+				<vendor>Pizzarolla</vendor>
+				<description>
+(300 гр.).</description>
+			</offer>
+			<offer id="8839" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8839.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия абсолют</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось, тунец, авокадо, огурец, филадельфия, масаго красная
+(260 гр.).</description>
+			</offer>
+			<offer id="8840" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8840.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось, филадельфия, огурец
+(210 гр).</description>
+			</offer>
+			<offer id="8880" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8880.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бонито</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось терияки, огурец, авокадо, филадельфия, бонито
+(210 гр.).</description>
+			</offer>
+			<offer id="8881" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8881.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фиджи</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось, салат \&amp;quot;айсберг\&amp;quot;, такуан, филадельфия, зеленая масаго
+(205 гр.).</description>
+			</offer>
+			<offer id="8882" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8882.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хоккидо</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Копченый лосось, авокадо, филадельфия с зереной масаго, зеленая масаго
+(205 гр.).</description>
+			</offer>
+			<offer id="8883" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8883.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чиз-ролл</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Креветки, филадельфия, лук, огурец, моцарелла
+(230 гр.).</description>
+			</offer>
+			<offer id="8884" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8884.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Умесай</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, филадельфия, авокадо, кунжут
+(195 гр.).</description>
+			</offer>
+			<offer id="8885" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8885.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ютака</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Копченый лосось, авокадо, филадельфия, кунжут
+(195 гр.).</description>
+			</offer>
+			<offer id="8886" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8886.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Черный сегун</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось-гриль, филадельфия с черной тобико, огурец, кунжут
+(205 гр.).</description>
+			</offer>
+			<offer id="8887" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8887.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый тунец</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Тунец, огурец, острый соус, кунжут
+(190 гр.).</description>
+			</offer>
+			<offer id="8888" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8888.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый краб</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Краб-крем, огурец, острый соус, кунжут
+(205 гр.).</description>
+			</offer>
+			<offer id="8889" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8889.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый угорь</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, огурец, острый соус, кунжут
+(200 гр.).</description>
+			</offer>
+			<offer id="8890" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8890.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый лосось</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось, огурец, острый соус, кунжут
+(205 гр.).</description>
+			</offer>
+			<offer id="8891" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>699</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8891.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дракон</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Краб-крем, угорь, майонез, огурец, авокадо
+(320 гр.).</description>
+			</offer>
+			<offer id="8892" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8892.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощной</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Салат айсберг, огурец, авокадо, паприка, такуан, шампиньоны
+(220 гр.).</description>
+			</offer>
+			<offer id="8893" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>389</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8893.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Нагояки</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, креветка, краб-крем, авокадо, огурец, кунжут
+(235 гр.).</description>
+			</offer>
+			<offer id="8894" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8894.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Радуга</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Краб-крем, лосось, креветка, тунец, кальмар, копченый лосось, окунь, авокадо, огурец
+(250 гр.).</description>
+			</offer>
+			<offer id="8895" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8895.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чукка с угрем</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, водоросли чукка, острый соус, кунжут
+(259 гр.).</description>
+			</offer>
+			<offer id="8896" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8896.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Динамит</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Креветка, салат \&amp;quot;айсберг\&amp;quot;, огурец, острый соус, тобико черная
+(182 гр.).</description>
+			</offer>
+			<offer id="8897" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8897.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аляска</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось, майонез, огурец, авокадо, тобико красная
+(219 гр.).</description>
+			</offer>
+			<offer id="8898" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8898.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния с цыпленком</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Курниное филе, майонез, огурец, авокадо, тобико
+(215 гр.).</description>
+			</offer>
+			<offer id="8899" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8899.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния с креветкой</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Креветка, майонез, огурец, авокадо, тобико малиновая
+(215 гр.).</description>
+			</offer>
+			<offer id="8900" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>209</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8900.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния спайси</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Краб-крем, филадельфия, авокадо
+(200 гр.).</description>
+			</offer>
+			<offer id="8901" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8901.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тоби калифорни</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Краб-крем, майонез, огурец, авокадо, икра тобико
+(220 гр.).</description>
+			</offer>
+			<offer id="8902" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8902.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния в кунжуте</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Краб-крем, майонез, огурец, авокадо, кунжут
+(200 гр.).</description>
+			</offer>
+			<offer id="8903" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>279</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8903.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гейша</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Копченый лосось, авокадо, филадельфия, масаго
+(205 гр.).</description>
+			</offer>
+			<offer id="8904" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8904.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тамогари</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось терияки, филадельфия, авокадо, омлет тамаго
+(205 гр.).</description>
+			</offer>
+			<offer id="8905" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8905.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия с угрем спешл</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, филадельфия, авокадо
+(210 гр.).</description>
+			</offer>
+			<offer id="8906" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8906.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тахаши спешл</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось, филадельфия, авокада, угорь
+(390 гр.).</description>
+			</offer>
+			<offer id="8907" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8907.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния спешл</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Краб крем, филадельфия, авокадо
+(390 гр.).</description>
+			</offer>
+			<offer id="8908" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8908.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия спешл</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось, филадельфия, авокадо
+(390 гр.).</description>
+			</offer>
+			<offer id="8909" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8909.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл тунец</name>
+				<vendor>Pizzarolla</vendor>
+				<description>
+(105 гр.).</description>
+			</offer>
+			<offer id="8910" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8910.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл креветка</name>
+				<vendor>Pizzarolla</vendor>
+				<description>
+(105 гр.).</description>
+			</offer>
+			<offer id="8911" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8911.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл такуан</name>
+				<vendor>Pizzarolla</vendor>
+				<description>
+(105 гр.).</description>
+			</offer>
+			<offer id="8912" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8912.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл огурец</name>
+				<vendor>Pizzarolla</vendor>
+				<description>
+(105 гр.).</description>
+			</offer>
+			<offer id="8913" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1522</categoryId>
+				<picture>http://fasteda.ru/data/big/8913.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл лосось</name>
+				<vendor>Pizzarolla</vendor>
+				<description>
+(105 гр.).</description>
+			</offer>
+			<offer id="8753" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8753.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Лосось</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8754" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>29</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8754.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши морской окунь</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="8755" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8755.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Копченый лосось </name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="8756" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8756.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8757" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8757.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8758" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8758.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Креветка </name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="8759" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8759.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Кальмар </name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="8760" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>29</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8760.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Бекон</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="8761" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>24</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8761.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши омлет томаго</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8762" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8762.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши мидия</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8763" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8763.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Острый лосось</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8764" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8764.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши острый угорь</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8765" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8765.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши острый краб</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8766" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8766.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши острый тунец</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8767" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8767.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши запеченный лосось</name>
+				<vendor>Pizzarolla</vendor>
+				<description> (34 гр.).</description>
+			</offer>
+			<offer id="8768" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8768.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Запеченый тунец </name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8769" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8769.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Запеченый угорь </name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8770" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8770.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Запеченая креветка</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8771" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8771.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Запеченый краб</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8772" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8772.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Запеченый спайси лосось</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(34 гр.).</description>
+			</offer>
+			<offer id="8773" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8773.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Запеченый спайси угорь</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(34 гр.).</description>
+			</offer>
+			<offer id="8774" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8774.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Запеченый спайси тунец</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(34 гр.).</description>
+			</offer>
+			<offer id="8775" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8775.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Запеченый спайси креветка</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(34 гр.).</description>
+			</offer>
+			<offer id="8776" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1523</categoryId>
+				<picture>http://fasteda.ru/data/big/8776.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши Запеченый спайси краб</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(34 гр.).</description>
+			</offer>
+			<offer id="8802" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1524</categoryId>
+				<picture>http://fasteda.ru/data/big/8802.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>С икрой лосося</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8803" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>34</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1524</categoryId>
+				<picture>http://fasteda.ru/data/big/8803.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Масаго с филадельфией</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8804" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>44</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1524</categoryId>
+				<picture>http://fasteda.ru/data/big/8804.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тобико с филадельфией</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(32 гр.).</description>
+			</offer>
+			<offer id="8805" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>24</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1524</categoryId>
+				<picture>http://fasteda.ru/data/big/8805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чукка</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8806" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>39</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1524</categoryId>
+				<picture>http://fasteda.ru/data/big/8806.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Масаго</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8807" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1524</categoryId>
+				<picture>http://fasteda.ru/data/big/8807.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тобико</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(30 гр.).</description>
+			</offer>
+			<offer id="8812" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8812.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шок сет</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филадельфия, Филадельфия спайси, Филадельфия с беконом, Калифорния в кунжуте
+(805 гр.).</description>
+			</offer>
+			<offer id="8813" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8813.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филломан сет</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филадельфия, Филадельфия с сайрой унаги, Черный сёгун, Ролл с огурцем
+(755 гр.).</description>
+			</offer>
+			<offer id="8814" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>469</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8814.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Супер сет</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филадельфия, Филадельфия с угрем и такуаном, Филадельфия с креветкой, Ролл с огурцем
+(760 гр.).</description>
+			</offer>
+			<offer id="8815" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>379</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8815.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филломания сет</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филодельфия, Черный Сегун, Филодельфия с копченым лососем, Ролл с огурцем
+(755 гр.).</description>
+			</offer>
+			<offer id="8816" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>489</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8816.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спайси сет</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филадельфия спайси, Калифорния спайси, Очтрый лосось, спайси суши лосось
+(723 гр.).</description>
+			</offer>
+			<offer id="8817" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8817.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Супер Шок Сет</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филадельфия, Черный Сегун, Калифорния в кунжуте
+(615 гр.).</description>
+			</offer>
+			<offer id="8818" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>629</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8818.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченный</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Ролл: Саке Пеко Якина Запеченые суши: 2 лосось,2 краб, 2 угорь 
+
+
+(691 гр.).</description>
+			</offer>
+			<offer id="8819" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>279</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8819.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Офисный</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Классические роллы: лосось, такуан, суши: лосось, угорь, тугнец, креветка
+
+(338 гр.).</description>
+			</offer>
+			<offer id="8820" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>549</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8820.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Для двоих</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Роллы: филадельфия, тоби калифорния, 2 суши: лосось, угорь, креветка
+(622 гр.).</description>
+			</offer>
+			<offer id="8821" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>579</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1525</categoryId>
+				<picture>http://fasteda.ru/data/big/8821.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Роллы: острый лосось, острый краб, 2 острые суши: лосось, тунец, краб, угорь
+(666 гр.).</description>
+			</offer>
+			<offer id="8822" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8822.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось гриль</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось гриль, огурец, майонез
+(215 гр.).</description>
+			</offer>
+			<offer id="8823" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8823.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Якима нежный</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось терияки, авокадо, филадельфия, майонез, кунжут
+
+(205 гр.).</description>
+			</offer>
+			<offer id="8824" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>389</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8824.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Унасема лосось с угрем</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, лосось, авокадо, кунжут, филадельфия, майонез
+(215 гр.).</description>
+			</offer>
+			<offer id="8825" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>319</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8825.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Уна пекаси острый угорь</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, филадельфия, огурец, острый соус, тамаго, кунжут
+(230 гр.).</description>
+			</offer>
+			<offer id="8826" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>329</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8826.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Унаби угорь с креветкой</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, креветка, тобико, огурец, авокадо,майонез, филадельфия
+
+(220 гр.).</description>
+			</offer>
+			<offer id="8827" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8827.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Токио</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Куриное филе, огурец, филадельфия, тобико, авокадо, майонез
+(235 гр.).</description>
+			</offer>
+			<offer id="8828" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8828.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тахаши лосось нежный с угрем</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Угорь, лосось, огурец,майонез, филадельфия, кунжут
+(205 гр.).</description>
+			</offer>
+			<offer id="8829" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8829.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Саке пеко маки лосось с креветкой</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось, креветка, масаго, огурец, филадельфия, майонез, авокадо
+(230 гр.).</description>
+			</offer>
+			<offer id="8830" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8830.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Саке магуро лосось с тунцом</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лосось, тунец, филадельфия, такуан, авокадо, острый соус, кунжут
+(230 гр.).</description>
+			</offer>
+			<offer id="8831" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1526</categoryId>
+				<picture>http://fasteda.ru/data/big/8831.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченный ролл с крабом</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Краб, филадельфия, авокадо, омлет, унаги соус, кунжут белый
+(250 гр.).</description>
+			</offer>
+			<offer id="8808" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1527</categoryId>
+				<picture>http://fasteda.ru/data/big/8808.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мексиканский с сыром и овощами</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Чеддер паста, паприка, помидор, огурец, салат айсберг, перчик халапенью, спайси соус
+(155 гр.).</description>
+			</offer>
+			<offer id="8809" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1527</categoryId>
+				<picture>http://fasteda.ru/data/big/8809.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мексиканский со свининой</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Чеддер паста, паприка, помидор, огурец, салат айсберг, перчик халапенью, спайси соус, свинина.
+(185 гр.).</description>
+			</offer>
+			<offer id="8810" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1527</categoryId>
+				<picture>http://fasteda.ru/data/big/8810.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мексиканский с говядиной</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Чеддер паста, паприка, помидор, огурец, салат айсберг, перчик халапенью, спайси соус, говядина.
+(185 гр.).</description>
+			</offer>
+			<offer id="8811" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1527</categoryId>
+				<picture>http://fasteda.ru/data/big/8811.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мексиканский с курицей</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Чеддер паста, паприка, помидор, огурец, салат айсберг, перчик халапенью, спайси соус, филе цыпленка
+(180 гр.).</description>
+			</offer>
+			<offer id="8777" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1528</categoryId>
+				<picture>http://fasteda.ru/data/big/8777.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши пицца с курой и грибами </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Курица, шампиньоны, моцарелла, паприка, майонез
+(245 гр.).</description>
+			</offer>
+			<offer id="8778" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1528</categoryId>
+				<picture>http://fasteda.ru/data/big/8778.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши пицца с ветчиной </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Ветчина, помидор, моцарелла, майонез
+(245 гр.) .</description>
+			</offer>
+			<offer id="8779" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1528</categoryId>
+				<picture>http://fasteda.ru/data/big/8779.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши пицца с пепперони </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Рис, майонез, пицца соус, пеперони, перчики холапенью, томат, моцарелла, орегано, базилик 
+(245 гр.).</description>
+			</offer>
+			<offer id="8780" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1528</categoryId>
+				<picture>http://fasteda.ru/data/big/8780.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши пицца с лососем и креветкой</name>
+				<vendor>Pizzarolla</vendor>
+				<description>
+(245 гр.).</description>
+			</offer>
+			<offer id="8749" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1529</categoryId>
+				<picture>http://fasteda.ru/data/big/8749.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочный суп с лососем </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сливки, картофель, лосось, лук порей
+(270 гр.) .</description>
+			</offer>
+			<offer id="8750" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1529</categoryId>
+				<picture>http://fasteda.ru/data/big/8750.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп мисо </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Творог тоффу, вакаме, зеленый лук
+(280 гр.).</description>
+			</offer>
+			<offer id="8751" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1529</categoryId>
+				<picture>http://fasteda.ru/data/big/8751.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сливочный суп с креветкой</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сливки, креветки, рис, лук зеленый, вакаме 
+(290 гр).</description>
+			</offer>
+			<offer id="8752" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1529</categoryId>
+				<picture>http://fasteda.ru/data/big/8752.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп кимчи</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Говядина, капуста кимчи, вакаме, яйцо, острый соус, кунжут 
+(280 гр.).</description>
+			</offer>
+			<offer id="8442" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1529</categoryId>
+				<picture>http://fasteda.ru/data/big/8442.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп гаспачо</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Суп из свежих томатов.</description>
+			</offer>
+			<offer id="8443" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1529</categoryId>
+				<picture>http://fasteda.ru/data/big/8443.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Солянка</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Традиционная мясная солянка.</description>
+			</offer>
+			<offer id="8444" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1529</categoryId>
+				<picture>http://fasteda.ru/data/big/8444.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп с лесными грибами</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Грибы лесные сушеные, картофель, морковь, лук репчатый, перловка, грибной бульон.</description>
+			</offer>
+			<offer id="8445" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1529</categoryId>
+				<picture>http://fasteda.ru/data/big/8445.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крем-суп из шампиньонов</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Сливки, шампиньоны, лук репчатый, бульон грибной, масло растительное.</description>
+			</offer>
+			<offer id="8735" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8735.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша с овощами</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лапша Удон, морковь, паприка, цукини, лук, соус тонкацу
+(270  гр).</description>
+			</offer>
+			<offer id="8736" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8736.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тепаньяки с овощами гриль </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Шампиньоны, цукини, паприка, лук, рис, соевый соус
+
+(230  гр).</description>
+			</offer>
+			<offer id="8737" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8737.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченые мидии </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Мидии, сырный соус, кунжут
+(210  гр) .</description>
+			</offer>
+			<offer id="8738" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8738.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченые мидии на рисе </name>
+				<vendor>Pizzarolla</vendor>
+				<description>
+(270  гр).</description>
+			</offer>
+			<offer id="8739" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8739.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки горячие </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Креветки, чеснок, базилик, соль, чен. Перец 
+(250  гр).</description>
+			</offer>
+			<offer id="8740" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>319</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8740.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хошан</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Рыба, морепродукты, рис, майонез, кунжут, зел. лук 
+(300 гр.).</description>
+			</offer>
+			<offer id="8741" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8741.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тепаньяки с цыпленком </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Шампиньоны, цукини, паприка, лук, рис, соевый соус, филе циплёнка
+(260 гр.).</description>
+			</offer>
+			<offer id="8742" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8742.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тепаньяки с говядиной </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Шампиньоны, цукини, паприка, лук, рис, соевый соус, филе говядины 
+(260 гр.).</description>
+			</offer>
+			<offer id="8743" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8743.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша с говядиной </name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лапша Удон, морковь, паприка, цукини, лук, соус тонкацу, филе говядины 
+(320 гр.).</description>
+			</offer>
+			<offer id="8744" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1531</categoryId>
+				<picture>http://fasteda.ru/data/big/8744.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша с цыпленком</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Лапша Удон, морковь, паприка, цукини, лук, соус тонкацу, филе циплёнка 
+(320 гр.).</description>
+			</offer>
+			<offer id="8787" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1533</categoryId>
+				<picture>http://fasteda.ru/data/big/8787.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Унаги соус</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="8788" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1533</categoryId>
+				<picture>http://fasteda.ru/data/big/8788.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Томатный соус</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="8790" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1533</categoryId>
+				<picture>http://fasteda.ru/data/big/8790.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тар тар</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="8792" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1533</categoryId>
+				<picture>http://fasteda.ru/data/big/8792.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сырный соус</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="8793" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1533</categoryId>
+				<picture>http://fasteda.ru/data/big/8793.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь соус</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="8789" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1533</categoryId>
+				<picture>http://fasteda.ru/data/big/8789.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спайси соус</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="8791" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1533</categoryId>
+				<picture>http://fasteda.ru/data/big/8791.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чесночный соус</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="8794" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1535</categoryId>
+				<picture>http://fasteda.ru/data/big/8794.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Апельсиновый сок 1л    </name>
+				<vendor>Pizzarolla</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8795" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1535</categoryId>
+				<picture>http://fasteda.ru/data/big/8795.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>морс клюквенный 1л</name>
+				<vendor>Pizzarolla</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8796" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1535</categoryId>
+				<picture>http://fasteda.ru/data/big/8796.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свежевыжатый апельсиновый сок 0,25л</name>
+				<vendor>Pizzarolla</vendor>
+				<description>
+
+.</description>
+			</offer>
+			<offer id="8797" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1535</categoryId>
+				<picture>http://fasteda.ru/data/big/8797.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Томатный сок 1л</name>
+				<vendor>Pizzarolla</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8798" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1535</categoryId>
+				<picture>http://fasteda.ru/data/big/8798.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яблочный сок 1л</name>
+				<vendor>Pizzarolla</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8799" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1535</categoryId>
+				<picture>http://fasteda.ru/data/big/8799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепси 2 л</name>
+				<vendor>Pizzarolla</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8800" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1535</categoryId>
+				<picture>http://fasteda.ru/data/big/8800.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепси 0,6</name>
+				<vendor>Pizzarolla</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8801" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1535</categoryId>
+				<picture>http://fasteda.ru/data/big/8801.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Липтон 0,6</name>
+				<vendor>Pizzarolla</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8781" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1536</categoryId>
+				<picture>http://fasteda.ru/data/big/8781.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мидори</name>
+				<vendor>Pizzarolla</vendor>
+				<description>вишня, киви, банан, филадельфия
+(210 гр.).</description>
+			</offer>
+			<offer id="8782" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1536</categoryId>
+				<picture>http://fasteda.ru/data/big/8782.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Орхидея</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филадельфия, банан, киви, клубника
+(240 гр.) .</description>
+			</offer>
+			<offer id="8783" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1536</categoryId>
+				<picture>http://fasteda.ru/data/big/8783.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чаки</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Филадельфия, ананас, киви, банан
+
+(190 гр.) .</description>
+			</offer>
+			<offer id="8784" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1536</categoryId>
+				<picture>http://fasteda.ru/data/big/8784.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шокко</name>
+				<vendor>Pizzarolla</vendor>
+				<description>Шоколад, банан, киви, кокос, клубника, филадельфия 
+
+(220 гр.).</description>
+			</offer>
+			<offer id="8785" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1536</categoryId>
+				<picture>http://fasteda.ru/data/big/8785.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(119 гр.).</description>
+			</offer>
+			<offer id="8786" available="true">
+				<url>http://fasteda.ru/menu/pizzarolla/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1536</categoryId>
+				<picture>http://fasteda.ru/data/big/8786.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тирамису</name>
+				<vendor>Pizzarolla</vendor>
+				<description>(85 гр.).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

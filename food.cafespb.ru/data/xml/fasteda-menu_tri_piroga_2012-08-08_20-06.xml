@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-08-08 20:06">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="573">Постные пироги</category>
+			<category id="574">Сытные пироги</category>
+		</categories>
+		<offers>
+			<offer id="3580" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3580.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с грибами.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Классический пирог с грибами. Подходит для приверженцев вегетарианского питания
+(1200гр).</description>
+			</offer>
+			<offer id="3583" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3583.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с грибами и картофелем.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Пирог с отварным картофелем и свежими грибами.
+(1200гр).</description>
+			</offer>
+			<offer id="3586" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3586.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с сыром.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Пирог со свежим домашним осетинским сыром, привезенным из Северной Осетии (сыр пресный, не соленый)
+(1200гр).</description>
+			</offer>
+			<offer id="3589" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3589.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с картофелем.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Пирог с отварным картофелем и осетинским сыром.
+(1200гр).</description>
+			</offer>
+			<offer id="3592" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3592.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с капустой.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Пирог со свежей, тушеной капустой, заправленной специями (жареный лук, молотый черный перец, соль)
+(1200гр).</description>
+			</offer>
+			<offer id="3595" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3595.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с тыквой.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Постный пирог с сочной, тертой тыквой, заправленной специями (жареный лук, молотый черный перец, соль по вкусу и джедчын).
+(1200гр).</description>
+			</offer>
+			<offer id="3598" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3598.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с фасолью.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Сытный пирог с фасолью для тех, кто следит за своей фигурой.
+(1200гр).</description>
+			</offer>
+			<offer id="3601" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3601.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с сыром и зелёным луком.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Пирог со свежей зеленью и традиционным осетинским сыром. Самый вкусный выбор! Самый здоровый вкус!
+(1200гр).</description>
+			</offer>
+			<offer id="3604" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3604.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог со свекольными листьями.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Знаменитый пирог со свекольными листьями и осетинским сыром, привезенными из Северной Осетии.
+(1200гр).</description>
+			</offer>
+			<offer id="3608" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>573</categoryId>
+				<picture>http://fasteda.ru/data/big/3608.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог со шпинатом и осетинским сыром.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Пирог со свежим шпинатом и осетинским сыром.
+(1200гр).</description>
+			</offer>
+			<offer id="3568" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>574</categoryId>
+				<picture>http://fasteda.ru/data/big/3568.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с мясом.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Мясной пирог с сочным фаршем, из парной говядины со специями.
+(1200гр).</description>
+			</offer>
+			<offer id="3571" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>574</categoryId>
+				<picture>http://fasteda.ru/data/big/3571.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с мясом и грибами.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Традиционный и очень сытный пирог с мясом и грибами. Очень аппетитно!
+(1200гр).</description>
+			</offer>
+			<offer id="3574" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>574</categoryId>
+				<picture>http://fasteda.ru/data/big/3574.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с курицей и сыром .Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Пирог с нежной куриной грудкой и свежим осетинским сыром.
+(1200гр).</description>
+			</offer>
+			<offer id="3577" available="true">
+				<url>http://fasteda.ru/menu/tri_piroga/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>574</categoryId>
+				<picture>http://fasteda.ru/data/big/3577.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пирог с курицей и грибами.Большой</name>
+				<vendor>Три пирога</vendor>
+				<description>Пирог с нежной куриной грудкой и свежими грибами. Удивительно мягкий вкус!
+(1200гр).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

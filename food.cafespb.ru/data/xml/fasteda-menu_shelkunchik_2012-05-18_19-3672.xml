@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="425">Горячие блюда</category>
+			<category id="429">Блины</category>
+			<category id="419">Салаты</category>
+			<category id="421">Супы</category>
+			<category id="433">Закуски к пиву</category>
+			<category id="518">Бизнес-ланч</category>
+			<category id="423">Гарниры</category>
+			<category id="431">Выпечка</category>
+			<category id="436">Напитки</category>
+			<category id="427">Соусы</category>
+		</categories>
+		<offers>
+			<offer id="2818" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2818.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Киевская котлета</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>140 гр. </description>
+			</offer>
+			<offer id="2819" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2819.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная грудка в сырной панировке</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>110 гр. </description>
+			</offer>
+			<offer id="2820" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2820.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Люля-кебаб из курицы</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>80 гр. </description>
+			</offer>
+			<offer id="2821" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2821.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Говядина с шампиньонами</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>160 гр. </description>
+			</offer>
+			<offer id="2822" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2822.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эскалоп с помидором</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>140 гр. </description>
+			</offer>
+			<offer id="2823" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2823.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из лосося с овощами</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>115/30 гр. </description>
+			</offer>
+			<offer id="2824" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2824.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак с луком фри</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>150 гр. </description>
+			</offer>
+			<offer id="2825" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>109</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2825.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки пикантные 3шт</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>3 шт.</description>
+			</offer>
+			<offer id="2826" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2826.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная ножка маринованная</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>80 гр. </description>
+			</offer>
+			<offer id="2827" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>425</categoryId>
+				<picture>http://fasteda.ru/data/big/2827.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Колбаска Прованс</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>115 гр.</description>
+			</offer>
+			<offer id="2841" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>429</categoryId>
+				<picture>http://fasteda.ru/data/big/2841.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с бананом</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>90 гр.</description>
+			</offer>
+			<offer id="2842" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>429</categoryId>
+				<picture>http://fasteda.ru/data/big/2842.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с клюквенно-яблочной начинкой</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>90 гр. </description>
+			</offer>
+			<offer id="2843" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>429</categoryId>
+				<picture>http://fasteda.ru/data/big/2843.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с сыром и ветчиной</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>90 гр. </description>
+			</offer>
+			<offer id="2799" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>39</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>419</categoryId>
+				<picture>http://fasteda.ru/data/big/2799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Здоровье</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>130 гр.</description>
+			</offer>
+			<offer id="2800" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>419</categoryId>
+				<picture>http://fasteda.ru/data/big/2800.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>130 гр.</description>
+			</offer>
+			<offer id="2801" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>419</categoryId>
+				<picture>http://fasteda.ru/data/big/2801.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>120 гр.</description>
+			</offer>
+			<offer id="2802" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>419</categoryId>
+				<picture>http://fasteda.ru/data/big/2802.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат крабовый</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>130 гр. </description>
+			</offer>
+			<offer id="2803" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>419</categoryId>
+				<picture>http://fasteda.ru/data/big/2803.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат фасолевый с ветчиной</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>130 гр. </description>
+			</offer>
+			<offer id="2804" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>419</categoryId>
+				<picture>http://fasteda.ru/data/big/2804.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат-бар овощной</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>130 гр.</description>
+			</offer>
+			<offer id="2805" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>421</categoryId>
+				<picture>http://fasteda.ru/data/big/2805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ мясной</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>300 гр. </description>
+			</offer>
+			<offer id="2806" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>421</categoryId>
+				<picture>http://fasteda.ru/data/big/2806.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Солянка</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>300 гр.</description>
+			</offer>
+			<offer id="2807" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>421</categoryId>
+				<picture>http://fasteda.ru/data/big/2807.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп из семги</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>300 гр.</description>
+			</offer>
+			<offer id="2851" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>433</categoryId>
+				<picture>http://fasteda.ru/data/big/2851.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сухарики Щелкунчики</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>70 гр. </description>
+			</offer>
+			<offer id="2852" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>433</categoryId>
+				<picture>http://fasteda.ru/data/big/2852.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти из наших чипсов</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>70 гр. </description>
+			</offer>
+			<offer id="2853" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>433</categoryId>
+				<picture>http://fasteda.ru/data/big/2853.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Слоеные палочки к пиву</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>80 гр.</description>
+			</offer>
+			<offer id="2854" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>433</categoryId>
+				<picture>http://fasteda.ru/data/big/2854.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Миндаль соленый</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>100 гр. </description>
+			</offer>
+			<offer id="2855" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>433</categoryId>
+				<picture>http://fasteda.ru/data/big/2855.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Норвежская треска сушеная</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>80 гр. </description>
+			</offer>
+			<offer id="2856" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>433</categoryId>
+				<picture>http://fasteda.ru/data/big/2856.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось холодного копчения</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>45/15 гр. </description>
+			</offer>
+			<offer id="2857" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>433</categoryId>
+				<picture>http://fasteda.ru/data/big/2857.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Скумбрия х/к</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>55/15 гр. </description>
+			</offer>
+			<offer id="2858" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>433</categoryId>
+				<picture>http://fasteda.ru/data/big/2858.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бастурма</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>40 гр. </description>
+			</offer>
+			<offer id="3371" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>518</categoryId>
+				<picture>http://fasteda.ru/data/big/3371.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бизнес-ланч №3</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>Винегрет /130
+Суп овощной /300
+Эскалоп с помидором, обжаренный отварной картофель /140/200
+Хлеб /45.</description>
+			</offer>
+			<offer id="3370" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>518</categoryId>
+				<picture>http://fasteda.ru/data/big/3370.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бизнес-ланч №2</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>Салат \&amp;quot;Здоровье\&amp;quot; /130
+Солянка со сметаной /300/15
+Куриное филе с ананасом, рис /100/200
+Хлеб /45.</description>
+			</offer>
+			<offer id="3369" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>518</categoryId>
+				<picture>http://fasteda.ru/data/big/3369.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бизнес-ланч №1</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>Салат Витаминный /100
+Борщ мясной со сметаной /300/15
+Котлета домашняя из свинины, греча, кетчуп /90/200/30
+Хлеб /45.</description>
+			</offer>
+			<offer id="2808" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2808.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель жареный в мундире</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2809" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2809.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель жареный с грибами</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2810" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2810.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макароны с овощами</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="2811" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2811.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной микс с семенами подсолнуха</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="2812" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2812.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>200 гр. </description>
+			</offer>
+			<offer id="2813" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2813.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис с овощами</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>250 гр. </description>
+			</offer>
+			<offer id="2814" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2814.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гречка</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>200 гр. </description>
+			</offer>
+			<offer id="2815" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2815.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кукуруза отварная</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="2816" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2816.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лук маринованый</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>50 гр. </description>
+			</offer>
+			<offer id="2817" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>25</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>423</categoryId>
+				<picture>http://fasteda.ru/data/big/2817.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Огурец маринованный</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>60 гр.</description>
+			</offer>
+			<offer id="3372" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>431</categoryId>
+				<picture>http://fasteda.ru/data/big/3372.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожное Медовик</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="2846" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>29</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>431</categoryId>
+				<picture>http://fasteda.ru/data/big/2846.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Круассан</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>20 гр.</description>
+			</offer>
+			<offer id="2847" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>29</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>431</categoryId>
+				<picture>http://fasteda.ru/data/big/2847.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Слойка с миндалем</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>45 гр.</description>
+			</offer>
+			<offer id="2848" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>29</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>431</categoryId>
+				<picture>http://fasteda.ru/data/big/2848.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Слойка сахарная</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>50 гр. </description>
+			</offer>
+			<offer id="2849" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>431</categoryId>
+				<picture>http://fasteda.ru/data/big/2849.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ореховый пай</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="2850" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>14</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>431</categoryId>
+				<picture>http://fasteda.ru/data/big/2850.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Булочка</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>40 гр.</description>
+			</offer>
+			<offer id="2864" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2864.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пиво Балтика Безалкогольное 0,5 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,5 л.</description>
+			</offer>
+			<offer id="2861" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2861.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс ягодный 0,33 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,33 л.</description>
+			</offer>
+			<offer id="2862" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2862.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Компот из вишни 0,33 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,33 л.</description>
+			</offer>
+			<offer id="2863" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2863.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Компот из клубники 0,33 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,33 л.</description>
+			</offer>
+			<offer id="2865" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2865.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода Аква Минерале негаз. 0,6 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>Негаз. 0,6 л.</description>
+			</offer>
+			<offer id="2866" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2866.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок Фруктовый сад в ассортименте 0,2 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>Апельсин, яблоко, мультифрукт (0,2 л).</description>
+			</offer>
+			<offer id="2867" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2867.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Холодный чай Липтон в ассортименте 0,6 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>Малина, зеленый чай, лимон (0,6 л).</description>
+			</offer>
+			<offer id="2868" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2868.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аква-Актив 0,5 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,5 л.</description>
+			</offer>
+			<offer id="2869" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2869.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепси-кола 0,6 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,6 л.</description>
+			</offer>
+			<offer id="2870" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2870.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепси-лайт 0,6 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,6 л.</description>
+			</offer>
+			<offer id="2871" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2871.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Миринда Оранж Фрэш 0,6 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,6 л.</description>
+			</offer>
+			<offer id="2872" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2872.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>7 Up 0,6 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,6 л. </description>
+			</offer>
+			<offer id="2873" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>436</categoryId>
+				<picture>http://fasteda.ru/data/big/2873.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Адреналин Раш 0,25 л</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>0,25 л.</description>
+			</offer>
+			<offer id="2828" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2828.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджика</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="2829" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2829.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горчица</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр. </description>
+			</offer>
+			<offer id="2830" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2830.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр. </description>
+			</offer>
+			<offer id="2831" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2831.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Майонез</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="2832" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2832.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Масло оливковое</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр. </description>
+			</offer>
+			<offer id="2833" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2833.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сметана</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр. </description>
+			</offer>
+			<offer id="2834" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2834.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тар-тар</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="2835" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2835.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус зелёный</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="2836" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2836.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соевый соус</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="2837" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2837.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чесночный</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр. </description>
+			</offer>
+			<offer id="2838" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>19</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2838.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хрен</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>30 гр. </description>
+			</offer>
+			<offer id="2839" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>10</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2839.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зелень</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>5 гр.</description>
+			</offer>
+			<offer id="2840" available="true">
+				<url>http://fasteda.ru/menu/shelkunchik/</url>
+				<price>5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>427</categoryId>
+				<picture>http://fasteda.ru/data/big/2840.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лимон</name>
+				<vendor>Щелкунчик - доставка еды и напитков</vendor>
+				<description>15 гр. </description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

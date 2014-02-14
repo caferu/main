@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 05:40">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="970">Классические блюда Мексики</category>
+			<category id="966">Горячие закуски</category>
+			<category id="973">Гриль меню</category>
+			<category id="971">Мясные блюда</category>
+			<category id="968">Вегетарианские блюда</category>
+			<category id="974">Рыбные блюда</category>
+			<category id="967">Салаты</category>
+			<category id="969">Супы</category>
+			<category id="972">Десерты</category>
+			<category id="975">Гарниры</category>
+			<category id="1429">Холодные закуски</category>
+			<category id="976">Соусы</category>
+		</categories>
+		<offers>
+			<offer id="5974" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5974.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Буритто с говядиной</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пшеничные тортилья, фаршированные жареным мясом, овощами и ананасами. Подают с сыром и перцем халапеньо (450 гр).</description>
+			</offer>
+			<offer id="5976" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5976.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Буритто с курой</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пшеничные тортилья, фаршированные жареным мясом, овощами и ананасами. Подают с сыром и перцем халапеньо (450 гр).</description>
+			</offer>
+			<offer id="5978" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5978.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фахита с говядиной</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пшеничная тортилья с обжареными овощами, сливочным соусом, мексиканскими специями. Подают со свежими листьями салата, помидорами и  перцем халапеньо (460 гр).</description>
+			</offer>
+			<offer id="5980" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5980.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фахита с курой</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пшеничная тортилья с обжареными овощами, сливочным соусом, мексиканскими специями. Подают со свежими листьями салата, помидорами и перцем халапеньо (460 гр).</description>
+			</offer>
+			<offer id="5982" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5982.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фахита с лососем</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пшеничная тортилья с обжареными овощами, сливочным соусом, мексиканскими специями. Подают со свежими листьями салата, помидорами и перцем халапеньо (460 гр).</description>
+			</offer>
+			<offer id="5984" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5984.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Флейты с жульеном</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Обжаренные пшеничные тортилья, фаршированные с грибами, курой и запеченные под сыром (370/50 гр).</description>
+			</offer>
+			<offer id="5985" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5985.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чили кон карне</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пикантный говяжий фарш со смесью мексиканских специй, фасолью, паприкой, помидорами. Подают с рисом и кукурузными чипсами (470 гр).</description>
+			</offer>
+			<offer id="5986" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5986.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тако Дорадо с мясом на выбор</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Хрустящая кукурузная тортилья, фаршированная листьями салата и помидорами. Фаршируется обжаренной говядиной, креветками, курой или мясным фаршем на ваш выбор (330 гр).</description>
+			</offer>
+			<offer id="5987" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>610</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5987.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Поэлья Дары моря на двоих</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Морепродукты обжариваются и тушатся в рисе с приправами. Подается с сангритой (1000 гр).</description>
+			</offer>
+			<offer id="5989" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>610</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5989.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Поэлья мясная на двоих</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Мясо курицы, свинины и колбасы Чорисо обжаривается и тушится в рисе с приправами. Подается с сангритой (1000 гр).</description>
+			</offer>
+			<offer id="5991" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/5991.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Флейты с гуакомоле</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Обжаренные пшеничные тортилья, фаршированные курицей и соусом гуакомоле. Подаются с соусом сальса и сальса гуакомоле (370/50 гр).</description>
+			</offer>
+			<offer id="8211" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>1400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>970</categoryId>
+				<picture>http://fasteda.ru/data/big/8211.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фиеста Мексикана (блюдо на двоих)</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Чипсы, салат с кактусом, куриные крылышки, фахита, бурито, тако дорадо, кесадилла. Соуса: халапенью, сырный, сальса мексикана
+1/1000
+.</description>
+			</offer>
+			<offer id="5940" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5940.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Энчилада</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пшеничные тортилья, фаршированные куриным мясом, подаются с соусом сальса, плавленным сыром и перцем халапеньо (390 гр).</description>
+			</offer>
+			<offer id="5941" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5941.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Яичница по-техасски</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Глазунья из 2-х яиц на пшеничной лепешке с фаршем чили кон карне и картофелем фри (300 гр).</description>
+			</offer>
+			<offer id="5942" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5942.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ранчерос</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Омлет с беконом и авокадо завернутый в тортилью, подается с сальсой чипотле (250 гр).</description>
+			</offer>
+			<offer id="5943" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5943.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чилакила</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Кукурузные чипсы с курой в сальсе. Подается с сыром, сметаной и салатом (220/50 гр).</description>
+			</offer>
+			<offer id="5944" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5944.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чимичанга</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пшеничные лепешки с курой в сальсе. Подаются с сыром и овощами (260 гр).</description>
+			</offer>
+			<offer id="5945" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5945.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Чорисо</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Мексиканская колбаса Чорисо, с сыром и сальсой (220 гр).</description>
+			</offer>
+			<offer id="5947" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5947.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца вегетариано</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Помидоры, сыр, сальса (220 гр).</description>
+			</offer>
+			<offer id="5939" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5939.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кесадилла</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Обжаренные тартильи с сыром. Фаршируются ветчиной, креветками, курой или мясным фаршем на ваш выбор (280 гр).</description>
+			</offer>
+			<offer id="5946" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5946.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с ветчиной и сыром</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(220 гр).</description>
+			</offer>
+			<offer id="5948" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>966</categoryId>
+				<picture>http://fasteda.ru/data/big/5948.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Начос чили кон карне</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Кукурузные лепешки с фаршем чили кон карне и сыром (210 гр).</description>
+			</offer>
+			<offer id="6023" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>973</categoryId>
+				<picture>http://fasteda.ru/data/big/6023.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Костилас</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Свиные ребрышки на мангале с соусом BBQ (300/100/60 гр).</description>
+			</offer>
+			<offer id="6024" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>973</categoryId>
+				<picture>http://fasteda.ru/data/big/6024.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ла Труча</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Форель, приготовленная на решетке с овощами гриль (200/70/40 гр).</description>
+			</offer>
+			<offer id="6025" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>973</categoryId>
+				<picture>http://fasteda.ru/data/big/6025.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Дорадо</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Приготовленная на углях (300/70 гр).</description>
+			</offer>
+			<offer id="6022" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>973</categoryId>
+				<picture>http://fasteda.ru/data/big/6022.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сердо ла Парила</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Свиная вырезка на углях. Подается в лепешке с овощами (200/80/30 гр).</description>
+			</offer>
+			<offer id="6026" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>973</categoryId>
+				<picture>http://fasteda.ru/data/big/6026.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Поло ла Парила</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Куриный шашлык (200/80/30 гр).</description>
+			</offer>
+			<offer id="6027" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>973</categoryId>
+				<picture>http://fasteda.ru/data/big/6027.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи гриль</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(130 гр).</description>
+			</offer>
+			<offer id="8212" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>710</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/8212.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиная рулька штата Халиско</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Свиная рулька запеченая под сыром с острой сальсой \&amp;quot;Халапеньо\&amp;quot; и помидорами.
+1/540/20/70
+.</description>
+			</offer>
+			<offer id="5997" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>610</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/5997.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк Барбекью</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Обжаренное говяжье филе. Подается с соусом BBQ, шампиньонами гриль, луком и чесноком гриль (150/160 гр).</description>
+			</offer>
+			<offer id="5998" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>630</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/5998.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк Чипотле</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Говяжье филе, обжаренное на гриле с кусочком ананаса и луком. Подаются с соусом чипотле (150/160 гр).</description>
+			</offer>
+			<offer id="5999" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>680</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/5999.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк Бомберос</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Говяжье филе с сальсой, халапеньо и текилой (160/80 гр).</description>
+			</offer>
+			<offer id="6001" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6001.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печо эн куила</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Филе куры, фаршированное сыром, ветчиной и маринованным кактусом и обжаренное сыром пармезан. Подается с овощным соусом (230/140 гр).</description>
+			</offer>
+			<offer id="6002" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6002.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свинина на тортильи</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Филе свинины запеченное под острым соусом и сыром. Подается на пшеничной лепешке (280 гр).</description>
+			</offer>
+			<offer id="6003" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6003.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясное трио</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Свинина, говядина и куриное филе, обжаренное на гриле с соусом красное вино. Подается с кукурузными чипсами, обжаренными в вине (150/120/50 гр).</description>
+			</offer>
+			<offer id="6004" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6004.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки куриные 6 шт</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(220/60 гр).</description>
+			</offer>
+			<offer id="6005" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6005.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки куриные 12 шт</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(440/50 гр).</description>
+			</offer>
+			<offer id="6006" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6006.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки куриные 24 шт</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(880/50 гр).</description>
+			</offer>
+			<offer id="6018" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>710</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6018.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиная рулька штата Халиско</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Свиная рулька запеченная под сыром с острой сальсой Халапеньо и помидорами (540/20/70 гр).</description>
+			</offer>
+			<offer id="6019" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6019.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Биррия</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Томленая свинина с овощами и картофелем, подается на сковороде (350 гр).</description>
+			</offer>
+			<offer id="6020" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6020.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свинина штата Сонора</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Филе свинины, обжаренное с луком, картофелем и колбасой Чорисо. Подается с пшеничными лепешками и печеными помидорами (170/70 гр).</description>
+			</offer>
+			<offer id="6021" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6021.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиные медальоны</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Дополняются грибным соусом и картофелем шато (100/120/60 гр).</description>
+			</offer>
+			<offer id="6000" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/6000.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе де Поло</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Куриное филе в апельсиновом соусе. Подается с кукурузными оладьями (100/180/100 гр).</description>
+			</offer>
+			<offer id="8213" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>971</categoryId>
+				<picture>http://fasteda.ru/data/big/8213.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Поло кон вердурас</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Куриное филе обжаренное с мексикансками специями и овощами. Подается с тортельями.
+1/400
+.</description>
+			</offer>
+			<offer id="5962" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>968</categoryId>
+				<picture>http://fasteda.ru/data/big/5962.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тако Дорадо</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Хрустящая кукурузная тортилья, фаршированная овощами, шампиньонами, листьями салата и помидорами (310 гр).</description>
+			</offer>
+			<offer id="5963" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>968</categoryId>
+				<picture>http://fasteda.ru/data/big/5963.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кесадилла Вегетариана</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Тортилья с сыром, луком и шампиньонами (250 гр).</description>
+			</offer>
+			<offer id="5964" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>968</categoryId>
+				<picture>http://fasteda.ru/data/big/5964.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячий салат из баклажан</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Овощное рагу из баклажан, цукини, помидоров, паприки, лука в томатном соусе (450 гр).</description>
+			</offer>
+			<offer id="5965" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>968</categoryId>
+				<picture>http://fasteda.ru/data/big/5965.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фахита</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пшеничные тортилья с жареными овощами, шампиньонами и сливочным соусом с мексиканскими специями. Подают со свежими листьями салата, помидорами и перцем халапеньо (460 гр).</description>
+			</offer>
+			<offer id="6028" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>974</categoryId>
+				<picture>http://fasteda.ru/data/big/6028.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морской окунь штата Поэбло</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Жареное филе окуня, подается на подушке из грибов, помидоров и сливочного соуса (220/20/40).</description>
+			</offer>
+			<offer id="6029" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>974</categoryId>
+				<picture>http://fasteda.ru/data/big/6029.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из лосося с тигровой креветкой </name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Обжаренное филе лосося с тигровой креветкой и сливочным соусом из креветок (210 гр).</description>
+			</offer>
+			<offer id="6030" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>974</categoryId>
+				<picture>http://fasteda.ru/data/big/6030.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рыба по рецепту племени Майя</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Нежно филе окуня замаринованное и запеченное по рецепту племени Майя (160/120 гр).</description>
+			</offer>
+			<offer id="6031" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>974</categoryId>
+				<picture>http://fasteda.ru/data/big/6031.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рыба по-веракрузски</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Филе пангасиуса, запеченное в пергаменте с помидорами, чесноком, перчиком халапеньо, оливками и базиликом (320 гр).</description>
+			</offer>
+			<offer id="5949" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5949.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с сыром моцарелла и вяленой свининой</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Подается на салате ромейн с томатами черри, моцареллой, авокадо и паприкой. Заправлен черри соусом (260 гр).</description>
+			</offer>
+			<offer id="5950" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5950.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат тако</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Кукурузные лепешки тако, фаршированные салатом, авокадо, помидорами, заправленный соком лайма,  оливковым маслом и молотым чили. Подается с сыром, колбасой Чорисо и сальсой Пика де Гало (210 гр).</description>
+			</offer>
+			<offer id="5951" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5951.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Мехико</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Фирменный теплый салат. Приготовим на ваш выбор из говядины или свинины, с овощами, мексиканскими специями и ананасом (240 гр).</description>
+			</offer>
+			<offer id="5952" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5952.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Тех-Мех</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Листья салата с ветчиной, фасолью, кукурузой и красным луком. Подается с авокадо, чипсами и соусом базилик (210 гр).</description>
+			</offer>
+			<offer id="5953" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5953.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Наполитос</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Салат с маринованным кактусом и авокадо. Подается с помидорами на листьях салата, кукурузой, луком и сыром фета (230 гр).</description>
+			</offer>
+			<offer id="5955" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5955.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печуга де Поло</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Салат из баклажанов с копченой курицей (260 гр).</description>
+			</offer>
+			<offer id="5956" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5956.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Энсалада де Поло</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Салат из фасоли, свежих шампиньонов, коктейльных креветок и лука порей с обжаренными кусочками куры в мексиканских специях (180 гр).</description>
+			</offer>
+			<offer id="5957" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5957.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь с курицей</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(190 гр).</description>
+			</offer>
+			<offer id="5958" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5958.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь с креветками</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(190 гр).</description>
+			</offer>
+			<offer id="5959" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5959.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Марискос</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Питательный салат из креветок и свежих овощей, украшенный салатом, маслинами и лимоном (240 гр).</description>
+			</offer>
+			<offer id="5960" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5960.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Энсалада де Карне</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Салат из ветчины, колбасы Чорисо и отварного филе говядины с листьями салата, огурцами, яйцом, сыром и помидорами черри. Подается с маринованным кактусом и соусом базилик (240 гр).</description>
+			</offer>
+			<offer id="5961" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5961.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Энсалада Камаронес</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пикантный салат с ананасом, креветками, авокадо, соком лайма и зеленью (260 гр).</description>
+			</offer>
+			<offer id="5954" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>967</categoryId>
+				<picture>http://fasteda.ru/data/big/5954.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Салат из свежих овощей с мексиканской заправкой, соком лайма, арахисом и зеленью (250 гр).</description>
+			</offer>
+			<offer id="5966" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>969</categoryId>
+				<picture>http://fasteda.ru/data/big/5966.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем-суп из шампиньонов</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(360 гр).</description>
+			</offer>
+			<offer id="5967" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>969</categoryId>
+				<picture>http://fasteda.ru/data/big/5967.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп куриный с тортильями</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(350 гр).</description>
+			</offer>
+			<offer id="5969" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>969</categoryId>
+				<picture>http://fasteda.ru/data/big/5969.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Ацтеков</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пикантный томатный супчик с куриным филе, кукурузой, сыром и чипсами Начос (310 гр).</description>
+			</offer>
+			<offer id="5970" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>969</categoryId>
+				<picture>http://fasteda.ru/data/big/5970.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп чили кон карне</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Томатный супчик с говяжьим фаршем и рисом. Супер-острое блюдо (390 гр).</description>
+			</offer>
+			<offer id="5971" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>969</categoryId>
+				<picture>http://fasteda.ru/data/big/5971.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырный суп</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="5973" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>969</categoryId>
+				<picture>http://fasteda.ru/data/big/5973.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Чилпачоле</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Пикантный суп из морепродуктов (330 гр).</description>
+			</offer>
+			<offer id="5972" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>969</categoryId>
+				<picture>http://fasteda.ru/data/big/5972.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп из баклажан</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="6008" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6008.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадное лукошко</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>С шариком мороженого (100/30 гр).</description>
+			</offer>
+			<offer id="6009" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6009.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чиз Кейк</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(140 гр).</description>
+			</offer>
+			<offer id="6011" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6011.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Штрудель яблочный</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Подается с мороженым и ванильным соусом (200 гр).</description>
+			</offer>
+			<offer id="6012" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6012.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Штрудель вишневый</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Подается с мороженым и ванильным соусом (200 гр).</description>
+			</offer>
+			<offer id="6013" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6013.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний Наполеон</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6014" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6014.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жареное мороженое</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(240 гр).</description>
+			</offer>
+			<offer id="6015" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6015.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Десерт из свежего ананаса</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(500 гр).</description>
+			</offer>
+			<offer id="6016" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6016.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Графские развалины</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(125 гр).</description>
+			</offer>
+			<offer id="6017" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6017.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Коктейль из фруктов</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="6010" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/6010.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бруснично-кремовый пирог с белым шоколадом</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(125 гр).</description>
+			</offer>
+			<offer id="8214" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>972</categoryId>
+				<picture>http://fasteda.ru/data/big/8214.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мороженое с фруктами</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(ванильное/ клубничное/ шоколадное/ ванильное с шоколадной крошкой/ фисташковое)
+1/150/50
+.</description>
+			</offer>
+			<offer id="6034" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>975</categoryId>
+				<picture>http://fasteda.ru/data/big/6034.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хлебная тарелка</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6035" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>975</categoryId>
+				<picture>http://fasteda.ru/data/big/6035.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель запеченный </name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>В фольге со сметаной и зеленью (200 гр).</description>
+			</offer>
+			<offer id="6036" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>975</categoryId>
+				<picture>http://fasteda.ru/data/big/6036.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Отварной рис с овощами</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6032" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>975</categoryId>
+				<picture>http://fasteda.ru/data/big/6032.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вердурас</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Жаренные овощи с томатами в собственном соку (200 гр).</description>
+			</offer>
+			<offer id="6033" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>975</categoryId>
+				<picture>http://fasteda.ru/data/big/6033.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель Айдахо</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Жареный картофель с зеленью и чесноком (150 гр).</description>
+			</offer>
+			<offer id="6037" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>975</categoryId>
+				<picture>http://fasteda.ru/data/big/6037.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фасоль с халапеньо </name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>В томатном соусе (150 гр).</description>
+			</offer>
+			<offer id="6038" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>975</categoryId>
+				<picture>http://fasteda.ru/data/big/6038.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6039" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>975</categoryId>
+				<picture>http://fasteda.ru/data/big/6039.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тортилья 1 шт</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>1 шт.</description>
+			</offer>
+			<offer id="5929" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1429</categoryId>
+				<picture>http://fasteda.ru/data/big/5929.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Севиче</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Маринованный свежий лосось, морской окунь, сок лайма, зелень, лук, паприка и острый перчик чили (120/35 гр).</description>
+			</offer>
+			<offer id="5930" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1429</categoryId>
+				<picture>http://fasteda.ru/data/big/5930.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Начос супремос</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Кукурузные чипсы. Подаются с сальсой и сырным соусом чеддер (300 гр).</description>
+			</offer>
+			<offer id="5933" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1429</categoryId>
+				<picture>http://fasteda.ru/data/big/5933.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Начос</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Кукурузные чипсы. Подаются с сальсой (150 гр).</description>
+			</offer>
+			<offer id="5931" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1429</categoryId>
+				<picture>http://fasteda.ru/data/big/5931.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Коктейль из креветок с авокадо</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Обжаренные на оливковом масле тигровые креветки с текилой и соком лайма. Подается с салатом, авокадо, сырным соусом и сальсой (150 гр).</description>
+			</offer>
+			<offer id="5932" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1429</categoryId>
+				<picture>http://fasteda.ru/data/big/5932.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Креветки Tostados</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>Закуска с соусом гуакомоле, креветок и ананаса. Подается на чипсах Tortilla (170 гр).</description>
+			</offer>
+			<offer id="6040" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>976</categoryId>
+				<picture>http://fasteda.ru/data/big/6040.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сальса Мексикана</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6041" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>976</categoryId>
+				<picture>http://fasteda.ru/data/big/6041.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сальса из сыра Чеддер</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6042" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>976</categoryId>
+				<picture>http://fasteda.ru/data/big/6042.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сальса Халапенью</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="8216" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>976</categoryId>
+				<picture>http://fasteda.ru/data/big/8216.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус Гуакамоле</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>1/50.</description>
+			</offer>
+			<offer id="8215" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>976</categoryId>
+				<picture>http://fasteda.ru/data/big/8215.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сальса Чипотле</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>1/50.</description>
+			</offer>
+			<offer id="8217" available="true">
+				<url>http://fasteda.ru/menu/mexico/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>976</categoryId>
+				<picture>http://fasteda.ru/data/big/8217.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сметана</name>
+				<vendor>Ресторан Мехико</vendor>
+				<description>1/50.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

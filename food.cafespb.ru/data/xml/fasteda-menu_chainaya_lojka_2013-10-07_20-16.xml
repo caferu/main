@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:16">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="161">Сладкие блины</category>
+			<category id="162">Сытные блины</category>
+			<category id="1633">Супы</category>
+			<category id="160">Салаты</category>
+			<category id="354">Хлеб</category>
+			<category id="178">Напитки</category>
+			<category id="1623">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="12473" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/12473.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с начинкой брусника</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="964" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>53</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/964.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Со сгущенным молоком  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="965" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>53</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/965.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С горячим шоколадом </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="966" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>33</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/966.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С малиновым вареньем </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="967" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>53</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/967.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С медом   </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="968" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>53</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/968.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С клубничным вареньем</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, клубничное варенье(85/45)
+.</description>
+			</offer>
+			<offer id="969" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>37</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/969.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С яблоками  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин,Яблоки,Сахар,Корица (84/45 гр.).</description>
+			</offer>
+			<offer id="970" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/970.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С вишней  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, вишня (85/45 гр.).</description>
+			</offer>
+			<offer id="971" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>74</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/971.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с творогом  фермерским</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, творог фермерский (85/45 гр.).</description>
+			</offer>
+			<offer id="972" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/972.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с бананом  и шоколадом  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, банан, шоколад, сливки (85/100/15/7 гр.).</description>
+			</offer>
+			<offer id="961" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>34</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/961.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Просто блин  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>(85 гр).</description>
+			</offer>
+			<offer id="974" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>54</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>161</categoryId>
+				<picture>http://fasteda.ru/data/big/974.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин со сметаной </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12475" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>74</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/12475.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с начинкой картошка с грибами</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>блин, картофель отварной, шампиньоны обжаренные, масло подсолнечное, сухой концентрат грибного бульона, соль, специи.</description>
+			</offer>
+			<offer id="11177" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>124</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/11177.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блинбургер</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, масло слив., масло подс., бифштекс, горчица французская, огурцы конс., помидоры, сыр.</description>
+			</offer>
+			<offer id="9140" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>108</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/9140.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С бужениной</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Буженина, хреновый соус, огурчики маринованные.</description>
+			</offer>
+			<offer id="9141" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>108</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/9141.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С лососем и сыром филадельфия</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, красная рыба, сыр Филадельфия.</description>
+			</offer>
+			<offer id="973" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>37</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/973.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С курой и грибами </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, филе куриное, шампиньоны, лук репчатый, сливки (85/45) .</description>
+			</offer>
+			<offer id="979" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/979.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С ветчиной и грибами  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин,   ветчина, шампиньоны, лук репчатый, сыр, грибной бульон, сливки (85/45).</description>
+			</offer>
+			<offer id="982" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/982.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С ветчиной и сыром</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, ветчина, сыр (85/45).</description>
+			</offer>
+			<offer id="976" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/976.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин со свининой и помидорами </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>(85/45 гр).</description>
+			</offer>
+			<offer id="980" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>108</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/980.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С курой, сыром и беконом</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, соус чесночный, свежие огурцы, помидоры, перец свежий, капуста китайская, начинка из куры, сыра и бекона (85/37/35/55).</description>
+			</offer>
+			<offer id="975" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/975.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С сыром</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, сыр тёртый.</description>
+			</offer>
+			<offer id="9296" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>74</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/9296.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С грибным жульеном</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, Шампиньоны, Лук репчатый, Масло растительное, Бульон грибной, Сливки, Сыр, Перец ч. м.
+85/45.</description>
+			</offer>
+			<offer id="978" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/978.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С рубленым мясом  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, морковь жареная, свинина, говядина, лук репчатый жареный, масло подсолнечное, соль, перец чёрный молотый (85/45).</description>
+			</offer>
+			<offer id="981" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>76</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/981.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С курой в сливочном соусе  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин,   Филе куриное, Бульон куриный, Мука пшеничная, Сливки (85/45).</description>
+			</offer>
+			<offer id="985" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>134</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/985.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С красной икрой  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, Масло, Икра красная (85/3/20).</description>
+			</offer>
+			<offer id="977" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/977.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с мягким сыром, помидорами и зеленью</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Блин, Сливочный сыр, Помидоры свежие, Сыр Фета, Укроп	
+(85/45)
+.</description>
+			</offer>
+			<offer id="3266" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>162</categoryId>
+				<picture>http://fasteda.ru/data/big/3266.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С капустой и яйцом</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description> блин , капуста тушеная, лук репчатый обжаренный, яйцо куриное отварное, масло подсолнечное, соль, перец, лук жареный сушеный .</description>
+			</offer>
+			<offer id="12970" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1633</categoryId>
+				<picture>http://fasteda.ru/data/big/12970.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Солянка</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9298" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1633</categoryId>
+				<picture>http://fasteda.ru/data/big/9298.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ горячий</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Капуста б/к, морковь, лук репчатый, картофель, свекла, томат-паста, чеснок, лавровый лист, соль, перец, сахар, бульон куриный, говядина отвраная нарезанная.</description>
+			</offer>
+			<offer id="12477" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>64</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/12477.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат говядина с фасолью</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description> фасоль консервированная, майонез, лук красный, говядина отварная, перец болгарский свежий, капуста китайская свежая, огурцы консервированные, чеснок, соль, перец
+(100 гр).</description>
+			</offer>
+			<offer id="12969" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/12969.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с картофелем и шампиньонами</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="12122" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/12122.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Греческий</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Салат ромейн, салат айсберг, помидоры черри, сыр фета, огурцы свежие, маслины, перец свежий, петрушка + заправка для салата Лето.</description>
+			</offer>
+			<offer id="950" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>38</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/950.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из свежей капусты  </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Капуста белокочанная, Морковь, Сахарный песок, Масло растительное, Уксус (100 гр).</description>
+			</offer>
+			<offer id="951" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/951.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Винегрет </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Картофель, Свекла, Морковь, Огурцы консервированные (соленые), Лук репчатый, Зеленый горошек консервированный, Масло растительное, Соль, Уксус, Капуста квашеная (100 гр).</description>
+			</offer>
+			<offer id="952" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/952.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Коктейль</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Сыр, Ветчина, Яйцо, Огурцы свежие, Перец болгарский, Майонез, Капуста китайская (100 гр).</description>
+			</offer>
+			<offer id="953" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/953.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Голландский </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Шампиньоны, Сыр, Помидоры, Яйцо, Морковь, Лук жареный, Майонез (100 гр).</description>
+			</offer>
+			<offer id="954" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>51</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/954.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Селедка под шубой</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Филе сельди малосольное, Картофель, Морковь, Свекла, Яйцо, Лук, Майонез (100 гр).</description>
+			</offer>
+			<offer id="955" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/955.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Столичный</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Филе куриное, картофель, горошек зеленый, огурцы маринованные, морковь, яйцо (100 гр).</description>
+			</offer>
+			<offer id="9301" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>160</categoryId>
+				<picture>http://fasteda.ru/data/big/9301.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Салат ромейн, салат айсберг, помидоры черри, филе куриное маринованное, сыр пармезан, маслины + соус Цезарь.</description>
+			</offer>
+			<offer id="2475" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>6</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>354</categoryId>
+				<picture>http://fasteda.ru/data/big/2475.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хлебец</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Мука пшеничная хлебопекарная высшего сорта, вода, дрожжи хлебопекарные, маргарин, сахар-песок, смесь для хлеба (солод ячменный, мука ржаная,  масло рапсовое), соль (30 г).</description>
+			</offer>
+			<offer id="12478" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/12478.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Энергетический напиток адреналин</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12479" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>73</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/12479.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лимонад</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12283" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/12283.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Холодный Лимонный чай</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1058" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/1058.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аква Минерале Актив</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1057" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>67</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/1057.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода Aqua Minerale</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9314" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>77</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9314.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чай холодный «Липтон»</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9306" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>52</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9306.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс клюквенный</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2474" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/2474.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Холодный чай ягодный</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9312" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>56</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9312.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эспрессо</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9313" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>64</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9313.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячий шоколад</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9315" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9315.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Молочный котейль</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9307" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>58</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9307.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок Я в ассортименте 0,2</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9308" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>56</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9308.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Американо </name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9309" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9309.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Американо с молоком</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9310" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9310.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капучино</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9311" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9311.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мокачино</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9304" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>178</categoryId>
+				<picture>http://fasteda.ru/data/big/9304.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чай в ассортименте (листовой)</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9142" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1623</categoryId>
+				<picture>http://fasteda.ru/data/big/9142.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шарлотка</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Мука пшеничная, яблоки свежие, сахар, меланж яичный, ванилин.</description>
+			</offer>
+			<offer id="2471" available="true">
+				<url>http://fasteda.ru/menu/chainaya_lojka/</url>
+				<price>74</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1623</categoryId>
+				<picture>http://fasteda.ru/data/big/2471.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырники</name>
+				<vendor>Бесплатная доставка из Чайной ложки</vendor>
+				<description>Творожная масса с изюмом, крупа манная, яичный порошок, сливки, сухари панировочные, масло сливочное (180 гр).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

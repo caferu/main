@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:35">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="347">Хачапури</category>
+			<category id="345">Холодные закуски</category>
+			<category id="355">Шашлыки</category>
+			<category id="344">Салаты</category>
+			<category id="357">Рыбные блюда</category>
+			<category id="348">Супы</category>
+			<category id="351">Соусы</category>
+			<category id="352">Гарниры</category>
+			<category id="350">Хлеб</category>
+			<category id="1260">Пельмени</category>
+			<category id="1259">Блины</category>
+			<category id="1257">Горячие блюда</category>
+			<category id="1255">Грузинские блюда на кеци</category>
+			<category id="1261">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="2442" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2442.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури мегрули по-менгрельски</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Традиционный закрытый пирог с двойной порцией сыра сулугуни и яйцом.
+(500 гр).</description>
+			</offer>
+			<offer id="2443" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2443.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури ачарули по-аджарски(большой)</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Традиционный пирог в форме лодочки с начинкой из яйца и сыра сулугуни,  запечённый до золотистой корочки.
+(500 гр).</description>
+			</offer>
+			<offer id="2490" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>489</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2490.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури имерули по-имеретински(большой)</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Традиционный пирог в форме солнца с сыром сулугуни.
+(800 гр).</description>
+			</offer>
+			<offer id="2491" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2491.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кубдари с мясом </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Традиционный пирог с мясом и специями .
+(300 гр).</description>
+			</offer>
+			<offer id="2492" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>347</categoryId>
+				<picture>http://fasteda.ru/data/big/2492.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобиани</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Традиционный пирог с фасолью и специями.
+(300 гр).</description>
+			</offer>
+			<offer id="2435" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>279</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2435.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Язык говяжий с грецкими орехами</name>
+				<vendor>Cafe-Baje</vendor>
+				<description> 150 гр.</description>
+			</offer>
+			<offer id="7542" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/7542.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баклажаны с грецкими орехами </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(220 гр).</description>
+			</offer>
+			<offer id="2436" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2436.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баструма</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>70 гр.</description>
+			</offer>
+			<offer id="2437" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2437.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капуста по-грузинский</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="2462" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>279</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2462.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пхали из шпината </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Шпинат, баклажаны, морковь, лобио, болгарский перец, орехи (180 гр).</description>
+			</offer>
+			<offer id="2468" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2468.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сладкий перец с грецкими орехами </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="7547" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/7547.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зелень и пряные травы </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(120 гр).</description>
+			</offer>
+			<offer id="2479" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/2479.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сациви с курицей / баклажанами </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>180гр.</description>
+			</offer>
+			<offer id="7538" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/7538.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Cыр сулугуни </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(170 гр).</description>
+			</offer>
+			<offer id="7539" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>279</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/7539.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пхали из стручковой фасоли </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="7540" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>499</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/7540.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пхали ассорти  </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="7543" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>389</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/7543.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясное ассорти</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Буженина, язык, бастурма, мясо деликатесное.
+(150 гр).</description>
+			</offer>
+			<offer id="7546" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/7546.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощное ассорти</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>С сыром сулугуни  сезонные овощи: огурцы, томаты, паприка, зелень.
+(250 гр).</description>
+			</offer>
+			<offer id="7554" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>379</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/7554.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти сыров   с грецкими орехами, сельдереем и мёдом</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="7564" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>345</categoryId>
+				<picture>http://fasteda.ru/data/big/7564.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Селёдка с отварным картофелем и чёрным хлебом </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Традиционная закуска под водку.
+(250 гр).</description>
+			</offer>
+			<offer id="2448" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>329</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2448.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из Свинины</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="2449" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>429</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2449.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из баранины</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="2450" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>339</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2450.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык кавказский</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="2451" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>359</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2451.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баранина на рёбрах </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="2459" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2459.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из курицы </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(320 гр).</description>
+			</offer>
+			<offer id="2496" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/2496.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки куриные</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="7585" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/7585.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из телятины </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="7586" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>329</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/7586.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Люля-кебаб из баранины </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="7587" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>355</categoryId>
+				<picture>http://fasteda.ru/data/big/7587.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи по-кавказски на шампуре </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(280 гр).</description>
+			</offer>
+			<offer id="2483" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2483.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Теплый салат с лососем  </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Теплый салат с лососем.
+(300 гр).</description>
+			</offer>
+			<offer id="2482" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>279</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2482.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с куриной грудкой </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="7550" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/7550.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ацецили</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Салат из баклажанов, овощей и грецких орехов со специями.
+(220 гр).</description>
+			</offer>
+			<offer id="2434" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2434.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из свёклы с черносливом и грецкими орехами </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="7555" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/7555.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греческий салат </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="2433" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2433.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тбилисо салат с бужениной и овощами </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(220 гр).</description>
+			</offer>
+			<offer id="7549" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/7549.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Баже» </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Перец болгарский, лук репчатый, масло оливковое, шампиньоны, говядина,зелень.
+(220 гр).</description>
+			</offer>
+			<offer id="2481" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/2481.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат по-грузински со специями </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Салат из свежих томатов и огурцов, с ароматной зеленью и острым перцем.
+(220 гр).</description>
+			</offer>
+			<offer id="7557" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/7557.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Аляска»  </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Фасоль, лосось слабой соли, огурцы, капуста китайская, лук репчатый, зелень, майонез.
+(200 гр).</description>
+			</offer>
+			<offer id="7558" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/7558.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с лососем </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="7559" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>329</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/7559.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с креветками   </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="7561" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/7561.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тёплый салат с куриной грудкой </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="7562" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/7562.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат  «Санкт-Петербург»   </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Паприка, шампиньены, говядина,лук репчатый, зелень.
+(200 гр).</description>
+			</offer>
+			<offer id="7563" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>344</categoryId>
+				<picture>http://fasteda.ru/data/big/7563.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Русский лес»  </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Сыр сулугуни, кура филе,  шампиньоны,  огурец,  паприка, лук репчатый, майонез.
+(200 гр).</description>
+			</offer>
+			<offer id="2493" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>599</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>357</categoryId>
+				<picture>http://fasteda.ru/data/big/2493.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форель на мангале </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(450 гр).</description>
+			</offer>
+			<offer id="2494" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>459</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>357</categoryId>
+				<picture>http://fasteda.ru/data/big/2494.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось по-королевски</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(320 гр).</description>
+			</offer>
+			<offer id="7582" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>357</categoryId>
+				<picture>http://fasteda.ru/data/big/7582.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак в кляре с чесночным соусом</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="2444" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/2444.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Харчо</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Традиционный грузинский суп с говядиной, рисом, зеленью и специями.
+(450 гр).</description>
+			</offer>
+			<offer id="7594" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/7594.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ «домашний» </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(450 гр).</description>
+			</offer>
+			<offer id="2445" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/2445.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чакапули</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Традиционная грузинская похлебка из баранины и зелени, тушёной на вине.
+(450 гр).</description>
+			</offer>
+			<offer id="2485" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/2485.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чихиртма</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Традиционная грузинская похлебка с курицей.
+(450 гр).</description>
+			</offer>
+			<offer id="7591" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/7591.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха по-фински </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(450 гр).</description>
+			</offer>
+			<offer id="7592" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/7592.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный бульон с яйцом и зеленью </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="7593" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>348</categoryId>
+				<picture>http://fasteda.ru/data/big/7593.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грибной крем-суп </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="2455" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>351</categoryId>
+				<picture>http://fasteda.ru/data/big/2455.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ткемали</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="2456" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>351</categoryId>
+				<picture>http://fasteda.ru/data/big/2456.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сацебели</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="2457" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>351</categoryId>
+				<picture>http://fasteda.ru/data/big/2457.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджика</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>50 гр. </description>
+			</offer>
+			<offer id="2489" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>351</categoryId>
+				<picture>http://fasteda.ru/data/big/2489.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тар-тар</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(50 гр).</description>
+			</offer>
+			<offer id="7589" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>351</categoryId>
+				<picture>http://fasteda.ru/data/big/7589.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Марирозе</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(50 гр).</description>
+			</offer>
+			<offer id="7590" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>351</categoryId>
+				<picture>http://fasteda.ru/data/big/7590.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баже</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(50 гр).</description>
+			</offer>
+			<offer id="7583" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>352</categoryId>
+				<picture>http://fasteda.ru/data/big/7583.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пюре картофельное </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="7584" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>352</categoryId>
+				<picture>http://fasteda.ru/data/big/7584.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="2452" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>350</categoryId>
+				<picture>http://fasteda.ru/data/big/2452.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грузинский лаваш домашний </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>2 шт.</description>
+			</offer>
+			<offer id="2454" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>350</categoryId>
+				<picture>http://fasteda.ru/data/big/2454.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чвиштари</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Кукурузная лепёшка с сыром.
+(200 гр).</description>
+			</offer>
+			<offer id="2453" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>350</categoryId>
+				<picture>http://fasteda.ru/data/big/2453.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мчади</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Пресная лепёшка из кукурузной муки.(180 гр).</description>
+			</offer>
+			<offer id="7604" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1260</categoryId>
+				<picture>http://fasteda.ru/data/big/7604.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени «купеческие» со сливочным маслом и зеленью</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="7605" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1260</categoryId>
+				<picture>http://fasteda.ru/data/big/7605.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени «купеческие» запечённые с томатом и сыром </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="7606" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1260</categoryId>
+				<picture>http://fasteda.ru/data/big/7606.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени «купеческие» запечённые с грибами и луком </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="7600" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1259</categoryId>
+				<picture>http://fasteda.ru/data/big/7600.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины «сытные»</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Со сметаной  с лососем и луком.
+(250 гр).</description>
+			</offer>
+			<offer id="7601" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1259</categoryId>
+				<picture>http://fasteda.ru/data/big/7601.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с шампиньонами и картофелем </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="7602" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1259</categoryId>
+				<picture>http://fasteda.ru/data/big/7602.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с курой, луком и зеленью </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="7556" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7556.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жульен из шампиньонов </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(130 гр).</description>
+			</offer>
+			<offer id="2439" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/2439.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобио</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>фасоль по-грузински, запечённая в горшочке с зеленью и специями.
+(220 гр).</description>
+			</offer>
+			<offer id="2440" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/2440.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджапсандали</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Баклажаны, лук, сладкий перец и специи. 
+(220 гр).</description>
+			</offer>
+			<offer id="2446" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/2446.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хинкали</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Большие грузинские пельмени с мясом 4 шт.</description>
+			</offer>
+			<offer id="2447" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/2447.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Долма</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Свинина с рисом, зеленью и специями, завернутая в виноградные листья.
+(200 гр).</description>
+			</offer>
+			<offer id="2460" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/2460.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эларджи</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Мамалыга с сыром сулугуни.
+(220 гр).</description>
+			</offer>
+			<offer id="2464" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/2464.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мамалыга</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Грузинское национальное блюдо: кукурузная каша. (200 гр).</description>
+			</offer>
+			<offer id="7575" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7575.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Купта бозбаш   с черносливом</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Говядина, свинина, картофель , чернослив, курага.
+(450 гр).</description>
+			</offer>
+			<offer id="7578" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>369</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7578.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лангет с картофелем по-грузински  </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Свинина, шампиньоны , паприка, майонез, картофель.
+(315 гр).</description>
+			</offer>
+			<offer id="7597" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>459</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7597.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось «А`ля  Жерар»  </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Запечённый в фольге, с овощами и соусом тар-тар
+лосось, баклажаны, болгарский перец, морковь, сельдерей, зелень.
+(350 гр)
+.</description>
+			</offer>
+			<offer id="7607" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7607.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бефстроганов с картофельным пюре</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="7576" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>369</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7576.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хашлама</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Говядина, сельдерей, паприка, зелень.
+(400 гр).</description>
+			</offer>
+			<offer id="7598" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7598.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Яхнэ</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Говядина с грецкими орехами и специями.
+(220 гр).</description>
+			</offer>
+			<offer id="7599" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>369</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7599.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чанахи</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Баранина с баклажанами, картофелем и специями, в горшочке.
+(300 гр).</description>
+			</offer>
+			<offer id="7608" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7608.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Котлеты «Советские» с жареным картофелем </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(350 гр).</description>
+			</offer>
+			<offer id="7609" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1257</categoryId>
+				<picture>http://fasteda.ru/data/big/7609.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриные котлетки с картофельным пюре </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(350 гр).</description>
+			</offer>
+			<offer id="7574" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>329</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/7574.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Перец по-грузински на кеци</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Перец, фаршированный фаршем из свинины, говядины, зелени и специй.
+(300 гр).</description>
+			</offer>
+			<offer id="7573" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/7573.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сулугуни</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Жареный на кеци.
+(300 гр).</description>
+			</offer>
+			<offer id="7571" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/7571.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Телятина по-батумски с аджикой </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="2465" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/2465.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кучмачи на кеци   </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Нежные телячьи потрошка со специями и грецкими орехами.
+ (200 гр).</description>
+			</offer>
+			<offer id="2495" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>319</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/2495.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Мадам Бовари»</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Свинина, грибы, сыр, майонез (300 гр).</description>
+			</offer>
+			<offer id="7566" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/7566.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тбилисо на кеци</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Телятина, кура, шампиньоны, сулугуни, майонез, специи.
+(300 гр).</description>
+			</offer>
+			<offer id="7567" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/7567.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чахохбили</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Курица ушенная с томатами и специями.
+(300 гр).</description>
+			</offer>
+			<offer id="7568" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>359</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/7568.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Курица по-сухумски на кеци</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Куриное филе, бекон, томаты, сливки, специи.
+(300 гр).</description>
+			</offer>
+			<offer id="7569" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>329</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/7569.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чкмерули</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Курица, томленная в сливках, со специями.
+(500 гр).</description>
+			</offer>
+			<offer id="7570" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>329</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/7570.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чашушули</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Говядина, тушенная с томатами и специями.
+(300 гр).</description>
+			</offer>
+			<offer id="7572" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1255</categoryId>
+				<picture>http://fasteda.ru/data/big/7572.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оджахури из телятины</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Обжаренное мясо с картофелем и сладким перцем.
+(250 гр).</description>
+			</offer>
+			<offer id="7611" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7611.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фруктовая тарелка</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>сезонные фрукты в ассортименте 1 кг  .</description>
+			</offer>
+			<offer id="7612" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7612.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Восточный микс»</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>Сухофрукты с орехами:  киш-миш, курага, чернослив, грецкий орех, миндаль, фундук.</description>
+			</offer>
+			<offer id="7613" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7613.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк «Нью-Йорк»   </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7614" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7614.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тирамису «Маскарпоне» </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7615" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7615.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Штрудель яблочный  с шариком мороженого </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7616" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7616.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шртудель вишневый  с шариком мороженого </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7617" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7617.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадное пирожное с карамелью  «Маршмэллоу» </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7618" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7618.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морковное пирожное </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7619" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7619.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Брусничный кремовый пирог с белым шоколадом  </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7620" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7620.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пеламуши традиционный грузинский виноградный десерт  </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7621" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7621.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чурхчела</name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7622" available="true">
+				<url>http://fasteda.ru/menu/cafe_baje/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1261</categoryId>
+				<picture>http://fasteda.ru/data/big/7622.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашнее варенье  в ассортименте </name>
+				<vendor>Cafe-Baje</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

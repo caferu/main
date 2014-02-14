@@ -1,0 +1,1785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="597">Суши</category>
+			<category id="601">Острые суши</category>
+			<category id="599">Запеченные суши</category>
+			<category id="605">Роллы</category>
+			<category id="609">Острые роллы</category>
+			<category id="607">Фирменные роллы</category>
+			<category id="603">Овощные роллы</category>
+			<category id="611">Ки-до сеты</category>
+			<category id="613">Сашими </category>
+			<category id="619">Горячее</category>
+			<category id="615">Супы</category>
+			<category id="617">Салаты</category>
+			<category id="621">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="3704" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>597</categoryId>
+				<picture>http://fasteda.ru/data/big/3704.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тигровая креветка</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3623" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>597</categoryId>
+				<picture>http://fasteda.ru/data/big/3623.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3705" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>597</categoryId>
+				<picture>http://fasteda.ru/data/big/3705.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3706" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>597</categoryId>
+				<picture>http://fasteda.ru/data/big/3706.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Осьминог</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3707" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>597</categoryId>
+				<picture>http://fasteda.ru/data/big/3707.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Японский омлет</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3708" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>597</categoryId>
+				<picture>http://fasteda.ru/data/big/3708.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тобико с перепелиным яйцом </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3709" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>597</categoryId>
+				<picture>http://fasteda.ru/data/big/3709.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №1</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3710" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>597</categoryId>
+				<picture>http://fasteda.ru/data/big/3710.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №2</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3711" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>597</categoryId>
+				<picture>http://fasteda.ru/data/big/3711.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сет №3</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3721" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>601</categoryId>
+				<picture>http://fasteda.ru/data/big/3721.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый тунец</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3722" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>601</categoryId>
+				<picture>http://fasteda.ru/data/big/3722.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый лосось</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3723" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>601</categoryId>
+				<picture>http://fasteda.ru/data/big/3723.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый окунь</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3724" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>601</categoryId>
+				<picture>http://fasteda.ru/data/big/3724.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый осьминог</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3725" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>601</categoryId>
+				<picture>http://fasteda.ru/data/big/3725.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый гребешок</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3726" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>601</categoryId>
+				<picture>http://fasteda.ru/data/big/3726.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый краб</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3727" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>601</categoryId>
+				<picture>http://fasteda.ru/data/big/3727.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый угорь</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3728" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>601</categoryId>
+				<picture>http://fasteda.ru/data/big/3728.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый кальмар</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3729" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>601</categoryId>
+				<picture>http://fasteda.ru/data/big/3729.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острые креветки</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3712" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>599</categoryId>
+				<picture>http://fasteda.ru/data/big/3712.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3713" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>599</categoryId>
+				<picture>http://fasteda.ru/data/big/3713.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3714" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>599</categoryId>
+				<picture>http://fasteda.ru/data/big/3714.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гребешок</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3715" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>599</categoryId>
+				<picture>http://fasteda.ru/data/big/3715.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Красный окунь</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3716" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>599</categoryId>
+				<picture>http://fasteda.ru/data/big/3716.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Краб</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3717" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>599</categoryId>
+				<picture>http://fasteda.ru/data/big/3717.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3718" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>599</categoryId>
+				<picture>http://fasteda.ru/data/big/3718.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кальмар</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3719" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>599</categoryId>
+				<picture>http://fasteda.ru/data/big/3719.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Осьминог</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3720" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>599</categoryId>
+				<picture>http://fasteda.ru/data/big/3720.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветка</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3734" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3734.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шейк </name>
+				<vendor>КИ-ДО</vendor>
+				<description>(Ролл с лососем, авокадо и огурцом) .</description>
+			</offer>
+			<offer id="3735" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3735.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с креветкой темпура</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3736" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3736.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с угрем</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3737" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3737.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с тунцом </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3738" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3738.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с мягким крабом</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3739" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3739.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл Калифорния </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3740" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3740.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл Зеленая река </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3741" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3741.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл АЛЯСКА </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3742" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3742.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Калифорния-тобико» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3743" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3743.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с лососем</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3744" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>605</categoryId>
+				<picture>http://fasteda.ru/data/big/3744.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Филадельфия» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3759" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>609</categoryId>
+				<picture>http://fasteda.ru/data/big/3759.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с острым лососем</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3760" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>609</categoryId>
+				<picture>http://fasteda.ru/data/big/3760.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с острым тунцом</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3761" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>609</categoryId>
+				<picture>http://fasteda.ru/data/big/3761.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с острым угрем</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3762" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>609</categoryId>
+				<picture>http://fasteda.ru/data/big/3762.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с острым крабом</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3745" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3745.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Филадельфия» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3746" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3746.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Фуджияма» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3747" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3747.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Нагойя» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3748" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3748.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Дракон» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3749" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3749.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Токио» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3750" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3750.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сашими ролл «Бансай» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3751" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3751.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Киото»</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3752" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3752.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Гейша» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3753" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>640</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3753.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «ХХL»</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3754" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3754.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Курасава» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3755" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3755.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Горячий Макс» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3756" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3756.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Нагойя» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3757" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3757.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шинто</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3758" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3758.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Унаги-Ке </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3831" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>607</categoryId>
+				<picture>http://fasteda.ru/data/big/3831.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Дженифер» </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3730" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>603</categoryId>
+				<picture>http://fasteda.ru/data/big/3730.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с овощами без риса</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3731" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>603</categoryId>
+				<picture>http://fasteda.ru/data/big/3731.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с огурцом</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3732" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>603</categoryId>
+				<picture>http://fasteda.ru/data/big/3732.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Айсберг</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3733" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>603</categoryId>
+				<picture>http://fasteda.ru/data/big/3733.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с авокадо и огурцом</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3763" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>611</categoryId>
+				<picture>http://fasteda.ru/data/big/3763.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кидо  Суши</name>
+				<vendor>КИ-ДО</vendor>
+				<description>тунец,красный окунь, лосось, кальмар,креветка, ролл с огурцом.</description>
+			</offer>
+			<offer id="3764" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>685</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>611</categoryId>
+				<picture>http://fasteda.ru/data/big/3764.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Набор запеченный</name>
+				<vendor>КИ-ДО</vendor>
+				<description>лосось, тунец,угорь,краб, ролл «Киото».</description>
+			</offer>
+			<offer id="3765" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>1450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>611</categoryId>
+				<picture>http://fasteda.ru/data/big/3765.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Набор для двоих</name>
+				<vendor>КИ-ДО</vendor>
+				<description>суши 2 шт.:тунец, окунь, угорь,лосось, тигр. Креветка; суши острые 2 шт:краб, ролл Шейк 1 шт,ролл с угрем.</description>
+			</offer>
+			<offer id="3766" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>613</categoryId>
+				<picture>http://fasteda.ru/data/big/3766.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>КИ-ДО</vendor>
+				<description>5шт.</description>
+			</offer>
+			<offer id="3768" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>613</categoryId>
+				<picture>http://fasteda.ru/data/big/3768.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>КИ-ДО</vendor>
+				<description>5шт.</description>
+			</offer>
+			<offer id="3770" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>415</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>613</categoryId>
+				<picture>http://fasteda.ru/data/big/3770.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>КИ-ДО</vendor>
+				<description>5шт.</description>
+			</offer>
+			<offer id="3772" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>613</categoryId>
+				<picture>http://fasteda.ru/data/big/3772.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Красный окунь</name>
+				<vendor>КИ-ДО</vendor>
+				<description>5шт.</description>
+			</offer>
+			<offer id="3793" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3793.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Угорь на рисе</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3794" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3794.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось терияки</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3795" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3795.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Курица в соусе терияки</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3796" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3796.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриные шашлычки «Якитори»</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3797" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3797.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлычки из креветок</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3798" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3798.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи темпура</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3799" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветки темпура</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3800" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3800.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Японские пелемени со свининой </name>
+				<vendor>КИ-ДО</vendor>
+				<description>6шт.</description>
+			</offer>
+			<offer id="3801" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3801.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Японские пелемени с говядиной</name>
+				<vendor>КИ-ДО</vendor>
+				<description>6шт.</description>
+			</offer>
+			<offer id="3802" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3802.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Японские пелемени с креветками</name>
+				<vendor>КИ-ДО</vendor>
+				<description>6шт.</description>
+			</offer>
+			<offer id="3803" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3803.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Японская лапша хурасами с грибами и лососем</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3804" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3804.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис с овощами</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3805" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис с курой и овощами</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3806" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3806.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гречневая лапша с говядиной</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3807" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3807.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Китайская лапша с креветками</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3808" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3808.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>«Гоу но татаки» (говядина в соусе Ланч-Кинг)</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3809" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3809.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шницель Тонкацу</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3810" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3810.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриное филе в кунжутно-апельсиновом соусе</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3811" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3811.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареная говядина на Wok-e</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3812" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3812.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык овощной</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3813" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3813.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Китайская лапша с курой</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3814" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3814.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Китайская лапша с овощами</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3815" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3815.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лапша хурасами с шиитаке и цукини</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3816" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3816.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лапша хурасами с угрем</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3817" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3817.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Окунь отварной с соусом из французской горчицы</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3818" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3818.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Курица в пяти специях</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3819" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3819.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стеклянная или яичная лапша с овощами</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3820" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3820.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стеклянная или яичная лапша с курицей</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3821" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3821.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стеклянная или яичная лапша с креветкой</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3822" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>619</categoryId>
+				<picture>http://fasteda.ru/data/big/3822.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стеклянная или яичная лапша с телятиной</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3774" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>615</categoryId>
+				<picture>http://fasteda.ru/data/big/3774.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп Мисо</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3775" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>615</categoryId>
+				<picture>http://fasteda.ru/data/big/3775.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп Кимчи</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3776" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>615</categoryId>
+				<picture>http://fasteda.ru/data/big/3776.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп «Острый Суемоно»</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3777" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>615</categoryId>
+				<picture>http://fasteda.ru/data/big/3777.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп Суемоно с морепродуктами</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3778" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>615</categoryId>
+				<picture>http://fasteda.ru/data/big/3778.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острый овощной суп с грибами и цукини</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3779" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>615</categoryId>
+				<picture>http://fasteda.ru/data/big/3779.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крабовый суп</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3780" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>615</categoryId>
+				<picture>http://fasteda.ru/data/big/3780.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сливочный суп с угрем</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3781" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>615</categoryId>
+				<picture>http://fasteda.ru/data/big/3781.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп Том-Ям</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3782" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>615</categoryId>
+				<picture>http://fasteda.ru/data/big/3782.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп Вон Тон</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3783" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3783.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из свежих овощей</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3784" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3784.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с авокадо</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3785" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3785.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с морепродуктами</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3786" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3786.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из морских водорослей</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3787" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3787.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат  из лосося с жареным авокадо</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3788" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3788.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат крабовый</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3789" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3789.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тар-тар из лосося</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3790" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3790.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тар-тар из тунца</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3791" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3791.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Теплый салат с угрем</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3792" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>617</categoryId>
+				<picture>http://fasteda.ru/data/big/3792.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Нежная телятина с листьями по-азиатски</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3823" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>621</categoryId>
+				<picture>http://fasteda.ru/data/big/3823.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Японские пельмени</name>
+				<vendor>КИ-ДО</vendor>
+				<description>С яблоком и корицей.</description>
+			</offer>
+			<offer id="3824" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>621</categoryId>
+				<picture>http://fasteda.ru/data/big/3824.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Японские пельмени</name>
+				<vendor>КИ-ДО</vendor>
+				<description>С персиками и тофу.</description>
+			</offer>
+			<offer id="3825" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>621</categoryId>
+				<picture>http://fasteda.ru/data/big/3825.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вареники с вишней</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3826" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>621</categoryId>
+				<picture>http://fasteda.ru/data/big/3826.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шоколадный кекс </name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3827" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>621</categoryId>
+				<picture>http://fasteda.ru/data/big/3827.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сейко (рисовые лепешки с творогом)</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3828" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>621</categoryId>
+				<picture>http://fasteda.ru/data/big/3828.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Десерт «Бали»</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3829" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>621</categoryId>
+				<picture>http://fasteda.ru/data/big/3829.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бананы темпура</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3830" available="true">
+				<url>http://fasteda.ru/menu/kido/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>621</categoryId>
+				<picture>http://fasteda.ru/data/big/3830.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мороженое в ассортименте</name>
+				<vendor>КИ-ДО</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

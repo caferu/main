@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-05-16 20:02">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="153">Бургеры</category>
+			<category id="154">Картофель</category>
+			<category id="156">Комбо</category>
+			<category id="155">Гарниры</category>
+			<category id="159">Напитки</category>
+			<category id="236">Десерты</category>
+			<category id="1078">Соусы</category>
+		</categories>
+		<offers>
+			<offer id="902" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/902.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бургер с грибами - Путешествие</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Говядина на углях, грибы портобелло, 2 кусочка швейцарского сыра, красный лук, листья салата, 2 ломтика помидора и булочка с кунжутом (393 гр., протеин - 47 гр.).</description>
+			</offer>
+			<offer id="7117" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/7117.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Санта Фе Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Сочная котлета из говядины, булочка с кунжутом, белый лук, листья салата, перец Чили.</description>
+			</offer>
+			<offer id="903" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/903.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фэймос Стар</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Натуральная говядина на углях, расплавленный американский сыр, салат, помидор, нарезанный лук, укроп, соленья, специальный соус, майонез, поджаренная булочка с кунжутом(278 гр., протеин - 27 гр.).</description>
+			</offer>
+			<offer id="905" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/905.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вестерн Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Отборное мясо говядины на углях, 3 полоски бекона, 2 ломтика плавленого американского сыра, хрустящие кольца лука и соус барбекю на булочке с кунжутом(340 гр., протеин - 53 гр.).</description>
+			</offer>
+			<offer id="906" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/906.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Двойной Вестерн Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>2 говяжьи котлеты  на углях, 3 полоски бекона, 2 ломтика плавленого американского сыра, хрустящие кольца лука и соус барбекю на булочке с кунжутом(340 гр., протеин - 53 гр.).</description>
+			</offer>
+			<offer id="907" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/907.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Биг Бургер с сыром</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>2 говяжьи котлеты на углях, наш классический соус, два ломтика американского сыра,  салат на булочке с кунжутом (209 гр., протеин - 24 гр.).</description>
+			</offer>
+			<offer id="908" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/908.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чили Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Говядина на углях, ломтик сыра, соленые огурцы, томат, соус чили и майонез на булочке с кунжутом (416 гр., протеин - 59 гр.).</description>
+			</offer>
+			<offer id="909" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/909.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гавайский Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Большая натуральная котлета на углях, гуакамоле, две полоски бекона, два ломтика плавленого сыра Pepperjack, листья салата, два ломтика помидора, красный лук, и Санта-Фе соус на булочке с кунжутом(315 гр, протеин - 31 гр).</description>
+			</offer>
+			<offer id="910" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/910.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чилипенью Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Говяжья котлета на углях,чилипенью перец, Pepperjack сыр, нарезанный лук, помидоры, салат с Санта-Фе соусом на булочке с кунжутом(287 гр., протеин - 27 гр.).</description>
+			</offer>
+			<offer id="911" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/911.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Супер Стар с сыром</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>2 куска говядины на углях, 2 ломтика американского сыра, листья салата, два ломтика помидора, нарезанный лук, укроп, соленья, специальный соус, майонез на булочке с кунжутом(383 гр, протеин - 47 гр).</description>
+			</offer>
+			<offer id="912" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/912.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Классик Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Большой кусок говядины на углях, ломтик американского сыра, листья салата, два ломтика помидора, нарезанный лук, укроп, соленья, специальный соус, майонез на булочке с кунжутом(384 гр., протеины - 45 гр.).</description>
+			</offer>
+			<offer id="1211" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>153</categoryId>
+				<picture>http://fasteda.ru/data/big/1211.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карлс Фиш Филе</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>2 хрустящих рыбных филе, соус, салат и помидор булочке с кунжутом(291 гр., протеины - 20 гр.).</description>
+			</offer>
+			<offer id="923" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>154</categoryId>
+				<picture>http://fasteda.ru/data/big/923.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель малый</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Картофель фри с натуральной кожицей(119 гр.).</description>
+			</offer>
+			<offer id="924" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>154</categoryId>
+				<picture>http://fasteda.ru/data/big/924.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель средний</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Картофель фри с натуральной кожицей(169 гр.).</description>
+			</offer>
+			<offer id="925" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>154</categoryId>
+				<picture>http://fasteda.ru/data/big/925.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель большой</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Картофель фри с натуральной кожицей(184 гр.).</description>
+			</offer>
+			<offer id="913" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/913.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо  Фэймос Стар</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Фэймос стар, картофель фри, кола.</description>
+			</offer>
+			<offer id="914" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/914.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Супер Стар</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Супер стар, картофель фри, кола.</description>
+			</offer>
+			<offer id="915" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/915.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Вестерн Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Вестерн, картофель фри, кола.</description>
+			</offer>
+			<offer id="916" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/916.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Двойной Вестерн Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Двойной Вестерн, картофель фри, кола.</description>
+			</offer>
+			<offer id="917" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/917.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Гавайский Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Гавайский бургер, картофель фри, кола.</description>
+			</offer>
+			<offer id="918" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/918.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Биг Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Биг бургер, картофель фри, кола.</description>
+			</offer>
+			<offer id="919" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/919.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Чилипенью Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Чилипенью бургер, картофель фри, кола.</description>
+			</offer>
+			<offer id="920" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/920.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Супер Стар с сыром</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Супер стар с сыром, картофель фри, кола.</description>
+			</offer>
+			<offer id="921" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/921.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Классик Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Классик бургер, картофель фри, кола.</description>
+			</offer>
+			<offer id="922" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/922.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Чили Бургер</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Чили бургер, картофель фри, кола.</description>
+			</offer>
+			<offer id="1212" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/1212.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Карлс Фиш Филе</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Карлс фиш филе, фри, кола.</description>
+			</offer>
+			<offer id="1643" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/1643.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо Бургер с грибами</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Бургер с грибами \\\\\\\\\\\\\\\&amp;quot;путешествие\\\\\\\\\\\\\\\&amp;quot;, картофель фри, кола.</description>
+			</offer>
+			<offer id="1648" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>156</categoryId>
+				<picture>http://fasteda.ru/data/big/1648.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Комбо лоу карб чикен клаб</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="926" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>155</categoryId>
+				<picture>http://fasteda.ru/data/big/926.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чили Чиз Фри</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Картофель фри в измельченных Чили с расплавленными сырами Джек и Чеддер (344 гр.).</description>
+			</offer>
+			<offer id="927" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>155</categoryId>
+				<picture>http://fasteda.ru/data/big/927.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крис Кат Фри</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Хрустящие картофельные палочки(139 гр., протеин - 5 гр.).</description>
+			</offer>
+			<offer id="928" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>155</categoryId>
+				<picture>http://fasteda.ru/data/big/928.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Онион Рингз</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Луковые колечки(128 гр., протеин - 8 гр.).</description>
+			</offer>
+			<offer id="929" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>155</categoryId>
+				<picture>http://fasteda.ru/data/big/929.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фиш энд Чипс</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>3 рыбных филе, картофель фри с соусом тартар(284 гр., протеин - 22 гр.).</description>
+			</offer>
+			<offer id="930" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>155</categoryId>
+				<picture>http://fasteda.ru/data/big/930.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Гарден</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Томаты, ломтики огурца и тертый сыр на смеси салатов, подается с гренками на ваш выбор(121 гр.).</description>
+			</offer>
+			<offer id="1209" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>159</categoryId>
+				<picture>http://fasteda.ru/data/big/1209.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Молочный коктейль клубничный</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Клубничный, шоколадный, ванильный, с печеньем - выберите свой вариант!.</description>
+			</offer>
+			<offer id="7118" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>159</categoryId>
+				<picture>http://fasteda.ru/data/big/7118.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепси стандарт. 0,5 л</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7122" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>159</categoryId>
+				<picture>http://fasteda.ru/data/big/7122.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Холодный чай Липтон зеленый 0,6 л</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="944" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>159</categoryId>
+				<picture>http://fasteda.ru/data/big/944.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола маленькая 0,5</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>(0,5 л.).</description>
+			</offer>
+			<offer id="945" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>159</categoryId>
+				<picture>http://fasteda.ru/data/big/945.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола средняя 1 л.</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>(1 л.).</description>
+			</offer>
+			<offer id="946" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>159</categoryId>
+				<picture>http://fasteda.ru/data/big/946.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола большая 2 л.</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>(2 л.).</description>
+			</offer>
+			<offer id="1210" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>236</categoryId>
+				<picture>http://fasteda.ru/data/big/1210.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="1649" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>236</categoryId>
+				<picture>http://fasteda.ru/data/big/1649.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мороженое</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>Мороженое с клубничным или шоколадным сиропом.</description>
+			</offer>
+			<offer id="6460" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1078</categoryId>
+				<picture>http://fasteda.ru/data/big/6460.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Майонез</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6461" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1078</categoryId>
+				<picture>http://fasteda.ru/data/big/6461.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6462" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1078</categoryId>
+				<picture>http://fasteda.ru/data/big/6462.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Барбекю</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6463" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1078</categoryId>
+				<picture>http://fasteda.ru/data/big/6463.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чесночный</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6464" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1078</categoryId>
+				<picture>http://fasteda.ru/data/big/6464.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырный</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6465" available="true">
+				<url>http://fasteda.ru/menu/carl/</url>
+				<price>5</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1078</categoryId>
+				<picture>http://fasteda.ru/data/big/6465.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кисло-сладкий</name>
+				<vendor>Доставка Carl's Jr.   Карлс Джуниор</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

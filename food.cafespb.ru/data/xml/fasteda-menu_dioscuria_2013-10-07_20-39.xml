@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:39">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="2094">Выпечка</category>
+			<category id="1540">Салаты</category>
+			<category id="1541">Холодные закуски</category>
+			<category id="1543">Горячие закуски</category>
+			<category id="1542">Ассорти</category>
+			<category id="1544">Первые блюда</category>
+			<category id="2095">Горячие блюда</category>
+			<category id="1548">Гарниры</category>
+			<category id="1547">Соуса</category>
+			<category id="1549">Десерты</category>
+			<category id="2096">Напитки</category>
+			<category id="2097">Белорусская кухня</category>
+		</categories>
+		<offers>
+			<offer id="8505" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2094</categoryId>
+				<picture>http://fasteda.ru/data/big/8505.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури     по-имеретински</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(400гр.).</description>
+			</offer>
+			<offer id="8506" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2094</categoryId>
+				<picture>http://fasteda.ru/data/big/8506.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури      по-мегрельски</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(430 гр.).</description>
+			</offer>
+			<offer id="8507" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2094</categoryId>
+				<picture>http://fasteda.ru/data/big/8507.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури   по-аджарски   </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(350 гр.)
+.</description>
+			</offer>
+			<offer id="12663" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2094</categoryId>
+				<picture>http://fasteda.ru/data/big/12663.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хачапури «Лагидзе»</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>400 гр.</description>
+			</offer>
+			<offer id="8508" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2094</categoryId>
+				<picture>http://fasteda.ru/data/big/8508.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобиани </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>закрытая лепешка с фасолью
+(450 гр.).</description>
+			</offer>
+			<offer id="12665" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2094</categoryId>
+				<picture>http://fasteda.ru/data/big/12665.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ачма</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12666" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2094</categoryId>
+				<picture>http://fasteda.ru/data/big/12666.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лаваш по-Грузински</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>120.</description>
+			</offer>
+			<offer id="8490" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1540</categoryId>
+				<picture>http://fasteda.ru/data/big/8490.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Диоскурия»</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>свежие огурцы и помидоры ,с добавлением репчатого лука ,петрушки, кинзы , регано и стручкового острого перца 
+(250 гр.).</description>
+			</offer>
+			<offer id="8491" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1540</categoryId>
+				<picture>http://fasteda.ru/data/big/8491.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name> «Колхети»</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>свежие огурцы и помидоры , с добавлением ореховой заправки
+(250 гр.).</description>
+			</offer>
+			<offer id="12667" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1540</categoryId>
+				<picture>http://fasteda.ru/data/big/12667.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Греческий» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>листья зеленого салата, свежие огурцы, помидоры, болгарский перец, сыр фетаки, маслины, заправленные бальзамическим соусом (250гр.</description>
+			</offer>
+			<offer id="8493" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1540</categoryId>
+				<picture>http://fasteda.ru/data/big/8493.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Имерули» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>листья зеленого салата, зеленый лук, кинза,острый  стручковый перец, репчатый лук, уксус
+(150гр.).</description>
+			</offer>
+			<offer id="12668" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1540</categoryId>
+				<picture>http://fasteda.ru/data/big/12668.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Цезарь» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>салат Романо, куриное филе, помидоры &amp;quot;Черри&amp;quot;, сыр Пармезан-Реджано, крутоны, соус цезарь (200гр.</description>
+			</offer>
+			<offer id="8492" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1540</categoryId>
+				<picture>http://fasteda.ru/data/big/8492.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Оливье 1905 год»</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>Салат «Оливье 1905 год» -  по рецепту Великого Оливье с раковыми    320
+шецками перепелиными яйцами и красной икрой
+(250 гр.).</description>
+			</offer>
+			<offer id="12669" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1540</categoryId>
+				<picture>http://fasteda.ru/data/big/12669.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Сухуми» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>куриное филе, шампиньоны, огурцы маринованные майонез, ананас (200гр) .</description>
+			</offer>
+			<offer id="12670" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1540</categoryId>
+				<picture>http://fasteda.ru/data/big/12670.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Охотничий» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>язык говяжий, буженина, сыр Гауда, свежие огурцы помидоры, маслины, майонез, зелень (200гр.</description>
+			</offer>
+			<offer id="8494" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/8494.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пхали   из шпината</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>Пхали : нежные биточки из приготовленных овощей , приправленные грецкими орехами,     кавказскими специями, свежей  зеленью и луком  (180гр.).</description>
+			</offer>
+			<offer id="8495" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/8495.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пхали  из фасоли</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>Пхали : нежные биточки из приготовленных овощей , приправленные грецкими орехами,     кавказскими специями, свежей  зеленью и луком  
+(180 гр.).</description>
+			</offer>
+			<offer id="8496" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/8496.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Холодец «по-Грузински»</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>телячья голяшка, чеснок, перец(210 гр.).</description>
+			</offer>
+			<offer id="8497" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/8497.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баклажановые рулетики с орехами </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(180 гр.).</description>
+			</offer>
+			<offer id="8498" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/8498.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рулетики из болгарского перца с орехам </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(180 гр.).</description>
+			</offer>
+			<offer id="8499" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/8499.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сациви классический</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>кусочки индейки под ароматным пряным соусом из молотого грецкого ореха
+(200 гр.).</description>
+			</offer>
+			<offer id="8500" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/8500.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сациви из баклажан </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>баклажановые  рулетики под ароматным пряным соусом из молотого грецкого ореха(220 гр.).</description>
+			</offer>
+			<offer id="8509" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/8509.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак в киндзмари </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>соус из чеснока с кинзой, перцем и уксусом    (220 гр.)       .</description>
+			</offer>
+			<offer id="8510" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/8510.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак в баже </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(220 гр.).</description>
+			</offer>
+			<offer id="12671" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/12671.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сельдь с картофелем и луком</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>сельдь с отварным картофелем и маринованным луком (150/100/30гр).</description>
+			</offer>
+			<offer id="12672" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/12672.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Семга  слабосолёная  с лимоном </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(100/50гр).</description>
+			</offer>
+			<offer id="12673" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/12673.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бастурма</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(100/50гр).</description>
+			</offer>
+			<offer id="12674" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/12674.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Язык отварной с хреном</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(100/30гр).</description>
+			</offer>
+			<offer id="12675" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/12675.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гебжалия</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>сулугуни с мятой соус из сливок, специй (200гр).</description>
+			</offer>
+			<offer id="12676" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1541</categoryId>
+				<picture>http://fasteda.ru/data/big/12676.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Икра лососевая </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(50/35гр.</description>
+			</offer>
+			<offer id="12679" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12679.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Долма</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>виноградные листья с мясной начинкой и с чесночно-сметанным соусом (200гр).</description>
+			</offer>
+			<offer id="12680" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12680.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мамалыга-Гоми С сыром сулугуни </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>каша из кукурузной крупы (200гр).</description>
+			</offer>
+			<offer id="12681" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12681.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мамалыга-Гоми С копченым сыром Сулугуни (75гр)</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>каша из кукурузной крупы (200гр).</description>
+			</offer>
+			<offer id="12682" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12682.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мамалыга-Гоми Жульен грибной классический (100гр)</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>каша из кукурузной крупы (200гр).</description>
+			</offer>
+			<offer id="12683" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12683.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грибные корзиночки </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>шляпки шампиньонов фаршированные сыром, запеченные на кеци (200гр).</description>
+			</offer>
+			<offer id="12684" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12684.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебуреки</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>160 гр.</description>
+			</offer>
+			<offer id="12685" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12685.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хинкали из баранины </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>80 гр.</description>
+			</offer>
+			<offer id="12686" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12686.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хинкали из телятины </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>80 гр.</description>
+			</offer>
+			<offer id="12687" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12687.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хинкали с сыром </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>80 гр.</description>
+			</offer>
+			<offer id="12688" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12688.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с картофелем и грибами </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12689" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12689.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с сыром </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12677" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12677.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сулугуни жареный </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="8513" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/8513.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджабсандали </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>рагу из баклажан, болгарского перца,                            томатов, зелени
+(200 гр.).</description>
+			</offer>
+			<offer id="8514" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/8514.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лобио</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>красная фасоль с ароматными специями и зеленью, 
+ подается с соленой капустой по-грузински
+(340 гр.).</description>
+			</offer>
+			<offer id="12678" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1543</categoryId>
+				<picture>http://fasteda.ru/data/big/12678.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кучмачи</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>ароматные обжаренные говяжые потрошки с луком и специями (200гр).</description>
+			</offer>
+			<offer id="12691" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1542</categoryId>
+				<picture>http://fasteda.ru/data/big/12691.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти из маринованных грибов</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12692" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1542</categoryId>
+				<picture>http://fasteda.ru/data/big/12692.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти Рыбное </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>семга слабосоленая, масляная х/к, форель х/к (300гр).</description>
+			</offer>
+			<offer id="8501" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1542</categoryId>
+				<picture>http://fasteda.ru/data/big/8501.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти сыров</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>сулугуни, копченый сулугуни, надуги с мятой,чанахи,
+(300гр.).</description>
+			</offer>
+			<offer id="8502" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1542</categoryId>
+				<picture>http://fasteda.ru/data/big/8502.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти овощей</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>свежие томаты, огурцы, паприка,    редис, острый перец
+(320 гр.).</description>
+			</offer>
+			<offer id="12690" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1542</categoryId>
+				<picture>http://fasteda.ru/data/big/12690.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти мясное</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>буженина, язык говяжий, рулетики из курицы, (300гр).</description>
+			</offer>
+			<offer id="8503" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1542</categoryId>
+				<picture>http://fasteda.ru/data/big/8503.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти зелени  </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>-тархун, реган, кинза, зеленый лук, петрушка
+(170 гр.).</description>
+			</offer>
+			<offer id="8504" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1542</categoryId>
+				<picture>http://fasteda.ru/data/big/8504.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ассорти солений </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>капуста по-грузински,помидоры,огурцы,         чеснок, черемша, перец острый 
+(300 гр.).</description>
+			</offer>
+			<offer id="12695" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1544</categoryId>
+				<picture>http://fasteda.ru/data/big/12695.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ красный </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>350 гр.</description>
+			</offer>
+			<offer id="12693" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1544</categoryId>
+				<picture>http://fasteda.ru/data/big/12693.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Солянка сборная мясная </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>350 гр.</description>
+			</offer>
+			<offer id="12694" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1544</categoryId>
+				<picture>http://fasteda.ru/data/big/12694.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха по-Царски </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>300 гр.</description>
+			</offer>
+			<offer id="8515" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1544</categoryId>
+				<picture>http://fasteda.ru/data/big/8515.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чихиртма </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>густой куриный суп с добавлением яйца, уксуса
+и кинзы
+(350гр.).</description>
+			</offer>
+			<offer id="8516" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1544</categoryId>
+				<picture>http://fasteda.ru/data/big/8516.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Чанахи </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>густой суп из баранины с картофелем,
+баклажанами, помидорами и зеленью
+(350 гр.).</description>
+			</offer>
+			<offer id="8517" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1544</categoryId>
+				<picture>http://fasteda.ru/data/big/8517.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Харчо </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>говяжья грудинка, рис.помидоры, зелень, специи,
+ткемали 
+(350 гр.).</description>
+			</offer>
+			<offer id="12712" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12712.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сметанный соус с чесноком </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="8518" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/8518.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясо «по-грузински» «Острое» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>говядина с помидорами
+зеленью и аджикой
+250гр..</description>
+			</offer>
+			<offer id="8519" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/8519.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чашушули </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>кусочки телятины тушеные с помидорами,
+зеленью и специями
+(250 гр).</description>
+			</offer>
+			<offer id="12696" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12696.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чанахи</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>баранина корейка запеченная с баклажаном, картофелем, зеленью и специями (340гр).</description>
+			</offer>
+			<offer id="12697" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12697.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чакапули из баранины </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>баранина тушёная с тархуном (250гр).</description>
+			</offer>
+			<offer id="12698" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12698.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чакапули из телятины </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>телятина тушёная с тархуном (250гр).</description>
+			</offer>
+			<offer id="12699" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12699.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оджахури из свинины </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>жаркое из свинины, картошки по-домашнему, зеленью, луком и помидорами (150/100/50гр).</description>
+			</offer>
+			<offer id="8523" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/8523.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оджахури </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>телятина с картофелем, зеленью
+луком и помидорами
+(250 гр).</description>
+			</offer>
+			<offer id="12700" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12700.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Купаты по-домашнему </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>250 гр.</description>
+			</offer>
+			<offer id="12701" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12701.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясо по-Французски </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>свиная шейка запеченая с грибами и сыром(250/50гр).</description>
+			</offer>
+			<offer id="8527" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/8527.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык   из свининой шейки</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>200гр.</description>
+			</offer>
+			<offer id="8528" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/8528.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из телятины</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12702" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12702.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из баранины</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12703" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12703.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Каре ягнёнка</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>180 гр.</description>
+			</offer>
+			<offer id="8529" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/8529.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Люля-кебаб </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="8520" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/8520.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чахохбили из курицы </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>с помидорами, репчатым луком,
+зеленью и специями
+(250 гр)
+.</description>
+			</offer>
+			<offer id="8521" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/8521.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цыпленок Табака</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>жареный цыпленок в собственном соку и приправленный аджикой (250гр).</description>
+			</offer>
+			<offer id="12704" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12704.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Речная форель запеченная с лимоном </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(250/80гр).</description>
+			</offer>
+			<offer id="12705" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12705.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось гриль с соусом</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(200/80/50гр) .</description>
+			</offer>
+			<offer id="12706" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2095</categoryId>
+				<picture>http://fasteda.ru/data/big/12706.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак запеченный со шпинатом </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>200/100 гр.</description>
+			</offer>
+			<offer id="12707" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1548</categoryId>
+				<picture>http://fasteda.ru/data/big/12707.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель по-Деревенски </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>250/10 гр.</description>
+			</offer>
+			<offer id="12708" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1548</categoryId>
+				<picture>http://fasteda.ru/data/big/12708.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель «Фри» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="12709" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1548</categoryId>
+				<picture>http://fasteda.ru/data/big/12709.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капуста брокколи </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="8539" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1548</categoryId>
+				<picture>http://fasteda.ru/data/big/8539.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис отварной</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>200/10 гр.</description>
+			</offer>
+			<offer id="8540" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1548</categoryId>
+				<picture>http://fasteda.ru/data/big/8540.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель жареный с грибами   </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>260 гр.</description>
+			</offer>
+			<offer id="8541" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1548</categoryId>
+				<picture>http://fasteda.ru/data/big/8541.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овоши Гриль </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(210 гр).</description>
+			</offer>
+			<offer id="12710" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1547</categoryId>
+				<picture>http://fasteda.ru/data/big/12710.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ткемали - Соус из алычи </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="12711" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1547</categoryId>
+				<picture>http://fasteda.ru/data/big/12711.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Наршараб </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>Гранатовый соус (50гр) .</description>
+			</offer>
+			<offer id="12713" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1547</categoryId>
+				<picture>http://fasteda.ru/data/big/12713.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус «Тартар» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="8533" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1547</categoryId>
+				<picture>http://fasteda.ru/data/big/8533.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сацибели</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>Соус из томата со специями (50гр).</description>
+			</offer>
+			<offer id="8534" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1547</categoryId>
+				<picture>http://fasteda.ru/data/big/8534.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Томатный соус</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="8535" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1547</categoryId>
+				<picture>http://fasteda.ru/data/big/8535.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Киндзмари</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>кинза, перец, уксус (100гр) .</description>
+			</offer>
+			<offer id="8536" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1547</categoryId>
+				<picture>http://fasteda.ru/data/big/8536.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ежевичный соус</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>кинза, перец, уксус (100гр).</description>
+			</offer>
+			<offer id="8537" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1547</categoryId>
+				<picture>http://fasteda.ru/data/big/8537.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аджика                                                                                               </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(50 гр.).</description>
+			</offer>
+			<offer id="8538" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1547</categoryId>
+				<picture>http://fasteda.ru/data/big/8538.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баже </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>ореховый соус со специями (100гр).</description>
+			</offer>
+			<offer id="8542" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/8542.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баклава</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>многослойный десерт из теста, орехов 
+и сиропа
+80гр.</description>
+			</offer>
+			<offer id="8543" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/8543.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гозинаки </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>жареные грецкие орехи в меде
+(80 гр).</description>
+			</offer>
+			<offer id="8544" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/8544.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Наполеон</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>коржи из слоеного теста
+с заварным кремом
+(150 гр).</description>
+			</offer>
+			<offer id="8546" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/8546.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медовик </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="12714" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/12714.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Шок-Манже» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>взбитый белок с добавлением натурального шоколада и ароматизированный коньяком (120гр).</description>
+			</offer>
+			<offer id="8545" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/8545.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фруктовый салат</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(200 гр)
+.</description>
+			</offer>
+			<offer id="12715" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/12715.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Южное варенье </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>инжир, грецкий орех, айва, арбуз (140гр).</description>
+			</offer>
+			<offer id="12716" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/12716.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>с вареньем, сгущенным молоком, медом, творогом (160гр).</description>
+			</offer>
+			<offer id="12717" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/12717.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пеламуши из красного винограда </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>150 гр.</description>
+			</offer>
+			<offer id="12718" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/12718.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мацони с Медом и грецкими орехами </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>(150/25/25гр).</description>
+			</offer>
+			<offer id="12719" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>1000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1549</categoryId>
+				<picture>http://fasteda.ru/data/big/12719.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фруктовая ваза </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>1000 гр.</description>
+			</offer>
+			<offer id="12720" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12720.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лимонад «Алазани»</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>в ассортименте: Тархун, Дюшес, Лимон (0,5л).</description>
+			</offer>
+			<offer id="12721" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12721.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лимонад «Натахтари» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>в ассортименте: Тархун, Дюшес, Саперави, Крем-сода (0,5л).</description>
+			</offer>
+			<offer id="12722" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12722.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола, Фанта, Спрайт</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>0,25 л.</description>
+			</offer>
+			<offer id="12723" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12723.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>0,2 л.</description>
+			</offer>
+			<offer id="12724" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12724.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний напитки Компот </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>0,25 л.</description>
+			</offer>
+			<offer id="12725" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12725.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс клюквенный </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>0,25 л.</description>
+			</offer>
+			<offer id="12726" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12726.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Нарзан»</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>0,5 л.</description>
+			</offer>
+			<offer id="12727" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12727.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Рычал-су»</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>0,5 л.</description>
+			</offer>
+			<offer id="12728" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12728.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Перье»</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>0,33 л.</description>
+			</offer>
+			<offer id="12729" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2096</categoryId>
+				<picture>http://fasteda.ru/data/big/12729.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Виттель» </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>0,33 л.</description>
+			</offer>
+			<offer id="12730" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2097</categoryId>
+				<picture>http://fasteda.ru/data/big/12730.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Драники по крестьянский </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>картофель, свинина, грибы, лук, сметана, специи, соль (200/100гр).</description>
+			</offer>
+			<offer id="12731" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2097</categoryId>
+				<picture>http://fasteda.ru/data/big/12731.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Драники с мачанкой </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>картофель, свинина, колбаса по-домашнему, лук, морковь томатный соус, сметана, специи, соль(200/100гр).</description>
+			</offer>
+			<offer id="12732" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2097</categoryId>
+				<picture>http://fasteda.ru/data/big/12732.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Калдуны</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>картофель, свинина, лук, чеснок, специи, соль, сметана (250/50гр).</description>
+			</offer>
+			<offer id="12733" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2097</categoryId>
+				<picture>http://fasteda.ru/data/big/12733.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бабка картофельная </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>картофель, шпик, грибы, лук, соль, специи (250/50гр).</description>
+			</offer>
+			<offer id="12734" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2097</categoryId>
+				<picture>http://fasteda.ru/data/big/12734.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Колбаса по-домашнему </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>свинина, чеснок, специи, соль (150гр).</description>
+			</offer>
+			<offer id="12735" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2097</categoryId>
+				<picture>http://fasteda.ru/data/big/12735.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сало по-деревенски</name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>сало, лук зеленый, чеснок (100гр).</description>
+			</offer>
+			<offer id="12736" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2097</categoryId>
+				<picture>http://fasteda.ru/data/big/12736.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блинчики с творогом </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>творог, изюм, сахар, соль, ванилин (180гр).</description>
+			</offer>
+			<offer id="12737" available="true">
+				<url>http://fasteda.ru/menu/dioscuria/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2097</categoryId>
+				<picture>http://fasteda.ru/data/big/12737.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блины с мясом </name>
+				<vendor>Ресторан Диоскурия</vendor>
+				<description>фарш мясной, лук, специи, соль, сметана (200/20гр) .</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

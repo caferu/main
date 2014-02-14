@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-07-17 14:00">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1921">Салаты и закуски холодные</category>
+			<category id="1922">Горячие закуски</category>
+			<category id="1925">Вторые блюда</category>
+			<category id="1924">Супы</category>
+			<category id="1927">Обеды</category>
+			<category id="1926">На сладкое</category>
+			<category id="1928">Напитки</category>
+			<category id="1923">Закуски к пиву</category>
+		</categories>
+		<offers>
+			<offer id="11184" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1921</categoryId>
+				<picture>http://fasteda.ru/data/big/11184.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с куриным филе</name>
+				<vendor>Мамуля</vendor>
+				<description>Куриное филе с салатом Ромен, помидорами Черри, сыром Пармезан, гренками и соусом Цезарь (230 гр).</description>
+			</offer>
+			<offer id="11180" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1921</categoryId>
+				<picture>http://fasteda.ru/data/big/11180.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из печеного болгарского перца</name>
+				<vendor>Мамуля</vendor>
+				<description>И свежих овощей  с маслинами и сладким крымским луком (200 гр).</description>
+			</offer>
+			<offer id="11181" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1921</categoryId>
+				<picture>http://fasteda.ru/data/big/11181.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фитнес-салат с креветками, яблоком, сельдереем</name>
+				<vendor>Мамуля</vendor>
+				<description>Томатами, салатом Айсберг и оливковой заправкой (150 гр).</description>
+			</offer>
+			<offer id="11182" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1921</categoryId>
+				<picture>http://fasteda.ru/data/big/11182.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греческий салат</name>
+				<vendor>Мамуля</vendor>
+				<description>Томаты, паприка, огурца свежие, сыр (220 гр).</description>
+			</offer>
+			<offer id="11187" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1921</categoryId>
+				<picture>http://fasteda.ru/data/big/11187.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Теплый салат с овощами и куриной печенью</name>
+				<vendor>Мамуля</vendor>
+				<description>Припущенной с шампиньонами в сливках (250 гр).</description>
+			</offer>
+			<offer id="11185" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1921</categoryId>
+				<picture>http://fasteda.ru/data/big/11185.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сельдь под шубой</name>
+				<vendor>Мамуля</vendor>
+				<description>С антоновскими яблочками и домашним майонезом (215 гр).</description>
+			</offer>
+			<offer id="11183" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1921</categoryId>
+				<picture>http://fasteda.ru/data/big/11183.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Традиционный салат Оливье</name>
+				<vendor>Мамуля</vendor>
+				<description>С отварной говядиной, свежим зеленым горошком, соленым огурцом и домашним майонезом (220 гр).</description>
+			</offer>
+			<offer id="11189" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1922</categoryId>
+				<picture>http://fasteda.ru/data/big/11189.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спелые томаты, фаршированные пикантным домашним рататуем</name>
+				<vendor>Мамуля</vendor>
+				<description>Подаются с грибным соусом (150/50 гр).</description>
+			</offer>
+			<offer id="11190" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1922</categoryId>
+				<picture>http://fasteda.ru/data/big/11190.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жюльен из белых грибов</name>
+				<vendor>Мамуля</vendor>
+				<description>(1/200 гр).</description>
+			</offer>
+			<offer id="11191" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1922</categoryId>
+				<picture>http://fasteda.ru/data/big/11191.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жюльен куриный </name>
+				<vendor>Мамуля</vendor>
+				<description>(1/150 гр).</description>
+			</offer>
+			<offer id="11232" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11232.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Папулина любимая тарелка</name>
+				<vendor>Мамуля</vendor>
+				<description>Купаты с тушеной капустой, подаются с двумя соусами: горчицей и острым красным соусом (200/150/80 гр).</description>
+			</offer>
+			<offer id="11211" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11211.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе морского окуня</name>
+				<vendor>Мамуля</vendor>
+				<description>На жюльене из овощей с грейпфрутовым соусом (110/70/50 гр).</description>
+			</offer>
+			<offer id="11210" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11210.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось на подушке из шпината</name>
+				<vendor>Мамуля</vendor>
+				<description>По Вашему желанию приготовим  на пару или на гриле (150/100/10 гр).</description>
+			</offer>
+			<offer id="11208" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11208.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашнее жаркое на сковородке</name>
+				<vendor>Мамуля</vendor>
+				<description>Жареная свинина с луком, грибами, кабачками и баклажанами в томатном соусе (370 гр).</description>
+			</offer>
+			<offer id="11206" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11206.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Половинка цыпленка на косточке</name>
+				<vendor>Мамуля</vendor>
+				<description>Маринованная в пряных травах и обжаренная на гриле. Подается с картофелем Айдахо и острым восточным соусом (280/150/50 гр).</description>
+			</offer>
+			<offer id="11205" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11205.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мамочкины драники  с о сметанкой и укропчиком</name>
+				<vendor>Мамуля</vendor>
+				<description>(200/50 гр).</description>
+			</offer>
+			<offer id="11216" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11216.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с картофелем и беконом</name>
+				<vendor>Мамуля</vendor>
+				<description>Подаются с укропом и густой сметаной (250/10/50 гр).</description>
+			</offer>
+			<offer id="11214" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11214.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени домашние со сметаной</name>
+				<vendor>Мамуля</vendor>
+				<description>(200/50 гр).</description>
+			</offer>
+			<offer id="11215" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11215.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени от китайской мамули</name>
+				<vendor>Мамуля</vendor>
+				<description>Пельмени с капустой и свининкой (200/50 гр).</description>
+			</offer>
+			<offer id="11234" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11234.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Говядина по-строгановски</name>
+				<vendor>Мамуля</vendor>
+				<description>С картофельным пюре и соленым огурчиком. Подается с грибным соусом (370 гр).</description>
+			</offer>
+			<offer id="11213" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11213.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паста Карбонара</name>
+				<vendor>Мамуля</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11212" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11212.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелле (паста) с морепродуктами</name>
+				<vendor>Мамуля</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11209" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11209.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиная отбивная с картофельным пюре и домашними маринадами</name>
+				<vendor>Мамуля</vendor>
+				<description>(160/125/45/50 гр).</description>
+			</offer>
+			<offer id="11207" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11207.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Котлета по-киевски</name>
+				<vendor>Мамуля</vendor>
+				<description>Подается с клюквенным соусом и картофельным пюре (150/150/10/50).</description>
+			</offer>
+			<offer id="11204" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11204.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель жареный до золотистой корочки  с  грибами и луком</name>
+				<vendor>Мамуля</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11203" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1925</categoryId>
+				<picture>http://fasteda.ru/data/big/11203.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель, запеченный с Фетой и оливками</name>
+				<vendor>Мамуля</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11199" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1924</categoryId>
+				<picture>http://fasteda.ru/data/big/11199.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний  куриный бульон с рисом и гренками</name>
+				<vendor>Мамуля</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11200" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1924</categoryId>
+				<picture>http://fasteda.ru/data/big/11200.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ домашний от Мамули со сметаной</name>
+				<vendor>Мамуля</vendor>
+				<description>(250/20/50 гр).</description>
+			</offer>
+			<offer id="11202" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1924</categoryId>
+				<picture>http://fasteda.ru/data/big/11202.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем -суп из белых грибов</name>
+				<vendor>Мамуля</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11201" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1924</categoryId>
+				<picture>http://fasteda.ru/data/big/11201.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Солянка для Папули с бужениной, языком, беконом, оливками</name>
+				<vendor>Мамуля</vendor>
+				<description>(250/30 гр).</description>
+			</offer>
+			<offer id="11198" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1924</categoryId>
+				<picture>http://fasteda.ru/data/big/11198.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха Улов рыбака </name>
+				<vendor>Мамуля</vendor>
+				<description>Из лосося и судака (250/180 гр).</description>
+			</offer>
+			<offer id="11233" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>10</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1924</categoryId>
+				<picture>http://fasteda.ru/data/big/11233.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хлеб</name>
+				<vendor>Мамуля</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11222" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1927</categoryId>
+				<picture>http://fasteda.ru/data/big/11222.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Обед №1</name>
+				<vendor>Мамуля</vendor>
+				<description>Салат  из свежих овощей и капусты Витаминка (100 гр), Рассольник со сметаной (200/25 гр), Филе куры на гриле с припущенным рисом (70/170 гр).</description>
+			</offer>
+			<offer id="11223" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1927</categoryId>
+				<picture>http://fasteda.ru/data/big/11223.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Обед №2</name>
+				<vendor>Мамуля</vendor>
+				<description>Сельдь Под шубой (120 гр), Куриный бульон с рисом и яйцом (250 гр), Котлетки домашние с гречей (80/150/20 гр).</description>
+			</offer>
+			<offer id="11224" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1927</categoryId>
+				<picture>http://fasteda.ru/data/big/11224.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Обед №3</name>
+				<vendor>Мамуля</vendor>
+				<description>Салат Столичный (100 гр), Щи из квашеной капусты с грибами и сметаной (250/25 гр), Жареное филе судака. Подается с картофельным пюре (80/150/20 гр).</description>
+			</offer>
+			<offer id="11235" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1926</categoryId>
+				<picture>http://fasteda.ru/data/big/11235.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медовик</name>
+				<vendor>Мамуля</vendor>
+				<description>(150/20).</description>
+			</offer>
+			<offer id="11220" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1926</categoryId>
+				<picture>http://fasteda.ru/data/big/11220.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чиз-Кейк  Нью-Йорк </name>
+				<vendor>Мамуля</vendor>
+				<description>(100/20 гр).</description>
+			</offer>
+			<offer id="11221" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1926</categoryId>
+				<picture>http://fasteda.ru/data/big/11221.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чиз-Кейк шоколадно -ореховый</name>
+				<vendor>Мамуля</vendor>
+				<description>(100/20 гр).</description>
+			</offer>
+			<offer id="11219" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1926</categoryId>
+				<picture>http://fasteda.ru/data/big/11219.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мороженое  с  сиропом</name>
+				<vendor>Мамуля</vendor>
+				<description>(100/30 гр).</description>
+			</offer>
+			<offer id="11218" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1926</categoryId>
+				<picture>http://fasteda.ru/data/big/11218.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карпаччо из ананаса</name>
+				<vendor>Мамуля</vendor>
+				<description>Подается с шариком мороженого (130/60/20/20 гр).</description>
+			</offer>
+			<offer id="11217" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1926</categoryId>
+				<picture>http://fasteda.ru/data/big/11217.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вареники с вишней и сметаной</name>
+				<vendor>Мамуля</vendor>
+				<description>(200/50 гр).</description>
+			</offer>
+			<offer id="11229" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1928</categoryId>
+				<picture>http://fasteda.ru/data/big/11229.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эвиан 0,33 л</name>
+				<vendor>Мамуля</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11230" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1928</categoryId>
+				<picture>http://fasteda.ru/data/big/11230.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соки Нико в ассортименте 1 л</name>
+				<vendor>Мамуля</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11231" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1928</categoryId>
+				<picture>http://fasteda.ru/data/big/11231.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бон Аква ( с газом, без газа) 0,5 л</name>
+				<vendor>Мамуля</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11227" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1928</categoryId>
+				<picture>http://fasteda.ru/data/big/11227.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола, Фанта, Спрайт, Швепс 0,5 л</name>
+				<vendor>Мамуля</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11228" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1928</categoryId>
+				<picture>http://fasteda.ru/data/big/11228.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Нарзан 0,33 л</name>
+				<vendor>Мамуля</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11225" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1928</categoryId>
+				<picture>http://fasteda.ru/data/big/11225.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс 0,2 л</name>
+				<vendor>Мамуля</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11226" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1928</categoryId>
+				<picture>http://fasteda.ru/data/big/11226.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Натуральный свежевыжатый апельсиновый, грейпфрутовый 0,2 л</name>
+				<vendor>Мамуля</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11196" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1923</categoryId>
+				<picture>http://fasteda.ru/data/big/11196.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылья куриные с имбирем и острым красным соусом</name>
+				<vendor>Мамуля</vendor>
+				<description>(180/50/60 гр).</description>
+			</offer>
+			<offer id="11195" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1923</categoryId>
+				<picture>http://fasteda.ru/data/big/11195.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ребра свиные с красным острым соусом</name>
+				<vendor>Мамуля</vendor>
+				<description>(260/50/60 гр).</description>
+			</offer>
+			<offer id="11197" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1923</categoryId>
+				<picture>http://fasteda.ru/data/big/11197.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Купаты с тушеной капустой</name>
+				<vendor>Мамуля</vendor>
+				<description>Подаются с двумя соусами: горчицей и острым красным соусом (200/150/80 гр).</description>
+			</offer>
+			<offer id="11192" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1923</categoryId>
+				<picture>http://fasteda.ru/data/big/11192.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жареные ломтики сыра с клюквенным соусом</name>
+				<vendor>Мамуля</vendor>
+				<description>(150/50 гр).</description>
+			</offer>
+			<offer id="11193" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1923</categoryId>
+				<picture>http://fasteda.ru/data/big/11193.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кольца кальмара в кляре</name>
+				<vendor>Мамуля</vendor>
+				<description>(200/5/50 гр).</description>
+			</offer>
+			<offer id="11194" available="true">
+				<url>http://fasteda.ru/menu/cafe_mammy/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1923</categoryId>
+				<picture>http://fasteda.ru/data/big/11194.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ржаные гренки с чесноком и сыром</name>
+				<vendor>Мамуля</vendor>
+				<description>(125 гр).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

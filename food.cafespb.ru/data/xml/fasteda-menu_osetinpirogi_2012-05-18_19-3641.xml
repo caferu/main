@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="291">Сытные пироги</category>
+			<category id="292">Постные пироги</category>
+			<category id="293">Сладкие пироги</category>
+			<category id="302">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="1783" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>291</categoryId>
+				<picture>http://fasteda.ru/data/big/1783.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Уалибах - пирог с сыром. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, соль, сыр осетинский, масло растительное.</description>
+			</offer>
+			<offer id="1785" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>291</categoryId>
+				<picture>http://fasteda.ru/data/big/1785.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фыччын - пирог с мясом. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, соль, молоко, яйцо, мясо парной говядины (халал), чеснок, перец красный, перец черный, вода, масло растительное.
+</description>
+			</offer>
+			<offer id="1787" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>291</categoryId>
+				<picture>http://fasteda.ru/data/big/1787.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сахараджын - пирог со шпинатом. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, соль, молоко, яйцо, сыр осетинский, листья шпината, масло растительное.
+</description>
+			</offer>
+			<offer id="1789" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>291</categoryId>
+				<picture>http://fasteda.ru/data/big/1789.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофджын - пирог с картофелем и сыром. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, соль, молоко, яйцо, сыр осетинский, картофель, масло растительное.
+</description>
+			</offer>
+			<offer id="1791" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>291</categoryId>
+				<picture>http://fasteda.ru/data/big/1791.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кабушкаджын - пирог с капустой и сыром. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, молоко, яйцо,  соль, капуста свежая, сыр,  масло растительное, лук репчатый.
+</description>
+			</offer>
+			<offer id="1793" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>291</categoryId>
+				<picture>http://fasteda.ru/data/big/1793.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хъадынзджын - пирог с зеленым луком и сыром. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, яйцо, молоко, соль, сыр осетинский, масло растительное, зеленый лук.
+</description>
+			</offer>
+			<offer id="1795" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>292</categoryId>
+				<picture>http://fasteda.ru/data/big/1795.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофджын - пирог с картофелем. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, соль, картофель, лук репчатый, масло растительное
+.</description>
+			</offer>
+			<offer id="1797" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>292</categoryId>
+				<picture>http://fasteda.ru/data/big/1797.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Нашджын - пирог с тыквой. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, соль, тыква, масло растительное, лук репчатый.
+</description>
+			</offer>
+			<offer id="1799" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>292</categoryId>
+				<picture>http://fasteda.ru/data/big/1799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хъадурджын - пирог с фасолью. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, соль, фасоль, масло растительное, лук репчатый 
+.</description>
+			</offer>
+			<offer id="1801" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>292</categoryId>
+				<picture>http://fasteda.ru/data/big/1801.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жокъоджын - пирог с грибами. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, соль, вода, дрожжи, масло растительное, грибы шампиньоны, картофель, лук репчатый, перец молотый.
+</description>
+			</offer>
+			<offer id="1803" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>293</categoryId>
+				<picture>http://fasteda.ru/data/big/1803.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Балджын - пирог с вишней. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, соль, вишня, сахар, масло растительное.
+</description>
+			</offer>
+			<offer id="1805" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>293</categoryId>
+				<picture>http://fasteda.ru/data/big/1805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фаткъуыджын - пирог с яблоками. Большой - ∅ 30 см.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>1 кг. Состав: мука высшего сорта, дрожжи, соль, яблоки свежие, сахар, масло растительное.
+</description>
+			</offer>
+			<offer id="1858" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>302</categoryId>
+				<picture>http://fasteda.ru/data/big/1858.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тархун  Святой грааль</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>(0,5 л.).</description>
+			</offer>
+			<offer id="1859" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>302</categoryId>
+				<picture>http://fasteda.ru/data/big/1859.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Дюшес  Святой грааль</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>(0,5 л.).</description>
+			</offer>
+			<offer id="1860" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>302</categoryId>
+				<picture>http://fasteda.ru/data/big/1860.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Минеральная вода Ахцау 0,5 л.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>Газ/без газ.</description>
+			</offer>
+			<offer id="1861" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>302</categoryId>
+				<picture>http://fasteda.ru/data/big/1861.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Минеральная вода Ахцау 1,25 л.</name>
+				<vendor>Доставка осетинских пирогов</vendor>
+				<description>Газ/без газ.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

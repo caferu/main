@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:40">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1653">Пицца</category>
+			<category id="1654">Клаб сэндвичи</category>
+			<category id="1655">Суши</category>
+			<category id="1656">Салаты</category>
+			<category id="1657">Супы</category>
+			<category id="1658">Десерты и торты</category>
+			<category id="1659">Пирожные и конфеты</category>
+			<category id="1660">Свежевыжатые соки</category>
+			<category id="1661">Вода</category>
+			<category id="1662">Медовые миксы</category>
+		</categories>
+		<offers>
+			<offer id="9408" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1653</categoryId>
+				<picture>http://fasteda.ru/data/big/9408.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «Маргарита» </name>
+				<vendor>Зелень</vendor>
+				<description>Листья шпината, свежие томаты, лук, зелень, сыроедные соусы ручной работы – паста «Маринара», соус «Моцарелла»
+(600 гр)
+.</description>
+			</offer>
+			<offer id="9409" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1653</categoryId>
+				<picture>http://fasteda.ru/data/big/9409.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «Пепперони»</name>
+				<vendor>Зелень</vendor>
+				<description>Листья шпината, свежие томаты, сладкий перец, лук, огурец, сыроедные соусы ручной работы – паста «Маринара», соус «Моцарелла»
+(620 гр)
+.</description>
+			</offer>
+			<offer id="9410" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1653</categoryId>
+				<picture>http://fasteda.ru/data/big/9410.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «Морская»</name>
+				<vendor>Зелень</vendor>
+				<description>Листья шпината, лук, водоросли Вакамэ, свежие томаты, зелень, сыроедные соусы ручной работы - паста «Маринара», соус «Моцарелла»
+(620 гр).</description>
+			</offer>
+			<offer id="9411" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1653</categoryId>
+				<picture>http://fasteda.ru/data/big/9411.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «Деревенская»</name>
+				<vendor>Зелень</vendor>
+				<description>Листья шпината, свежие томаты, грибы вешенки, лук, зелень, сыроедные соусы ручной работы - паста «Маринара», соус «Моцарелла»
+(650 гр).</description>
+			</offer>
+			<offer id="9412" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1653</categoryId>
+				<picture>http://fasteda.ru/data/big/9412.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «Гавайская»</name>
+				<vendor>Зелень</vendor>
+				<description>Листья шпината, свежие томаты, ананас, зелень петрушки, сыроедные соусы ручной работы - паста «Маринара», соус «Моцарелла»
+(650 гр).</description>
+			</offer>
+			<offer id="9413" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1653</categoryId>
+				<picture>http://fasteda.ru/data/big/9413.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «Кальцоне Вакаме»</name>
+				<vendor>Зелень</vendor>
+				<description>Оригинальный корж. Сушёный лук, вакамэ, морковь, авокадо, салат листовой, помидор, укроп
+(1000 гр)
+.</description>
+			</offer>
+			<offer id="9414" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1653</categoryId>
+				<picture>http://fasteda.ru/data/big/9414.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «Кальцоне Формаджи»</name>
+				<vendor>Зелень</vendor>
+				<description>Оригинальный корж. Миндаль, вакамэ, чеснок, морковь, авокадо, лимонный сок, салат листовой, помидор, зелень
+(1000 гр)
+.</description>
+			</offer>
+			<offer id="9415" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1653</categoryId>
+				<picture>http://fasteda.ru/data/big/9415.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Корж для пиццы - диаметр 23 см</name>
+				<vendor>Зелень</vendor>
+				<description>Коричневый лен, кабачки, лук, грецкий орехи, базилик, орегано
+(150 гр)
+.</description>
+			</offer>
+			<offer id="9416" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1654</categoryId>
+				<picture>http://fasteda.ru/data/big/9416.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фрешбургер</name>
+				<vendor>Зелень</vendor>
+				<description>Оригинальный корж. Сушёный лук, вакамэ, морковь, авокадо, салат листовой, помидор, укроп
+(250 гр)
+.</description>
+			</offer>
+			<offer id="9417" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1654</categoryId>
+				<picture>http://fasteda.ru/data/big/9417.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сыробургер</name>
+				<vendor>Зелень</vendor>
+				<description>Оригинальный корж. Миндаль, вакамэ, чеснок, морковь, авокадо, лимонный сок, салат листовой, помидор, зелень.
+(250 гр)
+.</description>
+			</offer>
+			<offer id="9418" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1654</categoryId>
+				<picture>http://fasteda.ru/data/big/9418.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Клаб-сэндвич «Американо»</name>
+				<vendor>Зелень</vendor>
+				<description>Корж «Американо», свежие томаты, салат, сладкий лук, огурец, соус «Кантри»
+(290 гр).</description>
+			</offer>
+			<offer id="9420" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1654</categoryId>
+				<picture>http://fasteda.ru/data/big/9420.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Клаб-сэндвич «Ля Русс»</name>
+				<vendor>Зелень</vendor>
+				<description>
+Корж «Ля Русс», свежие томаты, салат, морковь, капуста, майонез
+(290 гр).</description>
+			</offer>
+			<offer id="9422" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1654</categoryId>
+				<picture>http://fasteda.ru/data/big/9422.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Клаб-сэндвич «Итальяно»</name>
+				<vendor>Зелень</vendor>
+				<description>Корж «Итальяно», огурец, салат, сладкий лук, свежие томаты, соус «Песто» с кедровыми орехами
+(390 гр)
+.</description>
+			</offer>
+			<offer id="9419" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1654</categoryId>
+				<picture>http://fasteda.ru/data/big/9419.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Корж для сэндвича «Американо» - 15см*15см</name>
+				<vendor>Зелень</vendor>
+				<description>Тост – коричневый лен, лук, кабачок, грецкие орехи, чеснок, кориандр, орегано
+(90 гр)
+.</description>
+			</offer>
+			<offer id="9421" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1654</categoryId>
+				<picture>http://fasteda.ru/data/big/9421.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Корж для сэндвича «Ля Русс» - 15см*15см</name>
+				<vendor>Зелень</vendor>
+				<description>Тост – золотой лен, черный перец, морковь, грецкие орехи, чеснок, базилик, орегано
+(90 гр)
+.</description>
+			</offer>
+			<offer id="9423" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1654</categoryId>
+				<picture>http://fasteda.ru/data/big/9423.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Корж для сэндвича «Итальяно» - 15см*15см</name>
+				<vendor>Зелень</vendor>
+				<description>Тост – золотой лен, лук, кабачок, грецкий орехи, зеленый базилик, орегано, тимьян
+(90 гр)
+.</description>
+			</offer>
+			<offer id="9425" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9425.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Каппа- Маки»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, морковь,  лимонный сок, мед, морская соль, огурец, кунжутное семя.</description>
+			</offer>
+			<offer id="9426" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9426.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Окинава»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, брокколи, мед, морские водоросли вакамэ, лук, соус «моцарелла», кунжутное семя
+
+.</description>
+			</offer>
+			<offer id="9427" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9427.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Ролл «Ясай Маки»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, кабачок, лимонный сок, мед, морская соль, огурец, перец, томаты, зелень, кунжутное семя
+.</description>
+			</offer>
+			<offer id="9428" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9428.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл  «Нинь Дзинь Маки»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, морковь, лимонный сок, мед, морская соль, авокадо, сладкий перец, помидор, кунжутное семя.</description>
+			</offer>
+			<offer id="9429" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9429.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл  «Карифурама»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, цветная капуста, мед, лимонный сок, морская соль, помидор, авокадо, зеленый лук, кунжутное семя
+.</description>
+			</offer>
+			<offer id="9430" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9430.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Банзай-Маки»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, брокколи, мед, лимонный сок, морская соль, морковь, помидор, авокадо, кунжутное семя
+.</description>
+			</offer>
+			<offer id="9431" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9431.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Калифорния»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, морковь, лимонный сок, мед, морская соль, авокадо, перец, соус «Филадельфия», кунжyтное семя.</description>
+			</offer>
+			<offer id="9432" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9432.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Филадельфия»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, кабачок, лимонный сок, мед, морская соль, томаты, огурец, соус «Филадельфия», кунжyтное семя.</description>
+			</offer>
+			<offer id="9433" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9433.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Фуджи»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, цветная капуста, мед, морская соль, шампиньоны, лук, укроп, лимонный сок, кунжутное семя
+.</description>
+			</offer>
+			<offer id="9424" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1655</categoryId>
+				<picture>http://fasteda.ru/data/big/9424.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл «Авокадо»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные водоросли нории, кабачок, лимонный сок, мед, морская соль, авокадо, зеленый лук, кунжутное семя
+
+.</description>
+			</offer>
+			<offer id="9440" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1656</categoryId>
+				<picture>http://fasteda.ru/data/big/9440.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>«Винегрет»</name>
+				<vendor>Зелень</vendor>
+				<description>Свекла, морковь, укроп, капуста, авокадо, огурцы, лук, проростки, сок лимонный (330 гр).</description>
+			</offer>
+			<offer id="9439" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1656</categoryId>
+				<picture>http://fasteda.ru/data/big/9439.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Оливье</name>
+				<vendor>Зелень</vendor>
+				<description>Яблоки, Кабачки, Авокадо, Морковь, Петрушка, Укроп, Салат, сыроедный Майонез, Лук, Огурцы, Семена пророщенные (250 гр)
+.</description>
+			</offer>
+			<offer id="9435" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1656</categoryId>
+				<picture>http://fasteda.ru/data/big/9435.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>«Спагетти Песто»</name>
+				<vendor>Зелень</vendor>
+				<description>Кабачок, свежемолотый перец, кедровый орех, листья салата, зелень, соус «Песто»
+(200 гр)
+.</description>
+			</offer>
+			<offer id="9436" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1656</categoryId>
+				<picture>http://fasteda.ru/data/big/9436.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>«Тефтели»</name>
+				<vendor>Зелень</vendor>
+				<description>Морковь, грецкий орех, лук, чеснок, укроп, морская соль, зелень
+(120 гр)
+.</description>
+			</offer>
+			<offer id="9441" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1656</categoryId>
+				<picture>http://fasteda.ru/data/big/9441.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>«Цезарь с кедровым пармезаном»</name>
+				<vendor>Зелень</vendor>
+				<description>Ананас, Руккола, томаты, шампиньоны, сыроедный «Майонез», листья салата, сыр «Пармезан»
+(300 гр)
+.</description>
+			</offer>
+			<offer id="9437" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1656</categoryId>
+				<picture>http://fasteda.ru/data/big/9437.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат «Сливочный Вакаме»</name>
+				<vendor>Зелень</vendor>
+				<description>Водоросли вакамэ, помидоры, болгарский перец, авокадо, лук, листья салата, соус «Моцарелла»
+(250 гр)
+.</description>
+			</offer>
+			<offer id="9438" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1656</categoryId>
+				<picture>http://fasteda.ru/data/big/9438.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Сельдь под шубой</name>
+				<vendor>Зелень</vendor>
+				<description>Яблоки, морковь, свекла, шампиньоны, сыроедный Майонез, лук, петрушка, листья салата
+(250 гр)
+.</description>
+			</offer>
+			<offer id="9434" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1656</categoryId>
+				<picture>http://fasteda.ru/data/big/9434.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>«Спагетти Маринара»</name>
+				<vendor>Зелень</vendor>
+				<description>Кабачок, свежемолотый перец, карри, листья салата, зелень, соус «Маринара» (200 гр).</description>
+			</offer>
+			<offer id="9442" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1657</categoryId>
+				<picture>http://fasteda.ru/data/big/9442.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп «Борщ»</name>
+				<vendor>Зелень</vendor>
+				<description>Свекла, морковь, огурец, капуста, болгарский перец, помидор, авокадо, морская соль, апельсин, зелень
+(250 мл)
+.</description>
+			</offer>
+			<offer id="9443" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1657</categoryId>
+				<picture>http://fasteda.ru/data/big/9443.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп «Гаспачо»</name>
+				<vendor>Зелень</vendor>
+				<description>Помидоры, красный лук, кабачок, красный перец чили, болгарский перец, морская соль, чеснок (250 мл)
+.</description>
+			</offer>
+			<offer id="9444" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1657</categoryId>
+				<picture>http://fasteda.ru/data/big/9444.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крем-суп «Дары моря»</name>
+				<vendor>Зелень</vendor>
+				<description>Сушеные грибы, сешеный лук, вакамэ, грецкий орех, морковь, зелень, сушеные помидоры, черный перец
+(250 мл)
+.</description>
+			</offer>
+			<offer id="9445" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1657</categoryId>
+				<picture>http://fasteda.ru/data/big/9445.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крем-суп «Грибной»</name>
+				<vendor>Зелень</vendor>
+				<description>Шампиньоны, сушеные грибы, морковь, сушеный лук, фундук, зелень, кабачковый сок (250 мл)
+.</description>
+			</offer>
+			<offer id="9446" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1657</categoryId>
+				<picture>http://fasteda.ru/data/big/9446.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крем-суп «Тыквенный»</name>
+				<vendor>Зелень</vendor>
+				<description>Хурма, тыква, финики, имбирь, мускатный орех, миндальное молоко
+(250 мл).</description>
+			</offer>
+			<offer id="9449" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>1550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1658</categoryId>
+				<picture>http://fasteda.ru/data/big/9449.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Торт «Прага»</name>
+				<vendor>Зелень</vendor>
+				<description>Миндаль, финики, кунжутное семя, груша, лайм, банан, кэроб
+(1450 гр)
+.</description>
+			</offer>
+			<offer id="9452" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>1550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1658</categoryId>
+				<picture>http://fasteda.ru/data/big/9452.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тирольский миндально-смородиновый пирог</name>
+				<vendor>Зелень</vendor>
+				<description>Грецкий орех, финики, кунжутное семя, миндаль, черная смородина, мед, ваниль, свежая голубика
+(1450 гр).</description>
+			</offer>
+			<offer id="9453" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>1450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1658</categoryId>
+				<picture>http://fasteda.ru/data/big/9453.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Карамельный тыквенный пирог</name>
+				<vendor>Зелень</vendor>
+				<description>Грецкий орех, финики, кунжут, тыква, хурма, имбирь, ваниль
+(1500 гр).</description>
+			</offer>
+			<offer id="9447" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>1600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1658</categoryId>
+				<picture>http://fasteda.ru/data/big/9447.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Торт «Брауни»</name>
+				<vendor>Зелень</vendor>
+				<description>Фундук, финики, кэроб, кокос, мёд, какао масло, какао тёртое
+(1450 гр)
+.</description>
+			</offer>
+			<offer id="9448" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>1600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1658</categoryId>
+				<picture>http://fasteda.ru/data/big/9448.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Торт «Баунти»</name>
+				<vendor>Зелень</vendor>
+				<description>Миндаль, мякоть кокоса, кокосовое молоко, изюм светлый, цедра лимона, груша, банан, какао бобы, миндаль
+(1300 гр)
+.</description>
+			</offer>
+			<offer id="9450" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1658</categoryId>
+				<picture>http://fasteda.ru/data/big/9450.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Корж для торта Прага, Баунти - диаметр 26 см</name>
+				<vendor>Зелень</vendor>
+				<description>(400 гр)
+.</description>
+			</offer>
+			<offer id="9451" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>1490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1658</categoryId>
+				<picture>http://fasteda.ru/data/big/9451.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блинный яблочный пирог</name>
+				<vendor>Зелень</vendor>
+				<description>Сыроедные блинчики, банан, золотой лён, яблоко, мёд, корица, мед
+(1450 гр)
+.</description>
+			</offer>
+			<offer id="9455" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9455.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирожное «Сакура»</name>
+				<vendor>Зелень</vendor>
+				<description>Оригинальный корж Сакура, банан, крем Сакура, слива
+(120 гр)
+.</description>
+			</offer>
+			<offer id="9456" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9456.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирожное «Ромовая Баба»</name>
+				<vendor>Зелень</vendor>
+				<description>Курага, миндаль, фундук, изюм тёмный, кедровый орех, мёд, мускатный орех
+(150 гр)
+.</description>
+			</offer>
+			<offer id="9457" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9457.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирожное «Ягодное лукошко»</name>
+				<vendor>Зелень</vendor>
+				<description>Кунжут, миндальный орех, курага, мёд, клубника, малина, голубика, клюква, черная смородина
+(125 гр)
+.</description>
+			</offer>
+			<offer id="9464" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9464.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пахлава «Инжирная»</name>
+				<vendor>Зелень</vendor>
+				<description>Миндаль,кешью, инжир, мед, лимон, фисташки,морская соль, корица
+(100 гр)
+.</description>
+			</offer>
+			<offer id="9454" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9454.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирожное «Прага»</name>
+				<vendor>Зелень</vendor>
+				<description>Трюфельное тесто, банан, лайм, ананас, кэроб
+(75 гр)
+.</description>
+			</offer>
+			<offer id="9458" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9458.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Козинаки подсолнечные</name>
+				<vendor>Зелень</vendor>
+				<description>Семена подсолнечника, мед, банан, клюква (100 гр)
+.</description>
+			</offer>
+			<offer id="9459" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9459.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Печенье «Миндальное»</name>
+				<vendor>Зелень</vendor>
+				<description>Яблоко, золотой лён, миндаль, изюм, мёд, какао масло, какао тертое
+(100 гр)
+.</description>
+			</offer>
+			<offer id="9460" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9460.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Печенье «Гротеск»</name>
+				<vendor>Зелень</vendor>
+				<description>Миндаль, морковь, яблоко, льняная коричневая мука, изюм, клюква, корица
+(100 гр)
+.</description>
+			</offer>
+			<offer id="9461" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9461.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Набор сыроедных сладостей</name>
+				<vendor>Зелень</vendor>
+				<description>Печенье «Гротеск», Кунжутная халва, Пахлава «Инжирная», Конфета «Трюфель», Конфета «Царская», Конфета «Восточная»
+(180 гр)
+.</description>
+			</offer>
+			<offer id="9462" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9462.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Печенье «Шоколадно-клюквенное»</name>
+				<vendor>Зелень</vendor>
+				<description>Фундук, кэроб, клюква лесная, кунжут, мёд
+(100 гр).</description>
+			</offer>
+			<offer id="9463" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9463.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кунжутная халва</name>
+				<vendor>Зелень</vendor>
+				<description>Кунжут, корица, мёд, фисташки
+(100 гр)
+.</description>
+			</offer>
+			<offer id="9465" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9465.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Конфеты «Инь-Янь» 4 шт</name>
+				<vendor>Зелень</vendor>
+				<description>Кунжут, финики, мак, грецкий орех, мёд
+(100 гр)
+.</description>
+			</offer>
+			<offer id="9466" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9466.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Конфеты «Трюфель» 4 шт</name>
+				<vendor>Зелень</vendor>
+				<description>Миндаль, финики, кунжут, фундук, кэроб
+(100 гр)
+.</description>
+			</offer>
+			<offer id="9467" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9467.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Конфеты «Царские» 3 шт</name>
+				<vendor>Зелень</vendor>
+				<description>Кедровый орех, финики, клюква
+(65 гр).</description>
+			</offer>
+			<offer id="9468" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9468.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Конфеты «Восточные» 3 шт</name>
+				<vendor>Зелень</vendor>
+				<description>Кунжут, финики, мак, грецкий орех, мёд
+(65 гр)
+.</description>
+			</offer>
+			<offer id="9469" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>225</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1659</categoryId>
+				<picture>http://fasteda.ru/data/big/9469.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сыроедный шоколад</name>
+				<vendor>Зелень</vendor>
+				<description>Какао масло, какао тёртое, фундук, мёд
+(50 гр).</description>
+			</offer>
+			<offer id="9470" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9470.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Апельсин 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9471" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9471.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Морковь 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9472" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9472.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Грейпфрут 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9473" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9473.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сельдерей 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9474" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9474.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лимон 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9475" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9475.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мандарин 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9476" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9476.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Томат 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9477" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9477.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свекла 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9478" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9478.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ананас 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9479" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9479.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гранат 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9480" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9480.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Груша 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9481" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9481.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Виноград 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9482" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9482.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Киви 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9483" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9483.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Дыня 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9484" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9484.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Манго 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9485" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9485.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фейхоа 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9486" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1660</categoryId>
+				<picture>http://fasteda.ru/data/big/9486.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кокосовое молоко 0,35 л в бутылке</name>
+				<vendor>Зелень</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9488" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1661</categoryId>
+				<picture>http://fasteda.ru/data/big/9488.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Живая вода</name>
+				<vendor>Зелень</vendor>
+				<description>Родниковая вода (Лен. Область) настоянная на шунгите и кремнии, активированная в электроактиваторе АП-1
+.</description>
+			</offer>
+			<offer id="9489" available="true">
+				<url>http://fasteda.ru/menu/zelen_syroed_vegan/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1662</categoryId>
+				<picture>http://fasteda.ru/data/big/9489.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Медовые миксы</name>
+				<vendor>Зелень</vendor>
+				<description>Мёд, лимон, имбирь, куркума, можжевельник, мумиё
+.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

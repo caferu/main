@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-08-08 19:34">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="715">Овощные салаты</category>
+			<category id="717">Мясные салаты</category>
+			<category id="713">Салаты из морепродуктов</category>
+			<category id="739">Бизнес-ланчи С 11-00 до 16-00 часов </category>
+			<category id="719">Супы</category>
+			<category id="727">Горячие блюда из говядины</category>
+			<category id="723">Горячие блюда из птицы</category>
+			<category id="729">Горячие блюда из баранины</category>
+			<category id="725">Горячие блюда из свинины</category>
+			<category id="731">Горячие блюда из морепродуктов</category>
+			<category id="733">Горячие блюда из рыбы</category>
+			<category id="721">Горячие овощные блюда</category>
+			<category id="737">Гарниры </category>
+			<category id="735">Шашлычки</category>
+		</categories>
+		<offers>
+			<offer id="4284" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4284.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат «тройка»</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Капуста, огурец, морковь.Соленое блюдо.
+(200гр).</description>
+			</offer>
+			<offer id="4285" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4285.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из Китайских  шампиньонов</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Шампиньоны, паприка, лук зелёный, чеснок.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4286" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4286.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из брокколи</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Брокколи, паприка, томаты черри, кунжут.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4287" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4287.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат «золотые иглы»</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Китайские грибы, морковь, паприка, лук зелёный, огурец.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4288" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4288.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат «бамбук»</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Бамбук, паприка, лук зелёный.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4289" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4289.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат картофельный</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Картофель, паприка, кинза.Соленое блюдо.
+(200гр).</description>
+			</offer>
+			<offer id="4291" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4291.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат огурцы, помидоры</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Огурцы, помидоры, майонез, креветка салатная.Соленое блюдо.
+(200гр).</description>
+			</offer>
+			<offer id="4292" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4292.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат «Фунчёза»</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Рисовая лапша, морковь, огурец, паприка, лук зелёный.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4293" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4293.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Салат Чёрные грибы</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Грибы чёрные, морковь, паприка, лук зелёный.Соленое блюдо.
+(200гр).</description>
+			</offer>
+			<offer id="4294" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4294.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из фасоли</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Фасоль стручковая, паприка, чеснок, кунжутная паста.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4295" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4295.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из спаржи</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Спаржа соевая, зелень, паприка.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4297" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4297.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат баклажаны с чесноком</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Баклажаны, чеснок, паприка, кинза, лук.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4296" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4296.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из сельдерея с кешью</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Сельдерей, паприка, орехи кешью, чеснок.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4290" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>715</categoryId>
+				<picture>http://fasteda.ru/data/big/4290.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат огурцы с чесноком</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Огурцы, паприка, чеснок.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4302" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>717</categoryId>
+				<picture>http://fasteda.ru/data/big/4302.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат свиные уши</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свиные уши отварные, паприка, зелень.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4303" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>717</categoryId>
+				<picture>http://fasteda.ru/data/big/4303.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из свиной рульки</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свиная рулька (без кости), паприка, лук, соус, огурцы.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4300" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>717</categoryId>
+				<picture>http://fasteda.ru/data/big/4300.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат свиной язык </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свиной язык отварной, паприка, лук зелёный, арахис, зелень.Соленое блюдо.
+(200 гр) .</description>
+			</offer>
+			<offer id="4299" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>717</categoryId>
+				<picture>http://fasteda.ru/data/big/4299.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из куриного мяса </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Куриное филе, лук, зелёный, паприка, ростки сои, арахис.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4298" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>717</categoryId>
+				<picture>http://fasteda.ru/data/big/4298.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из говядины</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Говядина отварная, огурец, арахис, лук зелёный, паприка.Острое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4301" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>717</categoryId>
+				<picture>http://fasteda.ru/data/big/4301.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат куриные желудки</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Куриные желудки отварные, паприка, зелень.Соленое блюдо
+(200 гр) .</description>
+			</offer>
+			<offer id="4281" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>713</categoryId>
+				<picture>http://fasteda.ru/data/big/4281.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из кальмаров</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Кальмар, морковь, паприка, чеснок, лук зелёный.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4282" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>713</categoryId>
+				<picture>http://fasteda.ru/data/big/4282.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из креветок</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Креветки тигровые, салат, оливки, томат черри, гренки.Соленое блюдо.
+(200гр).</description>
+			</offer>
+			<offer id="4283" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>713</categoryId>
+				<picture>http://fasteda.ru/data/big/4283.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из угря</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Угорь жаренный, картофельные чипсы, кинза, паприка, огурцы .Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4280" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>713</categoryId>
+				<picture>http://fasteda.ru/data/big/4280.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Нарезка из форели</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Форель свежая, соусы. Соленое блюдо
+(200 гр).</description>
+			</offer>
+			<offer id="4376" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>739</categoryId>
+				<picture>http://fasteda.ru/data/big/4376.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бизнес-ланч №2 </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Чай (пакетик )– зелёный или чёрный на выбор
+Салат овощной (помидоры, огурец, майонез) (100гр)
+Яйцо 1шт.
+Суп из овощей (яйцо, помидоры, огурцы) (150гр)
+Свиная отбивная в панировке с кисло-сладким соусом (150гр)
+Рис на пару (150гр)
+Фрукты
+.</description>
+			</offer>
+			<offer id="4377" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>739</categoryId>
+				<picture>http://fasteda.ru/data/big/4377.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бизнес-ланч №3 </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Чай (пакетик )– зелёный или чёрный на выбор
+Салат овощной (помидоры, огурец, майонез) (100гр)
+Яйцо 1шт.
+Суп из говядины (говядина, грибы, яйцо) (150гр)
+Жареная говядина с луком (150гр)
+Лапша под соусом (150гр)
+.</description>
+			</offer>
+			<offer id="4378" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>739</categoryId>
+				<picture>http://fasteda.ru/data/big/4378.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бизнес-ланч №4 </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Чай (пакетик) – зелёный или чёрный на выбор
+Салат овощной (помидоры, огурец, майонез) (100гр)
+Яйцо 1шт.
+Суп из говядины (говядина, грибы, яйцо) (150гр)
+Судак в соевом соусе (150гр)
+Лапша под соусом (150гр)
+.</description>
+			</offer>
+			<offer id="4379" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>739</categoryId>
+				<picture>http://fasteda.ru/data/big/4379.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бизнес-ланч №5</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Чай (пакетик) – зелёный или чёрный на выбор
+Салат огурцы с чесноком (огурец, чеснок, паприка) (100гр)
+Яйцо 1шт.
+Суп из морепродуктов  (150гр)
+Свиные рёбрышки под соевым соусом (150гр)
+Лапша под соусом (150гр)
+.</description>
+			</offer>
+			<offer id="4375" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>739</categoryId>
+				<picture>http://fasteda.ru/data/big/4375.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бизнес-ланч №1</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Чай (пакетик) – зелёный или чёрный на выбор
+Салат овощной (морковь, огурец, капуста) (100гр)
+Яйцо 1шт.
+Суп из овощей (яйцо, помидоры, огурцы) (150гр)
+Свинина жареная с луком и перцем (150гр)
+Рис на пару (150гр)
+Фрукты
+.</description>
+			</offer>
+			<offer id="4304" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>719</categoryId>
+				<picture>http://fasteda.ru/data/big/4304.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп из говядины</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Говядина, шампиньоны, яйцо, зелень.
+Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4305" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>719</categoryId>
+				<picture>http://fasteda.ru/data/big/4305.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп из морепродуктов</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Креветки, мидии, форель, яйцо, огурцы.Соленое блюдо.
+(200гр) 
+.</description>
+			</offer>
+			<offer id="4306" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>719</categoryId>
+				<picture>http://fasteda.ru/data/big/4306.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп из овощей </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Помидоры, огурцы, яйцо, грибы чёрные.Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4308" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>719</categoryId>
+				<picture>http://fasteda.ru/data/big/4308.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп из фрикаделек</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Судак, рисовая лапша, яйцо, зелень.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4307" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>719</categoryId>
+				<picture>http://fasteda.ru/data/big/4307.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп из свинины</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свинина, яйцо, огурцы, зелень, лук.Кисло-острое блюдо.
+(200 гр) .</description>
+			</offer>
+			<offer id="4330" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>727</categoryId>
+				<picture>http://fasteda.ru/data/big/4330.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Говядина с картофелем и сладким перцем</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Говядина, картофель, паприка, соевый соус.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4332" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>727</categoryId>
+				<picture>http://fasteda.ru/data/big/4332.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Говядина жареная с брокколи</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Говядина, брокколи, лук, соевый соус.Соленое блюдо.
+(300 гр).</description>
+			</offer>
+			<offer id="4333" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>727</categoryId>
+				<picture>http://fasteda.ru/data/big/4333.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Говядина жареная с луком</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Говядина, лук, паприка, соевый соус.
+Соленое блюдо.
+(250 гр).</description>
+			</offer>
+			<offer id="4334" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>727</categoryId>
+				<picture>http://fasteda.ru/data/big/4334.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Говядина с морковью в кляре в кисло-сладком соусе  </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Говядина, кляр, паприка, кисло-сладкий соус, лук морковь.Кисло- сладкое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4331" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>727</categoryId>
+				<picture>http://fasteda.ru/data/big/4331.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Говядина в соусе карри</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Говядина, лук, паприка, соус карри.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4314" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>723</categoryId>
+				<picture>http://fasteda.ru/data/big/4314.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Курица жареная с чёрными грибами</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Куриное филе, грибы чёрные, паприка, соевый соус.Острое блюдо.
+(250гр) .</description>
+			</offer>
+			<offer id="4316" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>723</categoryId>
+				<picture>http://fasteda.ru/data/big/4316.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Курица с картофелем</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Куриное бедро, картофель, паприка, соевый соус.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4318" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>723</categoryId>
+				<picture>http://fasteda.ru/data/big/4318.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Курица с Китайскими шампиньонами </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Куриное филе, ананас консервированный, паприка, кисло-сладкий соус.Соленое блюдо.
+
+(200 гр).</description>
+			</offer>
+			<offer id="4315" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>723</categoryId>
+				<picture>http://fasteda.ru/data/big/4315.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Курица с ананасом в кисло-сладком соусе</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Куриное филе, ананас консервированный, паприка, кисло-сладкий соус.Кисло-сладкое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4317" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>723</categoryId>
+				<picture>http://fasteda.ru/data/big/4317.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Курица с кешью</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Куриное бедро, орехи кешью, морковь, паприка.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4319" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>723</categoryId>
+				<picture>http://fasteda.ru/data/big/4319.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Утка в Пекинском соусе</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Утка, грибы чёрные, паприка, соус «Пекинский», лук.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4320" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>723</categoryId>
+				<picture>http://fasteda.ru/data/big/4320.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Утка с Китайской капустой</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Утка, капуста китайская, морковь, паприка.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4335" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>729</categoryId>
+				<picture>http://fasteda.ru/data/big/4335.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баранина жареная с луком</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Баранина, паприка, лук, соевый соус.Соленое блюдо.
+(250 гр).</description>
+			</offer>
+			<offer id="4336" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>729</categoryId>
+				<picture>http://fasteda.ru/data/big/4336.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баранина на косточке</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Баранина, лук, паприка, соус острый, кунжут.Острое блюдо.
+(300 гр).</description>
+			</offer>
+			<offer id="4338" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>729</categoryId>
+				<picture>http://fasteda.ru/data/big/4338.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баранина с тмином</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Баранина, тмин, зелень, лук.
+Острое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4337" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>729</categoryId>
+				<picture>http://fasteda.ru/data/big/4337.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баранина с морковью</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Баранина, Китайская капуста, морковь, паприка.Соленое блюдо.
+
+(200 гр).</description>
+			</offer>
+			<offer id="4339" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>729</categoryId>
+				<picture>http://fasteda.ru/data/big/4339.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баранина с фунчёзой</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Баранина, фунчёза, паприка, чеснок.
+Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4321" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>725</categoryId>
+				<picture>http://fasteda.ru/data/big/4321.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина в кисло-сладком соусе</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свинина,  паприка, кисло-сладкий соус.Кисло-сладкое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4322" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>725</categoryId>
+				<picture>http://fasteda.ru/data/big/4322.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина в кунжуте</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свинина, кляр, кунжут, лук зелёный.
+Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4323" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>725</categoryId>
+				<picture>http://fasteda.ru/data/big/4323.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина жареная с бамбуком</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свинина, паприка, бамбук, соевый соус, уксус.Соленое блюдо.
+(300 гр).</description>
+			</offer>
+			<offer id="4324" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>725</categoryId>
+				<picture>http://fasteda.ru/data/big/4324.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина жареная с луком и перцем</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свинина, паприка, лук репчатый, соевый соус.Острое блюдо
+(250 гр).</description>
+			</offer>
+			<offer id="4325" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>725</categoryId>
+				<picture>http://fasteda.ru/data/big/4325.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина жареная с Пекинским соусом</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(свинина, огурец, пекинский соус, лук)Соленое.
+300 гр..</description>
+			</offer>
+			<offer id="4326" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>725</categoryId>
+				<picture>http://fasteda.ru/data/big/4326.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина с ананасом и сладким перцем</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свинина, паприка, ананас консервированный.Кисло-сладкое блюдо.
+
+(200 гр).</description>
+			</offer>
+			<offer id="4327" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>725</categoryId>
+				<picture>http://fasteda.ru/data/big/4327.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина с чёрными грибами</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свинина, чёрные грибы, паприка, соевый соус.Соленое блюдо.
+(300 гр).</description>
+			</offer>
+			<offer id="4328" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>725</categoryId>
+				<picture>http://fasteda.ru/data/big/4328.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свиные рёбрышки в кисло-сладком соусе</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Рёбрышки свиные, кисло сладкий соус.
+Кисло- сладкое блюдо.
+
+(200 гр).</description>
+			</offer>
+			<offer id="4329" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>725</categoryId>
+				<picture>http://fasteda.ru/data/big/4329.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свиные рёбрышки под соусом «пять ароматов»</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Свиные рёбрышки, паприка, капуста Китайская, соус «Пять ароматов».Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4340" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4340.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареные гребешки с овощами</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Гребешок, грибы чёрные, морковь, огурец, паприка.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4342" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4342.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кальмары кольцами в кунжуте</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Кальмар, паприка, лук, соевый соус.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4343" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4343.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветки жареные с ананасом в кисло-сладком соусе  </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Креветки тигровые, ананас консервированный, паприка, кисло-сладкий соус.Кисло-сладкое блюдо.
+(300 гр).</description>
+			</offer>
+			<offer id="4344" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4344.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветки жареные с кешью</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Креветки тигровые, морковь, паприка, орехи кешью.Соленое блюдо.
+
+(200 гр).</description>
+			</offer>
+			<offer id="4345" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4345.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лягушачьи лапки в кунжуте</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Лягушачьи лапки, кунжут, кетчуп, кляр.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4346" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4346.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лягушачьи лапки с чёрными грибами и сладким перцем  </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Лягушачьи лапки, грибы чёрные, паприка, лук.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4347" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4347.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мидии в ракушке под соусом</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Мидии в раковине, судак филе, паприка, лук.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4349" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4349.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тигровые креветки в кунжуте</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Тигровые креветки, кунжут, кляр.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4341" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4341.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кальмары с чёрными грибами</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Кальмар, грибы чёрные, паприка.Соленое блюдо.
+
+(200 гр).</description>
+			</offer>
+			<offer id="4348" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>731</categoryId>
+				<picture>http://fasteda.ru/data/big/4348.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мидии с чёрными грибами</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Мидии салатные, грибы чёрные, паприка.Соленое блюдо.
+
+(200 гр).</description>
+			</offer>
+			<offer id="4352" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>733</categoryId>
+				<picture>http://fasteda.ru/data/big/4352.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак в кляре под сливочным маслом</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Судак филе, лук, паприка, масло сливочное, кляр.Соленое блюдо.
+
+(200 гр).</description>
+			</offer>
+			<offer id="4353" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>733</categoryId>
+				<picture>http://fasteda.ru/data/big/4353.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак в кунжуте</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Судак филе, яйцо, кунжут, лук.Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4354" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>733</categoryId>
+				<picture>http://fasteda.ru/data/big/4354.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак  в фруктовом соусе</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Судак филе, банан, ананас консервированный,  соус персиковый, яблоки.Сладкое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4350" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>733</categoryId>
+				<picture>http://fasteda.ru/data/big/4350.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак в соевом соусе </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Судак филе, соевый соус, паприка, лук. Соленое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4351" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>733</categoryId>
+				<picture>http://fasteda.ru/data/big/4351.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак в кисло-сладком соусе</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Судак филе, кисло-сладкий соус.Кисло-сладкое блюдо.
+(200 гр).</description>
+			</offer>
+			<offer id="4309" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>721</categoryId>
+				<picture>http://fasteda.ru/data/big/4309.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баклажаны с манго</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Манго, баклажаны, паприка, соус персиковый.Сладкое блюдо.
+(300гр) 
+.</description>
+			</offer>
+			<offer id="4312" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>721</categoryId>
+				<picture>http://fasteda.ru/data/big/4312.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кукуруза жареная с кедровыми орешками  </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Орехи кедровые, кукуруза, паприка, морковь, соус сладкий, огурец.Сладко-соленое блюдо.
+(250гр) .</description>
+			</offer>
+			<offer id="4313" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>721</categoryId>
+				<picture>http://fasteda.ru/data/big/4313.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хрустящие баклажаны</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Баклажаны, парика, чеснок.Соленое блюдо.
+(300гр) .</description>
+			</offer>
+			<offer id="4311" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>721</categoryId>
+				<picture>http://fasteda.ru/data/big/4311.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареные чёрные грибы</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Чёрные грибы, паприка, лук зелёный, чеснок, соевый соус.Соленое блюдо.
+(200гр) 
+.</description>
+			</offer>
+			<offer id="4310" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>721</categoryId>
+				<picture>http://fasteda.ru/data/big/4310.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареные баклажаны в Пекинском соусе</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>Баклажаны, паприка, зелень, соус «Пекинский».Соленое блюдо.
+(200гр) .</description>
+			</offer>
+			<offer id="4361" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4361.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лапша с креветками</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4362" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4362.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лапша с овощами </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4363" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4363.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лапша с яйцом </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4366" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4366.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис на пару </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4367" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4367.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис ассорти </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4368" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4368.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис с креветками</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4369" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4369.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис с овощами </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4370" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4370.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис с яйцом </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4380" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4380.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лапша со свининой </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4365" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4365.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирожки с капустой </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="4374" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4374.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="4371" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4371.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хлеб  жареный </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="4372" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4372.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хлеб на пару </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="4373" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>737</categoryId>
+				<picture>http://fasteda.ru/data/big/4373.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чипсы креветочные</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="4358" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>735</categoryId>
+				<picture>http://fasteda.ru/data/big/4358.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из креветок</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4359" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>735</categoryId>
+				<picture>http://fasteda.ru/data/big/4359.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из курицы </name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4355" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>735</categoryId>
+				<picture>http://fasteda.ru/data/big/4355.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из баранины</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4356" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>735</categoryId>
+				<picture>http://fasteda.ru/data/big/4356.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из говядины</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4357" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>735</categoryId>
+				<picture>http://fasteda.ru/data/big/4357.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из кальмаров</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="4360" available="true">
+				<url>http://fasteda.ru/menu/cindao/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>735</categoryId>
+				<picture>http://fasteda.ru/data/big/4360.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из свинины</name>
+				<vendor>Ресторан Циндао</vendor>
+				<description>(200 гр).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

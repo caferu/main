@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:41">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="2014">Торты</category>
+			<category id="2015">Пирожные</category>
+			<category id="2016">Торты для детских праздников</category>
+			<category id="2017">Свадебные торты</category>
+			<category id="2018">Торты для мероприятий</category>
+		</categories>
+		<offers>
+			<offer id="12082" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12082.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морковный торт</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Слои морковного бисквита с корицей и мускатным орехом прослоены заварным кремом, 800руб./1кг.
+Заказ стандартного торта 1,5кг - за 4 часа..</description>
+			</offer>
+			<offer id="12083" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12083.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «Захер»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Три слоя шоколадного бисквита прослоены абрикосовым конфитюром. Покрыт шоколадом и украшен свежей клубникой,  900 руб/1кг
+Заказ за 24 часа. Заказ стандартного торта 1,5кг - за 4 часа.</description>
+			</offer>
+			<offer id="12084" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12084.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «Графские развалины»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Торт-безе с сырным кремом, черносливом и грецкими орехами, 1500руб/1кг
+Заказ стандартного торта 950гр - за 4 часа..</description>
+			</offer>
+			<offer id="12085" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12085.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «Анна Павловна»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Ванильная меренга со взбитыми сливками и украшениями из свежих ягод, 1500 руб/1кг
+Заказ стандартного торта 1,5кг - за 4 часа..</description>
+			</offer>
+			<offer id="12086" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12086.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний торт</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Нежные сметанно-медовые бисквиты со сливочно-сметанным кремом украшены свежими фруктами и ягодами, 1100руб./1кг
+Заказ стандартного торта 1,5кг - за 4 часа..</description>
+			</offer>
+			<offer id="12087" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12087.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «Эйфелева башня»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Шоколадный бисквит с карамельным муссом и малиновым конфитюром, 1500 руб./1кг
+Заказ стандартного торта 1150гр - за 4 часа..</description>
+			</offer>
+			<offer id="12088" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12088.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «Паризьен»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Миндально-медовый бисквити йогуртово-медовый крем с белым сладким вином и свежими ягодами, 1100 руб./1кг
+Заказ стандартного торта 1,5 кг - за 4 часа..</description>
+			</offer>
+			<offer id="12089" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>2000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12089.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Клубнично-фисташковый торт</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Миндальный бисквит, пропитанный клубничным сиропом, со свежей клубникой и заварным фисташковым кремом, 1000 руб./1кг
+Заказ стандартного торта 2кг - за 4 часа..</description>
+			</offer>
+			<offer id="12090" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12090.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «Тирамису»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Классический бисквит, пропитанный кофе с ромом Бакарди и ликером Калуа со сливочным кремом на основе сыра Маскарпоне, 1100 руб./1 кг
+Заказ стандартного торта 1,3 кг - за 4 часа..</description>
+			</offer>
+			<offer id="12091" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12091.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мон Сен Мишель</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Шоколадный бисквит без муки и ганаш из черной смородины с пропиткой смородиным ликером, 1000 руб/1кг
+Заказ стандартного торта 1850гр - за 4 часа..</description>
+			</offer>
+			<offer id="12092" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12092.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лавандовый торт</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Миндальный бисквит с чернично-лавандовым муссом из сыра Маскарпоне и марципановый бисквит со сливочно-лавандовым муссом на основе белого шоколада, 1100 руб./1кг
+Заказ стандартного торта 1,5 кг - за 4 часа..</description>
+			</offer>
+			<offer id="12093" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12093.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «Макарон-фрезье»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Клубнично-ванильное суфле с клубникой и макароном, 1000 руб./1кг
+Закза стандартного торта 1,9кг - за 4 часа..</description>
+			</offer>
+			<offer id="12094" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12094.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «Вуаль Де Флер»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Клубничное желе с кремом из лепестков роз на песочном корже, покрытое творожно-ванильным муссом. Не содержит сливок, 1100 руб./1кг.
+Заказ стандартного торта 1,5 кг - за 4 часа..</description>
+			</offer>
+			<offer id="12095" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2014</categoryId>
+				<picture>http://fasteda.ru/data/big/12095.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «Оранж-карамель»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Миндальный бисквит с корицей, перцем, мускатом и гвоздикой, с карамельным муссом, с апельсиновым муссом с цукатами и ликером Куантро, 900 руб./1кг
+Заказ стандартного торта 1,5 кг - за 4 часа.</description>
+			</offer>
+			<offer id="12096" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12096.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Круассан классический, 6шт</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12097" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12097.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Круассан с миндальным кремом, 6шт.</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12098" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12098.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор пирожных Молль Трюфель</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Шоколадно-марципановый бисквит, пропитанный сахарным сиропом и прослойкой из шоколадного ганажа и шоколадным, за 4шт.</description>
+			</offer>
+			<offer id="12099" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12099.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор пирожных «Клубничное панно»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Белый бисквит с пропиткой из клубничного сиропа, со свежей клубникой и творожно-сырным кремом. Украшается клубничным желе, свежей клубникой и дробленой фисташкой, 6шт.</description>
+			</offer>
+			<offer id="12100" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>880</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12100.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор десертов «Макарон с малиной»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Малиновый макарон с воздушный сливочным кремом на основе сыра Макскарпоне и пасты из малины с ягодами малины, 4шт.</description>
+			</offer>
+			<offer id="12101" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор пирожных «Буше»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Нежный бисквит со сваренным сливочным кремом и шоколадной глазурью, 6шт.</description>
+			</offer>
+			<offer id="12102" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12102.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарон в ассортименте (цена за 100 гр)</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Традиционное французское пирожное, состоящее из двух круглых мучных раковин, сахара, миндаля, яичных белков и специального крема, который по французски называется «ganache» («ганаш»), за 100г.</description>
+			</offer>
+			<offer id="12103" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12103.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор эклеров  6 шт.</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Заварное тесто со сливочным кремом «Муслин» со вкусом шоколада, ванили и кофе, 6 шт.</description>
+			</offer>
+			<offer id="12104" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12104.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор пирожных «Лаванде»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Миндальный бисквит с черничным лавандовым муссом с маскарпоне и шоколадным бисквитом на основе марципана со сливочно-шоколадным муссом из белого шококлада и лаванды, за 4 шт.</description>
+			</offer>
+			<offer id="12105" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12105.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор пирожных «Валентинка»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Сметанно-малиновый мусс с малиновым конфитюром, за 4 шт.</description>
+			</offer>
+			<offer id="12106" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12106.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тарталетка с лимоном</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Песочное лукошко с лимонной цедрой со сливкакми и свежевыжатым лимонным соком под французской меренгой, за 4 шт.</description>
+			</offer>
+			<offer id="12107" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12107.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор пирожных «Сирокко»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Миндальный бисквит с фисташковым и мятным муссом, фисташковой пастой и мятным желе с листочками мяты. Украшение из молотых фисташек и шоколадной стружки, за 6шт.</description>
+			</offer>
+			<offer id="12108" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12108.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Клемонс Фрамбуаз</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Воздушный творожный мусс с добавлением лимонной цедры и жидкой малиновой начинкой внутри, за 4 шт.</description>
+			</offer>
+			<offer id="12109" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12109.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тарталетка «Ле тропик»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Пюре из манго и персика маракуйа и кокосового молока, запеченное в песочном лукошке. Украшена французскими меренгами, за 4шт.</description>
+			</offer>
+			<offer id="12110" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12110.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Яблочный тартатин</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Светлый бисквит с гвоздикой, корицей, мускатным орехом, душистым перцем, пропитанный сахарным сиропом, покрытый тонким слоем персикового конфитюра. Купол из яблосного пюре с медом, тростниковым сахаром с корицей. Глазурь из карамельного сиропа, за 6шт.</description>
+			</offer>
+			<offer id="12111" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12111.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор пирожных «Мильфей»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Слои карамелизированного слоеного теста пропитаны кремом на основе сыра Москарпоне с малиновым желе и слоем из свежей клубники, за 4шт.</description>
+			</offer>
+			<offer id="12112" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>720</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2015</categoryId>
+				<picture>http://fasteda.ru/data/big/12112.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор пирожных «Ванильный шоколад»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>4-слойное пирожное, состоящее из бисквитной прослойки, шоколадного мусса, бисквитной прослойки, ванильного мусса с украшениями из свежей ежевики, малины и половинки макарона, за 4шт.</description>
+			</offer>
+			<offer id="12113" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2016</categoryId>
+				<picture>http://fasteda.ru/data/big/12113.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «День Рождения»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Сделайте набросок тортика и мы выполним его. Основа может быть бисквитная, песочная, из мусса, сырная. Украшения из маципана и шоколада. Начинки из бананово-йогуртового мусса, свежих фруктов или любая другая. Вес от 1кг
+Заказ от 1 кг за 72 часа..</description>
+			</offer>
+			<offer id="12114" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2016</categoryId>
+				<picture>http://fasteda.ru/data/big/12114.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт «С Днем Рожденья!»</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Торты с персонажами их любимых мультиков и фильмов, выполненные из шоколада и мусса, из марципана. Основа торта - бискит или песочное тесто, мармелад, конфитюр, свежие ягоды. Крем из йогуртового мусса, сливочный крем с меренгами, а также либой другой по Вашему выбору. Вес от 1кг.
+Заказ от 1кг за 72 часа..</description>
+			</offer>
+			<offer id="12116" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2017</categoryId>
+				<picture>http://fasteda.ru/data/big/12116.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свадебный торт</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Свадьба - прекрасное событие. А свадебный торт - прекрасный десерт для праздника. Торт может быть любой, но всегда красивый и вкусный.Заказ от 1 кг за 72 часа.</description>
+			</offer>
+			<offer id="12117" available="true">
+				<url>http://fasteda.ru/menu/du-nord/</url>
+				<price>1500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2018</categoryId>
+				<picture>http://fasteda.ru/data/big/12117.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт для юбилея</name>
+				<vendor>Ресторан-кондитерская Дю Норд 1834</vendor>
+				<description>Торты для праздников и дней рождения. Торты могут быть бисквитными, песочными, из слоеного теста, из мусса и марципана. Пропитка из варенья и конфитюра, йогуртового мусса, сливочного крема и др. Заказ от 1 кг за 72 часа.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

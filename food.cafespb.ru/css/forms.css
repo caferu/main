@@ -1,0 +1,130 @@
+input[type=text], input[type=password], textarea {
+    border: 1px solid #ccc;
+    padding: 5px;
+
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+select.multiselect {
+    width: 450px;
+}
+
+input[type=file] {
+    vertical-align: top;
+}
+input[type=search] {
+    width: 400px;
+}
+
+
+
+.login-wrapper div.form {
+    text-align: center;
+}
+.login-wrapper div.form input {
+    font-size: 20px;
+}
+
+
+
+div.form div.errorSummary {
+    background-color: #FDDFDE;
+    border: 1px solid #FBC7C6;
+    margin-bottom: 20px;
+    padding: 5px;
+
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+div.form.menu-tabs-wrapper div.errorSummary {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0;
+    margin-top: 1px;
+}
+
+div.form div.errorSummary p {
+    font-weight: bold;
+}
+div.form div.errorSummary ul li {
+    list-style-type: none;
+}
+div.form input.error, div.form textarea.error {
+    border: 1px solid #c44b4b;
+}
+div.form div.errorMessage {
+    color: #c44b4b;
+    font-size: 12px;
+}
+
+div.form {}
+div.form div.row {
+    clear: left;
+    display: block;
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+}
+div.form div.row label.label-ex {
+    display: block;
+    float: left;
+    padding-right: 10px;
+    width: 250px;
+    text-align: right;
+}
+div.form div.row label.label-ex-block {
+    display: block;
+}
+div.form div.row div.row-without-label {
+    margin-left: 265px;
+}
+div.form div.row.striped {
+    background-color: #f9f9f9;
+}
+
+#login-form label {
+    width: 150px;
+}
+#login-form input {
+    width: 200px;
+}
+
+
+
+fieldset, fieldset fieldset.collapsible.active {
+    border: 1px solid #eee;
+    margin: 10px;
+    clear: both;
+}
+fieldset fieldset.collapsible.active {
+    background-color: #fffcfc;
+}
+fieldset legend {
+    background-color: #eee;
+    margin-left: 10px;
+    padding: 5px 20px 5px 20px;
+
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+fieldset div.form {
+    margin: 0;
+}
+fieldset div.form div.row.buttons {
+    border-bottom: 0;
+}
+
+fieldset fieldset.collapsible {
+    border: none;
+    margin-left: 0;
+}
+fieldset fieldset.collapsible legend {
+    background-color: #f9f7f7;
+}
+fieldset fieldset.collapsible legend:hover, fieldset fieldset.collapsible legend.active {
+    background-color: #eee;
+    cursor: pointer;
+}

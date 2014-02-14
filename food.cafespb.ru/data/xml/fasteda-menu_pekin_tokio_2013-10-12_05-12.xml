@@ -1,0 +1,4311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-12 05:12">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1993">Фирменные роллы</category>
+			<category id="1990">Овощные роллы </category>
+			<category id="1989">Темпура роллы  </category>
+			<category id="1991">Острые запеченные роллы  </category>
+			<category id="1988">Запеченные роллы</category>
+			<category id="1987">Острые роллы</category>
+			<category id="1986">Роллы маки классические </category>
+			<category id="1992">Темаки (Хенз роллы) </category>
+			<category id="1972">Супы</category>
+			<category id="2000">Супы. Фьюжен кухня</category>
+			<category id="2001">Салаты и закуски. Фьюжен кухня</category>
+			<category id="1999">Супы. Японская кухня</category>
+			<category id="2002">Горячие закуски. Японская кухня</category>
+			<category id="2003">Горячие блюда. Японская кухня</category>
+			<category id="2004">Горячие блюда.Русская кухня</category>
+			<category id="1973">Блюда из овощей</category>
+			<category id="1974">Блюда из свинины</category>
+			<category id="1975">Блюда из птицы</category>
+			<category id="1976">Блюда на раскаленной плите кебаб </category>
+			<category id="1977">Блюда из говядины, блюда из тофу </category>
+			<category id="1978">Блюда из морепродуктов </category>
+			<category id="1979">Блюда из рыбы  </category>
+			<category id="1980"> Лапша, пельмени,рис, китайские памушки</category>
+			<category id="1982">Суши нигири</category>
+			<category id="1983">Острые суши</category>
+			<category id="1984">Запеченые суши</category>
+			<category id="1985">Острые запеченые суши</category>
+			<category id="2005">Шашлыки</category>
+			<category id="2006">Пицца</category>
+			<category id="1981">Китайские десерты</category>
+			<category id="2007">Прохладительные напитки</category>
+		</categories>
+		<offers>
+			<offer id="11901" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>345</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1993</categoryId>
+				<picture>http://fasteda.ru/data/big/11901.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шеф Току-сан</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Угорь, Филадельфия, тобико, огурец, авокадо.</description>
+			</offer>
+			<offer id="11902" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>355</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1993</categoryId>
+				<picture>http://fasteda.ru/data/big/11902.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Мидори</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11903" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1993</categoryId>
+				<picture>http://fasteda.ru/data/big/11903.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Филадельфия Темпура </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Филадельфия, авокадо, огурец, лосось, темпура.</description>
+			</offer>
+			<offer id="11904" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1993</categoryId>
+				<picture>http://fasteda.ru/data/big/11904.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл A-la Serg</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Острый угорь, спайси-соус.</description>
+			</offer>
+			<offer id="11905" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1993</categoryId>
+				<picture>http://fasteda.ru/data/big/11905.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Пекин-Токио</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Острый краб, тобико, лосось, огурец, угорь.</description>
+			</offer>
+			<offer id="11906" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1993</categoryId>
+				<picture>http://fasteda.ru/data/big/11906.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Лакедра терияки</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Желтохвост, терияки, сыр Филадельфия, тобико, огурец, авокадо.</description>
+			</offer>
+			<offer id="11907" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>445</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1993</categoryId>
+				<picture>http://fasteda.ru/data/big/11907.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Японская корона</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Краб, икра лососевая, тобико, лосось, авокадо, кунжут.</description>
+			</offer>
+			<offer id="11908" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1993</categoryId>
+				<picture>http://fasteda.ru/data/big/11908.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Якудза </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Тунец, огурец, соус табаджан.</description>
+			</offer>
+			<offer id="11886" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1990</categoryId>
+				<picture>http://fasteda.ru/data/big/11886.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл со шпинатом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11887" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1990</categoryId>
+				<picture>http://fasteda.ru/data/big/11887.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с огурцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11888" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1990</categoryId>
+				<picture>http://fasteda.ru/data/big/11888.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл синко (маринованный Дайкон)</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11889" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>145</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1990</categoryId>
+				<picture>http://fasteda.ru/data/big/11889.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл авокадо огурец</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11890" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1990</categoryId>
+				<picture>http://fasteda.ru/data/big/11890.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рулет микс с овощами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Авокадо, огурец, паприка, дайкон, помидор, лук зеленый.</description>
+			</offer>
+			<offer id="11891" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1990</categoryId>
+				<picture>http://fasteda.ru/data/big/11891.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с авокадо</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11881" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1989</categoryId>
+				<picture>http://fasteda.ru/data/big/11881.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Темпура</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11882" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1989</categoryId>
+				<picture>http://fasteda.ru/data/big/11882.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с угрем и сыром Моцарелла</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11883" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1989</categoryId>
+				<picture>http://fasteda.ru/data/big/11883.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с угрем, лососем и овощами в сырной панировке</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11884" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1989</categoryId>
+				<picture>http://fasteda.ru/data/big/11884.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Спайси</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11885" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1989</categoryId>
+				<picture>http://fasteda.ru/data/big/11885.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с угрем, лососем и овощами в сыре</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11892" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1991</categoryId>
+				<picture>http://fasteda.ru/data/big/11892.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый запеченный ролл с крабом,копченным угрем,лососем,спайси, масаго,моцарелла</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11893" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>339</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1991</categoryId>
+				<picture>http://fasteda.ru/data/big/11893.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченный рулет с острым крабом и лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11894" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>339</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1991</categoryId>
+				<picture>http://fasteda.ru/data/big/11894.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый запеченный ролл с угрем, сыром и гребешком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11895" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>339</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1991</categoryId>
+				<picture>http://fasteda.ru/data/big/11895.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый запеченный ролл с лососем, кунжутом, красной икрой, сыром Филадельфия,Моцарелла</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11877" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>325</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1988</categoryId>
+				<picture>http://fasteda.ru/data/big/11877.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рулет с угрем, сыром и гребешком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11878" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>335</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1988</categoryId>
+				<picture>http://fasteda.ru/data/big/11878.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с крабом, лососем, сыром и икрой тобико</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11879" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>335</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1988</categoryId>
+				<picture>http://fasteda.ru/data/big/11879.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рулет лосось, кунжут, красная икра, сыр Филадельфия, сыр Моцарелла</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11880" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>335</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1988</categoryId>
+				<picture>http://fasteda.ru/data/big/11880.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рулет мясо краба, копченный угорь, лосось, спайси соус, икра масаго, сыр Моцарелла</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11869" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1987</categoryId>
+				<picture>http://fasteda.ru/data/big/11869.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с острым угрем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11870" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>225</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1987</categoryId>
+				<picture>http://fasteda.ru/data/big/11870.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с острым крабом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11871" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1987</categoryId>
+				<picture>http://fasteda.ru/data/big/11871.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с острым осьминогом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11872" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1987</categoryId>
+				<picture>http://fasteda.ru/data/big/11872.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с острым гребешком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11873" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1987</categoryId>
+				<picture>http://fasteda.ru/data/big/11873.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с острым окунем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11874" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>205</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1987</categoryId>
+				<picture>http://fasteda.ru/data/big/11874.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с острым тунцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11875" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1987</categoryId>
+				<picture>http://fasteda.ru/data/big/11875.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с острым лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11876" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1987</categoryId>
+				<picture>http://fasteda.ru/data/big/11876.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с острым желтохвостом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11847" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11847.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11848" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11848.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с лососем, авокадо и огурцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11849" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11849.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с копченным лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11850" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11850.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с копченным лососем и плавленым сыром</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11851" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11851.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с жареным лососем, осьминогом, красной икрой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11852" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11852.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тамаго ролл</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Угорь, крем-сыр, авокадо, огурец, омлет, кунжут.</description>
+			</offer>
+			<offer id="11853" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11853.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с угрем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11854" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11854.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с тунцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11855" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11855.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с тунцом и авокадо</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11856" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11856.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ассорти темпура</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Лосось, краб, гребешок, королевская креветка.</description>
+			</offer>
+			<offer id="11857" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11857.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с угрем, авокадо и огурцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11858" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11858.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с копченой курой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11859" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11859.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Васаби ролл</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11860" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>265</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11860.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Масаго ролл </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11861" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>225</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11861.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния ролл без тобико</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11862" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>265</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11862.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аляска ролл</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Лосось, огурец, авокадо, тобико.</description>
+			</offer>
+			<offer id="11863" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11863.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния ролл с тобико</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11864" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>335</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11864.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Калифорния Премиум</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Двойной краб, икра тобико.</description>
+			</offer>
+			<offer id="11865" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>305</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11865.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Нью-Йорк</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Сыр Филадельфия, авокадо, огурец, копченый лосось.</description>
+			</offer>
+			<offer id="11866" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11866.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Филадельфия</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Сыр Филадельфия, авокадо, огурец, лосось.</description>
+			</offer>
+			<offer id="11867" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11867.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Нагойя </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Угорь, такуан, сыр Филадельфия.</description>
+			</offer>
+			<offer id="11868" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1986</categoryId>
+				<picture>http://fasteda.ru/data/big/11868.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл Фуджияма</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Авокадо, огурец, тобико, угорь.</description>
+			</offer>
+			<offer id="11896" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1992</categoryId>
+				<picture>http://fasteda.ru/data/big/11896.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Темаки ролл с копченым угрем и икрой масаго</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11897" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1992</categoryId>
+				<picture>http://fasteda.ru/data/big/11897.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Темаки ролл с лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11898" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1992</categoryId>
+				<picture>http://fasteda.ru/data/big/11898.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Темаки ролл с тунцом, соусом спайси и стружкой бонита</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11899" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1992</categoryId>
+				<picture>http://fasteda.ru/data/big/11899.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Темаки ролл с мясом краба и икрой тобико</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11900" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1992</categoryId>
+				<picture>http://fasteda.ru/data/big/11900.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Темаки ролл с копченым лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11675" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1972</categoryId>
+				<picture>http://fasteda.ru/data/big/11675.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп с помидором и яйцом </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11676" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1972</categoryId>
+				<picture>http://fasteda.ru/data/big/11676.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп из свинины с луком пореем и имбирем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11677" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>265</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1972</categoryId>
+				<picture>http://fasteda.ru/data/big/11677.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп из говядины «Си-Ху» </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11678" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1972</categoryId>
+				<picture>http://fasteda.ru/data/big/11678.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп с фрикадельками и лапшой </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11679" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1972</categoryId>
+				<picture>http://fasteda.ru/data/big/11679.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп из говядины с помидором</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11680" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1972</categoryId>
+				<picture>http://fasteda.ru/data/big/11680.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Китайский острый традиционный суп из телятины со спаржей и золотистыми грибами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11681" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1972</categoryId>
+				<picture>http://fasteda.ru/data/big/11681.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп из морепродуктов</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11682" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1972</categoryId>
+				<picture>http://fasteda.ru/data/big/11682.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп с кукурузой, курой и яйцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11718" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>575</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1972</categoryId>
+				<picture>http://fasteda.ru/data/big/11718.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хрустящая утка на кости</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(310 гр).</description>
+			</offer>
+			<offer id="11958" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2000</categoryId>
+				<picture>http://fasteda.ru/data/big/11958.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Солянка на копченостях</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11959" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2000</categoryId>
+				<picture>http://fasteda.ru/data/big/11959.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крем-суп грибной с трюфельным маслом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11960" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2000</categoryId>
+				<picture>http://fasteda.ru/data/big/11960.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крем- суп из лосося и краба</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(320 гр).</description>
+			</offer>
+			<offer id="11961" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2000</categoryId>
+				<picture>http://fasteda.ru/data/big/11961.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кани тако</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Сливочный крабовый суп с маринованными осьминожками 
+(300 гр).</description>
+			</offer>
+			<offer id="11962" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2000</categoryId>
+				<picture>http://fasteda.ru/data/big/11962.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крем-суп Сицилийский</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Итальянская рыбная похлебка
+(320 гр).</description>
+			</offer>
+			<offer id="11963" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11963.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с гренками и курой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Салатные листья, соус Цезарь, гренки, филе куры, бекон копченый
+(220 гр).</description>
+			</offer>
+			<offer id="11964" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11964.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оливье с раковыми шейками</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11965" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11965.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свежие овощи</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Томаты, огурцы, перец сладкий, редис, лук зеленый
+(190 гр).</description>
+			</offer>
+			<offer id="11966" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11966.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с тунцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(220 гр).</description>
+			</offer>
+			<offer id="11967" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11967.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Домашние маринады</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Малосолы томата, огурца, чеснок, перец, черемша
+(200 гр).</description>
+			</offer>
+			<offer id="11968" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11968.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сельдь с чуккой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Сельдь с картофелем, чукой и орехово-горчичным соусом
+(200 гр).</description>
+			</offer>
+			<offer id="11969" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11969.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат из свежих овощей</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11970" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11970.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ржаные гренки с травами (с чесноком или сыром на выбор )</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11971" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>267</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11971.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тидзу Гурата</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Мидии Киви с креветками, беконом, запеченные со спайси-соусом и сыром
+(210 гр).</description>
+			</offer>
+			<offer id="11972" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>225</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11972.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Унаги сарада (копченый угорь с чуккой и авокадо)</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11973" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11973.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Итальянский драник с лососем </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Копченый лосось с креветками и томатами Черри на картофельном дранике
+(215 гр).</description>
+			</offer>
+			<offer id="11974" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11974.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чукка салат с ореховым соусом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11975" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11975.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Печеночный жульен с жареным картофелем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Куриная печень в сливочном соусе с жареным картофелем
+(220 гр).</description>
+			</offer>
+			<offer id="11976" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11976.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сырные палочки </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(160 гр).</description>
+			</offer>
+			<offer id="11977" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>155</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2001</categoryId>
+				<picture>http://fasteda.ru/data/big/11977.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бата томорокоси (кукуруза с маслом)</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(220 гр).</description>
+			</offer>
+			<offer id="11950" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1999</categoryId>
+				<picture>http://fasteda.ru/data/big/11950.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мисо-суп (традиционный японский суп) </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11951" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1999</categoryId>
+				<picture>http://fasteda.ru/data/big/11951.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп Удон (с пшеничной лапшой)</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11952" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>155</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1999</categoryId>
+				<picture>http://fasteda.ru/data/big/11952.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мисо-суп с курой и шпинатом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11953" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1999</categoryId>
+				<picture>http://fasteda.ru/data/big/11953.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мисо-суп с мясом краба (с мясом краба)</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11954" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1999</categoryId>
+				<picture>http://fasteda.ru/data/big/11954.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мисо-суп с морепродуктами (с морепродуктами)</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11955" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1999</categoryId>
+				<picture>http://fasteda.ru/data/big/11955.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суигедза (японские пельмени в мисо- бульоне в ассортименте)</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11956" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1999</categoryId>
+				<picture>http://fasteda.ru/data/big/11956.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мисо-суп Морской коктейль</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11957" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1999</categoryId>
+				<picture>http://fasteda.ru/data/big/11957.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кимчи-суп (японский острый суп с яйцом)</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11978" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2002</categoryId>
+				<picture>http://fasteda.ru/data/big/11978.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яки хурасаме</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Прозрачная лапша хурасаме с лососем и  маринованными осьминожками
+(250 гр).</description>
+			</offer>
+			<offer id="11979" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2002</categoryId>
+				<picture>http://fasteda.ru/data/big/11979.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тори терияки</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Куриное филе в соусе терияки
+(250 гр).</description>
+			</offer>
+			<offer id="11980" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2002</categoryId>
+				<picture>http://fasteda.ru/data/big/11980.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тигровые креветки в хрустящей корочке со спайс соусом </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(230 гр).</description>
+			</offer>
+			<offer id="11981" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2002</categoryId>
+				<picture>http://fasteda.ru/data/big/11981.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Саке терияки</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Лосось в соусе терияки
+(200 гр).</description>
+			</offer>
+			<offer id="11982" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2002</categoryId>
+				<picture>http://fasteda.ru/data/big/11982.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гюдон</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(270 гр).</description>
+			</offer>
+			<offer id="11983" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2002</categoryId>
+				<picture>http://fasteda.ru/data/big/11983.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Японские пельмени. Гедза со свининой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(120 гр).</description>
+			</offer>
+			<offer id="11984" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2002</categoryId>
+				<picture>http://fasteda.ru/data/big/11984.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Японские пельмени. Гедза с креветками</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11985" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>575</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2003</categoryId>
+				<picture>http://fasteda.ru/data/big/11985.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свиная рулька</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(560 гр).</description>
+			</offer>
+			<offer id="11986" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2003</categoryId>
+				<picture>http://fasteda.ru/data/big/11986.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ясай теппаньяки</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Японский рис с овощами
+(280 гр).</description>
+			</offer>
+			<offer id="11987" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2003</categoryId>
+				<picture>http://fasteda.ru/data/big/11987.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина Дижон с картофелем Айдахо и яичницей</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11988" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2003</categoryId>
+				<picture>http://fasteda.ru/data/big/11988.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гю Яки Удон</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Обжаренная пшеничная лапша с говядиной и овощами
+ (380 гр).</description>
+			</offer>
+			<offer id="11989" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2003</categoryId>
+				<picture>http://fasteda.ru/data/big/11989.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тигровые креветки в сливочно- томатном соусе с анисом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(170 гр).</description>
+			</offer>
+			<offer id="11990" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2003</categoryId>
+				<picture>http://fasteda.ru/data/big/11990.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из лосося на гриле</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(265 гр).</description>
+			</offer>
+			<offer id="11991" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2003</categoryId>
+				<picture>http://fasteda.ru/data/big/11991.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Английский завтрак</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Колбаски охотничьи, бекон копченый, яичница, луковые кольца, фасоль, тосты
+(360 гр)
+.</description>
+			</offer>
+			<offer id="11992" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2004</categoryId>
+				<picture>http://fasteda.ru/data/big/11992.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Судак запеченный в остром пикантном соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(185 гр).</description>
+			</offer>
+			<offer id="11993" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2004</categoryId>
+				<picture>http://fasteda.ru/data/big/11993.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина по-французски </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(185 гр).</description>
+			</offer>
+			<offer id="11994" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2004</categoryId>
+				<picture>http://fasteda.ru/data/big/11994.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина по-деревенски</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(185 гр).</description>
+			</offer>
+			<offer id="11995" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>365</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2004</categoryId>
+				<picture>http://fasteda.ru/data/big/11995.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свиной стейк с грибным соусом </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(190 гр).</description>
+			</offer>
+			<offer id="11996" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2004</categoryId>
+				<picture>http://fasteda.ru/data/big/11996.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина по-королевски </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(230 гр).</description>
+			</offer>
+			<offer id="11997" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2004</categoryId>
+				<picture>http://fasteda.ru/data/big/11997.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из говядины с сыром свидиш блю</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(220 гр).</description>
+			</offer>
+			<offer id="11998" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2004</categoryId>
+				<picture>http://fasteda.ru/data/big/11998.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из говядины с 5 перцами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(220 гр).</description>
+			</offer>
+			<offer id="11683" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1973</categoryId>
+				<picture>http://fasteda.ru/data/big/11683.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кукуруза, жареная с кедровыми орешками</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11684" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1973</categoryId>
+				<picture>http://fasteda.ru/data/big/11684.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощи по-китайски, жареные с грибами и арахисом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11685" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1973</categoryId>
+				<picture>http://fasteda.ru/data/big/11685.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные баклажаны в соевом соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11686" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1973</categoryId>
+				<picture>http://fasteda.ru/data/big/11686.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные грибы сянгу в остром пикантном соусе </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11687" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1973</categoryId>
+				<picture>http://fasteda.ru/data/big/11687.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареная соломка из баклажанов с чесноком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11688" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1973</categoryId>
+				<picture>http://fasteda.ru/data/big/11688.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кабачки, жареные с чесноком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11689" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11689.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина жареная с грибами сянгу </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11690" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11690.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Китайские зразы из баклажан, фаршированные свининой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11691" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11691.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свиные нити жареные с имбирем </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11692" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11692.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина, жареная с креветками и грибами сянгу</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11693" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11693.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе свиное жареное в кляре</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11694" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11694.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина с китайскими грибами и яйцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11695" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11695.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина «Гу-Лао» с ананасами в кисло-сладком соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11696" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11696.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свиные нити «Юй-Сян» по-сычуаньски</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11697" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>375</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11697.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хрустящее филе свинины</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11698" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11698.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе свиное под кисло-сладким соусом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11699" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11699.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина в кисло-сладком соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11700" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11700.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина жареная с соевым соусом </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11701" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11701.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясная соломка, жареная со сладким перцем </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11702" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11702.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные свиные почки по-сычуаньски</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11703" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11703.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные свиные почки в соевом соусе </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11704" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11704.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хрустящие свиные ребрышки</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11705" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1974</categoryId>
+				<picture>http://fasteda.ru/data/big/11705.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свиные ребрышки с китайским соусом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11706" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11706.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе куры «кумпо» жареное с арахисом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11707" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11707.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе куры с ананасами в лимонном соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11708" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11708.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе куры с китайскими ароматными грибами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11709" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11709.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе куры в кляре</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11710" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11710.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хрустящее филе куры</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11711" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11711.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе куры с ананасами в кисло-сладком соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11712" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11712.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареное филе куры с кунжутом </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11713" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11713.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острое филе куры в соевом соусе с грибами, паприкой и чесноком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11714" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11714.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе куры жареное кубиками с ветчиной и болгарским перцем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11715" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11715.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе утки жареное с грибами сянгу и бамбуком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11716" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11716.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хрустящее филе утки</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(170 гр).</description>
+			</offer>
+			<offer id="11717" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1975</categoryId>
+				<picture>http://fasteda.ru/data/big/11717.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе утки, жареное с пекинской капустой и черными грибами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11719" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1976</categoryId>
+				<picture>http://fasteda.ru/data/big/11719.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина, жареная с китайскими грибами </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11720" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1976</categoryId>
+				<picture>http://fasteda.ru/data/big/11720.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе судака, жареное с овощами </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11721" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>375</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1976</categoryId>
+				<picture>http://fasteda.ru/data/big/11721.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морепродукты, жареные с болгарским перцем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11722" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>235</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1976</categoryId>
+				<picture>http://fasteda.ru/data/big/11722.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощное ассорти </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>Бамбук, грибы, морковь, паприка(250 гр).</description>
+			</offer>
+			<offer id="11723" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1976</categoryId>
+				<picture>http://fasteda.ru/data/big/11723.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кальмары, жареные с бамбуком, китайск.грибами и паприкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11724" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>325</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1977</categoryId>
+				<picture>http://fasteda.ru/data/big/11724.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе телятины жареное с баклажанами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11725" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1977</categoryId>
+				<picture>http://fasteda.ru/data/big/11725.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина хрустящая</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11726" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1977</categoryId>
+				<picture>http://fasteda.ru/data/big/11726.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина, жареная с картофелем в соевом соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11727" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1977</categoryId>
+				<picture>http://fasteda.ru/data/big/11727.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина с жареными хлебцами и чесноком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11728" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>325</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1977</categoryId>
+				<picture>http://fasteda.ru/data/big/11728.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина жареная с луком и паприкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11729" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1977</categoryId>
+				<picture>http://fasteda.ru/data/big/11729.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина жареная в соевом соусе </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11730" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1977</categoryId>
+				<picture>http://fasteda.ru/data/big/11730.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина жареная кубиками с овощами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11731" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1977</categoryId>
+				<picture>http://fasteda.ru/data/big/11731.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сухие обжареные ломтики говядины с луком пореем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(350 гр).</description>
+			</offer>
+			<offer id="11732" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11732.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные мидии с китайскими грибами и паприкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11733" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>325</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11733.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные мидии в остром соусе </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11734" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>355</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11734.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морской коктейль с грибами сянгу и бамбуком </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11735" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11735.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки жареные с яйцом и паприкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11736" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>325</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11736.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки жареные в кляре</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11737" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>325</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11737.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки жареные с бамбуком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11738" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11738.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки жареные в кисло-сладком соусе с хлебцами и луком </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11739" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11739.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные тигровые креветки с фруктами в кисло-сладком соусе </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11740" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11740.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тигровые креветки с болгарским перцем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11741" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11741.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Королевские креветки жареные в остром соусе на хрустящей лапше </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11742" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11742.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные тигровые креветки с чесноком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11743" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11743.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тигровые креветки жареные в кунжуте </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11744" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11744.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хрустящие тигровые креветки жареные в панировке</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11745" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11745.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тигровые креветки жареные воздушном кляре</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11746" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11746.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Королевские креветки с чайным соусом </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11747" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11747.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Нежные королевские креветки с жареными лепестками свинины в мягком соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(350 гр).</description>
+			</offer>
+			<offer id="11748" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11748.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Раковые шейки в кляре</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11749" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11749.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Раковые шейки жареные с зеленым луком и имбирем </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11750" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11750.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Каракатица, жареная с цукини в чесночном соусе </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11751" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11751.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морские гребешки жареные в панировке с соевым соусом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11752" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11752.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морские гребешки с хлебцами, жареные с чесноком, грибами и бамбуком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11753" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11753.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные морские гребешки с орехами кешью и овощами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11754" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11754.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тигров.креветки, кальмары, гребешки жареные с бамбуком, грибами и паприкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11755" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>325</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11755.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осьминоги жареные в кляре</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11756" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>345</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11756.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные осьминоги в кунжутно-чесночном соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11757" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>565</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11757.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные лягушачьи лапки</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11758" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>565</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11758.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лягушачьи лапки жареные с арахисом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11759" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>565</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1978</categoryId>
+				<picture>http://fasteda.ru/data/big/11759.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лягушачьи лапки жареные с грибами и хлебцами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11760" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11760.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карп в кисло-сладком соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11761" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11761.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Судак в кисло-сладком соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11762" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11762.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Форель паровая </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11763" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11763.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе судака в кисло-сладком соусе </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11764" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11764.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыбные хризантемы из филе судака</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11765" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11765.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыба, жареная в китайском соусе </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11766" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11766.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыба, жареная в остром соевом соусе </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11767" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>585</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11767.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карп целиковый жареный по-домашнему с луком пореем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11768" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>359</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11768.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе судака в кляре</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11769" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11769.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карп жареный целиковый в соевом соусе (кунжутн.обсыпка)</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11770" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11770.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе судака жареное с черными древесными грибами</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11771" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11771.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хрустящее филе сазана жареное в имбирно-соевом соусе с луком пореем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11772" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11772.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареное филе судака с луком пореем в прозрачном соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11773" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>265</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1979</categoryId>
+				<picture>http://fasteda.ru/data/big/11773.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Китайский коктейль – ассорти в бокалах из свежей паприки</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(400 гр).</description>
+			</offer>
+			<offer id="11774" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11774.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша с жареной свининой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="11775" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11775.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша с жареными креветками </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(350 гр).</description>
+			</offer>
+			<offer id="11776" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11776.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пельмени с начинкой из море-продуктов, грибов и огурцов</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11777" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11777.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пельмени со свининой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11778" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11778.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис отварной</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11779" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11779.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис с жареным яйцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11780" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11780.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис с жареными креветками </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="11781" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11781.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пампушки с мясом </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(3 шт).</description>
+			</offer>
+			<offer id="11782" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11782.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пампушки обычные</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(1/50).</description>
+			</offer>
+			<offer id="11783" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1980</categoryId>
+				<picture>http://fasteda.ru/data/big/11783.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пампушки жареные </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(1/50).</description>
+			</offer>
+			<offer id="11791" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>47</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11791.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11792" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11792.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с тунцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11793" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>67</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11793.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с копченым лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11794" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11794.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с угрем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11795" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11795.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с королевской креветкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11796" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11796.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с красной икрой и сыром Филадельфия</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11797" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11797.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с окунем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11798" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11798.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с крабом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11799" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с кальмаром</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11800" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11800.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с гребешком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11801" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11801.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с желтохвостом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11802" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11802.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с осьминогом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11803" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11803.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с мясом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11804" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11804.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с икрой тобико</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11805" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с икрой масаго</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11806" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11806.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с салатной креветкой в красном соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11807" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11807.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши икрой тобико-васаби</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11808" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11808.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым цыпленком и зеленью</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11809" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11809.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с чукой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11810" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1982</categoryId>
+				<picture>http://fasteda.ru/data/big/11810.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с икрой лосося</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11811" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11811.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11812" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11812.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым желтохвостом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11813" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11813.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым тунцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11814" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11814.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острой креветкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11815" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11815.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым крабом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11816" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11816.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым угрем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11817" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11817.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым гребешком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11818" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11818.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым окунем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11819" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11819.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым кальмаром</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11820" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1983</categoryId>
+				<picture>http://fasteda.ru/data/big/11820.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с острым осьминогом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11821" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11821.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с крабом и лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11822" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11822.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с морским гребешком и лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11823" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11823.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с мидиями и салатной креветкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11824" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11824.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с тунцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11825" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11825.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с желтохвостом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11826" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11826.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с тигровой креветкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11827" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11827.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с крабом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11828" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11828.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с гребешком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11829" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11829.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с осьминогом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11830" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11830.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с окунем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11831" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11831.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с угрем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11832" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11832.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с кальмаром</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11833" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1984</categoryId>
+				<picture>http://fasteda.ru/data/big/11833.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11834" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11834.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с крабом и лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11835" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11835.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с морским гребешком и лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11836" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11836.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с мидиями и салатной креветкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11837" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11837.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с тунцом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11838" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11838.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с желтохвостом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11839" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11839.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с тигровой креветкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11840" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11840.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с крабом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11841" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11841.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с гребешком</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11842" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11842.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с осьминогом</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11843" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11843.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с окунем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11844" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11844.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с угрем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11845" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11845.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с кальмаром</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11846" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>79</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1985</categoryId>
+				<picture>http://fasteda.ru/data/big/11846.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суши с лососем</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11999" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2005</categoryId>
+				<picture>http://fasteda.ru/data/big/11999.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12000" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2005</categoryId>
+				<picture>http://fasteda.ru/data/big/12000.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из куры</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12001" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2005</categoryId>
+				<picture>http://fasteda.ru/data/big/12001.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из баранины</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12002" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2005</categoryId>
+				<picture>http://fasteda.ru/data/big/12002.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля кебаб</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12003" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2006</categoryId>
+				<picture>http://fasteda.ru/data/big/12003.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Берта ∅ 30 см</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(450 гр).</description>
+			</offer>
+			<offer id="12004" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2006</categoryId>
+				<picture>http://fasteda.ru/data/big/12004.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ленинградская ∅ 30 см</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(450 гр).</description>
+			</offer>
+			<offer id="12005" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2006</categoryId>
+				<picture>http://fasteda.ru/data/big/12005.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пеперони ∅ 30 см</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(450 гр).</description>
+			</offer>
+			<offer id="12006" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2006</categoryId>
+				<picture>http://fasteda.ru/data/big/12006.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карбонаро ∅ 30 см</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(450 гр).</description>
+			</offer>
+			<offer id="12007" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2006</categoryId>
+				<picture>http://fasteda.ru/data/big/12007.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>А-ля жульен ∅ 30 см</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(450 гр).</description>
+			</offer>
+			<offer id="12008" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2006</categoryId>
+				<picture>http://fasteda.ru/data/big/12008.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Качетори ∅ 30 см</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(450 гр).</description>
+			</offer>
+			<offer id="11784" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1981</categoryId>
+				<picture>http://fasteda.ru/data/big/11784.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яблоки жареные в карамели</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11785" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1981</categoryId>
+				<picture>http://fasteda.ru/data/big/11785.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ананасы жареные в карамели</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11786" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1981</categoryId>
+				<picture>http://fasteda.ru/data/big/11786.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бананы жареные в карамели</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11787" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1981</categoryId>
+				<picture>http://fasteda.ru/data/big/11787.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ананасовые кольца в кляре с кунжутно-сахарной обсыпкой</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11788" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>235</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1981</categoryId>
+				<picture>http://fasteda.ru/data/big/11788.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фруктовое ассорти в карамели </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="11789" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1981</categoryId>
+				<picture>http://fasteda.ru/data/big/11789.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареные орехи кешью с сахаром </name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11790" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1981</categoryId>
+				<picture>http://fasteda.ru/data/big/11790.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фруктовое ассорти в медовом соусе</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(300 гр).</description>
+			</offer>
+			<offer id="12009" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>47</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12009.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>(180 мл).</description>
+			</offer>
+			<offer id="12010" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>67</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12010.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Pepsi 0.6 л</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12011" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>67</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12011.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>7up 0.6 л</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12012" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>67</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12012.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Миринда 0.6 л</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12013" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>67</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12013.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Cola 0.5 л</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12014" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>77</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12014.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тархун 0.33 л</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12015" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>77</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12015.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Байкал 0.33 л</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12016" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>77</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12016.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дюшес 0.33 л</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12017" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>77</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12017.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Саяны 0.33 л</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12018" available="true">
+				<url>http://fasteda.ru/menu/pekin_tokio/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2007</categoryId>
+				<picture>http://fasteda.ru/data/big/12018.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Нарзан 0.5 л</name>
+				<vendor>Пекин-Токио</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

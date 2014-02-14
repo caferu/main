@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:16">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="681">Холодные закуски</category>
+			<category id="683">Горячие закуски</category>
+			<category id="687">Горячие блюда из рыбы</category>
+			<category id="689">Горячие блюда из куры</category>
+			<category id="691">Горячие блюда из говядины</category>
+			<category id="693">Горячие блюда из свинины</category>
+			<category id="707">Горячие блюда из баранины</category>
+			<category id="701">Гарниры</category>
+			<category id="685">Супы</category>
+			<category id="697">Омлеты</category>
+			<category id="699">Вегетарианские блюда</category>
+			<category id="695">Пироги</category>
+			<category id="703">Блины</category>
+			<category id="705">Десерт</category>
+		</categories>
+		<offers>
+			<offer id="4112" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4112.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Селедка по-русски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе сельди, отварной картофель, маринованный лук, зеленый лук, растительное масло.</description>
+			</offer>
+			<offer id="4113" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4113.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Селедка под шубой</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе сельди, свекла, морковь, картофель, майонез, яйцо.</description>
+			</offer>
+			<offer id="4114" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4114.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Наяда</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Форель, сыр, морковь, яйцо. </description>
+			</offer>
+			<offer id="4117" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4117.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Винегрет с селедкой</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Свекла, картофель, морковь, соленые огурцы, зеленый горошек, подсолнечное масло, филе сельди. </description>
+			</offer>
+			<offer id="4118" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4118.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Дипломат</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Креветки, бекон, салат, редиска, лук порей, оливковое масло.</description>
+			</offer>
+			<offer id="4120" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4120.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Прометей</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Обжаренная куриная печень, литья салата, перец болгарский, тыквенные семечки. Пикантная чесночная заправка на основе майонеза.</description>
+			</offer>
+			<offer id="4121" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4121.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филе куры с орехово-грибным соусом</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Обжаренное филе куры с  соусом из грибов, орехов и чеснока.</description>
+			</offer>
+			<offer id="4124" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4124.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Нерон</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Обжаренное филе куры, листья салата, помидоры, гренки из белого хлеба. Заправка – розовый соус.</description>
+			</offer>
+			<offer id="4126" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4126.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Столичный</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе куры, отварной картофель, отварная морковь, отварное яйцо, солёный или свежий огурец, зелёный горошек, майонез.</description>
+			</offer>
+			<offer id="4132" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощной букет</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4133" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4133.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Греческий</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Листья салата, помидоры, огурцы, красный репчатый лук, маслины, брынза «Фета». Заправка - оливковое масло, горчица, соус песто, бальзамический уксус, соль, сахар.</description>
+			</offer>
+			<offer id="4134" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4134.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Cалат Летний</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4135" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4135.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Витаминный</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Свежая капуста, морковь, яблоко. Заправка растительное масло, сок апельсина, лимона, соль, сахар.</description>
+			</offer>
+			<offer id="4136" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4136.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из свеклы с орехами</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Свёкла, грецкие орехи, чернослив. Заправка – майонез, сметана, масло.</description>
+			</offer>
+			<offer id="4137" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4137.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ассорти из маринованных грибов</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4178" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4178.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Три толстяка</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе говядины, фаршированное беконом, грибами и яйцом.</description>
+			</offer>
+			<offer id="4123" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4123.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Язык говяжий</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Отварной говяжий язык. Подается с хреном.</description>
+			</offer>
+			<offer id="4122" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4122.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Буженина</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Домашняя буженина шпигованная чесноком. Подается с хреном.</description>
+			</offer>
+			<offer id="4119" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4119.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из кальмаров</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Кальмары, морская капуста, рис, жареный лук, огурцы, майонез.</description>
+			</offer>
+			<offer id="4116" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4116.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из морской капусты с креветками</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Тигровые креветки, морская капуста, яйцо, майонез.</description>
+			</offer>
+			<offer id="4115" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4115.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с тунцом</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Тунец, стручковая фасоль, помидоры.</description>
+			</offer>
+			<offer id="4127" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4127.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Маргеланский</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Обжаренная говядина с луком, редька, отварное яйцо, майонез.</description>
+			</offer>
+			<offer id="4128" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4128.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Коррида</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Обжаренная говядина, помидоры, сыр, перец болгарский. Заправка – оливковое масло, горчица, соус песто, бальзамический уксус, соль, сахар.</description>
+			</offer>
+			<offer id="4129" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4129.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Комильфо</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Шампиньоны, обжаренные с луком, помидоры, сыр, отварной картофель, обжаренный бекон, майонез.</description>
+			</offer>
+			<offer id="4130" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4130.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Капризный</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Отварной говяжий язык, маринованные грибы, зелёное яблоко, маринованный репчатый лук, свежий огурец. Заправка - оливковое масло, горчица, соус песто, бальзамический уксус, соль, сахар.</description>
+			</offer>
+			<offer id="4125" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4125.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Алла</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе куры, яблоки, грецкие орехи, изюм, карри. Заправка – майонез.</description>
+			</offer>
+			<offer id="4131" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>681</categoryId>
+				<picture>http://fasteda.ru/data/big/4131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Альтдорф</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Корень сельдерея, яблоки, грецкие орехи, сладкие взбитые сливки, майонез. Украшение салата – отварной говяжий язык и дольки апельсина.</description>
+			</offer>
+			<offer id="4139" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>683</categoryId>
+				<picture>http://fasteda.ru/data/big/4139.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с грибами</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4140" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>683</categoryId>
+				<picture>http://fasteda.ru/data/big/4140.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с мясом</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4141" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>683</categoryId>
+				<picture>http://fasteda.ru/data/big/4141.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с красной икрой</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4138" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>683</categoryId>
+				<picture>http://fasteda.ru/data/big/4138.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Грибной	жульен</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4153" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4153.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Форель под польским соусом</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе форели, сливки, яйцо, соль, перец.</description>
+			</offer>
+			<offer id="4156" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4156.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось под польским соусом</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе лосося, сливки, яйцо, соль, перец.</description>
+			</offer>
+			<offer id="4160" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>610</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4160.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось Буржуа</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе лосося, фаршированное ананасами,	
+под клубничным соусом..</description>
+			</offer>
+			<offer id="4150" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4150.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак по-монастырски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе судака,обжар.с луком,в сметане.</description>
+			</offer>
+			<offer id="4154" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4154.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Форель жареная</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе форели, мука, масло растительное, соус «тар-тар» (огурцы соленые, майонез).</description>
+			</offer>
+			<offer id="4155" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4155.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из лосося в беконе</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе лосося, бекон нарезка, соль, перец, масло растительное.</description>
+			</offer>
+			<offer id="4157" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4157.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось жареный</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе лосося, мука, масло растительное, соус «тар-тар» (огурцы соленые, майонез). </description>
+			</offer>
+			<offer id="4158" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4158.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось, запеченный с яблоком</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе лосося, яблоко, сыр, майонез, соль, перец.
+</description>
+			</offer>
+			<offer id="4159" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4159.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось в фольге</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Лосось, запеченный с грибами,сладким перцем и маслинами. </description>
+			</offer>
+			<offer id="4161" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4161.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Котлетки лососевые</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Фарш лососевый, лук репчатый , яйцо, булка, соль, перец, сухари панировочные, масло растительное.</description>
+			</offer>
+			<offer id="4149" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4149.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак по-боярски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе судака, тушеное в белом вине.</description>
+			</offer>
+			<offer id="4151" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4151.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак жареный</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе судака, мука, масло растительное, соль, перец, соус «тар-тар» (огурцы соленые, майонез).</description>
+			</offer>
+			<offer id="4152" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>687</categoryId>
+				<picture>http://fasteda.ru/data/big/4152.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак Орли</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе судака, вино белое, соль, перец, кляр (вино, яйцо, мука), масло растительное.</description>
+			</offer>
+			<offer id="4165" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>689</categoryId>
+				<picture>http://fasteda.ru/data/big/4165.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из курицы</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Мясо куриное (ножка), маринад (вино, соль, перец, лук репчатый), масло растительное.</description>
+			</offer>
+			<offer id="4169" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>689</categoryId>
+				<picture>http://fasteda.ru/data/big/4169.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жаркое по-охотничьи</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Кура, тушеная с грибами в сметане.</description>
+			</offer>
+			<offer id="4168" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>689</categoryId>
+				<picture>http://fasteda.ru/data/big/4168.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жаркое по-домашнему</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Кура, тушеная с луком в сметане.</description>
+			</offer>
+			<offer id="4162" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>689</categoryId>
+				<picture>http://fasteda.ru/data/big/4162.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филе куры по-королевски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Кура с грибами и перцем, в сливках с вином.</description>
+			</offer>
+			<offer id="4163" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>689</categoryId>
+				<picture>http://fasteda.ru/data/big/4163.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чахохбили</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Кура, тушеная в томатном соусе, вине.</description>
+			</offer>
+			<offer id="4164" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>689</categoryId>
+				<picture>http://fasteda.ru/data/big/4164.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Котлета де-воляй	 </name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе куриное, соль, перец, яйцо, сухари панировочные, масло растительное.</description>
+			</offer>
+			<offer id="4166" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>689</categoryId>
+				<picture>http://fasteda.ru/data/big/4166.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филе куры под сыром</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе куриное, соль, перец, сыр, майонез, масло растительное.</description>
+			</offer>
+			<offer id="4170" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>689</categoryId>
+				<picture>http://fasteda.ru/data/big/4170.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Котлета по-киевски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе куриное, соль, перец, укроп, масло сливочное, яйцо, сухари панировочные, масло растительное.</description>
+			</offer>
+			<offer id="4171" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4171.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жаркое из телятины</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе телятины, соль, перец, лук репчатый, сметана, масло растительное.  </description>
+			</offer>
+			<offer id="4180" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4180.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Язык жареный в сухарях</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Отварной говяжий язык, панировочные сухари, растительное масло. Подаётся с розовым соусом.</description>
+			</offer>
+			<offer id="4181" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4181.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Язык в сметане</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Отварной говяжий язык, лук репчатый, сметана, соль, перец.</description>
+			</offer>
+			<offer id="4179" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4179.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Три толстяка</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Говядина,фаршированная
+грибами,беконом..</description>
+			</offer>
+			<offer id="4172" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4172.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Телячья отбивная	</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе телятины, соль, перец, масло растительное.</description>
+			</offer>
+			<offer id="4173" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4173.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Беф-строганов</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе говядины, лук репчатый, соль, перец, сметана, томатная паста, масло растительное.</description>
+			</offer>
+			<offer id="4174" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4174.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филе с помидорами	</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе говядины, помидоры, майонез, соль, перец, масло растительное.</description>
+			</offer>
+			<offer id="4175" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4175.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филе с грибами и сыром</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе говядины, шампиньоны, лук репчатый, сыр, соль, перец, масло растительное.</description>
+			</offer>
+			<offer id="4176" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4176.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филе с черносливом и орехами</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе говядины, чернослив, орехи грецкие, сливки, сахар, соль, перец, масло растительное.</description>
+			</offer>
+			<offer id="4177" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4177.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Котлетки домашние</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Говядина, свинина, яйцо, лук репчатый, соль, перец.</description>
+			</offer>
+			<offer id="4182" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>691</categoryId>
+				<picture>http://fasteda.ru/data/big/4182.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Печень по-строгановски	 </name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Куриная печень, репчатый лук, мука,  сметана, растительное масло.</description>
+			</offer>
+			<offer id="4190" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>693</categoryId>
+				<picture>http://fasteda.ru/data/big/4190.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пельмени</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Свинина, говядина, репчатый лук, яйцо, мука, соль, вода, сметана, зелень.</description>
+			</offer>
+			<offer id="4183" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>693</categoryId>
+				<picture>http://fasteda.ru/data/big/4183.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина с апельсинами</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе свинины, апельсин, сахар, сливки, растительное масло.</description>
+			</offer>
+			<offer id="4184" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>693</categoryId>
+				<picture>http://fasteda.ru/data/big/4184.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Эскалоп</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4185" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>693</categoryId>
+				<picture>http://fasteda.ru/data/big/4185.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шницель Венский</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе свинины, сыр, майонез, чеснок, панировочные сухари, соль, перец, растительное масло.</description>
+			</offer>
+			<offer id="4186" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>693</categoryId>
+				<picture>http://fasteda.ru/data/big/4186.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина по-деревенски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Свинина, тушеная с луком в сметане.</description>
+			</offer>
+			<offer id="4187" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>693</categoryId>
+				<picture>http://fasteda.ru/data/big/4187.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ганноверские колбаски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Филе свинины, изюм, грецкие орехи, сахар, сливки.</description>
+			</offer>
+			<offer id="4188" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>693</categoryId>
+				<picture>http://fasteda.ru/data/big/4188.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина с грибами в горшочке</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Свинина, шампиньоны, картофель, лук репчатый.</description>
+			</offer>
+			<offer id="4189" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>693</categoryId>
+				<picture>http://fasteda.ru/data/big/4189.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Перец фаршированный</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Перец болгарский, рис отварной, говядина, свинина, яйцо, лук репчатый, морковь, укроп, петрушка, сметана, соль, перец.
+</description>
+			</offer>
+			<offer id="4221" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>707</categoryId>
+				<picture>http://fasteda.ru/data/big/4221.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бараньи котлетки на косточке</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4220" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>707</categoryId>
+				<picture>http://fasteda.ru/data/big/4220.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жаркое из баранины в горшочке</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Мякоть баранины, морковь, лук репчатый, баклажан, кабачок, специи.</description>
+			</offer>
+			<offer id="4204" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>701</categoryId>
+				<picture>http://fasteda.ru/data/big/4204.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4205" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>701</categoryId>
+				<picture>http://fasteda.ru/data/big/4205.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель по-деревенски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4206" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>701</categoryId>
+				<picture>http://fasteda.ru/data/big/4206.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель отварной</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4207" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>701</categoryId>
+				<picture>http://fasteda.ru/data/big/4207.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель жареный	 </name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4208" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>701</categoryId>
+				<picture>http://fasteda.ru/data/big/4208.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4209" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>701</categoryId>
+				<picture>http://fasteda.ru/data/big/4209.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощное рагу</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4210" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>701</categoryId>
+				<picture>http://fasteda.ru/data/big/4210.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цветная капуста</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4142" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>685</categoryId>
+				<picture>http://fasteda.ru/data/big/4142.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бульон с пирожками</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Куриный бульон, отварной рис, укроп. Подаётся с двумя пирожками (капуста, зелёный лук и яйцо, печень, мясо) из слоёного или дрожжевого теста.</description>
+			</offer>
+			<offer id="4143" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>685</categoryId>
+				<picture>http://fasteda.ru/data/big/4143.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бульон по-деревенски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Куриный бульон, зелёный лук, отварная кура, отварное яйцо, сметана.</description>
+			</offer>
+			<offer id="4144" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>685</categoryId>
+				<picture>http://fasteda.ru/data/big/4144.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп Жуанвиль</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Сливки, креветки, лосось.</description>
+			</offer>
+			<offer id="4145" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>685</categoryId>
+				<picture>http://fasteda.ru/data/big/4145.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Щи кислые</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Бульон мясной, говядина, свинина, капуста квашеная, картофель, морковь, лук репчатый, томатная паста, соль, перец, сметана и зелень по желанию.</description>
+			</offer>
+			<offer id="4146" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>685</categoryId>
+				<picture>http://fasteda.ru/data/big/4146.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Уха	 </name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Картофель, морковь, репчатый лук, судак, форель, лосось, специи. По желанию подаются сливки.</description>
+			</offer>
+			<offer id="4147" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>685</categoryId>
+				<picture>http://fasteda.ru/data/big/4147.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощной суп-пюре</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Кабачки, морковь, лук репчатый, перец болгарский, цветная капуста, 
+лук репчатый, соль, специи, сливки.
+.</description>
+			</offer>
+			<offer id="4148" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>685</categoryId>
+				<picture>http://fasteda.ru/data/big/4148.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп дня</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4219" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>685</categoryId>
+				<picture>http://fasteda.ru/data/big/4219.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бульон с пельмешками</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4194" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>697</categoryId>
+				<picture>http://fasteda.ru/data/big/4194.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Омлет с беконом</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Яйцо, молоко, бекон, зелень, масло растительное.</description>
+			</offer>
+			<offer id="4195" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>697</categoryId>
+				<picture>http://fasteda.ru/data/big/4195.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Омлет с сыром</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Яйцо, молоко, сыр, зелень, соль, специи.</description>
+			</offer>
+			<offer id="4196" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>697</categoryId>
+				<picture>http://fasteda.ru/data/big/4196.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Омлет по-деревенски</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Яйцо, молоко, помидоры, картофель, бекон, зелень, соль.</description>
+			</offer>
+			<offer id="4197" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>699</categoryId>
+				<picture>http://fasteda.ru/data/big/4197.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сыр Ля-Рошель</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Сыр, яйцо, мука, сухари, масло растительное.</description>
+			</offer>
+			<offer id="4198" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>699</categoryId>
+				<picture>http://fasteda.ru/data/big/4198.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Драники картофельные</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Картофель, мука, яйцо, соль, растительное масло. Подаются со сметаной.</description>
+			</offer>
+			<offer id="4199" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>699</categoryId>
+				<picture>http://fasteda.ru/data/big/4199.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Капустный шницель</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4200" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>699</categoryId>
+				<picture>http://fasteda.ru/data/big/4200.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель с грибами</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4201" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>699</categoryId>
+				<picture>http://fasteda.ru/data/big/4201.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цветная капуста с грибами</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4202" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>699</categoryId>
+				<picture>http://fasteda.ru/data/big/4202.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофельные котлеты  под грибным соусом</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Картофель отварной, яйцо, сухари, масло растительное, соль, специи, шампиньоны, обжаренный репчатый лук. </description>
+			</offer>
+			<offer id="4203" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>699</categoryId>
+				<picture>http://fasteda.ru/data/big/4203.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Перец фаршированный вегетарианский</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Перец болгарский, морковь, рис отварной, репчатый лук, масло растительное, соль, перец, зелень, майонез, томатная паста.</description>
+			</offer>
+			<offer id="4222" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>699</categoryId>
+				<picture>http://fasteda.ru/data/big/4222.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощное рагу	 </name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4191" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>695</categoryId>
+				<picture>http://fasteda.ru/data/big/4191.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мясной пирог Поросенок</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Дрожжевое или слоёное тесто, свинина, сыр, бекон, соль, перец, яйцо.</description>
+			</offer>
+			<offer id="4192" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>695</categoryId>
+				<picture>http://fasteda.ru/data/big/4192.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кулебяка</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Дрожжевое или слоёное тесто, судак, яйцо, масло сливочное, масло растительное, соль, перец, зелень.</description>
+			</offer>
+			<offer id="4193" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>695</categoryId>
+				<picture>http://fasteda.ru/data/big/4193.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирог вегетарианский</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>Дрожжевое или слоёное тесто, перец болгарский, маслины, сыр, помидоры, масло растительное.</description>
+			</offer>
+			<offer id="4211" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>703</categoryId>
+				<picture>http://fasteda.ru/data/big/4211.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины со сметаной	</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4212" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>703</categoryId>
+				<picture>http://fasteda.ru/data/big/4212.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с медом</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4213" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>703</categoryId>
+				<picture>http://fasteda.ru/data/big/4213.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с черничным вареньем</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4214" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>703</categoryId>
+				<picture>http://fasteda.ru/data/big/4214.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины яблочные</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4215" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>703</categoryId>
+				<picture>http://fasteda.ru/data/big/4215.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с брусничным	вареньем</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4216" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>703</categoryId>
+				<picture>http://fasteda.ru/data/big/4216.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с клюквенным	вареньем</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4217" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>705</categoryId>
+				<picture>http://fasteda.ru/data/big/4217.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ягодный пирог</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4218" available="true">
+				<url>http://fasteda.ru/menu/staraya_derevnya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>705</categoryId>
+				<picture>http://fasteda.ru/data/big/4218.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рогалики с корицей</name>
+				<vendor>Ресторан Старая деревня</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

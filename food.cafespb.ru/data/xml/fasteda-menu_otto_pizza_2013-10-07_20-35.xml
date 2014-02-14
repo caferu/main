@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:35">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1935">Пицца</category>
+			<category id="1937">Салаты</category>
+			<category id="1936">Паста</category>
+			<category id="1939">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="11308" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11308.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепперони</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, халапеньо, пепперони
+(800 гр).</description>
+			</offer>
+			<offer id="11306" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11306.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>4 сыра </name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, сыр Пармезан, сыр Дор блю, сыр Эмменталь
+(720 гр).</description>
+			</offer>
+			<offer id="11317" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11317.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сицилия</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, лосось, руккола
+(800 гр).</description>
+			</offer>
+			<offer id="11318" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11318.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сан-Ремо</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, кальмары, креветки тигровые, краб, мидии, чеснок, зелень
+(950 гр).</description>
+			</offer>
+			<offer id="11316" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11316.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мюнхен</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, сыр Эмменталь, шампиньоны, ветчина, бекон, пепперони, помидоры, куриное филе, лук красный, зелень
+(1015 гр).</description>
+			</offer>
+			<offer id="11315" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11315.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Техас</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, сыр Эмменталь, куриное филе, пепперони, ветчина, бекон
+(930 гр).</description>
+			</offer>
+			<offer id="11314" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11314.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сан-Себастьян</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, майонез, куриное филе, бекон, лук красный, ветчина, маслины, паприка
+(910 гр).</description>
+			</offer>
+			<offer id="11313" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11313.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, соус Цезарь, сыр Моцарелла, сыр Пармезан, куриное филе, черри, ромейн
+(930 гр).</description>
+			</offer>
+			<offer id="11312" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11312.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рустика</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, бекон, куриное филе, корнишоны, паприка, лук порей
+(940 гр).</description>
+			</offer>
+			<offer id="11311" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11311.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Амстердам</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, шампиньоны, ветчина, зелень
+(880 гр).</description>
+			</offer>
+			<offer id="11310" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11310.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ватикан</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, сыр Пармезан, бекон, яйцо
+(875 гр).</description>
+			</offer>
+			<offer id="11309" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11309.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Нью-Дели</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, помидоры, паприка, цукини, лук красный
+(875 гр).</description>
+			</offer>
+			<offer id="11307" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1935</categoryId>
+				<picture>http://fasteda.ru/data/big/11307.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Маргарита</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тесто, пицца-соус, сыр Моцарелла, помидоры
+(800 гр).</description>
+			</offer>
+			<offer id="11326" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>215</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1937</categoryId>
+				<picture>http://fasteda.ru/data/big/11326.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морской </name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Снежный краб, яйцо куриное, кукуруза, майонез, креветки салатные, зелень
+(142 гр).</description>
+			</offer>
+			<offer id="11325" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1937</categoryId>
+				<picture>http://fasteda.ru/data/big/11325.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Руккола с креветками</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Руккола, черри, сыр Пармезан, кедровый орех, креветки, чеснок
+(135 гр).</description>
+			</offer>
+			<offer id="11324" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1937</categoryId>
+				<picture>http://fasteda.ru/data/big/11324.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с креветками</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Салат Ромейн, черри, креветки тигровые, яйцо перепелиное, сыр Пармезан, чеснок, соус Цезарь, сухари
+(168 гр).</description>
+			</offer>
+			<offer id="11323" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1937</categoryId>
+				<picture>http://fasteda.ru/data/big/11323.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с курицей</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Салат Ромейн, черри, куриное филе, яйцо перепелиное, сыр Пармезан, соус Цезарь, сухари
+(188 гр).</description>
+			</offer>
+			<offer id="11322" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1936</categoryId>
+				<picture>http://fasteda.ru/data/big/11322.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тальятелле с морепродуктами</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тальятелле, соус томатный, креветки, гребешки, кальмар, мидии, чеснок, вино
+(325 гр).</description>
+			</offer>
+			<offer id="11321" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1936</categoryId>
+				<picture>http://fasteda.ru/data/big/11321.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тальятелле с ветчиной и грибами </name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Тальятелле, сыр Пармезан, ветчина, сливки, грибы, чеснок, базилик
+(305 гр).</description>
+			</offer>
+			<offer id="11319" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1936</categoryId>
+				<picture>http://fasteda.ru/data/big/11319.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карбонара</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Спагетти, бекон, сливки, яйцо, сыр Пармезан, черри, базилик
+(315 гр).</description>
+			</offer>
+			<offer id="11320" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1936</categoryId>
+				<picture>http://fasteda.ru/data/big/11320.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Болоньезе</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Состав: 
+Спагетти, соус болоньезе, сыр Пармезан, лук порей
+(300 гр).</description>
+			</offer>
+			<offer id="11330" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1939</categoryId>
+				<picture>http://fasteda.ru/data/big/11330.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Rich 1л</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>Ананас, апельсин, персик, яблоко, томат, вишня.</description>
+			</offer>
+			<offer id="11328" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1939</categoryId>
+				<picture>http://fasteda.ru/data/big/11328.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite 1л</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11329" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1939</categoryId>
+				<picture>http://fasteda.ru/data/big/11329.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Fanta 1л</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11327" available="true">
+				<url>http://fasteda.ru/menu/otto_pizza/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1939</categoryId>
+				<picture>http://fasteda.ru/data/big/11327.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Сola 1л</name>
+				<vendor>Доставка пиццы Otto</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

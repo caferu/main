@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-12 05:13">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="2041">Бургеры</category>
+			<category id="2042">Роллы</category>
+			<category id="2043">Вегетарианское меню </category>
+			<category id="2044">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="12284" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12284.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гамбургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, кольца красного лука, томат, листья салата, маринованые огурчики, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12308" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12308.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Акция «Бургер дня!»</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Понедельник - Гамбургер + картофель фри + соус + имбирный лимонад;
+
+Вторник - Вэджис бургер + картофель фри + соус + имбирный лимонад;
+
+Среда - Грибной бургер + картофель фри + соус + имбирный лимонад;
+
+Четверг - Фишбургер + картофель фри + соус + имбирный лимонад;
+
+Пятница - Кантри бургер + картофель фри + соус + имбирный лимонад;
+
+Суббота - Халапеньо бургер + картофель фри + соус + имбирный лимонад;
+
+Воскресенье - Сёрф бургер + картофель фри + соус + имбирный лимонад;
+.</description>
+			</offer>
+			<offer id="12285" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12285.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизбургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, американский красный сыр чеддар,  кольца красного лука, томат, листья салата, маринованые огурчики, булочка с кунжутом, подаётся с картофелем фри!.</description>
+			</offer>
+			<offer id="12286" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12286.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Похмельный бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочное куриное филе, сыр моцарелла, бекон, хашбрауни, омлет, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12287" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12287.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сёрф бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочное куриное филе, сыр моцарелла, листья салата, кольца ананаса, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12288" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12288.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бали бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, американский красный сыр чеддар, листья салата, кольца ананаса, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12289" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12289.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Халапеньо бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, маринованый перец халапеньо, кольца красного лука, томат, листья салата, маринованые огурчики, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12290" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12290.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чикен халапеньо бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочное куриное филе, маринованый перец халапеньо, кольца красного лука, томат, листья салата, маринованые огурчики, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12291" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12291.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>G&amp;V бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, американский красный сыр чеддар, бекон, хашбрауни, кольца красного лука, томат, листья салата, маринованые огурчики, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12292" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12292.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кантри бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, американский красный сыр чеддар, бекон, лук фри, кольца красного лука, листья салата, маринованые огурчики, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12293" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12293.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грибной бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, американский красный сыр чеддар, шампиньоны,  кольца красного лука, листья салата, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12295" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12295.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фишбургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Котлета из рыбного филе,  сыр моцарелла, листья салата, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12296" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2041</categoryId>
+				<picture>http://fasteda.ru/data/big/12296.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блю чиз бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, сыр дор блю, лук фри, бекон, кольца красного лука, булочка с кунжутом.</description>
+			</offer>
+			<offer id="12300" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2042</categoryId>
+				<picture>http://fasteda.ru/data/big/12300.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хэлл ролл</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, маринованый перец халапеньо, кольца красного лука, томат, листья салата, маринованые огурчики, тортилья, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12297" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2042</categoryId>
+				<picture>http://fasteda.ru/data/big/12297.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Биф ролл</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, кольца красного лука, томат, листья салата, маринованые огурчики, тортилья, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12298" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2042</categoryId>
+				<picture>http://fasteda.ru/data/big/12298.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ЧизиБиф ролл</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, американский красный сыр чеддар,  кольца красного лука, томат, листья салата, маринованые огурчики, тортилья, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12299" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2042</categoryId>
+				<picture>http://fasteda.ru/data/big/12299.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ЧизиБэкон ролл</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, американский красный сыр чеддар,  кольца красного лука, томат, листья салата, маринованые огурчики, тортилья, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12301" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2042</categoryId>
+				<picture>http://fasteda.ru/data/big/12301.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кантри ролл</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Сочная котлета из 100% говядины, американский красный сыр чеддар, бекон, лук фри, кольца красного лука, листья салата, маринованые огурчики, тортилья, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12303" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2042</categoryId>
+				<picture>http://fasteda.ru/data/big/12303.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фишролл</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Котлета из рыбного филе,  сыр моцарелла, листья салата, тортилья, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12302" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2043</categoryId>
+				<picture>http://fasteda.ru/data/big/12302.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фалафель ролл</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Фалафель, хашбрауни, американский красный сыр чеддар, томат, кольца красного лука, листья салата, маринованые огурчики, тортилья, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12304" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2043</categoryId>
+				<picture>http://fasteda.ru/data/big/12304.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вэджис бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Томат, листья салата, сыр моццарела, кольца красного лука, маринованые огурчики, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12305" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2043</categoryId>
+				<picture>http://fasteda.ru/data/big/12305.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хашбрауни бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Две картофельные котлеты хашбрауни, сыр моццарела, томат, листья салата, кольца красного лука, маринованые огурчики, булочка с кунжутом, подаётся с картофелем фри.</description>
+			</offer>
+			<offer id="12306" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2043</categoryId>
+				<picture>http://fasteda.ru/data/big/12306.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фалафель бургер</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>Фалафель, хашбрауни, американский красный сыр Чеддар, кольца красного лука, томат, листья салата, маринованные огурчики, булочка с кунжутом.</description>
+			</offer>
+			<offer id="12309" available="true">
+				<url>http://fasteda.ru/menu/grill_veggies/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2044</categoryId>
+				<picture>http://fasteda.ru/data/big/12309.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Домашний имбирный лимонад</name>
+				<vendor>Бесплатная доставка Grill&Veggies</vendor>
+				<description>(500 мл).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

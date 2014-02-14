@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-07-17 14:02">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1951">Мангал</category>
+			<category id="1952">Горячие блюда</category>
+			<category id="1948">Закуски</category>
+			<category id="1949">Первые блюда</category>
+			<category id="1943">Гарниры</category>
+			<category id="1950">Салаты</category>
+			<category id="1942">Напитки</category>
+			<category id="1944">Хлеб и Десерты</category>
+			<category id="1941">Соусы</category>
+			<category id="1953">Мясо маринованое</category>
+		</categories>
+		<offers>
+			<offer id="11525" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11525.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи гриль</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Баклажаны, кабачки, красный лук, шампиньоны, помидоры (120 гр).</description>
+			</offer>
+			<offer id="11526" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11526.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тигровые креветки</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11527" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11527.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из лосося</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Лосось, маринад, соус Вяленые томаты, лимон, зелень (150/40 гр).</description>
+			</offer>
+			<offer id="11528" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11528.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык рыбный</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(160 гр).</description>
+			</offer>
+			<offer id="11529" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11529.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форель (Морской волк, Дорадо) на гриле</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(200-350 гр).</description>
+			</offer>
+			<offer id="11530" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11530.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форель (Морской волк, Дорадо) горячего копчения</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(200-350 гр).</description>
+			</offer>
+			<offer id="11531" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11531.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из говяжей вырезки</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(180/80/40 гр).</description>
+			</offer>
+			<offer id="11532" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11532.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из говяжей вырезки с перечным маслом</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Вырезка говяжья, перечное масло, овощи гриль(150/80/40 гр).</description>
+			</offer>
+			<offer id="11533" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11533.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык из баранины на кости</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(250/80/40 гр).</description>
+			</offer>
+			<offer id="11534" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11534.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Люля-кебаб</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Баранина, свинина, лук репчатый (180/80/40 гр).</description>
+			</offer>
+			<offer id="11535" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11535.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ребра барбекю (соус барбекю)</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(200/40 гр).</description>
+			</offer>
+			<offer id="11536" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11536.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык свиной (шея)</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Соус томатная сальса, шея свиная, соус Сальса (180/40 гр).</description>
+			</offer>
+			<offer id="11537" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11537.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлык куриный (бедро)</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>С томатным соусом (180/40 гр).</description>
+			</offer>
+			<offer id="11538" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1951</categoryId>
+				<picture>http://fasteda.ru/data/big/11538.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясная тарелка к пиву на компанию</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Ребрышки, колбаски из баранины,буженина, соус (500 гр).</description>
+			</offer>
+			<offer id="11539" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11539.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гребешки морские с соусом Вяленый томат</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Гребешки, лук репчатый,томаты, масло оливковое, лимон, зелень, специи (120/30/40 гр).</description>
+			</offer>
+			<offer id="11540" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11540.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форель с фольге с овощами</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Форель, лук репчатый, томат, масло оливковое, лимон (300 гр).</description>
+			</offer>
+			<offer id="11541" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11541.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мидии с соусом Белое вино</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Мидии, микс салат, соус Белое вино, лимон (150/20/50 гр).</description>
+			</offer>
+			<offer id="11542" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11542.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мидии Гигант Киви</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Мидии, рис, майонез, масаго, унаги, микс салат, заправка, лимон (150/30 гр).</description>
+			</offer>
+			<offer id="11543" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11543.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак по-Польски с картофельным пюре</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(170/100 гр).</description>
+			</offer>
+			<offer id="11544" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11544.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак с соусом песто</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Судак, лук-порей, лимонный сок,  соус Песто, микс салат, мука, масло растительное, крем бальзамический, лимон (150/40/10 гр).</description>
+			</offer>
+			<offer id="11545" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11545.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бефстроганов из говяжьей вырезки с картофельным пюре</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Говяжья вырезка, пюре, лук репчатый, масло растительное, вино белое, томаты пронто, сливки, томаты черри, сливочное масло, зелень (150/100 гр).</description>
+			</offer>
+			<offer id="11546" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11546.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эскалоп с соусом Сальса</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Карбонат свиной, масло растительное, гарнир, соус Сальса (160/40 гр).</description>
+			</offer>
+			<offer id="11547" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11547.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиные медальоны с картофельным пюре</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Свиная вырезка, соус деми-глясс, пюре, зелень, томаты черри (150/40/100 гр).</description>
+			</offer>
+			<offer id="11548" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11548.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кура в миндале со спаржей</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Куриная грудка, миндаль, яйцо, соус тархунный, масло растительное, фасоль, спаржа, чеснок, микс салат, томат черри, лимон (150/90 гр).</description>
+			</offer>
+			<offer id="11549" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11549.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Колбаски Охотничьи (с рубленой говядиной)</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Бараний окорок в натуральной оболочке, перец сладкий, лук репчатый, чеснок (180/50/40 гр).</description>
+			</offer>
+			<offer id="11550" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11550.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти Карбонара с ветчиной</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Cпагетти, лук репчатый, ветчина, яйцо, сыр пармезан, сливки, бекон, зелень, томат черри (250 гр).</description>
+			</offer>
+			<offer id="11551" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11551.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти Карбонара с форелью</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Спагетти, лук репчатый, бекон, вино белое, яйцо, сливки,форель, пармезан (250 гр).</description>
+			</offer>
+			<offer id="11552" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11552.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени домашние</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11553" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1952</categoryId>
+				<picture>http://fasteda.ru/data/big/11553.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лагман</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Говяжья вырезка, лапша домашняя, овощи (300 гр).</description>
+			</offer>
+			<offer id="11486" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11486.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощная тарелка</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Томаты, паприка, огурец (150 гр).</description>
+			</offer>
+			<offer id="11487" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11487.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соленья</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Черемша, чеснок маринованный, капуста грузинская, огурец маринованный, перец маринованный (150 гр).</description>
+			</offer>
+			<offer id="11488" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11488.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оливки, маслины</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="11489" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11489.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рак вареный 1 шт</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11490" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11490.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тарелка Дары водоёмов (3 рака и креветки)</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11491" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11491.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырная тарелка</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Моцарелла, гауда, сыр с плесенью Кастелло Данблю (150 гр).</description>
+			</offer>
+			<offer id="11492" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11492.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясная тарелка</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Буженина, колбаса с/к , сервелат (180 гр).</description>
+			</offer>
+			<offer id="11493" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11493.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сыр жареный</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Моцарелла, панировка, яйцо, соус яблочный, мята (120 гр).</description>
+			</offer>
+			<offer id="11494" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11494.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сельдь с картофелем</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Сельдь, картофель, лук маринованный, зелень, масло растительное (150 гр).</description>
+			</offer>
+			<offer id="11495" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11495.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гротен с ветчиной</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Картофель, сливки, лук репчатый, ветчина, сыр (200 гр).</description>
+			</offer>
+			<offer id="11496" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11496.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гротен с лососем</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>картофель отварной, сливки, лук репчатый, масло растительное, сыр, лосось, зелень (200 гр).</description>
+			</offer>
+			<offer id="11497" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11497.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жульен с курой</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>лук репчатый, кура, сливки, сыр (160 гр).</description>
+			</offer>
+			<offer id="11498" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11498.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жульен с ветчиной</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>лук репчатый, ветчина, сливки, сыр (180 гр).</description>
+			</offer>
+			<offer id="11499" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11499.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жульен с лососем</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Лук репчатый, лосось, сливки, сыр(160 гр).</description>
+			</offer>
+			<offer id="11500" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11500.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Луковые кольца</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11501" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11501.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кольца кальмара в кляре</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11502" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11502.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гренки с сыром и чесноком</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(170 гр).</description>
+			</offer>
+			<offer id="11503" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11503.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чипсы</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(35 гр).</description>
+			</offer>
+			<offer id="11504" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11504.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кальмар сушеный</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(18 гр).</description>
+			</offer>
+			<offer id="11505" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11505.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сухарики</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(40 гр).</description>
+			</offer>
+			<offer id="11506" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1948</categoryId>
+				<picture>http://fasteda.ru/data/big/11506.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фисташки</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(30 гр).</description>
+			</offer>
+			<offer id="11507" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1949</categoryId>
+				<picture>http://fasteda.ru/data/big/11507.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Crawfish из раков</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>сливки, желток, мясо рака, морковь, лук репчатый, зелень, коньяк, лимон, гренки (300 гр).</description>
+			</offer>
+			<offer id="11508" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1949</categoryId>
+				<picture>http://fasteda.ru/data/big/11508.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп пюре из шпината</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Бульон куриный, сливки,шпинат,лук репчатый, паприка (300 гр).</description>
+			</offer>
+			<offer id="11509" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1949</categoryId>
+				<picture>http://fasteda.ru/data/big/11509.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Солянка мясная</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Огурцы соленые, томатная паста, лук репчатый, картофель, ветчина, сервелат, кура, говядина, чеснок, лимон, маслины, сметана, зелень)(300 гр).</description>
+			</offer>
+			<offer id="11510" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1949</categoryId>
+				<picture>http://fasteda.ru/data/big/11510.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп Харчо</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Баранина, томатная паста, лук красный репчатый, рис, тобаско (300 гр).</description>
+			</offer>
+			<offer id="11511" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1949</categoryId>
+				<picture>http://fasteda.ru/data/big/11511.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ холодный</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Свекла, огурец свежий, редис, говядина, яйцо, лук зеленый, сметана (300 гр).</description>
+			</offer>
+			<offer id="11512" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1949</categoryId>
+				<picture>http://fasteda.ru/data/big/11512.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Окрошка с квасом</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Огурец свежий, редис, говядина, яйцо, лук зеленый, сметана, квас (300 гр).</description>
+			</offer>
+			<offer id="11352" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1949</categoryId>
+				<picture>http://fasteda.ru/data/big/11352.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха по-королевски</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Форель филе, судак филе, креветки, лук репчатый, томат,картофель, соевый соус, табаско (300 гр).</description>
+			</offer>
+			<offer id="11354" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1943</categoryId>
+				<picture>http://fasteda.ru/data/big/11354.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофельные шарики</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(120 гр).</description>
+			</offer>
+			<offer id="11353" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1943</categoryId>
+				<picture>http://fasteda.ru/data/big/11353.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель Айдахо</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="11350" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1943</categoryId>
+				<picture>http://fasteda.ru/data/big/11350.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель в фольге</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Картофель в мундире, соус сметанно-чесночный (150 гр).</description>
+			</offer>
+			<offer id="11351" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1943</categoryId>
+				<picture>http://fasteda.ru/data/big/11351.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(120 гр).</description>
+			</offer>
+			<offer id="11349" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1943</categoryId>
+				<picture>http://fasteda.ru/data/big/11349.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель жареный с луком</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="11348" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1943</categoryId>
+				<picture>http://fasteda.ru/data/big/11348.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рис с овощами</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Рис, паприка, лук красный, томат, масло растительное, масло сливочное, зелень (150 гр).</description>
+			</offer>
+			<offer id="11513" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1950</categoryId>
+				<picture>http://fasteda.ru/data/big/11513.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с кальмарами</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Салат микс, лук красный, томат черри, авокадо, кунжут, заправка, кальмар, лимонный сок (180 гр).</description>
+			</offer>
+			<offer id="11514" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1950</categoryId>
+				<picture>http://fasteda.ru/data/big/11514.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с креветками</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Микс салат, тигровые креветки, томат черри, заправка (180 гр).</description>
+			</offer>
+			<offer id="11515" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1950</categoryId>
+				<picture>http://fasteda.ru/data/big/11515.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь с курой</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Салат ромен, заправка, соус, куриная грудка, пармезан, томат черри, сухарики (180 гр).</description>
+			</offer>
+			<offer id="11516" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1950</categoryId>
+				<picture>http://fasteda.ru/data/big/11516.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь с креветками</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Салат ромен, заправка, соус, тигровые креветки, пармезан, томат черри, сухарики (180 гр).</description>
+			</offer>
+			<offer id="11517" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1950</categoryId>
+				<picture>http://fasteda.ru/data/big/11517.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Оливье</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Говядина, картофель, маринованный огурец, горошек свежий зеленый, майонез, яйцо (180 гр).</description>
+			</offer>
+			<offer id="11518" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1950</categoryId>
+				<picture>http://fasteda.ru/data/big/11518.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Греческий</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Огурец свежий, томат, перец сладкий, маслины, лук-порей, сыр фета, заправка (180 гр).</description>
+			</offer>
+			<offer id="11519" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1950</categoryId>
+				<picture>http://fasteda.ru/data/big/11519.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Гнездо совы</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>Картофель фри, кура, мар. лук, яйцо, майонез, укроп (180 гр).</description>
+			</offer>
+			<offer id="11482" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11482.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свежевыжатый сок апельсин, мандарин, грейпфрут  0,5 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11483" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11483.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс ягодный 0,5 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11484" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11484.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Квас домашний 0,5 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11340" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11340.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок Rich в ассортименте 1 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11344" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11344.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Холодный чай Нести в ассортименте 0,6 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11342" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11342.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-кола, Фанта, Спрайт 0,5 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11343" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11343.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепси-кола, 7Up, Миринда 0,33 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11345" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11345.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бон Аква 0,6 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11346" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11346.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода Perrier 0,2 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11347" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11347.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода Perrier 0,33 л (лимон, лайм)</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11485" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1942</categoryId>
+				<picture>http://fasteda.ru/data/big/11485.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральня вода Perrier 1 л</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11520" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1944</categoryId>
+				<picture>http://fasteda.ru/data/big/11520.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Штрудель яблочный</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="11521" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1944</categoryId>
+				<picture>http://fasteda.ru/data/big/11521.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк шоколадный</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="11522" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1944</categoryId>
+				<picture>http://fasteda.ru/data/big/11522.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк New-York</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="11523" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1944</categoryId>
+				<picture>http://fasteda.ru/data/big/11523.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Торт Лесные ягоды</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="11524" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1944</categoryId>
+				<picture>http://fasteda.ru/data/big/11524.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадная трилогия</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="11356" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1944</categoryId>
+				<picture>http://fasteda.ru/data/big/11356.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тирамису</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="11355" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1944</categoryId>
+				<picture>http://fasteda.ru/data/big/11355.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хлебная корзинка с зеленым маслом</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(120 гр).</description>
+			</offer>
+			<offer id="11339" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1941</categoryId>
+				<picture>http://fasteda.ru/data/big/11339.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус Наршараб гранатовый</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(40 гр).</description>
+			</offer>
+			<offer id="11338" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1941</categoryId>
+				<picture>http://fasteda.ru/data/big/11338.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус Вяленые томаты</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(40 гр).</description>
+			</offer>
+			<offer id="11337" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1941</categoryId>
+				<picture>http://fasteda.ru/data/big/11337.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус чили</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(40 гр).</description>
+			</offer>
+			<offer id="11336" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1941</categoryId>
+				<picture>http://fasteda.ru/data/big/11336.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус чесночный</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(40 гр).</description>
+			</offer>
+			<offer id="11335" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1941</categoryId>
+				<picture>http://fasteda.ru/data/big/11335.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус Тар тар</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(40 гр).</description>
+			</offer>
+			<offer id="11334" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1941</categoryId>
+				<picture>http://fasteda.ru/data/big/11334.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус барбекю</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(40 гр).</description>
+			</offer>
+			<offer id="11333" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1941</categoryId>
+				<picture>http://fasteda.ru/data/big/11333.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус томатный </name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>(40 гр).</description>
+			</offer>
+			<offer id="11554" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1953</categoryId>
+				<picture>http://fasteda.ru/data/big/11554.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свинина (шея) 1 кг</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11555" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1953</categoryId>
+				<picture>http://fasteda.ru/data/big/11555.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бедро цыпленка б/к 1 кг</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11556" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1953</categoryId>
+				<picture>http://fasteda.ru/data/big/11556.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Говяжья вырезка 1 кг</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11557" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1953</categoryId>
+				<picture>http://fasteda.ru/data/big/11557.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баранина на косточке 1 кг</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11558" available="true">
+				<url>http://fasteda.ru/menu/tavern_crawfish/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1953</categoryId>
+				<picture>http://fasteda.ru/data/big/11558.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рыба ассорти (семга, судак) 1 кг</name>
+				<vendor>Доставка морской кухни из таверны Crawfish</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

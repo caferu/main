@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="525">Лапша</category>
+			<category id="336">Блюда из птицы</category>
+			<category id="333">Блюда из свинины</category>
+			<category id="332">Блюда из овощей</category>
+			<category id="337">Блюда из рыбы и даров моря</category>
+			<category id="334">Блюда из говядины</category>
+			<category id="335">Блюда из баранины</category>
+			<category id="329">Мясные закуски</category>
+			<category id="327">Салаты</category>
+			<category id="339">Супы</category>
+			<category id="338">Гарниры</category>
+			<category id="341">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="3413" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>525</categoryId>
+				<picture>http://fasteda.ru/data/big/3413.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фирменная лапша с говядиной 0621 </name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Фирменная лапша, нежная говядина, морковь, огурцы, болгарский перец, проросшие ростки МАША. Неострое блюдо с бобовым соусом! (480 гр).</description>
+			</offer>
+			<offer id="3414" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>525</categoryId>
+				<picture>http://fasteda.ru/data/big/3414.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фирменная лапша с тигровыми креветками 0622</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>фирменная лапша, 4 больших тигровых креветки, ароматные грибы Сян-Гу, морковь, огурцы, болгарский перец, проросшие ростки МАША. Неострое блюдо с чесночно-имбирным соусом ( 480 гр).</description>
+			</offer>
+			<offer id="3415" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>525</categoryId>
+				<picture>http://fasteda.ru/data/big/3415.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фирменная лапша со свининой 0623</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Фирменная лапша, свинина,  морковь, огурцы, болгарский перец, проросшие ростки МАША. Неострое блюдо с фирменной заправкой (480 гр).</description>
+			</offer>
+			<offer id="3416" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>525</categoryId>
+				<picture>http://fasteda.ru/data/big/3416.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фирменная лапша с курицей 0624</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>фирменная лапша, курица, ароматные грибы Сян-Гу, морковь, огурцы, болгарский перец, проросшие ростки МАША. Неострое блюдо с чесночно-имбирным соусом(480 гр).</description>
+			</offer>
+			<offer id="2356" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>336</categoryId>
+				<picture>http://fasteda.ru/data/big/2356.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сянгу-Цзыпянь  Филе куры с грибами Сян-Гу 035</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Кусочки мяса цыпленка, обжаренные с ароматными грибами «Сян-Гу» и овощами. Неострое блюдо с чесночно-имбирным соусом (300 гр.).</description>
+			</offer>
+			<offer id="2393" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>336</categoryId>
+				<picture>http://fasteda.ru/data/big/2393.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Яогуо-Цзидин  Филе куры с кешью 036</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареные кубики из белого мяса цыпленка с орехами кешью и болгарским перцем. Неострое блюдо с чесночно-имбирным соусом (300 гр.).</description>
+			</offer>
+			<offer id="2394" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>336</categoryId>
+				<picture>http://fasteda.ru/data/big/2394.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гулао-Цзи  Филе куры с ананасом 037</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Всеми известное ГУЛАО-ЦЗИ из белого куриного мяса в легком кляре с ананасом поливается изысканным фирменным кисло-сладким соусом. Неострое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2395" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>336</categoryId>
+				<picture>http://fasteda.ru/data/big/2395.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гунбао-Цзидин  Филе куры по-Гунбао 038</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легендарный ГУНБАО-ЦЗИДИН известен всем как острая курица с арахисом. Наши повара максимально сохранили традиционный вкус этого блюда таким, каким он был 2000 назад. Острое блюдо с чесночно-имбирным соусом. (300 гр.).</description>
+			</offer>
+			<offer id="2396" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>336</categoryId>
+				<picture>http://fasteda.ru/data/big/2396.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мала-Цзыси Острые куриные нити с душистым перцем 071</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Тонко нарезанное филе цыпленка в сочетании с побегами бамбука и болгарским перцем. Острое блюдо с чесночно-имбирным соусом (300 гр.).</description>
+			</offer>
+			<offer id="2353" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2353.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Муэр-Цаожоу  Свинина с  древесными грибами 015</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареное филе свинины с черными древесными грибами.Неострое блюдо с соевой заправкой (300 гр.).</description>
+			</offer>
+			<offer id="2374" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2374.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хуалю-Лицзы  Свинина с овощами 016</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареное филе свинины с шампиньоном и болгарским перцем. Неострое блюдо с чесночно-соевой заправкой (300 г).</description>
+			</offer>
+			<offer id="2375" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2375.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Танцу-Лицзи  Свинина в кисло-сладком соусе 017</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легендарная, всеми известная, свинина в кисло-сладком соусе. Неострое блюдо (300 г).</description>
+			</offer>
+			<offer id="2376" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2376.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лю-Жуодуань  Свинина в соевом соусе 018</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Нежные кусочки свинины в кляре поливается в соевом соусе. Неострое блюдо (300 г).</description>
+			</offer>
+			<offer id="2377" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2377.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гулоа-Жоу Свинина с ананасом 019</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Первое и самое великолепное блюдо, где сошлись мясо с фрукты. Отведайте вкус настоящего «ГУЛАО-ЖОУ». Неострое блюдо с кисло-сладким вкусом (300 г) .</description>
+			</offer>
+			<offer id="2378" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2378.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цзинцзян-Жоусы Свинина в сладком мучном соусе 020</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Соломки свинины в слегка сладковатом мучном соусе со свежими огурчиками. Неострое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2379" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2379.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Донсун-Жоусы Свинина с побегами бамбука 021</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Соломки свинины с тонко нарезанными побегами бамбука. Оригинальный вкус этого блюда трудно описать словами… Неострое блюдо с чесночно-имбирным соусом (300 гр.).</description>
+			</offer>
+			<offer id="2380" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2380.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суаньла-Дупянь Свиной желудок в кисло-остром соусе 022</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареные кусочки свиного желудка с болгарским перцем в кисло-остром соусе. Отличное блюдо для любителей остроты и экзотики. Острое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2381" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2381.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чечжи-Дупянь Свиной желудок в кисло-сладком соусе 023</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареные кусочки свиного желудка с болгарским перцем в кисло-сладком соусе. Неострое блюдо(300 гр.).</description>
+			</offer>
+			<offer id="2382" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>333</categoryId>
+				<picture>http://fasteda.ru/data/big/2382.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ланхуа-Чжужоу Свинина с брокколи 068</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Кусочки свинины с брокколи и болгарским перцем. Неострое блюдо с соевой заправкой (300 гр.) .</description>
+			</offer>
+			<offer id="2352" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>332</categoryId>
+				<picture>http://fasteda.ru/data/big/2352.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чао-Доуя  Жареные ростки маша 052</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Витаминные ростки маша, приготовленные в высокотемпературном режиме с добавлением болгарского перца и лука. Слабоострое блюдо с легким вкусом (300 гр.).</description>
+			</offer>
+			<offer id="2366" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>332</categoryId>
+				<picture>http://fasteda.ru/data/big/2366.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Доу-Фу по-домашнему 053</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Соевый сыр «Доу-Фу» с овощами. Отличное блюдо для любителей соевых продуктов. Неострое блюдо с соевой заправкой (300 гр.).</description>
+			</offer>
+			<offer id="2367" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>332</categoryId>
+				<picture>http://fasteda.ru/data/big/2367.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мапо-Доуфу  Острый Доуфу  054</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Соевый сыр «Доу-Фу» с овощами в остром соусе. Острое блюдо c
+ чесночно-имбирной заправкой (300 гр.).</description>
+			</offer>
+			<offer id="2368" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>332</categoryId>
+				<picture>http://fasteda.ru/data/big/2368.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суаньла-Байцай  Китайская капуста в кисло-остром соусе 055</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Китайская капуста в традиционном кисло-остром соусе. Острое блюдо с кисло-острым вкусом (300 гр.).</description>
+			</offer>
+			<offer id="2369" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>332</categoryId>
+				<picture>http://fasteda.ru/data/big/2369.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Дисань-Сянь Овощная тройка  056</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Великолепное сочетание трех овощей с соевой подливкой. Неострое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2370" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>332</categoryId>
+				<picture>http://fasteda.ru/data/big/2370.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шао-Чецзы  Баклажаны в соевом соусе 057</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Мягкие баклажаны в тонкой корочке с соевой подливкой. Болгарский перец и лук делает это блюдо еще более изумительным! Неострое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2371" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>332</categoryId>
+				<picture>http://fasteda.ru/data/big/2371.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чечжи-Чецзы Баклажаны в кисло-сладком соусе 058</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Мягкие баклажаны в тонкой корочке в фирменном кисло-сладком соусе с болгарским перцем и луком. Неострое блюдо (300 г) .</description>
+			</offer>
+			<offer id="2372" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>332</categoryId>
+				<picture>http://fasteda.ru/data/big/2372.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Яогоу-Сичинь Кешью с сельдереем 074</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легкая диетическая закуска из кешью и стебля сельдерея. Неострое блюдо с лёгким вкусом (300 г).</description>
+			</offer>
+			<offer id="2373" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>332</categoryId>
+				<picture>http://fasteda.ru/data/big/2373.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ганьчжа-Сяньмо  Хрустящие шампиньоны  076</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Кусочки шампиньона, обжаренные в легком кляре и заправленные кунжутной приправой. Отличная диетическая закуска к праздничному столу! Неострое блюдо (220 г).</description>
+			</offer>
+			<offer id="2357" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2357.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Танцу-Юй  Филе рыбы в  кисло-сладком соусе 039</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареное филе судака в легком кляре в фирменном кисло-сладком соусе. Неострое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2397" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2397.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ганьчжа-Юй  Хрустящая рыба 040</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Нежное филе судака с хрустящей корочкой, заправленное кунжутной приправой. Неострое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2398" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2398.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хаою-Юйпянь  Филе рыбы в масле устрицы 041</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Тонкое филе судака в легком кляре с овощами под пикантным чесночно-имбирным соусом. Неострое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2399" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2399.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баочао-Ю-Юй  Жареное филе кальмара с овощами 043</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>«Ежики» из кальмаров, обжаренные с побегами бамбука и болгарским перцем. Неострое блюдо с чесночно-имбирным соусом (300 гр.).</description>
+			</offer>
+			<offer id="2400" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2400.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сичинь-Сяжэнь  Креветки с сельдереем 044</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Маленькие очищенные креветки в легком кляре обжариваются со стеблем сельдерея и болгарским перцем. Неострое блюдо с чесночно-имбирным соусом (300 гр.).</description>
+			</offer>
+			<offer id="2401" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2401.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жуаньчжа-Сяжэнь  Креветки в кляре 045</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Маленькие очищенные креветки в легком кляре, заправленные кунжутной приправой - отличная закуска к пиву! Неострое блюдо с хрустящей корочкой (220 гр.).</description>
+			</offer>
+			<offer id="2402" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2402.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баочао-Дася  Жареные тигровые креветки 046</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>12 тигровых креветок в легком кляре вместе побегами бамбука и болгарским перцем обжариваются в фирменном пикантном чесночно-имбирном соусе. Неострое блюдо (300 гр.)
+.</description>
+			</offer>
+			<offer id="2403" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2403.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хаоюй-Сяньбэй  Королевские гребешки в масле устрицы 051</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Целиковые королевские гребешки, обжаренные с побегами бамбука, болгарским перцем и устричным маслом. Неострое блюдо с чесночно-имбирным соусом (300 гр.).</description>
+			</offer>
+			<offer id="2404" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2404.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Яогуо-Сяжэнь  Креветки с кешью 072</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Маленькие очищенные креветки в легком кляре, обжаренные с кешью, побегами бамбука и болгарским перцем. Неострое блюдо с чесночно-имбирным соусом (300 гр.).</description>
+			</offer>
+			<offer id="2405" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2405.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ганьбянь-Ю-Юй  Кальмары во фритюре  073</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Ломтики кальмара во фритюре с сельдереем и болгарским перцем обжариваются в пикантном чесночно-имбирном соусе с добавлением перца чили. Острое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2406" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>337</categoryId>
+				<picture>http://fasteda.ru/data/big/2406.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>(фирменное блюдо) Вапянь-Юй «Окунь по-Нанкински 077</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Нежное филе морского окуня, обжаренное с молодыми побегами бамбука, луком, болгарским перцем, брокколи а также грибами «Цао-Гу» - лучшее сочетание полезных ингредиентов к праздничному столу. Неострое блюдо с чесночно-имбирным соусом (400 гр.).</description>
+			</offer>
+			<offer id="2354" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>334</categoryId>
+				<picture>http://fasteda.ru/data/big/2354.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шао Нюлю  Жареная говядина 024</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареное филе говядина с шампиньоном и болгарским перцем. Неострое блюдо с соевой заправкой (300 гр.).</description>
+			</offer>
+			<offer id="2383" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>334</categoryId>
+				<picture>http://fasteda.ru/data/big/2383.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сичинь-Нюжоу Говядина с сельдереем 025</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Филе говядины со стеблем сельдерея и болгарским перцем. Неострое блюдо с соевой заправкой (300 г).</description>
+			</offer>
+			<offer id="2384" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>334</categoryId>
+				<picture>http://fasteda.ru/data/big/2384.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чицзяо-Нюжоу  Говядина с пикантным бобовым вкусом 026</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Нежная говядина с овощами, заправленная оригинальным бобовым соусом. Слабоострое блюдо с бобовым вкусом (300 гр.).</description>
+			</offer>
+			<offer id="2385" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>334</categoryId>
+				<picture>http://fasteda.ru/data/big/2385.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мала-Нюжоу  Говядина с душистым перцем 027</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареная говядина с болгарским перцем и шампиньоном, заправленная душистым перцем, что придает ей небольшую пряную остроту. Слабоострое блюдо с пряно-жгучим вкусом (300 гр.).</description>
+			</offer>
+			<offer id="2386" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>334</categoryId>
+				<picture>http://fasteda.ru/data/big/2386.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чечжи-Нюжоу Говядина в кисло-сладком соусе 029</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Нежное филе говядина в кисло-сладком соусе с овощами. Неострое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2387" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>334</categoryId>
+				<picture>http://fasteda.ru/data/big/2387.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цунбао-Нюжоу  Говядина с луком 064</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Говядина, обжаренная с луком и болгарским перцем. Неострое блюдо с соевой заправкой (300 гр.).</description>
+			</offer>
+			<offer id="2355" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>335</categoryId>
+				<picture>http://fasteda.ru/data/big/2355.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цунбао-Янжоу  Баранина с луком 030</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Баранина, обжаренная с луком и болгарским перцем. Неострое блюдо с соевой заправкой (300 гр.).</description>
+			</offer>
+			<offer id="2388" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>335</categoryId>
+				<picture>http://fasteda.ru/data/big/2388.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чицзяо-Янжоу  Баранина с пикантным бобовым вкусом 031</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Нежная баранина с овощами, заправленная оригинальным бобовым соусом. Слабоострое блюдо с бобовым вкусом (300 гр.).</description>
+			</offer>
+			<offer id="2389" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>335</categoryId>
+				<picture>http://fasteda.ru/data/big/2389.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>(фирменное блюдо) Чао-Каожоу  Огненная баранина 033</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Сочные кусочки баранины в сочетании с перцем чили и болгарским перцем обжариваются при высокотемпературном режиме по старейшему уйгурскому рецепту – это блюдо настоящий праздник для любителей острых ощущений. Очень острое блюдо с 15 приправами и травами (300 гр.).</description>
+			</offer>
+			<offer id="2390" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>335</categoryId>
+				<picture>http://fasteda.ru/data/big/2390.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мала-Янжоу Баранина с душистым перцем 034</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареная говядина с болгарским перцем и шампиньоном, заправленная душистым перцем, что придает ей небольшую пряную остроту. Слабоострое блюдо (300 гр.).</description>
+			</offer>
+			<offer id="2391" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>335</categoryId>
+				<picture>http://fasteda.ru/data/big/2391.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цзыжань-Янжоу  Баранина с тмином 069</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареные кусочки баранины с шампиньоном и болгарским перцем, заправленные тмином.Слабоострое блюдо, сухая жарка (300 гр.).</description>
+			</offer>
+			<offer id="2392" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>335</categoryId>
+				<picture>http://fasteda.ru/data/big/2392.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ланхуа-Янжоу  Баранина с брокколи 070</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареное филе баранины с брокколи и болгарским перцем. Неострое блюдо с соевой заправкой (300 гр.) .</description>
+			</offer>
+			<offer id="2340" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>329</categoryId>
+				<picture>http://fasteda.ru/data/big/2340.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цзи-Чжэнь Куриный желудок по  императорскому рецепту 009</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Кусочки куриных желудков, приготовленные по-старому императорскому рецепту на основе крем-бульона из десяти пряностей, трав и приправ, подается с нарезанными свежими огурчиками и морковкой. Прекрасная закуска к пиву. Неострое блюдо с легким вкусом (120 гр.).</description>
+			</offer>
+			<offer id="2341" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>329</categoryId>
+				<picture>http://fasteda.ru/data/big/2341.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чжу-Шэ Свиной язык по императорскому рецепту 011</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Кусочки свиного языка, приготовленные по-старому императорскому рецепту на основе крем-бульона из десяти пряностей, трав и приправ, подается с нарезанными свежими огурчиками и морковкой. Великолепная закуска к пиву. Неострое блюдо с легким вкусом (120 гр.).</description>
+			</offer>
+			<offer id="2342" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>329</categoryId>
+				<picture>http://fasteda.ru/data/big/2342.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чжу-Ду Свиной желудок по императорскому рецепту 012</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Тонко нарезанный свиной желудок, заправленный ароматным острым маслом в сочетании со свежими огурчиками, морковкой и болгарским перцем. Великолепная мясная закуска для любителей свиных субпродуктов. Острое блюдо с легким вкусом (160 гр.).</description>
+			</offer>
+			<offer id="2362" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>329</categoryId>
+				<picture>http://fasteda.ru/data/big/2362.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чжу-Эр Свиные ушки по императорскому рецепту 013</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Тонко нарезанные хрустящие свиные ушки, приготовленные по старинному императорскому рецепту, подается с соусом на основе крем-бульона из десяти пряностей, трав и приправ и свежим зеленым лучком .Неострое блюдо с легким вкусом (120 гр.).</description>
+			</offer>
+			<offer id="2363" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>329</categoryId>
+				<picture>http://fasteda.ru/data/big/2363.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Нью-Жоу Говядина по императорскому рецепту 014</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Ломтики нежной говядины, приготовленные по старинному императорскому рецепту и украшены свежей зеленью и лучком – отличная закуска к крепким алкогольным напиткам.Неострое блюдо с легким вкусом (120 гр.).</description>
+			</offer>
+			<offer id="2364" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>329</categoryId>
+				<picture>http://fasteda.ru/data/big/2364.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ю-Юй Салат из филе кальмара 066</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Ломтики нежной говядины, приготовленные по старинному императорскому рецепту и украшены свежей зеленью и лучком – отличная закуска к крепким алкогольным напиткам.Острое блюдо с легким вкусом (120 гр.).</description>
+			</offer>
+			<offer id="2365" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>329</categoryId>
+				<picture>http://fasteda.ru/data/big/2365.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шэнцай-Цзи Запеченная курица в салате 067</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Нежное белое мясо цыпленка со свежими листьями салата и болгарский перец.Неострое блюдо с легким вкусом (120 гр.).</description>
+			</offer>
+			<offer id="2333" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>327</categoryId>
+				<picture>http://fasteda.ru/data/big/2333.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>«Хайдай-Сы»  Салат из морской капусты 001</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легкий витаминный салат из морской капусты с тонко нарезанными огурчиками и морковкой. Слабоострое блюдо с лёгким вкусом (160 гр.).</description>
+			</offer>
+			<offer id="2334" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>327</categoryId>
+				<picture>http://fasteda.ru/data/big/2334.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хуан-Гуа  Салат из свежих огурцов и помидоров 002</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легкий диетический салат из свежих огурчиков и помидоров. Неострое блюдо с легким вкусом (160 гр.).</description>
+			</offer>
+			<offer id="2335" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>327</categoryId>
+				<picture>http://fasteda.ru/data/big/2335.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фенчоза Салат из  прозрачной лапши 003</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Салат из самого популярного ингредиента Поднебесной «Фенчоза» (рисовой лапши), приготовленный в старой традиции с огурчиками и морковкой. Салат «Фенчоза» пользуется особой популярностью как в самом Китае, так и за ее пределами. Неострое блюдо с легким вкусом (160 гр.).</description>
+			</offer>
+			<offer id="2336" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>327</categoryId>
+				<picture>http://fasteda.ru/data/big/2336.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фучжу Салат из соевой спаржи 004</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Салат из соевой спаржи «Фучжу» не только богата витаминами, кальцием, железом и калием, но и невероятно пикантна и приятна на вкус. А свежие огурчики, морковь и помидоры делают этот салат еще более свежим. Неострое блюдо с легким вкусом (160 гр.)
+
+.</description>
+			</offer>
+			<offer id="2337" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>327</categoryId>
+				<picture>http://fasteda.ru/data/big/2337.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цзиньчжэнь-Гу Салат из горных грибов  006</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легкий грибной салат с прозрачной лапшой «Фенчоза» и свежими огурчиками и помидорами. На вид горные грибы напоминает скорее лапшу чем привычные нам грибы. Но когда Вы их попробуйте, то поймете что это настоящие грибы из Поднебесной. Неострое блюдо с легким вкусом (160 гр.).</description>
+			</offer>
+			<offer id="2338" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>327</categoryId>
+				<picture>http://fasteda.ru/data/big/2338.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Му-Эр Салат из  древесных грибов  007</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легкий витаминный салат из традиционных черных древесных грибов с добавлением свежих огурчиков и морковки. Древесные грибы богаты белком, витаминами С и группы В. В них есть большинство микроэлементов, необходимых человеку, причём в значительных количествах. В них в два раза больше кальция, фосфора и железа, чем в любом мясе - курином, свином, говяжьем. Салат из древесных грибов может стать одним из основных компонентов питания людей всех возрастов. Неострое блюдо с легким вкусом (130 гр.)
+.</description>
+			</offer>
+			<offer id="2339" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>327</categoryId>
+				<picture>http://fasteda.ru/data/big/2339.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сян-Гу Салат из грибов Сян-Гу  008</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легкий салат из грибов «Сян-Гу», что в переводе с китайского языка означает «ароматные грибы». Неострое блюдо с легким вкусом (160 гр.).</description>
+			</offer>
+			<offer id="2351" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>327</categoryId>
+				<picture>http://fasteda.ru/data/big/2351.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Доу-Я Салат из проросших ростков маша 065</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легкий диетический салат из витаминных ростков бобов «Маша» в сочетании с тонко нарезанными огурчиками, морковкой и болгарским перцем.Неострое блюдо с легким вкусом (160 гр.).</description>
+			</offer>
+			<offer id="2359" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>339</categoryId>
+				<picture>http://fasteda.ru/data/big/2359.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суаньла-Тан  Кисло-острый суп  083</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Традиционный китайский кисло-острый суп со свежими помидорами и огурчиками на основе яичного бульона, заправленный ароматным укропом. Острое блюдо (250 гр.).</description>
+			</offer>
+			<offer id="2411" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>339</categoryId>
+				<picture>http://fasteda.ru/data/big/2411.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цзидань-Тан  Суп с яйцом и помидором 084</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легкий суп со свежими помидорами и огурчиками на основе яичного бульона, заправленный ароматным укропом и кунжутным маслом. Неострое блюдо с легким вкусом (250 гр.).</description>
+			</offer>
+			<offer id="2412" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>339</categoryId>
+				<picture>http://fasteda.ru/data/big/2412.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Муэр-Тан  Суп с древесными грибами 085</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Легкий суп со свежими помидорами, древесными грибами и огурчиками на основе яичного бульона, заправленный ароматным укропом и кунжутным маслом. Неострое блюдо с лёгким вкусом (250 гр.).</description>
+			</offer>
+			<offer id="2413" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>339</categoryId>
+				<picture>http://fasteda.ru/data/big/2413.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хайсань-Тан  Суп с  морепродуктами 086</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Освежающий суп с дарами моря в прекрасном сочетании со взбитым куриным яйцом и свежими огурчиками, заправленный укропом и кунжутным маслом. Неострое блюдо с лёгким вкусом. (250 гр.).</description>
+			</offer>
+			<offer id="2358" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>338</categoryId>
+				<picture>http://fasteda.ru/data/big/2358.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ми-Фань  Рис отварной 060</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Традиционный китайский отварной 
+рис (150 гр.)
+.</description>
+			</offer>
+			<offer id="2407" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>338</categoryId>
+				<picture>http://fasteda.ru/data/big/2407.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чао-Фань  Рис жареный 061</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареный рис с овощами (180 гр.).</description>
+			</offer>
+			<offer id="2409" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>338</categoryId>
+				<picture>http://fasteda.ru/data/big/2409.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>МАНТОУ Пампушка 063</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Традиционная китайская жареная пампушка (70 гр.).</description>
+			</offer>
+			<offer id="2410" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>338</categoryId>
+				<picture>http://fasteda.ru/data/big/2410.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сяжэнь-Чаофань  Рис жареный с креветками 078</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>Жареный рис с овощами и маленькими креветками. (180 гр.).</description>
+			</offer>
+			<offer id="2361" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2361.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>PEPSI 0,6 л.   701</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2414" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2414.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>AQUA MINERALE газ. 0,6 л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2415" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>35</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2415.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>AQUA MINERALE негаз. 0,6 л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2416" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2416.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>EVIAN негаз. 0,33 л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2417" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2417.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>PERRIER газ. 0,33 л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2418" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2418.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>PEPSI стекло 0,25 л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2419" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2419.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>MIRINDA 0,6 л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2420" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2420.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>7 UP 0,6 л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2421" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2421.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Липтон АйсТи  лимон 0,6л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2422" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2422.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Я Апельсин 1л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2423" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2423.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Я Яблоко 1л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2424" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2424.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Я Томат 1л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2425" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2425.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Я Персик 1л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2426" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2426.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Я Вишня 1л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2427" available="true">
+				<url>http://fasteda.ru/menu/fengshui/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>341</categoryId>
+				<picture>http://fasteda.ru/data/big/2427.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Я Ананас 1л.</name>
+				<vendor>Фен Шуй - доставка истинной китайской еды</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

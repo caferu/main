@@ -1,0 +1,3071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-12 05:21">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="2098">Пицца, лазанья</category>
+			<category id="2099">Cалаты Лэнд</category>
+			<category id="2100">Вторые блюда Лэнд</category>
+			<category id="2101">Гарниры Лэнд</category>
+			<category id="2102">Бизнес-ланчи Лэнд</category>
+			<category id="2103">Супы Лэнд</category>
+			<category id="2104">Умный рацион</category>
+			<category id="2105">Пироги</category>
+			<category id="2106">Блинчики Лэнд</category>
+			<category id="2107">Выпечка Лэнд</category>
+		</categories>
+		<offers>
+			<offer id="12835" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12835.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лазанья с грибами и беконом 320г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Сочная лазанья с ароматными шампиньонами и сырокопченым беконом, пропитанная сливочным соусом и наполненная сыром моцарелла, - вкусное итальянское блюдо для всех членов семьи! Порадуйте своих близких аппетитной лазаньей, приготовленной с любовью к италья
+
+Состав
+Лазанья со сливочным соусом, бекон с/к, сыр пармезан/ГранаПадана, базилик свежий,соль, специи, сыр моцарелла для пиццы, грибы шампиньоны свежие
+
+Энергетическая ценность
+В 100 гр:107,7кКал.</description>
+			</offer>
+			<offer id="12836" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12836.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лазанья Болоньезе 330г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Классическое итальянское блюдо, которое порадует всех членов семьи! Тонкие пластинки теста, пропитанные соусом болоньезе, нежный сыр моцарелла и свежий базилик - вот, что делает лазанью такой вкусной и питательной! 
+
+Состав
+Лазанья с соусом болоньез, соус томатный, сыр пармезан/ГранаПадана, базилик свежий, соль,специи, сыр моцарелла для пиццы
+
+Пищевая ценность
+Белки-8,40, Углеводы-16,8г., жиры-6г.
+
+Энергетическая ценность
+В 100 гр: 154,8кКал.</description>
+			</offer>
+			<offer id="12837" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12837.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Феттучини Сальмоне с лососем и шпинатом 280г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Хотите насладиться изысканным блюдом? Тогда попробуйте феттучини Сальмоне с лососем и шпинатом. Паста в сливочном соусе, нежные ломтики лосося и листья шпината, приправленные чесноком, базиликом и, конечно, тертым пармезаном. Пальчики оближешь!
+
+Состав
+Паста в сливочном соусе, кусочки филе лосося, вино белое для кухни, чеснок, сыр пармезан/ГранаПадана, масло оливковое, шпинат, соль, базилик свежий, специи
+
+Пищевая ценность
+Белки-8,70г., Углеводы-14,20г., жиры-5,8 г.
+
+Энергетическая ценность
+В 100 гр: 139кКал.</description>
+			</offer>
+			<offer id="12838" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12838.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лазанья вегетарианская 330г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Вегетарианская лазанья - это невероятно вкусное блюдо, которое порадует всех членов семьи! Тонкие пластинки теста, пропитанные соусом и овощами, с аппетитной корочкой пармезана - что может быть вкуснее! Наслаждайтесь ресторанной кухней у себя дома!
+
+Состав
+Тесто для пасты, масло оливковое, базилик свежий, соус томатный, овощи обжаренные, сыр моцарелла для пиццы, соль, специи, сыр пармезан/ГранаПадана
+
+Пищевая ценность
+Белки-1,9., Углеводы-1,7г., жиры-4,3г.
+
+Энергетическая ценность
+В 100 гр: 47,7кКал.</description>
+			</offer>
+			<offer id="12839" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12839.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пицца с морепродуктами 320г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Пицца с морепродуктами - это вкусный привет из солнечной Италии! Что может быть лучше сочных креветок, кальмаров, мяса мидий в сочетании с нежной моцареллой, соусом и зеленью. Особую пикантность пицце придают вино, лимон и сельдерей. Устоять невозможно!
+
+Состав
+Основа: вода, мука, дрожжи, оливковое масло, соль. Начинка: креветки коктельные в/м очищенные, кальмар, зелень свежая,вино белое для кухни,лимон,стебель сельдерея, зелень сушеная, мясо мидии в/м, сыр моцарелла для пиццы, соус томатный, специи
+
+Пищевая ценность
+Белки-10,33 г., Углеводы-23,72г., жиры-11,10г.
+
+Энергетическая ценность
+В 100 гр: 244кКал
+
+Условия хранения
+Хранить в прохладном и сухом месте.</description>
+			</offer>
+			<offer id="12840" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12840.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пицца Милано 340г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Эта пицца сочетает в себе лучшие ингредиенты! Мягкое тесто, пикантный томатный соус, салями Наполи с подкопченным вкусом, сыровяленая салями Спьянта, зелень и специи - все это пицца &amp;quot;Милано&amp;quot;! Каждый кусочек просто тает во рту!
+
+Состав
+Основа: мука пшеничная, мука для пиццы, вода, дрожжи, масло оливковое, соль. Начинка: зелень сушеная,колбаса Салями Наполи, колбаса Салями Спьянта, сыр Моцарелла для пиццы, соус томатный, специи
+
+Условия хранения
+Хранить в прохладном и сухом месте.</description>
+			</offer>
+			<offer id="12841" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12841.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пицца Четыре сыра 320г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Эта пицца представляет собой пикантное сочетание мягкого теста и четырех сортов сыра - мягкой Моцареллы, сыра с голубой плесенью Дор Блю, нежного Бри Камамбер и твердого Пармезана. Пицца &amp;quot;Четыре сыра&amp;quot; - для самых искушенных гурманов!
+
+Состав
+Основа: дрожжи, сахар, молоко,мука, растительное масло, яйцо, соль. Начинка: сыры - моцарелла для пиццы, сыр Блю, сыр Бри Камамбер, сыр пармезан/Грана Падана, зелень, специи, помидоры Черри
+
+Пищевая ценность
+Белки-11,50 г., Углеводы-27,22г., жиры-12,21г.
+
+Энергетическая ценность
+В 100 гр: 276,59кКал
+
+Условия хранения
+Хранить в прохладном и сухом месте.</description>
+			</offer>
+			<offer id="12842" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12842.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пиццетта с лососем шеф-посола 320г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Хотите удивить гостей? Тогда смело заказывайте вкусную мини-пиццу с лососем, которая станет отличной закуской на любой вечеринке. На тонком тесте - нежный лосось слабой соли, красный лук, моцарелла и свежая зелень. Все это приправлено сметанным соусом. П
+
+Состав
+Основа: мука, вода, сухие дрожжи, сахар, оливковое масло, соль. Начинка: сметанный соус, лосось с/с, лук репчатый красный, зелень свежая, специи, сыр моцарелла для пиццы
+
+Пищевая ценность
+Белки-5,80г., Углеводы-28,58г., жиры-4,03 г.
+
+Энергетическая ценность
+В 100 гр: 146кКал.</description>
+			</offer>
+			<offer id="12843" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12843.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пицца Барбекю 420г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Мягкое тесто и сочная начинка - главные достоинства этой пиццы. В ней удачно сочетаются: нежная кура, пикантный бекон, мягкая свинина, ароматные шампиньоны, маринованный лук, сыр моцарелла и, конечно, барбекю-соус. Получайте от еды удовольствие с пиццей 
+
+Состав
+Основа: молоко, дрожжи, растительное масло, кефир, белок, мука, сахар соль. Начинка: свинина BBQ п/ф, кура грудка BBQ п/ф, бекон с/к,соус BBQ п/ф,соус томатный, грибы шампиньоны свежие, сыр моцарелла для пиццы, специи, лук маринованный
+
+Пищевая ценность
+Белки-8 г., Углеводы-29г., жиры-16г.
+
+Энергетическая ценность
+В 100 гр: 338кКал
+
+Условия хранения
+Хранить в прохладном и сухом месте.</description>
+			</offer>
+			<offer id="12844" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12844.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пицца Пеперони 290г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Эта вкусная пицца приготовлена по традиционному итальянскому рецепту. Пикантные кусочки колбасы Пеперони утопают в мягком сыре моцарелла. Особый шарм пицце придают сладкий перец и, конечно, томатный соус. &amp;quot;Пеперони&amp;quot; - для семейного ужина или вечеринки!
+
+Состав
+Основа: вода, сахар, сухие дрожжи, соль, растительное масло, мука. Начинка: перец сладкий имп., сыр моцарелла для пиццы, зелень, соус томатный, специи, колбаса Пеперони
+
+Пищевая ценность
+Белки-12,24 г., Углеводы-28,37г., жиры-14,38г.
+
+Энергетическая ценность
+В 100 гр: 298кКал
+
+Условия хранения
+Хранить в прохладном и сухом месте.</description>
+			</offer>
+			<offer id="12845" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12845.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пицца Коза Ностра 315г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Разноцветная палитра на тонкой корочке румяного теста! Пикантные острые колбаски утопают в нежном сыре моцарелла. Все это дополняется томатным соусом, зеленью и специями. Вы можете оценить великолепный вкус этой пиццы в семейном кругу или в большой компа
+
+Состав
+Основа: мука, вода, масло подсолнечное, сахар, дрожжи, соль, разрыхлитель. Начинка: зелень сушеная, сыр моцарелла, колбаса пеперони/пиколлини,соус томатный, специи
+
+Пищевая ценность
+Белки-9,40 г., Углеводы-29,20г., жиры-4,70г.
+
+Энергетическая ценность
+В 100 гр: 203кКал
+
+Условия хранения
+Хранить в прохладном и сухом месте.</description>
+			</offer>
+			<offer id="12846" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12846.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пиццетта с тунцом 250г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Хотите удивить гостей чем-то необычным? Тогда смело заказывайте вкусную мини-пиццу с тунцом, которая станет отличной закуской на любой вечеринке. На тонком тесте - филе тунца, красный лук, нежная моцарелла и свежая зелень. Все это приправлено сметаной и 
+
+Состав
+Основа: мука, вода, сухие дрожжи, сахар, оливковое масло, соль. Начинка: сметана, лук репчатый красный, тунец филе с/з, соевый соус, зелень свежая, специи, сыр моцарелла для пиццы
+
+Пищевая ценность
+Белки-9,9 г., Углеводы-16г., жиры-1,6 г.
+
+Энергетическая ценность
+В 100 гр: 103,4кКал.</description>
+			</offer>
+			<offer id="12847" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12847.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спагетти Карбонара 270г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Устройте себе настоящую итальянскую трапезу с пастой &amp;quot;Карбонара&amp;quot;! Спагетти с ароматным беконом, зеленью и специями в сочетании со сливочным соусом, яйцом и пармезаном - что может быть вкуснее и питательнее?!
+
+Состав
+Сливочная паста, бекон с/к, сыр пармезан/Грана Падана, соль, специи, чесночная паста, яйцо куриное, зелень свежая
+
+Пищевая ценность
+Белки-10,3г., Углеводы-29г., жиры-20,8 г.
+
+Энергетическая ценность
+В 100 гр: 345кКал.</description>
+			</offer>
+			<offer id="12848" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12848.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Таглиателле Болоньезе 290г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Итальянская паста, говяжий фарш, соус Болоньезе и твердый пармезан - что может быть вкуснее этого классического сочетания продуктов! Ароматное блюдо подарит истинное наслаждение знатокам итальянской кухни!
+
+Состав
+Паста с говяжьим фаршем, томатный соус, соус болоньезе, лук, чеснок, тертый сыр пармезан/Грана Падана, растительное масло, соль
+
+Пищевая ценность
+Белки-7,2г., Углеводы-17,7г., жиры-7 г.
+
+Энергетическая ценность
+В 100 гр: 166кКал.</description>
+			</offer>
+			<offer id="12849" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12849.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лингвини с креветками и морским гребешком 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Деликатесная паста с нежным морским гребешком и сочными креветками под сливочным соусом понравится утонченным гурманам! Белое вино, соль, специи и пармезан придают этому блюду потрясающий вкус!
+
+Состав
+Паста в сливочном соусе, филе гребешка, креветки коктельные в/м очищенные,масло оливковое,вино белое для кухни, масло растительное, соль, сыр пармезан/Грана Падана, специи
+
+Пищевая ценность
+Белки-17,5г., Углеводы-3г., жиры-1 г.
+
+Энергетическая ценность
+В 100 гр: 92кКал.</description>
+			</offer>
+			<offer id="12850" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12850.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пене с белыми грибами 280г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Пенне с ароматными белыми грибами в сливочно-пармезанном соусе - это итальянский рецепт, проверенный временем. Вы можете насладиться потрясающим вкусом блюда, не затратив лишних усилий!
+
+Состав
+Паста пенне в сливочном соусе, кусочки белых грибов, лук репчатый, масло оливковое, вино белое для кухни, чеснок, соль, сыр пармезан/ГранаПадана, базилик свежий, специи
+
+Энергетическая ценность
+В 100 гр: 322кКал.</description>
+			</offer>
+			<offer id="12851" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2098</categoryId>
+				<picture>http://fasteda.ru/data/big/12851.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пицца Маргарита 310г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Ароматная пицца для любителей классики. Тонкое румяное тесто, нежный сыр моцарелла и томатный соус рождают неповторимый вкус! Все гениальное - просто!
+
+Состав
+Основа: мука, дрожжи, вода, соль, оливковое масло, сахар. Начинка: Сыр моцарелла для пиццы, томат св, соус томатный, оливковое масло, соль, перец
+
+Пищевая ценность
+Белки-6,22 г., Углеводы-17,2г., жиры-11,75 г.
+
+Энергетическая ценность
+В 100 гр 822 кДж/196 кКал
+
+Условия хранения
+Хранить в прохладном и сухом месте.</description>
+			</offer>
+			<offer id="12738" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12738.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Цезарь с креветками пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Салат листовой, креветки, масло растит., сок лимона, томаты Черри, яйцо перепелиные, гренки пшенич, сыр Пармезан, соус из анчоусов, майонеза, чеснока
+.</description>
+			</offer>
+			<offer id="12739" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>610</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12739.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Русский Лес пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Говядина, ветчина, филе куриное, огурец марин, майонез, зелень,соль.</description>
+			</offer>
+			<offer id="12740" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12740.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Мимоза пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Картофель отварн., морковь отварн., майонез, горбуша консерв., сыр, зелень, яйцо, соль.</description>
+			</offer>
+			<offer id="12741" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>237</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12741.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морковь по-корейски пр-во Лэнд 1кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+морковь,соль,масло раст,лук репчатый,перец черн.молотый,паприка, кориандр,сахар, чеснок, уксус, кунжут, зелень,соус соевый.</description>
+			</offer>
+			<offer id="12742" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>454</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12742.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спаржа по-корейски с морковью пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+спаржа, паприка,соус соевый,уксус,морковь, кунжут,зелень,чеснок,масло раст,огурец св, перец черн.молотый, перец красн.молотый
+.</description>
+			</offer>
+			<offer id="12743" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12743.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фунчоза по-корейски пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+соус соевый,огурец св,уксус,сахар,кунжут,зелень
+.</description>
+			</offer>
+			<offer id="12744" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>253</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12744.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Закуска под водочку пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель отварной, сельдь с/с, лук репчатый, уксус, зелень, соль, сахар, масло растительное.</description>
+			</offer>
+			<offer id="12745" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12745.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Оливье пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель отварн., морковь отварн.,ветчина, огурец марин, огурец свеж, зел.горошек, яйцо, майонез, зелень, соль, специи.</description>
+			</offer>
+			<offer id="12746" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>375</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12746.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Столичный пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Картофель отварной, огур. марин., кура отварная, огурец свеж, зелень, яйцо отварное, морковь отварная, горошек консервированный, майонез, специи
+.</description>
+			</offer>
+			<offer id="12747" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>425</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12747.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Мясной пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Говядина отварн., картофель отварн., огурец марин., огурец свежий, яйцо , морковь отварн., майонез, зел.горошек, зелень, специи,соль.</description>
+			</offer>
+			<offer id="12748" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>173</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12748.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аликанте с креветками 170гр пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+&amp;quot;Аликанте с креветками&amp;quot; - это великолепный салат со вкусом Средиземноморья. Блюдо названо в честь испанского морского городка, который славится своими свежими морепродуктами. Салат представляет собой гармоничное сочетание воздушных листьев салата разны
+
+Состав
+салат Руккула,салат лист.,салат Радиччио,креветки,сыр Пармезан,масло оливк.,крем бальз.
+
+Пищевая ценность
+Б. - 8,74г, Ж. - 7,3г, Угл. - 1,38г
+
+Энергетическая ценность
+106,23кКал/444,45кДж
+
+Условия хранения
+12 ч. при t = 0..+ 6С°.</description>
+			</offer>
+			<offer id="12749" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>146</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12749.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аликанте с ростбифом 170гр пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+&amp;quot;Аликанте с ростбифом&amp;quot; - это легкое и воздушное сочетание свежих листьев салата разных сортов с ароматными и питательными кусочками ростбифа. К салату прилагается соус, который состоит из ароматного оливкового масла и гастрономического крема, основанного
+
+Состав
+салат Руккула,салат листовой,салат Радиччио, говядина отв.,масло оливк.,крем бальзамик
+
+Пищевая ценность
+Б. - 7,04г, Ж. - 9,64г, Угл. - 1,58г
+
+Энергетическая ценность
+121,24кКал / 507,29кДж
+
+Условия хранения
+12 ч. при t = 0..+ 6С°.</description>
+			</offer>
+			<offer id="12750" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>121</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12750.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аликанте с куриным филе 170гр пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+&amp;quot;Аликанте с куриным филе&amp;quot; - это легкое и воздушное сочетание свежих листьев салата разных сортов с нежными кусочками куриного филе. К салату прилагается соус, который состоит из ароматного оливкового масла и гастрономического крема, основанного на бальза
+
+Состав
+салат Руккула, салат лист.,салат Радиччио,филе куриное отварн, масло оливк.,крем бальзамик
+
+Пищевая ценность
+Б. - 6,93г, Ж. - 10,27г, Угл. - 1,77г
+
+Энергетическая ценность
+127,2кКал / 532,21кДж
+
+Условия хранения
+12 ч. при t = 0..+ 6С°.</description>
+			</offer>
+			<offer id="12751" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12751.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Гнездо глухаря пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+кура филе грудки отварн., ветчина, Шампиньоны, яйцо, картофель, майонез, сыр, чеснок, салат лист., соль.</description>
+			</offer>
+			<offer id="12752" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>315</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12752.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Сельдь под шубой пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Сельдь с/с, картофель, свекла, морковь, лук репчатый, яйцо, майонез, зелень, соль
+.</description>
+			</offer>
+			<offer id="12753" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>183</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12753.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Капуста по-петровски пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+капуста,морковь,лук репчатый,чеснок, зелень,сахар,соль,уксус,масло раст.
+.</description>
+			</offer>
+			<offer id="12754" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12754.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фруктовый фреш пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+яблоко,клубника,ананас,мандарин,виноград, киви,черника,манго,сироп.</description>
+			</offer>
+			<offer id="12755" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12755.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Винегрет с квашеной капустой пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Картофель отварн.,свекла отварн.,морковь отварн.,лук репчатый, фасоль консервир.,капуста квашен.,масло растит.,уксус,соль,сахар,зелень.</description>
+			</offer>
+			<offer id="12756" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12756.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат овощной пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+редис,огурец свеж.,зелень, лук зелен.,сметана.</description>
+			</offer>
+			<offer id="12757" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12757.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат из утиной грудки с шампиньонами пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+филе утки,перец св.,шампиньоны св.,масло оливк., огурец марин.,соус Чили,зелень,кунжут.</description>
+			</offer>
+			<offer id="12758" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>1200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12758.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с утиным филе пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+филе утки,креветки,ананас,манго,спаржа свеж., перец свеж.,крем-бальзамик,масло оливк,Руккула.</description>
+			</offer>
+			<offer id="12759" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>840</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12759.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Капрезе пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+томат св ,Моцарелла,кедр.орешки,чеснок, базилик,масло оливк.,соль,перец
+.</description>
+			</offer>
+			<offer id="12760" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12760.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат из овощей с мятой пр-во Лэнд1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+перец св.,огурец св.,томаты Черри,виноград белый,мята,спаржа св.,сухарики,масло оливк,крем-бальзамик,соль.</description>
+			</offer>
+			<offer id="12761" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>924</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12761.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат по-норвежски пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+печень трески,картофель,яйцо, икра лососевая,майонез,зелень
+.</description>
+			</offer>
+			<offer id="12762" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>776</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2099</categoryId>
+				<picture>http://fasteda.ru/data/big/12762.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Тайский пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+отварная говядина,томаты Черри,перец свежий,кунжут,соус соевый, зелень,масло оливковое,салат листовой,огурец свеж.
+.</description>
+			</offer>
+			<offer id="12763" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>628</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12763.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Котлеты По-киевски пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Кура (филе),масло сливочное,яйцо,зелень, масло растит.,мука,соль,перец черн.молот.,приправа
+.</description>
+			</offer>
+			<offer id="12764" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>695</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12764.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Котлеты Рыбные пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Рыба Треска с/м, лук репчатый, мука, яйцо, зелень, соль, приправа лимонно-перечная, майонез, масло раст..</description>
+			</offer>
+			<offer id="12765" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>695</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12765.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Курочка под сырной корочкой пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+кура филе, яйцо, соль, специи, сыр, сливки, мука, масло растит..</description>
+			</offer>
+			<offer id="12766" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>506</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12766.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Котлеты куриные пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+кура, молоко, батон, перец черн.молотый, лук репчатый, яйцо, масло растит., зелень, соль
+.</description>
+			</offer>
+			<offer id="12767" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>595</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12767.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Котлеты Домашние пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Говядина, свинина, лук репчатый, батон, молоко, масло растительное, яйцо, соль, перец черн.молотый
+.</description>
+			</offer>
+			<offer id="12768" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12768.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыплята табака  пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Кура, масло растит., сметана, майонез, соус Чили сладкий, соус Аллиоли, чеснок, приправа, соль, перец
+.</description>
+			</offer>
+			<offer id="12769" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>468</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12769.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Треска по-Средиземноморски пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Треска,мука,масло растит.,лук репч.,приправа,зелень
+.</description>
+			</offer>
+			<offer id="12770" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>412</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12770.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Золотая рыбка пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Филе Трески, морковь отварн, масло растит., лук репчатый, майонез, соль.</description>
+			</offer>
+			<offer id="12771" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>437</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12771.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыба под маринадом пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Треска филе, паста томатная, лук репчатый жарен., морковь, сахар, соль, перец черный горошк., лавр.лист.</description>
+			</offer>
+			<offer id="12772" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12772.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шпиг в укропе пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+шпиг, укроп сушеный, соль
+.</description>
+			</offer>
+			<offer id="12773" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12773.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Буженина по-домашнему пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+свинина, соль, черный перц, чеснок, горчица
+.</description>
+			</offer>
+			<offer id="12774" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12774.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шпиг по-венгерски пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+шпиг, красный перец, соль
+.</description>
+			</offer>
+			<offer id="12775" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12775.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шпиг по-домашнему в черном перце пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+шпиг,перец черн.молот.,чеснок,соль
+.</description>
+			</offer>
+			<offer id="12776" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>1600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12776.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетр, фарширов. муссом и королевск. креветками пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Осетр,филе Лосося,филе Трески,креветки,перец св.,зелень,желатин, майонез,лимон,маслины,огурец соленый,салат лист,приправы.</description>
+			</offer>
+			<offer id="12777" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>1300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12777.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки в Темпуре пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+креветки,яйцо,сухарики Темпуре,сухарики Панко,соус соевый,бальзамик-крем,соль
+.</description>
+			</offer>
+			<offer id="12778" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>436</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12778.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Печень жареная с луком  пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Печень говяжья,масло растительное,соль,майонез, перец черный молотый,лук репчатый,горчица
+.</description>
+			</offer>
+			<offer id="12779" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>624</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12779.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Форель в шубе пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Форель, картофель, сливки, яйцо кур., лимон, соль, перец в асс, масло раст..</description>
+			</offer>
+			<offer id="12780" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>980</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12780.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Форель Филадельфия пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Филе форели,сыр Фета,сыр Рикотта,соль, масло растит.,майонез,шпинат,приправа
+.</description>
+			</offer>
+			<offer id="12781" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>523</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12781.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гречишники пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+греча,фарш говяд./св.,лук жарен.,томат.паста, морковь,перец черн.молот.,сахар,соль
+.</description>
+			</offer>
+			<offer id="12782" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12782.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Торт Печеночный пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Печень говяжья,лук,мука пш.,соль, масло растительное,майонез,морковь,сыр,зелень.
+.</description>
+			</offer>
+			<offer id="12783" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>1690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12783.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок Савел гриль пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+цыпленок желтый Савел,мед,лимон,чеснок,соль, черн.молот.перец,приправа гриль,растит.масло,зелень
+.</description>
+			</offer>
+			<offer id="12784" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12784.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Перец фарш.мясо/рис пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Перец свежий,говядина,свинина,лук репчатый,рис, перец черн.молотый,приправы,масло растительное,морковь,мука пшеничная,паста томатн.,сахар,зелень.</description>
+			</offer>
+			<offer id="12785" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12785.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Плов из свинины пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Свинина,лук репчатый,морковь,рис,соль,приправы
+.</description>
+			</offer>
+			<offer id="12786" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>583</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12786.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Студень говяжий пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Говядина б/к, морковь, лук репчатый, чеснок, желатин,лист лавровый, зелень, специи.
+.</description>
+			</offer>
+			<offer id="12787" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>445</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12787.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе куриное Фитнес с овощами пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Филе курин,капуста цвет,сельдерей корень,приправа,соль,перец черн.молотый,зелень,лук порей,морковь,майонез,яйцо,масло раст.
+.</description>
+			</offer>
+			<offer id="12788" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12788.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Студень из птицы пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+кура,индейка филе бедра,желатин,морковь,чеснок,зелень,хрен,соль
+.</description>
+			</offer>
+			<offer id="12789" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>1180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12789.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Натуральные биточки из форели пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Форель,лук порей,лук репчатый,зелень,яйцо,соль, приправа перечно-лимонная,крахмал,масло растительное.</description>
+			</offer>
+			<offer id="12790" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>1046</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12790.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филе индейки по-французски пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+индейка филе грудки,базилик,соль,перец черный молотый,зелень
+.</description>
+			</offer>
+			<offer id="12791" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>202</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12791.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тхина Шамир с петрушкой 250г</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Тхина - популярнейшая израильская закуска. Она представляет собой густую пасту из кунжутных семечек. Петрушка и лимонный сок придают ей особый вкус. Тхину подают с питой или хлебом.
+
+Состав
+кунжутная паста,раст.масло,чеснок,петрушка,лимонный экстракт,специи..</description>
+			</offer>
+			<offer id="12792" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>286</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2100</categoryId>
+				<picture>http://fasteda.ru/data/big/12792.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Паштет Шамир баклажаны/грец.орехи 250г</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Баклажан,раст.масло,лук,специи,грец.орехи,соль,майонез
+.</description>
+			</offer>
+			<offer id="12793" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12793.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пюре картофельное 300гр пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель,молоко,масло слив.,соль
+.</description>
+			</offer>
+			<offer id="12794" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12794.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель отварной пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель,соль,масло раст,зелень.
+.</description>
+			</offer>
+			<offer id="12795" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>225</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12795.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель Айдахо пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Картофель, чеснок, укроп, масло растительное, специи.</description>
+			</offer>
+			<offer id="12796" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12796.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Каша рисовая 300гр пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Рис,молоко,сахар,соль,масло сливочное.</description>
+			</offer>
+			<offer id="12797" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>222</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12797.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Драники пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель,масло растит.,яйцо,соль,мука,приправа
+.</description>
+			</offer>
+			<offer id="12798" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>445</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12798.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель Стоун потейто пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Картофель, масло растительное, укроп соль, приправа для гриля
+.</description>
+			</offer>
+			<offer id="12799" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Каша овсяная 300гр пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Овсянка,молоко,сахар,соль,масло сливочное.</description>
+			</offer>
+			<offer id="12800" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>318</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12800.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис красный пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+рис красный,масло оливк.,соль.</description>
+			</offer>
+			<offer id="12801" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12801.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гарнир Бэбис пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Морковь Бэби, спаржа, капуста цветная, капуста брокколи, масло растительное, соль
+.</description>
+			</offer>
+			<offer id="12802" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12802.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощи-вок пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+баклажан,кабачок,лук порей,лук репч,морковь,кунжут,соль. перец болгар,сладкий соус чили,масло раст.
+.</description>
+			</offer>
+			<offer id="12803" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>292</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2101</categoryId>
+				<picture>http://fasteda.ru/data/big/12803.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель жареный с шампиньонами пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Картофель,зелень,масло раст,грибы шампиньоны свежие,соль,приправы.
+.</description>
+			</offer>
+			<offer id="12804" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2102</categoryId>
+				<picture>http://fasteda.ru/data/big/12804.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лэнд-ланч (Картофель и котлеты рыбные) пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель отварн.,масло сливочн.,котлеты рыбные, аджика,лобио из фасоли,зелень
+.</description>
+			</offer>
+			<offer id="12805" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2102</categoryId>
+				<picture>http://fasteda.ru/data/big/12805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лэнд-ланч (Макароны и индейка) пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+макароны отв.,индейка в соусе,масло сливочн., овощи-вок,соус Тар-тар
+.</description>
+			</offer>
+			<offer id="12806" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2102</categoryId>
+				<picture>http://fasteda.ru/data/big/12806.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лэнд-ланч (Греча и котлеты Домашние) пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+греча отварная,котлеты Домашние,лобио из фасоли, соус сметанно-чесночный.</description>
+			</offer>
+			<offer id="12807" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2102</categoryId>
+				<picture>http://fasteda.ru/data/big/12807.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лэнд-ланч (Рис и котлеты куриные) пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+рис отварн.,котлета куриная,соус Тар-тар,овощи-Вок
+.</description>
+			</offer>
+			<offer id="12819" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12819.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Борщ Классический 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Говядина, свекла, капуста, картофель,лук репч, паста томат, масло растит, сахар,соль, зелень
+.</description>
+			</offer>
+			<offer id="12820" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12820.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп гороховый 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+горох, морковь,лук репч.,зелень,картофель,деликат.изд.
+.</description>
+			</offer>
+			<offer id="12821" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12821.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Солянка мясная 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+колб. изделия, картофель, огурец сол., лук репч, маслины, томат.паста, масло растит,масло оливк, приправа.</description>
+			</offer>
+			<offer id="12822" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12822.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп-пюре с брокколи 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+капуста брокколи,лук репч.,морковь,перец свеж., масло растит.,сливки,картофель,соль
+.</description>
+			</offer>
+			<offer id="12823" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>112</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12823.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп-пюре с лососем и креветками 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель,морковь,лук репч.,лук порей,сливки, форель филе,креветки,томат св,приправа,соль.</description>
+			</offer>
+			<offer id="12824" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>96</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12824.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп-пюре с тыквой 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+тыква,лук репч.,морковь,перец свеж., масло растит.,сливки,картофель,соль.</description>
+			</offer>
+			<offer id="12825" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12825.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рассольник Ленинградский 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Масло растит.,морковь,лук репч.,зелень,картофель, крупа перл.,огур. сол.,говядина,соль
+.</description>
+			</offer>
+			<offer id="12826" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12826.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп куриный с домашней лапшой 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+лапша домашняя, кура, бульон куриный, соль, перец молотый, зелень.</description>
+			</offer>
+			<offer id="12827" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12827.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп рыбный 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель,лук репч.,жарен.,морковь, рыба Горбуша (Конс.),масло раст,зелень.</description>
+			</offer>
+			<offer id="12828" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12828.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп с фрикадельками 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель,морковь,макаронные изделия,масло растит., фарш говядина/свинина,перец черн.молот.,соль.</description>
+			</offer>
+			<offer id="12829" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12829.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп фасолевый 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+картофель,морковь,лук репч.,соль,говядина,зелень, фасоль конс..</description>
+			</offer>
+			<offer id="12830" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>66</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12830.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Щи из свежей капусты 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+капуста б/к,говядина сек,масло раст,зелень,картоф, морковь,лук репч, томат св..</description>
+			</offer>
+			<offer id="12831" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12831.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп грибной 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+шамп.свежие,картофель,морковь,лук репч,масло раст,зелень,вода.</description>
+			</offer>
+			<offer id="12832" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12832.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Щи из свежей капусты с курой  пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Капуста б\к, картофель,морковь,лук репч,зелень,курица,масло раст
+.</description>
+			</offer>
+			<offer id="12833" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2103</categoryId>
+				<picture>http://fasteda.ru/data/big/12833.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Щи из квашеной капусты 300г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+капуста б/к кваш.,говядина,масло растит.,зелень, картофель,морковь,лук репч.,томат св, приправа
+.</description>
+			</offer>
+			<offer id="12908" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2104</categoryId>
+				<picture>http://fasteda.ru/data/big/12908.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Программа Офис-меню Вариант №1 пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Подходит для людей, ведущих малоподвижный образ жизни. Состоит из 6 приемов пищи. Завтрак 9:00-9:30 Завтрак №2 11:30-12:00 Обед 14:30-15:00 Полдник 17:00-17:30 Ужин 19:00-19:30 Ужин №2 21:30-22:00 
+
+Состав
+Завтрак № 1: Греча отварная с грибами и луком, Сырники с джемом. Завтрак № 2: Салат Елена. Обед: Салат Здоровье, Котлеты из индейки на пару, Рис Красный, Гарнир Бэбис. Ужин: Овощи-вок, Аликанте с креветками
+
+Пищевая ценность
+Калорийность рациона 1500 кКал в сутки ВНИМАНИЕ! В предлагаемый комплект не входят джем, яблоко, йогурт, кефир.</description>
+			</offer>
+			<offer id="12909" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2104</categoryId>
+				<picture>http://fasteda.ru/data/big/12909.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Программа Офис-меню Вариант №2 пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Подходит для людей, ведущих малоподвижный образ жизни. Состоит из 6 приемов пищи. Завтрак 9:00-9:30 Завтрак №2 11:30-12:00 Обед 14:30-15:00 Полдник 17:00-17:30 Ужин 19:00-19:30 Ужин №2 21:30-22:00: 
+
+Состав
+Завтрак № 1: Греча отварная с грибами и луком, Сырники с джемом. Завтрак № 2: Салат Инжир с козьим сыром. Обед: Салат Весенний, Гуляш из говядины, Рис Мозаика. Ужин: Баклажаны фаршированные, Аликанте с куриным филе
+
+Пищевая ценность
+Калорийность рациона 1500 кКал в сутки ВНИМАНИЕ! В предлагаемый комплект не входят джем, яблоко, йогурт, кефир.</description>
+			</offer>
+			<offer id="12910" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>173</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2104</categoryId>
+				<picture>http://fasteda.ru/data/big/12910.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Программа Офис-обед Вариант №2 пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Удобный вариант для работников офиса. Обед: салат Вдохновение, котлеты из индейки на пару, рис Мозайка, гарнир Бэбис
+
+Состав
+Салат Вдохновение, Котлеты из индейки на пару, Рис Мозаика, Гарнир Бэбис
+
+Пищевая ценность
+Калорийность рациона 500-600 кКал.</description>
+			</offer>
+			<offer id="12911" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>658</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2104</categoryId>
+				<picture>http://fasteda.ru/data/big/12911.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Программа Фитнес-меню пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Для людей, занимающихся фитнесом, ведущих здоровый образ жизни и желающих быть в форме. Завтрак 9:00-9:30 Завтрак №2 11:30-12:00 Обед 14:30-15:00 Полдник 17:00-17:30 Ужин 19:00-19:30 Ужин №2 21:30-22:00 
+
+Состав
+Завтрак № 1: Греча отварная, Сырники. Завтрак №2: Салат Елена. Обед: Салат Бодрость, Гарнир Бэбис, Вырезка говяжья в соусе Терияки, Рис Красный. Ужин: Филе куриное Фитнес с овощами, Салат гриль
+
+Пищевая ценность
+Калорийность рациона 2000 кКал в сутки ВНИМАНИЕ! В предлагаемый комплект не входят сок, яблоко, йогурт, кефир.</description>
+			</offer>
+			<offer id="12912" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2104</categoryId>
+				<picture>http://fasteda.ru/data/big/12912.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Программа 3 дня до отпуска пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Позволяет эффективно и правильно снизить вес в короткие сроки. Состоит из 5 приемов пищи. Завтрак №1 9:00-9:30 Завтрак №2 11:30-12:00 Обед 14:30-15:00 Ужин 19:00-19:30 Ужин №2 21:30-22:00 
+
+Состав
+Завтрак №1: Греча отварная, сырник. Завтрак № 2: Салат из овощей с мятой. Обед: Салат Гриль,Котлеты из индейки на пару,Гарнир Бэбис. Ужин: Овощи-вок, Аликанте с креветками.
+
+Пищевая ценность
+Калорийность рациона 800-900 кКал в сутки ВНИМАНИЕ! В предлагаемый комплект не входят чай, лимон, кефир
+.</description>
+			</offer>
+			<offer id="12913" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2104</categoryId>
+				<picture>http://fasteda.ru/data/big/12913.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Программа Стандарт-меню пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Сбалансированный рацион питания для среднестатистического человека, который полностью компенсирует потребности организма в течение дня, дает сытость и энергию. В меню представлены легкоусвояемые блюда из полезных продуктов. 
+
+Состав
+Завтрак №1: Греча отварная с грибами и луком, Сырники с джемом. Завтрак №2: Салат Свекла/чернослив/грецкий орех. Обед: Салат Говядина/фасоль, Говядина в бруснично-медовом соусе, Рис Мозаика, Овощи-вок. Ужин: Аликанте с куриным филе, Гарнир Бэбис
+
+Пищевая ценность
+Калорийность рациона 2500 кКал в сутки ВНИМАНИЕ! В предлагаемый комплект не входят джем, сок, яблоко, йогурт, творог, ряженка
+.</description>
+			</offer>
+			<offer id="12914" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2104</categoryId>
+				<picture>http://fasteda.ru/data/big/12914.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Программа Офис-обед Вариант №1 пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Описание
+Удобный вариант для работников офиса. Обед: винегрет овощной, говядина в бруснично-медовом соусе, рис Мозайка, овощи-вок
+
+Состав
+Винегрет овощной, Говядина в бруснично-медовом соусе, Рис Мозаика, Овощи-вок
+
+Пищевая ценность
+Калорийность рациона 500-600 кКал.</description>
+			</offer>
+			<offer id="12877" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12877.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с клюквой пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука пшеничн. в/с, дрожжи, соль, маргарин, сахар, масло растит., яйцо, молоко сухое, желе Кларо, клюква.
+
+1 шт.</description>
+			</offer>
+			<offer id="12878" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>455</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12878.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с черникой пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука пшеничн., маргарин, яйцо, масло сливочн., конфитюр, черника с/м, соль, сахарный песок, фруктовый крахмал
+
+1 шт.</description>
+			</offer>
+			<offer id="12879" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12879.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с киви вес пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука пшеничн., яйцо, дрожжи, соль, сахарный песок, ванилин, конфитюр, киви свеж
+
+1 шт.</description>
+			</offer>
+			<offer id="12880" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>525</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12880.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с вишней пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука пшеничн. в/с ,яйцо, соль, дрожжи, маргарин, масло растит., вишня с/м, сахарный песок, конфитюр, фруктовый крахмал
+
+1 шт.</description>
+			</offer>
+			<offer id="12881" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12881.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с ежевикой пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука пшеничн. в/с, яйцо, масло растит., дрожжи, соль, маргарин, ежевика с/м, сахарный песок, конфитюр, фруктовый крахмал
+
+1 шт.</description>
+			</offer>
+			<offer id="12882" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>542</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12882.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с клубникой пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука пшеничн., маргарин, сливки, клубника с/м, сахарный песок, ,соль, молоко, сливочное масло, фруктовый крахмал, дрожжи, пудра сахарная, конфитюр
+
+1 шт.</description>
+			</offer>
+			<offer id="12883" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12883.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с черной смородиной пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука пшеничн., дрожжи, соль, сахарный песок, маргарин, ванилин, черная смородина, фруктовый крахмал
+
+1 шт.</description>
+			</offer>
+			<offer id="12884" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12884.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Яблочный пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука пшеничн., дрожжи, маргарин, яйцо, молоко сухое, соль, сахарный песок, ванилин, яблоко, кориандр, фруктовый крахмал
+
+1 шт.</description>
+			</offer>
+			<offer id="12885" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12885.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с малиной вес пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука пшеничн.., яйцо, маргарин, вода, дрожжи, сахарный песок, конфитюр, ванилин, малина с/м.
+
+1 шт.</description>
+			</offer>
+			<offer id="12886" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12886.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Поляна вишня песочный пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+творог, сахарный песок, сыр плавенный., яйцо, мука пшеничная, маргарин, сода, желе, вишня
+
+1 шт.</description>
+			</offer>
+			<offer id="12887" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>415</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12887.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Поляна черника песочный пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+творог, сахарный песок, сыр плавленный, яйцо, мука пшеничн., маргарин, сода, желе, черника
+
+1 шт.</description>
+			</offer>
+			<offer id="12888" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12888.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Поляна клубника песочный пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+творог, сахарный песок, сыр плавленный, яйцо, мука пшеничн., маргарин, сода, желе, клубника
+
+1 шт.</description>
+			</offer>
+			<offer id="12889" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12889.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Поляна тропический песочный пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+творог, сахарный песок, сыр плавленный, яйцо, мука пшеничн., маргарин, сода, желе, виноград, мандарин, ананас, киви
+
+1 шт.</description>
+			</offer>
+			<offer id="12890" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12890.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Поляна брусника/ч.смородина бисквит пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+желе, брусника, черн. смородина, масло растительное, Верона микс, творог, пудра сахарная, сыр плавленный, яйцо
+
+1 шт.</description>
+			</offer>
+			<offer id="12891" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12891.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Поляна абрикос песочный пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+творог, сахарный песок, сыр плавенный., яйцо, мука пшеничн., маргарин, сода, желе, абрикос
+
+1 шт
+.</description>
+			</offer>
+			<offer id="12892" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12892.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Поляна малина бисквит пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+желе, малина, масло растительное, Верона микс, творог, пудра сахарная, сыр плавленный, яйцо
+
+1 шт.</description>
+			</offer>
+			<offer id="12893" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12893.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Поляна киви бисквит пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+желе, киви, масло растительное, Верона микс, творог, пудра сахарная, сыр плавленный, яйцо
+
+1 шт.</description>
+			</offer>
+			<offer id="12894" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12894.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог Поляна яблоко песочный пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+творог, сахарный песок, сыр плавленный, яйцо, мука пшеничн., маргарин, сода, желе, яблоко
+
+1 шт.</description>
+			</offer>
+			<offer id="12895" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12895.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог мясной пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Говядина, маргарин,мука в/с,яйцо, сахар,лук жарен,перец,соль,масло сливоч.
+1 шт.</description>
+			</offer>
+			<offer id="12896" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12896.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с зеленым луком пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука в/с,маргарин,дрожжи,яйцо,молоко сух,масло раст,вода,зеленый лук,масло сливоч..</description>
+			</offer>
+			<offer id="12897" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12897.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с индейкой пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Тесто дрожжевое, индейка, лук репчатый,сливки, мука пш.,соль,перец,петрушка
+
+1 шт.</description>
+			</offer>
+			<offer id="12898" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12898.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с капустой  пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука в/с,маргарин,дрожжи,яйцо,вода,капуста, лук репч,молоко,масло раст,молоко сух.
+
+1 шт.</description>
+			</offer>
+			<offer id="12899" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12899.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с кроликом и грибами пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Филе кролика,лук репчат,грибы консерв,лук репч.,зелень, сливки,мука пш,яйцо,дрожжи,маргарин,масло раст.,соль,перец
+
+1 шт.</description>
+			</offer>
+			<offer id="12900" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12900.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с лимоном пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+сахар,сух.молоко,дрожжи,яйцо,растит.масло, сливочн.масло,водка,мука пш.,лимон,гель
+
+1 шт.</description>
+			</offer>
+			<offer id="12901" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12901.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с мясом и печенью пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+молоко,соль,сахар,дрожжи,яйцо,масло слив.,масло растит.,водка,мука, печень,яйцо,маргарин,перец черн.молот.,фарш говяжий,лук репч.,
+
+1 шт.</description>
+			</offer>
+			<offer id="12902" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12902.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с сельдью пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Молоко,сахар,соль,дрожжи,яйцо,масло сливочн., масло растит.,мука пш. в/с,сельдь,лук репч.,зелень
+
+1 шт.</description>
+			</offer>
+			<offer id="12903" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12903.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с творогом вес пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука,дрожжи,вода,соль,сахар,маргарин,ванилин, топпенфикс,творог,яйцо
+
+1 шт.</description>
+			</offer>
+			<offer id="12904" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12904.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с яблоком и корицей пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+тесто дрожжевое,яблоко,сахар,корица.</description>
+			</offer>
+			<offer id="12905" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12905.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог со шпинатом пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Тесто дрожжевое,шпинат,сыр Фета,Кинза, лук репч.,сливки нат.,мука пш.,яйцо,перец,соль
+
+1 шт.</description>
+			</offer>
+			<offer id="12906" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12906.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог яблочно-брусничный пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука, вода, дрожжи, яйцо, маргарин, молоко сухое, соль, сахар, яблоко, брусника
+
+1 шт.</description>
+			</offer>
+			<offer id="12907" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2105</categoryId>
+				<picture>http://fasteda.ru/data/big/12907.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с брусникой пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука пшеничная,соль,сахар,маргарин,дрожжи, брусника,фруктовый крахмал,молоко,яйцо,масло раст.
+
+1 шт.</description>
+			</offer>
+			<offer id="12808" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12808.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики мясо/яйцо пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,молоко,яйцо, масло раст, сахар,соль,говядина, лук репч., перец.</description>
+			</offer>
+			<offer id="12809" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12809.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчик, фаршированный куриным жульеном пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Блинчик п/ф,кура филе,грибы конс.обжар.,лук репч.обжар., сливки,мука,лук зеленый,масло растит.,приправа чесночная.</description>
+			</offer>
+			<offer id="12810" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>25</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12810.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчик 1шт пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука, молоко, яйцо, сахар, масло растит, соль.</description>
+			</offer>
+			<offer id="12811" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12811.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики с ветчиной и сыром пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,молоко,яйцо, масло раст, сахар,соль,сыр, ветчина..</description>
+			</offer>
+			<offer id="12812" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12812.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики с вишней пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,молоко,яйцо, масло раст, сахар,соль,вишня с/м, загуститель..</description>
+			</offer>
+			<offer id="12813" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12813.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики с ежевикой пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,молоко,яйцо, масло раст, сахар,соль, ежевика с/м.</description>
+			</offer>
+			<offer id="12814" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12814.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики с капустой пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,соль,сахар,масло растит.,молоко,яйцо,капуста б/к..</description>
+			</offer>
+			<offer id="12815" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12815.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики с сердцем пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Сердце, лук, яйцо, мука, молоко, соль, сахар, масто растит..</description>
+			</offer>
+			<offer id="12816" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12816.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики с творогом/изюм пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,молоко,яйцо, масло раст, сахар,соль,масса творожная.</description>
+			</offer>
+			<offer id="12817" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12817.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики с яблоком пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,молоко,яйцо, масло раст, сахар,соль,яблоки, загуститель, сок лимонный..</description>
+			</offer>
+			<offer id="12818" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2106</categoryId>
+				<picture>http://fasteda.ru/data/big/12818.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики грибы/яйцо пр-во Лэнд 1 кг</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука,молоко,яйцо,сахар,соль,масло раст, грибы конс. жарен,лук репч..</description>
+			</offer>
+			<offer id="12852" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12852.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кольцо песочное с орехом 90г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+яйцо,мука,вода,маргарин,арахис, сахар,сода,соль,масло растит.,меланж сырье.
+
+1 шт.</description>
+			</offer>
+			<offer id="12853" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12853.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ром-баба 140г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука пш.,дрожжи,сахар,яйцо,масло сливочн.,изюм, коньяк,ромовая эссенция,крем Шагана белая
+
+1 шт.</description>
+			</offer>
+			<offer id="12854" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12854.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сдоба Лакомка 75г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука пш в/с,маргарин,сахар,творог,вода,яйцо,сода,изюм.
+
+1 шт.</description>
+			</offer>
+			<offer id="12855" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>52</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12855.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слоеный рулет с маком 95г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука пш в/с,маргарин,яйцо,соль,мак,сгущ. молоко,сахар, дрожжи,пастила Ямайка-Ром
+
+1 шт.</description>
+			</offer>
+			<offer id="12856" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12856.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка Кокосовая полоска 100г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Тесто слоен.-дрожж.,кокосовая стружка, кремико,посыпка
+
+1 шт.</description>
+			</offer>
+			<offer id="12857" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12857.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка Творожная сказка 85г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Тесто слоеное дрожжевое,творог,маргарин, сахар,ванилин,смесь Бинекс
+
+1 шт.</description>
+			</offer>
+			<offer id="12858" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12858.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка Шоколадная сказка 70г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука в/с,дрожжи,сахар,соль,марг.,яйцо, сух.молоко,Кремико,шоколад,аром-р
+
+1 шт.</description>
+			</offer>
+			<offer id="12859" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12859.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка Ажур с брусникой пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,соль,сахар,дрожжи,марг.,яйцо, сух.молоко,конфитюр,минд.лепест.,гель
+
+1 шт.</description>
+			</offer>
+			<offer id="12860" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12860.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка Ажур с вишней пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,соль,сахар,дрожжи,маргарин,яйцо, молоко сухое,конфитюр,кремико,гель
+
+1 шт.</description>
+			</offer>
+			<offer id="12861" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12861.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка Ажур с черникой пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,соль,сахар,дрожжи,маргарин,яйцо, молоко сухое,конфитюр,минальн.лепестки,гель
+
+1 шт.</description>
+			</offer>
+			<offer id="12862" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12862.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка Ажур с яблоком пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука,соль,сахар,дрожжи,маргарин,яйцо, молоко сухое,конфитюр,термо-сахар,гель
+
+1 шт.</description>
+			</offer>
+			<offer id="12863" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12863.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка с ветчиной и сыром 95г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+ветчина, сыр,кунжут,мука в/с,соль,дрожжи,сахар.песок,маргарин,яйцо,молоко сухое
+
+1 шт.</description>
+			</offer>
+			<offer id="12864" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12864.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка с творогом 130г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+творог,ванил.,сах.пудра,топпенф.,яйцо,мол.сух., мука в/с,мука Фазер,соль,дрожжи,сахар,маргарин
+
+1 шт.</description>
+			</offer>
+			<offer id="12865" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12865.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сосиска в тесте 110г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука,дрожжи,маргарин,яйцо,молоко сух, сосиска, масло растит.
+
+1 шт.</description>
+			</offer>
+			<offer id="12866" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>710</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12866.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кекс Шоколадный пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+смесь для кекса,масло раст,вода,конфитюр вишневый
+
+1 шт.</description>
+			</offer>
+			<offer id="12867" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12867.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирожок с картофелем 40г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука в/с, маргарин, яйцо, вода, карт.хлопья, лук жар, молоко сухое, дрожжи
+
+1 шт.</description>
+			</offer>
+			<offer id="12868" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12868.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирожок с капустой 40г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука в/с,маргарин,яйцо,вода,загуститель,дрожжи,капуста,масло раст
+
+1 шт.</description>
+			</offer>
+			<offer id="12869" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12869.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирожок с картофелем и грибами 40г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука, молоко сухое, соль, сахар, яйцо, маргарин, раст.масло, хлопья картофельные,грибы консерв,лук.
+
+1 шт.</description>
+			</offer>
+			<offer id="12870" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12870.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирожок с вишней 40г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука в/с,маргарин,яйцо,вода,загуститель,дрожжи,вишня
+
+1 шт.</description>
+			</offer>
+			<offer id="12871" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12871.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирожок с мясом 40г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука, дрожжи, молоко сух., маргарин, соль, перец яйцо, сахар, масло раст, лук суш, фарш говяжий
+
+1 шт.</description>
+			</offer>
+			<offer id="12872" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12872.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирожок с яблоком 40г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука в/с, маргарин, дрожжи, яйцо, молоко сухое, сахар, яблоко, лимон, конфитюр, масло раст.
+
+1 шт.</description>
+			</offer>
+			<offer id="12873" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12873.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кекс Флер пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+смесь для кекса,мука в/с, сахар,масло раст,вода,яблоко
+
+1 шт.</description>
+			</offer>
+			<offer id="12874" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12874.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Слойка Праздничная 100г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+тесто сл.-дрож.,сахар,яблоко,апельс.,изюм,орехи,коньяк,мед
+
+1 шт.</description>
+			</offer>
+			<offer id="12875" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12875.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сочни 80г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+Мука пш в/с,сахар,маргарин,меланж,сода,соль,творог.
+
+1 шт.</description>
+			</offer>
+			<offer id="12876" available="true">
+				<url>http://fasteda.ru/menu/mnogo/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2107</categoryId>
+				<picture>http://fasteda.ru/data/big/12876.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирожок с яблоком и корицей 40г пр-во Лэнд</name>
+				<vendor>Mnogomart</vendor>
+				<description>Состав
+мука в/с, маргарин, дрожжи, яйцо, молоко сухое, яблоко, корица, сахар, масло раст.
+
+1 шт.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

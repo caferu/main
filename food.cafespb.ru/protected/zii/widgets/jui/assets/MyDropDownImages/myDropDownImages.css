@@ -1,0 +1,64 @@
+.my-dropdownimage {
+    position: relative;
+    margin: 10px;
+}
+
+.my-dropdownimage ul {
+    width: 112px;
+    padding: 5px 2.5px 2.5px 2.5px;
+    margin: 0;
+    list-style: none;
+}
+.my-dropdownimage ul:hover {
+    cursor: pointer;
+}
+
+.my-dropdownimage ul li {
+    margin: 0px 2.5px 2.5px 2.5px;
+}
+
+.my-dropdownimage ul img {
+    border: 1px solid #CFCFCF;
+    padding: 2.5px 2.5px 2.5px 2.5px;
+}
+
+.my-dropdownimage ul.my-dropdownimage-list img:hover {
+    border: 1px solid #666;
+}
+
+.my-dropdownimage ul li.my-dropdownimage-button {
+    position: relative;
+    margin: 0 -3.5px -3.5px -3.5px;
+}
+
+.my-dropdownimage ul li.my-dropdownimage-button.ui-state-active {
+
+}
+
+.my-dropdownimage-button .ui-icon {
+    left: 0.5em;
+    margin-top: -8px;
+    position: absolute;
+    top: 50%;
+}
+
+.my-dropdownimage-button a {
+    padding-left: 2.2em;
+    font-size: 1em;
+}
+
+.my-dropdownimage-list {
+    display: none;
+    position: absolute;
+    z-index: 100;
+}
+
+.my-dropdownimage-label {
+    text-align: center;
+    font-weight: bold;
+}
+
+.my-dropdownimage-label-container .my-dropdownimagemulti-button-delete {
+    right: 15px;
+    top: 16px;
+}

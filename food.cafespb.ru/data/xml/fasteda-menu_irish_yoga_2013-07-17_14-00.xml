@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-07-17 14:00">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1628">Холодные закуски</category>
+			<category id="1631">Закуски к пиву</category>
+			<category id="1637">Колбаски</category>
+			<category id="1634">Сэндвичи</category>
+			<category id="1629">Салаты</category>
+			<category id="1638">Стейк Хаус</category>
+			<category id="1630">Поздний завтрак</category>
+			<category id="1636">Первые блюда</category>
+			<category id="1639">Основные блюда</category>
+			<category id="1635">Пицца ∅ 28 см</category>
+			<category id="1640">Соусы все по 50 грамм</category>
+			<category id="1641">Гарниры 150 грамм</category>
+			<category id="1642">Десерты</category>
+			<category id="1643">Снэки</category>
+		</categories>
+		<offers>
+			<offer id="9277" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1628</categoryId>
+				<picture>http://fasteda.ru/data/big/9277.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе сельди с русским соусом</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Филе сельди, корнишоны, яблоки, лук, зелень (100/100 гр).</description>
+			</offer>
+			<offer id="9278" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1628</categoryId>
+				<picture>http://fasteda.ru/data/big/9278.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Буженина</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Буженина, горчица, зелень (150/50 гр).</description>
+			</offer>
+			<offer id="9279" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1628</categoryId>
+				<picture>http://fasteda.ru/data/big/9279.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ростбиф</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Ростбиф, классический соус Тар-тар (150/50 гр).</description>
+			</offer>
+			<offer id="9280" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1628</categoryId>
+				<picture>http://fasteda.ru/data/big/9280.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ветчинные рулетики 5 шт</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Ветчина, начиненная сыром, томатом и чесноком .</description>
+			</offer>
+			<offer id="9281" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1628</categoryId>
+				<picture>http://fasteda.ru/data/big/9281.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырная тарелка</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Сыр пармезан, Чеддер, Моцарелла, копченый сыр, мед, крекер, орехи (160/30/30/20 гр).</description>
+			</offer>
+			<offer id="9288" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1631</categoryId>
+				<picture>http://fasteda.ru/data/big/9288.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмешки жареные</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(120 гр).</description>
+			</offer>
+			<offer id="9289" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1631</categoryId>
+				<picture>http://fasteda.ru/data/big/9289.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриные крылышки с красным острым соусом</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(350 гр).</description>
+			</offer>
+			<offer id="9290" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1631</categoryId>
+				<picture>http://fasteda.ru/data/big/9290.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гренки с сыром, чесноком и зеленью</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="9291" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1631</categoryId>
+				<picture>http://fasteda.ru/data/big/9291.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гренки с чесноком и зеленью</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="9292" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1631</categoryId>
+				<picture>http://fasteda.ru/data/big/9292.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гренки с сыром</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(250 гр).</description>
+			</offer>
+			<offer id="9293" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1631</categoryId>
+				<picture>http://fasteda.ru/data/big/9293.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырные шарики с перцем Халопеньо</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(200/50 гр).</description>
+			</offer>
+			<offer id="9294" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1631</categoryId>
+				<picture>http://fasteda.ru/data/big/9294.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кольца кальмаров в соусе Тартар</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(180/50 гр).</description>
+			</offer>
+			<offer id="9295" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1631</categoryId>
+				<picture>http://fasteda.ru/data/big/9295.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Луковые кольца с острым соусом</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(180/50 гр).</description>
+			</offer>
+			<offer id="9324" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1637</categoryId>
+				<picture>http://fasteda.ru/data/big/9324.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Колбаски «Украинские» 2 шт</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Колбаски из свинины и говядины с чесноком (100/50 гр). Все колбаски подаются с тушеной квашеной капустой и горчичным соусом.</description>
+			</offer>
+			<offer id="9325" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1637</categoryId>
+				<picture>http://fasteda.ru/data/big/9325.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Колбаски «Мюнхенские» 2 шт</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Колбаски из свинины со специями (100/50 гр). Все колбаски подаются с тушеной квашеной капустой и горчичным соусом.</description>
+			</offer>
+			<offer id="9326" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1637</categoryId>
+				<picture>http://fasteda.ru/data/big/9326.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Колбаска «Улитка» 1 шт</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Ассорти колбасок из свинины, говядины и баранины со специями (100/50 гр). Все колбаски подаются с тушеной квашеной капустой и горчичным соусом.</description>
+			</offer>
+			<offer id="9316" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1634</categoryId>
+				<picture>http://fasteda.ru/data/big/9316.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сэндвич с беконом и куриным филе</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Куриное филе, Айсберг, бекон, томаты, картофель фри и сметанный соус (300/100/50 гр).</description>
+			</offer>
+			<offer id="9317" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1634</categoryId>
+				<picture>http://fasteda.ru/data/big/9317.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Клаб сэндвич </name>
+				<vendor>Irish Yoga</vendor>
+				<description>Традиционный сэндвич из белых тостов с куриным филе, беконом, ветчиной, листьями салата, помидорами, сыром. Подается с картофелем фри и американским соусом (300/100/50 гр).</description>
+			</offer>
+			<offer id="9318" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1634</categoryId>
+				<picture>http://fasteda.ru/data/big/9318.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гамбургер из говядины</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Классический гамбургер с настоящей говяжьей котлетой, маринованными огурчиками, свежими помидорами, салатом Айсберг и красным луком. Подается с картофелем фри и соусом (320/100/50).</description>
+			</offer>
+			<offer id="9282" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1629</categoryId>
+				<picture>http://fasteda.ru/data/big/9282.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с креветками</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Креветки тигровые, салат Ромейн, бекон, сыр пармезан, гренки (350 гр).</description>
+			</offer>
+			<offer id="9283" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1629</categoryId>
+				<picture>http://fasteda.ru/data/big/9283.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с курицей</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Куриное филе, бекон, салат Ромейн, томаты Черри, сыр пармезан, гренки (350 гр).</description>
+			</offer>
+			<offer id="9284" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1629</categoryId>
+				<picture>http://fasteda.ru/data/big/9284.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Сердце дьявола»</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Говядина, буженина, перец болгарский, помидор, красный лук, маринованный огурец (250 гр).</description>
+			</offer>
+			<offer id="9285" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1629</categoryId>
+				<picture>http://fasteda.ru/data/big/9285.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Классический мясной салат с отварной говядиной</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Говядина, морковь, вареный картофель, зеленый горошек, майонезная заправка (250 гр).</description>
+			</offer>
+			<offer id="9286" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1629</categoryId>
+				<picture>http://fasteda.ru/data/big/9286.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греческий салат</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Перец болгарский, салат Айсберг, томаты, свежие огурцы, сыр Фета, маслины (240 гр).</description>
+			</offer>
+			<offer id="9327" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1638</categoryId>
+				<picture>http://fasteda.ru/data/big/9327.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из лосося со спаржей</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Филе лосося, спаржа, лимон, соус Голландский (180/100/50 гр).</description>
+			</offer>
+			<offer id="9328" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1638</categoryId>
+				<picture>http://fasteda.ru/data/big/9328.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из вырезки</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Говяжья вырезка, запеченный томат, сыр, розмарин, соус с красным вином (200/70/50 гр).</description>
+			</offer>
+			<offer id="9329" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1638</categoryId>
+				<picture>http://fasteda.ru/data/big/9329.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк Рибай с перечным соусом</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Рибай, тимьян, розмарин, томат, сыр, перечный соус (300/70/50 гр).</description>
+			</offer>
+			<offer id="9330" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1638</categoryId>
+				<picture>http://fasteda.ru/data/big/9330.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ягненок на кости</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Ягненок на кости, картофель Айдахо, острый красный соус (350/100/50 гр).</description>
+			</offer>
+			<offer id="9287" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1630</categoryId>
+				<picture>http://fasteda.ru/data/big/9287.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Омлет с сыром, беконом, помидорами, картофелем фри</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(120/30/30/30/100 гр).</description>
+			</offer>
+			<offer id="9321" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1636</categoryId>
+				<picture>http://fasteda.ru/data/big/9321.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бульон с яйцом и курицей и домашней лапшой</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Добавка специи и зелень (400 гр).</description>
+			</offer>
+			<offer id="9322" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1636</categoryId>
+				<picture>http://fasteda.ru/data/big/9322.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха по-фински</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Филе лосося, сливки, картофель, лук, специи, зелень (400 гр).</description>
+			</offer>
+			<offer id="9323" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1636</categoryId>
+				<picture>http://fasteda.ru/data/big/9323.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Солянка мясная сборная</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Ростбиф, буженина, бекон, картофель, соленые огурцы, лук, томат, лимон, сметана (400/50 гр).</description>
+			</offer>
+			<offer id="9331" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1639</categoryId>
+				<picture>http://fasteda.ru/data/big/9331.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тигровые креветки в соусе, подаются с багетом</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Багет с оливковой заправкой,  чесночно-имбирный соус (150/100 гр).</description>
+			</offer>
+			<offer id="9332" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1639</categoryId>
+				<picture>http://fasteda.ru/data/big/9332.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рыба по-польски</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Филе трески, картофельное пюре, сливочное масло, яйцо, зелень (180/100/50 гр).</description>
+			</offer>
+			<offer id="9333" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1639</categoryId>
+				<picture>http://fasteda.ru/data/big/9333.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бефстроганов по-домашнему</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Говядина, лук, сливки, шампиньоны, картофельное пюре (250/150 гр).</description>
+			</offer>
+			<offer id="9334" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1639</categoryId>
+				<picture>http://fasteda.ru/data/big/9334.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шницель куриный</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Куриная грудка, картофель фри, сметанный соус (180/100/50 гр).</description>
+			</offer>
+			<offer id="9335" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1639</categoryId>
+				<picture>http://fasteda.ru/data/big/9335.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медальоны из говядины</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Говяжья вырезка, картофель Пушкин - отварной и слегка обжаренный на сковороде, перечный соус (180/100/50 гр).</description>
+			</offer>
+			<offer id="9336" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1639</categoryId>
+				<picture>http://fasteda.ru/data/big/9336.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рулька свиная 1 шт</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Подается с квашеной капустой и горчичным соусом (100/50 гр).</description>
+			</offer>
+			<offer id="9319" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1635</categoryId>
+				<picture>http://fasteda.ru/data/big/9319.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца сырная ∅ 28 см</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Пицца-соус, сыр Пармезан, сыр Моцарелла, сыр Фета, сыр Эдам, маслины, базилик.</description>
+			</offer>
+			<offer id="9320" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1635</categoryId>
+				<picture>http://fasteda.ru/data/big/9320.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца мясная ∅ 28 см</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Пицца-соус, ветчина, буженина, говядина, сыр Моцарелла, маслины, базилик.</description>
+			</offer>
+			<offer id="9337" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9337.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус Тартар</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9338" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9338.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус горчичный</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9339" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9339.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус перечный</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9340" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9340.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус острый красный</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9341" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9341.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус сметанный с чесноком и зеленью</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9342" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9342.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус голландский</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9343" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9343.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус американский</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9344" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9344.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус сырный </name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9345" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9345.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус сметана</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9346" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9346.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус майонез</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9347" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1640</categoryId>
+				<picture>http://fasteda.ru/data/big/9347.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соус кетчуп</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9348" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1641</categoryId>
+				<picture>http://fasteda.ru/data/big/9348.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спаржа с голландским соусом</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9349" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1641</categoryId>
+				<picture>http://fasteda.ru/data/big/9349.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель фри </name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9350" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1641</categoryId>
+				<picture>http://fasteda.ru/data/big/9350.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9351" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1641</categoryId>
+				<picture>http://fasteda.ru/data/big/9351.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель «Айдахо»</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9352" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1641</categoryId>
+				<picture>http://fasteda.ru/data/big/9352.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель «Пушкин»</name>
+				<vendor>Irish Yoga</vendor>
+				<description>Отварной и слегка обжаренный на сковороде.</description>
+			</offer>
+			<offer id="9353" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1641</categoryId>
+				<picture>http://fasteda.ru/data/big/9353.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тушеная квашенная капуста</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9354" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1642</categoryId>
+				<picture>http://fasteda.ru/data/big/9354.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк классический «Нью-Йорк»</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(130 гр).</description>
+			</offer>
+			<offer id="9355" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1642</categoryId>
+				<picture>http://fasteda.ru/data/big/9355.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк шоколадный</name>
+				<vendor>Irish Yoga</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9356" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1642</categoryId>
+				<picture>http://fasteda.ru/data/big/9356.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мороженое с фруктами</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(150/30 гр).</description>
+			</offer>
+			<offer id="9357" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1642</categoryId>
+				<picture>http://fasteda.ru/data/big/9357.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хлебная корзинка</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="9358" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1643</categoryId>
+				<picture>http://fasteda.ru/data/big/9358.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фисташки </name>
+				<vendor>Irish Yoga</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="9359" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1643</categoryId>
+				<picture>http://fasteda.ru/data/big/9359.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Миндаль</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="9360" available="true">
+				<url>http://fasteda.ru/menu/irish_yoga/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1643</categoryId>
+				<picture>http://fasteda.ru/data/big/9360.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясные чипсы</name>
+				<vendor>Irish Yoga</vendor>
+				<description>(50 гр).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

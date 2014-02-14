@@ -1,0 +1,24 @@
+.my-dropdownimagemulti {
+    position: relative;
+}
+
+.my-dropdownimagemulti .my-dropdownimagemulti-item {
+    position: relative;
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+}
+
+.my-dropdownimagemulti-button-delete {
+    position: absolute !important;
+    right: 20px;
+    top: 22px;
+    width: 1.2em !important;
+    height: 1.2em;
+}
+
+.my-dropdownimagemulti-button-add {
+    width: 2em !important;
+    height: 2em;
+    margin:  10px;
+}

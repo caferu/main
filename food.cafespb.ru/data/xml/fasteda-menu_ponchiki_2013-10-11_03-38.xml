@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 03:38">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="2037">Пончики с начинкой</category>
+			<category id="2036">Пончики без начинки</category>
+			<category id="2038">Ассорти</category>
+			<category id="2039">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="12262" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2037</categoryId>
+				<picture>http://fasteda.ru/data/big/12262.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пончик с начинкой лесные ягоды</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(76-84 гр).</description>
+			</offer>
+			<offer id="12263" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2037</categoryId>
+				<picture>http://fasteda.ru/data/big/12263.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пончик с начинкой банан</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(76-84 гр).</description>
+			</offer>
+			<offer id="12264" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2037</categoryId>
+				<picture>http://fasteda.ru/data/big/12264.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пончик с начинкой яблоко-корица</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(76-84 гр).</description>
+			</offer>
+			<offer id="12265" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2037</categoryId>
+				<picture>http://fasteda.ru/data/big/12265.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пончик с начинкой лимон</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(76-84 гр).</description>
+			</offer>
+			<offer id="12266" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2037</categoryId>
+				<picture>http://fasteda.ru/data/big/12266.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пончик с начинкой чизкейк </name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(76-84 гр).</description>
+			</offer>
+			<offer id="12267" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2037</categoryId>
+				<picture>http://fasteda.ru/data/big/12267.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пончик с начинкой кленовый сироп</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(76-84 гр).</description>
+			</offer>
+			<offer id="12268" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2037</categoryId>
+				<picture>http://fasteda.ru/data/big/12268.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пончик c начинкой сливочный крем</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(76-84 гр).</description>
+			</offer>
+			<offer id="12260" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2036</categoryId>
+				<picture>http://fasteda.ru/data/big/12260.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пончик с шоколадной глазурью без начинки</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(64-72 гр).</description>
+			</offer>
+			<offer id="12261" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2036</categoryId>
+				<picture>http://fasteda.ru/data/big/12261.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Пончик с классической белой глазурью без начинки</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(64-72 гр).</description>
+			</offer>
+			<offer id="12269" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2038</categoryId>
+				<picture>http://fasteda.ru/data/big/12269.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Набор ассорти</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>(444-492 гр).</description>
+			</offer>
+			<offer id="12270" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2039</categoryId>
+				<picture>http://fasteda.ru/data/big/12270.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Coca-Cola 0,33 л</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12271" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2039</categoryId>
+				<picture>http://fasteda.ru/data/big/12271.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Fanta 0,33 л</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12272" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2039</categoryId>
+				<picture>http://fasteda.ru/data/big/12272.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Sprite 0,33 л</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12273" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2039</categoryId>
+				<picture>http://fasteda.ru/data/big/12273.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Andry Birds 0,33 л</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12274" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2039</categoryId>
+				<picture>http://fasteda.ru/data/big/12274.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Lipton 0,5 л</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12275" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2039</categoryId>
+				<picture>http://fasteda.ru/data/big/12275.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Святой источник негаз. 0,5 л</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12276" available="true">
+				<url>http://fasteda.ru/menu/ponchiki/</url>
+				<price>49</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2039</categoryId>
+				<picture>http://fasteda.ru/data/big/12276.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>200</local_delivery_cost>
+				<name>Святой источник газ. 0,5 л</name>
+				<vendor>Лавка «Глазурь»</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

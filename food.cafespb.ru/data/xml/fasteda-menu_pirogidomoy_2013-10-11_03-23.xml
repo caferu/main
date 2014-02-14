@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 03:23">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1940">Осетинские пироги</category>
+			<category id="1945">Сладкие пироги</category>
+			<category id="1946">Десерты</category>
+			<category id="1947">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="11331" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11331.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с говядиной</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Сытный пирог со свежайшей рубленой говядиной для настоящих мужчин. По-настоящему вкусно!
+(800 гр).</description>
+			</offer>
+			<offer id="11404" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11404.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с помидорами и сыром</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Легче легкого! Ни одной лишней калории! Этот потрясающий южный вкус должны попробовать все!
+(800 гр).</description>
+			</offer>
+			<offer id="11401" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11401.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с грибами и сыром</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Вегетарианский пирог! Вкусно, сытно, легко! И очень полезно.
+(800 гр).</description>
+			</offer>
+			<offer id="11398" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11398.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с мясом и грибами</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Еще один мужской рецепт в нашей палитре вкусов! Рубленое свежее мясо и ароматные лесные грибы.
+(800 гр).</description>
+			</offer>
+			<offer id="11395" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11395.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с курицей и грибами</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Такой же легкий пирог, как просто с курицей, но гораздо пикантнее и сытнее. И это при таком же количестве калорий!
+(800 гр).</description>
+			</offer>
+			<offer id="11392" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11392.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с курицей и сыром</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Легкий пирог с нежирной куриной грудкой и пресным осетинским сыром. Свежесть, свежесть и еще раз свежесть!
+(800 гр).</description>
+			</offer>
+			<offer id="11389" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11389.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с рубленной бараниной и картофелем</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Очень сытный, прямо сочащийся пирог! Голодным не останется никто!
+(800 гр).</description>
+			</offer>
+			<offer id="11386" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11386.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с рубленной говяжьей печенью</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Для истинных ценителей. Плотный, сражающий наповал вкус! Вы полюбите этот пирог!
+(800 гр).</description>
+			</offer>
+			<offer id="11383" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11383.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с рубленным куриным бедром и картофелем</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Все-в-одном. Один из наших самых популярных пирогов. Невероятное богатство вкуса в одном пироге!
+(800 гр).</description>
+			</offer>
+			<offer id="11380" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11380.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с рубленной говядиной и картофелем</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>
+Комплексный обед в одном пироге! Идеальный вариант для хорошего обеденного перерыва!
+(800 гр).</description>
+			</offer>
+			<offer id="11377" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11377.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог со шпинатом и сыром</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Легкий и сытный пирог! Мгновенно насыщает и повышает настроение! Рекомендуется спортсменам!
+(800 гр).</description>
+			</offer>
+			<offer id="11374" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11374.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с сыром и зеленым луком</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Весеннее сочетание вкуса свежего зеленого лука и традиционного белого осетинского сыра! Незабываемо!
+(800 гр).</description>
+			</offer>
+			<offer id="11371" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11371.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог со свекольными листьями и сыром</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Традиционный рецепт! Ощутите настоящий вкус национальной осетинской кухни! Очень вкусно и легко!
+(800 гр).</description>
+			</offer>
+			<offer id="11368" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11368.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с сыром</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Один из самых простых и любимых наших пирогов. Потрясающе вкусен и прекрасно утоляет голод, не оставляя ощущения тяжести!
+(800 гр).</description>
+			</offer>
+			<offer id="11359" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11359.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с бараниной</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Классический вкус кавказского шашлыка внутри осетинского пирога! Для настоящих ценителей!
+(800 гр).</description>
+			</offer>
+			<offer id="11358" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11358.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с говядиной и свининой</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Незабываемое сочетание свинины и говядины в одном пироге! Универсальный рецепт для любого обеда или вечеринки!
+(800 гр).</description>
+			</offer>
+			<offer id="11357" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11357.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог со свининой</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Прекрасный выбор для тех, кто хочет плотно и быстро перекусить. Насыщенный и глубокий вкус!
+(800 гр)
+.</description>
+			</offer>
+			<offer id="11407" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11407.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с лососем</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Абсолютный хит! Жирный норвежский лосось в тонком тесте - любимое блюдо не только викингов!
+(800 гр).</description>
+			</offer>
+			<offer id="11410" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11410.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с крабовым мясом и сыром</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Невероятный вкус! Ничего вкуснее вы еще не пробовали, гарантируем!
+(800 гр).</description>
+			</offer>
+			<offer id="11413" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11413.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с капустой</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Русский вкус в осетинских пирогах! Для всех, кто следит за своей фигурой!
+(800 гр).</description>
+			</offer>
+			<offer id="11416" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11416.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с картофелем</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Разваристый душистый картофель в тонком тесте! Недорого и очень сытно.
+(800 гр).</description>
+			</offer>
+			<offer id="11419" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11419.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с капустой и грибами</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>На западе это могли бы назвать регулярным пирогом. Мы особенно любим его классический вкус.
+(800 гр).</description>
+			</offer>
+			<offer id="11422" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11422.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с картофелем и грибами</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Лучшее, что может произойти с грибами - быть запеченными вместе с молодым картофелем в тонком и душистом пироге
+(800 гр).</description>
+			</offer>
+			<offer id="11425" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11425.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с капустой и яйцом</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Бодрящий утренний вкус! Легко и очень энергично!
+(800 гр).</description>
+			</offer>
+			<offer id="11428" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11428.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с творогом и картофелем</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Новые границы вкуса! Мы заменили в классическом рецепте сыр на творог и получили поистине волшебный мягкий вкус
+(800 гр).</description>
+			</offer>
+			<offer id="11431" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11431.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с картофелем и жареным луком</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Пикантный и легкий пирог с золотистым обжаренным луком и молодым картофелем
+(800 гр).</description>
+			</offer>
+			<offer id="11434" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11434.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с капустой и грецким орехом</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Очень вкусный постный пирог для энергичных людей!
+(800 гр).</description>
+			</offer>
+			<offer id="11437" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11437.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с морковью</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>(800 гр).</description>
+			</offer>
+			<offer id="11440" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11440.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с овощами</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>(800 гр).</description>
+			</offer>
+			<offer id="11443" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11443.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с тыквой</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>(800 гр).</description>
+			</offer>
+			<offer id="11446" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1940</categoryId>
+				<picture>http://fasteda.ru/data/big/11446.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Осетинский пирог с фасолью</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>(800 гр).</description>
+			</offer>
+			<offer id="11449" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11449.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Медовик</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Изысканный и всеми любимый медовый торт! Нежный и рассыпчатый.
+(1000 гр).</description>
+			</offer>
+			<offer id="11450" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11450.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с яблоками и корицей</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Тонкий аромат корицы великолепно оттеняет вкус запеченных красных яблок!
+1 шт.</description>
+			</offer>
+			<offer id="11451" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11451.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с творогом</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Прекрасный повод сделать перерыв и выпить чаю с нашим свежим и таким мягким творожным пирогом!
+1 шт.</description>
+			</offer>
+			<offer id="11452" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11452.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с вишней</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>С детства любимое лакомство - вишневое варенье - теперь в виде пирога! Терпкий аромат и сладкий вкус!
+1 шт.</description>
+			</offer>
+			<offer id="11453" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11453.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с маком</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Превосходное дополнение к традиционному русскому чаепитию! Изысканный и легкий вкус.
+1 шт.</description>
+			</offer>
+			<offer id="11454" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11454.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с орехами</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>С каждым куском этого пирога вы будете чувствовать, как силы возвращаются к вам!
+1 шт.</description>
+			</offer>
+			<offer id="11455" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11455.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с яблоком и вишней</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Свежий вкус для весны! Благородная вишня и ароматные зеленые яблоки - бодрящее сочетания для утренней чашки чая!
+1 шт.</description>
+			</offer>
+			<offer id="11456" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11456.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с яблоком и брусникой</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Один из наших самых любимых рецептов. Истинно русский пирог! Одновременно сладкий и терпкий, с легкой освежающей кислинкой!
+1 шт.</description>
+			</offer>
+			<offer id="11457" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11457.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с клубникой</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Поистине царское лакомство. Роскошный аромат и вкус, полный лета!
+ 1 шт.</description>
+			</offer>
+			<offer id="11458" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11458.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с яблоком и лимоном</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Специальный рецепт пирога для офисных работников. Великолепно подходит для кофе-брейка!
+1 шт.</description>
+			</offer>
+			<offer id="11459" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1945</categoryId>
+				<picture>http://fasteda.ru/data/big/11459.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с курагой</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Для тех, кто любит послаще. Отличный вариант для неторопливого чаепития с близкими.
+1 шт.</description>
+			</offer>
+			<offer id="11460" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1946</categoryId>
+				<picture>http://fasteda.ru/data/big/11460.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк New-York 1шт</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11466" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1946</categoryId>
+				<picture>http://fasteda.ru/data/big/11466.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Профитроли большие в шоколадном креме 1шт</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11463" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1946</categoryId>
+				<picture>http://fasteda.ru/data/big/11463.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Брауни черепашка 1шт</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11469" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1946</categoryId>
+				<picture>http://fasteda.ru/data/big/11469.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог карамельно-яблочный 1шт</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11472" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1946</categoryId>
+				<picture>http://fasteda.ru/data/big/11472.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тираммису Маскарпоне 1шт</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11475" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1946</categoryId>
+				<picture>http://fasteda.ru/data/big/11475.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морковный торт 1шт</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11478" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1947</categoryId>
+				<picture>http://fasteda.ru/data/big/11478.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Сola 1л</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11479" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1947</categoryId>
+				<picture>http://fasteda.ru/data/big/11479.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Fanta 1л</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11480" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1947</categoryId>
+				<picture>http://fasteda.ru/data/big/11480.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite 1л</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11481" available="true">
+				<url>http://fasteda.ru/menu/pirogidomoy/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1947</categoryId>
+				<picture>http://fasteda.ru/data/big/11481.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Riсh 1л</name>
+				<vendor>Пироги Домой!</vendor>
+				<description>Яблоко, томат, вишня, апельсин, ананас, персик.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

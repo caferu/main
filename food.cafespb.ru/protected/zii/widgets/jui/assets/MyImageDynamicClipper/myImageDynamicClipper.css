@@ -1,0 +1,12 @@
+.MyImageDynamicClipper {
+    cursor: pointer;
+}
+
+.MyImageDynamicClipperCurrentImg {
+    max-width: 300px;
+}
+
+.MyImageDynamicClipperDialog .ui-accordion-content {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}

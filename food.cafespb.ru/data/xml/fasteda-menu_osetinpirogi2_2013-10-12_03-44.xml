@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-12 03:44">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1580">Постные пироги</category>
+			<category id="1218">Осетинские пироги</category>
+		</categories>
+		<offers>
+			<offer id="8914" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1580</categoryId>
+				<picture>http://fasteda.ru/data/big/8914.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Пирог с картофелем</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>(500 гр).</description>
+			</offer>
+			<offer id="8916" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1580</categoryId>
+				<picture>http://fasteda.ru/data/big/8916.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Пирог с капустой</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>(500 гр).</description>
+			</offer>
+			<offer id="8918" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1580</categoryId>
+				<picture>http://fasteda.ru/data/big/8918.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Пирог с тыквой</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>(500 гр).</description>
+			</offer>
+			<offer id="7268" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7268.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с мясом ∅ 30 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с мясом «Фыджин». Состав:Мука в/с, вода, молоко, дрожжи, мясо говядины, соль,
+перец красный стручковый острый, перец черный молотый, чеснок, масло растительное.
+(1000 гр).</description>
+			</offer>
+			<offer id="7269" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7269.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с мясом ∅ 25 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с мясом «Фыджин». Состав:Мука в/с, вода, молоко, дрожжи, мясо говядины, соль,
+перец красный стручковый острый, перец черный молотый, чеснок, масло растительное.
+(500 гр).</description>
+			</offer>
+			<offer id="7270" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7270.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с сыром ∅ 30 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с осетинским сыром «Уалибах». Состав: Мука в/с, вода, молоко, дрожжи, сыр
+осетинский, соль, масло растительное.
+(1000 гр).</description>
+			</offer>
+			<offer id="7271" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7271.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с сыром ∅ 25 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с осетинским сыром«Уалибах». Состав: Мука в/с, вода, молоко, дрожжи, сыр
+осетинский, соль, масло растительное.
+(500 гр).</description>
+			</offer>
+			<offer id="7272" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7272.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с картошкой и сыром ∅ 30 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с картошкой и сыром «Картофджын». 
+Состав: Мука в/с, вода, молоко, дрожжи, картофель, сыр осетинский, соль, масло растительное.
+(1000 гр).</description>
+			</offer>
+			<offer id="7273" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7273.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с картошкой и сыром ∅ 25 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с картошкой и сыром «Картофджын». 
+Состав: Мука в/с, вода, молоко, дрожжи,картофель, сыр осетинский, соль, масло растительное.
+(500 гр).</description>
+			</offer>
+			<offer id="7274" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7274.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с капустой ∅ 30 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с капустой «Кабускаджын». 
+Состав: Мука в/с, вода, дрожжи, капуста свежая, соль, лук репчатый, перец красный стручковый острый, перец черный молотый, масло растительное.
+(1000 гр).</description>
+			</offer>
+			<offer id="7275" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7275.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с капустой ∅ 25 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с капустой «Кабускаджын». 
+Состав: Мука в/с, вода, дрожжи, капуста свежая, соль, лук репчатый, перец красный стручковый острый, перец черный молотый, масло растительное.
+(500 гр).</description>
+			</offer>
+			<offer id="7276" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7276.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с тыквой ∅ 30 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с тыквой «Насджын».
+Состав: Мука в/с, вода, дрожжи, тыква, соль, перец молотый, лук репчатый, масло растительное.
+(1000 гр).</description>
+			</offer>
+			<offer id="7277" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7277.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с тыквой ∅ 25 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с тыквой «Насджын».
+Состав: Мука в/с, вода, дрожжи, тыква, соль, перец
+молотый, лук репчатый, масло растительное.
+(500 гр).</description>
+			</offer>
+			<offer id="7278" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7278.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с кабачком и сыром ∅ 30 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с кабачком и сыром «Къэбжъыйцыхтима». 
+Состав: Мукав/с, вода, дрожжи,
+кабачок, сыр осетинский, соль, перец черный молотый, масло растительное.
+(1000 гр).</description>
+			</offer>
+			<offer id="7279" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/7279.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осетинский пирог с кабачком и сыром ∅ 25 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Осетинский пирог с кабачком и сыром «Къэбжъыйцыхтима». 
+Состав: Мукав/с, вода, дрожжи,
+кабачок, сыр осетинский, соль, перец черный молотый, масло растительное.
+(500 гр).</description>
+			</offer>
+			<offer id="11173" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/11173.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Цахараджын ∅ 30 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Пирог с измельченными листьями свеклы и сыром. Состав: Мука в/с, вода, молоко, дрожжи, сыр осетинский, листья свеклы, лук, укроп, соль, масло растительное.
+(1000 гр).</description>
+			</offer>
+			<offer id="11176" available="true">
+				<url>http://fasteda.ru/menu/osetinpirogi2/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1218</categoryId>
+				<picture>http://fasteda.ru/data/big/11176.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Давонджын ∅ 30 см</name>
+				<vendor>Осетинские Пироги</vendor>
+				<description>Пирог с измельченными листьями черемши и сыром. Состав: Мука в/с, вода, молоко, дрожжи, сыр осетинский, листья черемши, соль, масло растительное.
+(1000 гр).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

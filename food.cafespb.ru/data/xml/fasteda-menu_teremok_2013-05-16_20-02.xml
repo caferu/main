@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-05-16 20:02">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="20">Сытные блины</category>
+			<category id="18">Сладкие блины</category>
+			<category id="17">Похлебки</category>
+			<category id="523">Салаты</category>
+			<category id="21">Сытные гречневые каши</category>
+			<category id="935">Гурьевские каши</category>
+			<category id="83">Десерты</category>
+			<category id="84">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="3542" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/3542.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин «Итальяно»</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>2 вида сыра Mozzarella и Пармезана, салями, томаты и зелень.</description>
+			</offer>
+			<offer id="111" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>193</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/111.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин «Илья Муромец»</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>С бужениной, грибами, сыром и зеленью.</description>
+			</offer>
+			<offer id="112" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/112.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин «СВ» с двойной ветчиной и сыром</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="114" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/114.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин «Алеша Попович»</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>С куриной грудкой-гриль под соусом
+.</description>
+			</offer>
+			<offer id="115" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/115.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин «E-mail» с грибами</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="117" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/117.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с красной икрой</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="118" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/118.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин со сметаной</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="121" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>73</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/121.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с сыром и ветчиной</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="119" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>122</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/119.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с грибами в сливках и сыром</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Блин с грибами в сливках и сыром.</description>
+			</offer>
+			<offer id="113" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/113.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин Роял</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="120" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/120.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин «Цезарь»</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>С аппетитной куриной грудкой, свежим салатом и сыром пармезан .</description>
+			</offer>
+			<offer id="123" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/123.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин «Добрыня Никитич» с рубленым мясом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="124" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>92</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/124.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с гусиным паштетом, огурцами и зеленью</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="140" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>43</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/140.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блинчик сыр и ветчина</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="200" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/200.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин «Золотая рыбка» с семгой под белым соусом и зеленью</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="520" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>43</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/520.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блинчик с грибами в сливках</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="523" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/523.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С капустой и яйцом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1702" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>20</categoryId>
+				<picture>http://fasteda.ru/data/big/1702.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин с маслом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Просто блин.</description>
+			</offer>
+			<offer id="125" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>92</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>18</categoryId>
+				<picture>http://fasteda.ru/data/big/125.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин со сливочным творожком и курагой</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="128" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>97</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>18</categoryId>
+				<picture>http://fasteda.ru/data/big/128.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тропический с шоколадом и бананом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="129" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>97</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>18</categoryId>
+				<picture>http://fasteda.ru/data/big/129.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Блин «Лакомка» со сливочной карамелью и яблоком</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="130" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>73</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>18</categoryId>
+				<picture>http://fasteda.ru/data/big/130.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>iБлин с мёдом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="131" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>64</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>18</categoryId>
+				<picture>http://fasteda.ru/data/big/131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>iБлин со сгущенным молоком</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="152" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>97</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>17</categoryId>
+				<picture>http://fasteda.ru/data/big/152.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ с рубленным мясом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Борщ «Теремковский».</description>
+			</offer>
+			<offer id="153" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>17</categoryId>
+				<picture>http://fasteda.ru/data/big/153.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Похлёбка грибная с чипами</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Похлёбка грибная с чипами.</description>
+			</offer>
+			<offer id="154" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>17</categoryId>
+				<picture>http://fasteda.ru/data/big/154.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха из форели по-фински</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Уха из форели по-фински.</description>
+			</offer>
+			<offer id="525" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>17</categoryId>
+				<picture>http://fasteda.ru/data/big/525.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ с беконом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="526" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>73</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>17</categoryId>
+				<picture>http://fasteda.ru/data/big/526.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гороховый суп с копченостями</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3399" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>17</categoryId>
+				<picture>http://fasteda.ru/data/big/3399.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени сибирские деликатесные </name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3400" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>162</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>17</categoryId>
+				<picture>http://fasteda.ru/data/big/3400.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пельмени сибирские двойная порция</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3401" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>17</categoryId>
+				<picture>http://fasteda.ru/data/big/3401.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырный крем-суп с чипами</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="156" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>523</categoryId>
+				<picture>http://fasteda.ru/data/big/156.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Русский Цезарь»</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Салат «Русский Цезарь».</description>
+			</offer>
+			<offer id="157" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>523</categoryId>
+				<picture>http://fasteda.ru/data/big/157.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Оливье</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Оливье.</description>
+			</offer>
+			<offer id="158" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>523</categoryId>
+				<picture>http://fasteda.ru/data/big/158.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Афинский»</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Салат «Афинский».</description>
+			</offer>
+			<offer id="159" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>97</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>523</categoryId>
+				<picture>http://fasteda.ru/data/big/159.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Винегрет с семгой</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Винегрет с семгой.</description>
+			</offer>
+			<offer id="142" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>137</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>21</categoryId>
+				<picture>http://fasteda.ru/data/big/142.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гречневая каша с куриной грудкой-гриль под яблочным соусом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Гречневая каша с куриной грудкой-гриль под яблочным соусом
+.</description>
+			</offer>
+			<offer id="143" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>137</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>21</categoryId>
+				<picture>http://fasteda.ru/data/big/143.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гречневая каша с бужениной под хреном</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Гречневая каша с бужениной под хреном.</description>
+			</offer>
+			<offer id="145" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>21</categoryId>
+				<picture>http://fasteda.ru/data/big/145.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гречневая каша с брынзой, беконом и зеленью</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Гречневая каша с брынзой, беконом и зеленью.</description>
+			</offer>
+			<offer id="146" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>21</categoryId>
+				<picture>http://fasteda.ru/data/big/146.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гречневая каша «Две сосиски»</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Гречневая каша «Две сосиски».</description>
+			</offer>
+			<offer id="147" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>21</categoryId>
+				<picture>http://fasteda.ru/data/big/147.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гречневая каша с грибами в сливках</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Гречневая каша с грибами в сливках.</description>
+			</offer>
+			<offer id="528" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>119</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>21</categoryId>
+				<picture>http://fasteda.ru/data/big/528.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гречневая каша с рубленным мясом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="530" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>82</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>21</categoryId>
+				<picture>http://fasteda.ru/data/big/530.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гречневая каша с запечённой капустой и яйцом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5715" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>98</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>935</categoryId>
+				<picture>http://fasteda.ru/data/big/5715.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гурьевская каша с яблоком, карамелью, миндалем</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="149" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>88</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>935</categoryId>
+				<picture>http://fasteda.ru/data/big/149.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гурьевская каша со сгущенным молоком и миндальным орехом</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="150" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>88</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>935</categoryId>
+				<picture>http://fasteda.ru/data/big/150.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гурьевская каша с вишней</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="151" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>88</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>935</categoryId>
+				<picture>http://fasteda.ru/data/big/151.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гурьевская каша с клубникой</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="531" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>54</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>935</categoryId>
+				<picture>http://fasteda.ru/data/big/531.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гурьевская каша</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="141" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>84</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>84</categoryId>
+				<picture>http://fasteda.ru/data/big/141.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс «Теремок» 0,5</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Морс «Теремок».</description>
+			</offer>
+			<offer id="540" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>155</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>84</categoryId>
+				<picture>http://fasteda.ru/data/big/540.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс «Теремок» 1л.</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Морс «Теремок».</description>
+			</offer>
+			<offer id="541" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>84</categoryId>
+				<picture>http://fasteda.ru/data/big/541.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Квас «Теремок» 0,5 л.</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Квас «Теремок».</description>
+			</offer>
+			<offer id="542" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>84</categoryId>
+				<picture>http://fasteda.ru/data/big/542.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Квас «Теремок» 1 л.</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Квас «Теремок».</description>
+			</offer>
+			<offer id="543" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>109</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>84</categoryId>
+				<picture>http://fasteda.ru/data/big/543.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мёд хмельной 0,5 л.</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Мёд хмельной.</description>
+			</offer>
+			<offer id="546" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>196</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>84</categoryId>
+				<picture>http://fasteda.ru/data/big/546.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мёд хмельной 1л.</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>Мёд хмельной.</description>
+			</offer>
+			<offer id="548" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>84</categoryId>
+				<picture>http://fasteda.ru/data/big/548.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола 0,5л</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>(0,5 л.).</description>
+			</offer>
+			<offer id="549" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>84</categoryId>
+				<picture>http://fasteda.ru/data/big/549.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола 1л</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>(1 л.).</description>
+			</offer>
+			<offer id="550" available="true">
+				<url>http://fasteda.ru/menu/teremok/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>84</categoryId>
+				<picture>http://fasteda.ru/data/big/550.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кока-Кола 2л</name>
+				<vendor>Доставка блинов Теремок</vendor>
+				<description>(2 л.).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

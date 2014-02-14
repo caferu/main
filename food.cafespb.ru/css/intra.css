@@ -1,0 +1,62 @@
+#login_table td {padding: 5px}
+#login_table input {border: solid 1px}
+.buttons {cursor: pointer; border-color: #dddddd}
+.content {padding-left:20px}
+.leftmenu {width: 160px}
+.nametd{ padding-top: 35px; text-align: left; padding-left: 30px; font-size: 13px}
+.headbg table {width: 100%}
+#logo_td {padding-left:34px; width:273px;}
+#u_name {margin-left: 50px; font-weight: bold; font-size: 12px}
+#quit{ padding-top: 35px; padding-right: 25px}
+#sec_head_row {background-color: #fff; padding-top: 20px}
+.form_table {width: 95%; border-collapse: collapse;}
+.form_table td {padding: 5px; font-size: 12px; white-space: nowrap; color: #555; vertical-align: top}
+.form_table th {padding: 5px; font-size: 12px; color: #555;}
+.form_table input {font-size: 12px; background-color: #fff; color: #555}
+.form_table lable {display:inline}
+.form_table textarea {font-size: 12px; background-color: #fff; color: #555; width: 95%; height:80px;}
+.save_div {padding: 15px; text-align: center;}
+.save_div input {font-size: 12px; color: #fff; background-color: #9e0026; cursor: pointer}
+#c_meta_descr {height:30px;}
+#c_meta_kwords {height:30px;}
+#form_div {position: relative}
+#bg_form_div {position: absolute; width: 100%; height: 100%; background-color: #fff; top:0px; left:0px; filter: alpha(opacity=50); opacity: 0.8; display: none}
+.mess_img {width: 60px;}
+#is_district {width: 200px}
+#is_street {width: 200px}
+#is_a6n {width: 200px; }
+#YMapsID {width:95%; height:350px; display:none}
+#not_map, #search_map_btn, #do_map, #choose_btn_razd, #choose_btn_razd_ok {cursor: pointer; margin-right: 20px; color: #fff; background-color: #1A4473; border: none}
+#search_map_place {margin-right: 20px}
+#razdel_place {margin-right: 20px;}
+#back_to_list {float: right;}
+#caption {width: 50%; display: inline}
+#caption_div {width: 98%; padding-bottom: 10px; }
+#clearQueue {margin-left: 20px }
+#fileQueue {width:350px; min-height:50px; padding-bottom: 15px}
+.gal_page {border-bottom: dashed 1px; font-weight: bold; margin-left: 3px;  margin-right:15px}
+#g_place {padding-top: 10px}
+#gal_table {width: 100%}
+.gal_image {width:100px; border: 3px solid #dddddd}
+#gal_table td {vertical-align:top; text-align: left;  padding: 5px}
+.sort_gal_inp {border:solid 1px #ccc; color:#555555; width:20px}
+.new_name_gal {border:solid 1px #ccc; color:#555555; width:180px}
+.rgb {cursor: pointer; color: #fff; background-color: #1A4473}
+.item {padding: 0}
+.g_name_span {float: left; font-weight: bold;}
+.imageup {cursor:pointer; margin-right:2px; position:relative; top:2px;}
+.imagedown {cursor:pointer; position:relative; top:2px; margin-right:2px;}
+.imagedel {cursor:pointer; position:relative; top:2px; margin-left:2px}
+.imageprev { margin-left:5px;}
+.icon_span img {cursor: pointer;}
+.icon_span {float:right; margin-right: 25px;}
+.gal_main_photo {background-color: #caffc4}
+.banner_place {text-align: center; width: 100%}
+#dialog_object {display:none;}
+#col_btn {cursor: pointer; color: #fff; background-color: #1A4473; margin-left:10px; border:none; font-size:11px}
+#ddcl-ObjectResto_Kitchen-ddw {z-index: 10000}
+#ddcl-ObjectResto_KindPay-ddw {z-index: 10000}
+#ddcl-ObjectResto_Metro-ddw {z-index: 10000}
+#ObjectResto_i_bill, #ObjectResto_i_banket_bill {width: 50px}
+#ObjectResto_i_discount_max {width: 30px}
+

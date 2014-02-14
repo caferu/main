@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-08-08 19:33">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="813">Неаполитанская Пицца</category>
+			<category id="815">Домашняя паста</category>
+			<category id="817">Свежие салаты</category>
+			<category id="819">Мясо / Рыба</category>
+			<category id="821">Домашние напитки</category>
+			<category id="823">Вода и лимонады</category>
+		</categories>
+		<offers>
+			<offer id="4885" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4885.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Маргарита 32см  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, базилик, Моцарелла.</description>
+			</offer>
+			<offer id="4886" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4886.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Боско  32см  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, шампиньоны, шпинат, красный лук, Моцарелла.</description>
+			</offer>
+			<offer id="4887" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4887.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Пепперони  32см  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, салями Пепперони, Моцарелла.</description>
+			</offer>
+			<offer id="4888" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4888.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Сицилийская  32см  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, баклажаны, красный лук, паприка, цуккини, Пармезан, Моцарелла.</description>
+			</offer>
+			<offer id="4889" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4889.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Прошута Фунги  32см</name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, ветчина, шампиньоны, Моцарелла.</description>
+			</offer>
+			<offer id="4890" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4890.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Сальсичча  32см</name>
+				<vendor>Лимончелло</vendor>
+				<description>Домашние итальянские сосиски, паприка, лук, Моцарелла.</description>
+			</offer>
+			<offer id="4891" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4891.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Четыре сыра   32см  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Сыры Горгонзола, Пармезан, Рикотта, Моцарелла
+.</description>
+			</offer>
+			<offer id="4892" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4892.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Карбонара  32см  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Бекон, яйцо, сыры Моцарелла и Пармезан.</description>
+			</offer>
+			<offer id="4893" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4893.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с лососем и сыром Маскарпоне  32см </name>
+				<vendor>Лимончелло</vendor>
+				<description>Карпаччо из лосося, Песто, сыр Маскарпоне.</description>
+			</offer>
+			<offer id="4894" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4894.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Неаполитана  32см </name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, анчоусы, маслины,  базилик, Моцарелла
+.</description>
+			</offer>
+			<offer id="4895" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4895.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Сезаре  32см  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, Моцарелла, салат Цезарь с обжареной курицей.</description>
+			</offer>
+			<offer id="4896" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4896.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Тоскана  32см</name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, курица, шпинат, вяленые помидоры, сыр Фегусто, чеснок, Моцарелла.</description>
+			</offer>
+			<offer id="4899" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4899.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Карбонара с лососем  32см  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Белый сливочный соус, лосось, яйцо,  Пармезан, Моцарелла.</description>
+			</offer>
+			<offer id="4900" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4900.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Парма  32см </name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, Пармская ветчина, руккола, Моцарелла, Пармезан.</description>
+			</offer>
+			<offer id="4902" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4902.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Четыре пиццы в одной  32см  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Пепперони, Прошута Фунги, Карни и Четыре сыра.</description>
+			</offer>
+			<offer id="4903" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4903.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с рукколой и королевскими креветками  32см</name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, креветки, рукола, Моцарелла.</description>
+			</offer>
+			<offer id="4898" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>813</categoryId>
+				<picture>http://fasteda.ru/data/big/4898.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца Карни (мясная) 32см </name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, говядина, итальянские сосиски, Пепперони, красный лук, 
+петрушка, Моцарелла
+.</description>
+			</offer>
+			<offer id="4904" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4904.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ригатоне Сицилиана</name>
+				<vendor>Лимончелло</vendor>
+				<description>Томаты, баклажаны, паприка, Пармезан.</description>
+			</offer>
+			<offer id="4905" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4905.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ригатоне Сальсичча </name>
+				<vendor>Лимончелло</vendor>
+				<description>Жареные домашние итальянские сосиски, цукини, томаты Черри.</description>
+			</offer>
+			<offer id="4906" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4906.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти Болоньезе  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Мясной соус с рагу Болоньезе.</description>
+			</offer>
+			<offer id="4907" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4907.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти Карбонара </name>
+				<vendor>Лимончелло</vendor>
+				<description>Белый сливочный соус с беконом, яйцом и сыром Пармезан
+.</description>
+			</offer>
+			<offer id="4909" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4909.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Феттучине с креветками и шампиньонами  </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4911" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4911.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пенне Карбонара с лососем  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Белый соус с яйцом, лососем и сыром Пармезан.</description>
+			</offer>
+			<offer id="4914" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4914.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Феттучине с белыми грибами  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Белые грибы, сливочный соус.</description>
+			</offer>
+			<offer id="4916" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4916.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лазанья мясная  </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4917" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4917.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лазанья Четыре сыра  </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4919" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4919.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Равиоли с курицей с соусом Четыре сыра</name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4920" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4920.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Равиоли с Рикоттой и лососем в сливочном соусе с томатами </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4918" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4918.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Равиоли с Пармезаном</name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4908" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4908.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Феттучине с Песто и креветками  </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4910" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4910.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с тунцом и маслинами  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Тунец, маслины, томаты, базилик.</description>
+			</offer>
+			<offer id="4912" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4912.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли Четыре сыра  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Моцарелла, Горгонзола, Рикотта, Пармезан.</description>
+			</offer>
+			<offer id="4913" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4913.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пенне с Горгонзолой, Пармой и грецкими орехами  </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4915" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>815</categoryId>
+				<picture>http://fasteda.ru/data/big/4915.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ньокки со шпинатом в сливочном соусе и Пармезане  </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4921" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>817</categoryId>
+				<picture>http://fasteda.ru/data/big/4921.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Миста  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Салат Ромейн, руккола, огурцы, томаты, паприка, морковь, красный лук.</description>
+			</offer>
+			<offer id="4922" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>817</categoryId>
+				<picture>http://fasteda.ru/data/big/4922.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греческий салат  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Ромейн, томаты, паприка, огурцы, оливки, сыр Фегусто, красный лук
+.</description>
+			</offer>
+			<offer id="4924" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>817</categoryId>
+				<picture>http://fasteda.ru/data/big/4924.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь с грудкой-гриль  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Салат Ромейн, крутоны, сыр Пармезан, грудка  гриль, соус Цезарь, томат Черри.</description>
+			</offer>
+			<offer id="4926" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>817</categoryId>
+				<picture>http://fasteda.ru/data/big/4926.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Пансарелла  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Итальянский деревенский салат с паприкой, томатами, анчоусами, сельдерееем,томатами Черри, красным луком, базиликом, каперсами, обжареным хлебом.</description>
+			</offer>
+			<offer id="4927" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>817</categoryId>
+				<picture>http://fasteda.ru/data/big/4927.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с рукколой и креветками  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Руккола, королевские креветки, томат Черри, сыр Пармезан     .</description>
+			</offer>
+			<offer id="4923" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>817</categoryId>
+				<picture>http://fasteda.ru/data/big/4923.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Салат Ромейн, крутоны, сыр Пармезан, бекон, соус Цезарь, томат Черри.</description>
+			</offer>
+			<offer id="4925" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>817</categoryId>
+				<picture>http://fasteda.ru/data/big/4925.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Низарда  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Тунец, картофель, стручковая фасоль, салаты Ромейн, Радиччо и Лола Росса, яйцо, томаты Черри, красный лук, каперсы.</description>
+			</offer>
+			<offer id="4929" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>819</categoryId>
+				<picture>http://fasteda.ru/data/big/4929.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашние итальянские сосиски  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Подаются с жареными цуккини, картофелем, томатами Черри и луком Порей.</description>
+			</offer>
+			<offer id="4930" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>819</categoryId>
+				<picture>http://fasteda.ru/data/big/4930.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жаркое по Тоскански  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Говядина, свинина, картофель, паприка, томаты, баклажан, чеснок, лук, морковь.</description>
+			</offer>
+			<offer id="4931" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>610</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>819</categoryId>
+				<picture>http://fasteda.ru/data/big/4931.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из лосося  </name>
+				<vendor>Лимончелло</vendor>
+				<description>В вине с томатами Черри. Подается с обжаренными овощами.</description>
+			</offer>
+			<offer id="4928" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>819</categoryId>
+				<picture>http://fasteda.ru/data/big/4928.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная грудка с Горгонзолой  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Подается с запеченным томатом и картофелем Айдахо.</description>
+			</offer>
+			<offer id="4932" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>630</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>819</categoryId>
+				<picture>http://fasteda.ru/data/big/4932.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальята из говядины с рукколой  </name>
+				<vendor>Лимончелло</vendor>
+				<description>Подается с салатом из рукколы с томатами Черри и Пармезаном.</description>
+			</offer>
+			<offer id="4933" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>819</categoryId>
+				<picture>http://fasteda.ru/data/big/4933.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сибас с овощами </name>
+				<vendor>Лимончелло</vendor>
+				<description>Жареные на оливковом масле.</description>
+			</offer>
+			<offer id="4934" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>821</categoryId>
+				<picture>http://fasteda.ru/data/big/4934.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Домашний лимонад  базиликовый 1л </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4936" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>821</categoryId>
+				<picture>http://fasteda.ru/data/big/4936.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свежевыжатый сок Апельсин 250 мл </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4941" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>823</categoryId>
+				<picture>http://fasteda.ru/data/big/4941.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Bon Agua с газом 1л </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4943" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>823</categoryId>
+				<picture>http://fasteda.ru/data/big/4943.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Coca-Cola 1л </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4944" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>823</categoryId>
+				<picture>http://fasteda.ru/data/big/4944.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Sprite 1л </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4945" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>823</categoryId>
+				<picture>http://fasteda.ru/data/big/4945.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Fanta 1л </name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4946" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>823</categoryId>
+				<picture>http://fasteda.ru/data/big/4946.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Cola-Light 1л</name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4947" available="true">
+				<url>http://fasteda.ru/menu/limonchello/</url>
+				<price>105</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>823</categoryId>
+				<picture>http://fasteda.ru/data/big/4947.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соки «Rich» апельсин 1л</name>
+				<vendor>Лимончелло</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

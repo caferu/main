@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 04:49">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="449">Люля-кебаб</category>
+			<category id="480">Шашлык из свинины</category>
+			<category id="477">Шашлык из баранины </category>
+			<category id="481">Шашлык из телятины</category>
+			<category id="478">Шашлык из курицы</category>
+			<category id="479">Шашлык из рыбы</category>
+			<category id="482">Овощи на мангале </category>
+			<category id="437">Шашлыки</category>
+			<category id="439">Гарниры</category>
+			<category id="1619">Супы</category>
+			<category id="440">Салаты,Закуски</category>
+			<category id="1620">Напитки</category>
+			<category id="451">Мин . Воды Армения</category>
+			<category id="452">Соусы</category>
+			<category id="438">Маринованое мясо</category>
+			<category id="1192">Праздничное меню</category>
+			<category id="1194">Наборы</category>
+			<category id="2068">Шашлык из кролика</category>
+		</categories>
+		<offers>
+			<offer id="3976" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>351</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>449</categoryId>
+				<picture>http://fasteda.ru/data/big/3976.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Люля-кебаб из мяса раков</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>(200гр).</description>
+			</offer>
+			<offer id="2895" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>207</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>449</categoryId>
+				<picture>http://fasteda.ru/data/big/2895.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Люля – кебаб из телятины</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Люля-кебаб – это одно из классических и нежнейших блюд кавказской кухни. Нежный вкус люля-кебаба не оставит равнодушным не только взрослых, но и детей! Закажи доставку к себе домой и устрой праздник из обычного семейного ужина! (200/20 гр).</description>
+			</offer>
+			<offer id="2896" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>207</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>449</categoryId>
+				<picture>http://fasteda.ru/data/big/2896.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Люля – кебаб из курицы</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Люля-кебаб из курицы хоть и не является классическим блюдом, но при этом остается таким же нежным, сочным и ароматный блюдом (200/20 гр).</description>
+			</offer>
+			<offer id="2897" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>449</categoryId>
+				<picture>http://fasteda.ru/data/big/2897.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Люля- кебаб из картофеля</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Является как отличным дополнением к мясным шашлыкам, так и замечательным самостоятельным блюдом (200/20 гр).</description>
+			</offer>
+			<offer id="2898" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>248</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>449</categoryId>
+				<picture>http://fasteda.ru/data/big/2898.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Люля – кебаб из баранины</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>(200/20 гр).</description>
+			</offer>
+			<offer id="3262" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>480</categoryId>
+				<picture>http://fasteda.ru/data/big/3262.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свиные ребра патронташ</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>300/20 гр.</description>
+			</offer>
+			<offer id="3263" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>480</categoryId>
+				<picture>http://fasteda.ru/data/big/3263.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык королевский с шампиньонами</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>250/50/20 гр.</description>
+			</offer>
+			<offer id="9095" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>480</categoryId>
+				<picture>http://fasteda.ru/data/big/9095.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из свиной вырезки</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>(220 гр.).</description>
+			</offer>
+			<offer id="2924" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>480</categoryId>
+				<picture>http://fasteda.ru/data/big/2924.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из свиной шейки</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Нежная и мягкая свиная шейка, замаринованная в ароматном пряном соусе и приготовленная на мангале (200/20 гр).</description>
+			</offer>
+			<offer id="2925" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>480</categoryId>
+				<picture>http://fasteda.ru/data/big/2925.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из свинины по-кавказcки</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Свиные рёбрышки по классическому рецепту Кавказских народов. Закажите шашлык  доставку себе домой, и попробуйте, каким великолепным вкусом обладает классический шашлык  по-кавказcки (220/20 гр).</description>
+			</offer>
+			<offer id="2926" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>480</categoryId>
+				<picture>http://fasteda.ru/data/big/2926.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Чалагач</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Чалагач (шашлык из свиных ребрышек) - это особое блюдо в Кавказской кухне. Чалагач особенно хорош для людей ценящих мясо с пикантным вкусом (220/20 гр).</description>
+			</offer>
+			<offer id="3259" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>477</categoryId>
+				<picture>http://fasteda.ru/data/big/3259.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Икибир - Баранья мякоть с курдюком в лаваше</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>200/20 гр.</description>
+			</offer>
+			<offer id="2874" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>477</categoryId>
+				<picture>http://fasteda.ru/data/big/2874.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык баранина на косточке</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Нежнейшее мясо на косточке (250/20 гр).</description>
+			</offer>
+			<offer id="2875" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>477</categoryId>
+				<picture>http://fasteda.ru/data/big/2875.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык бараньи семечки</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Этот шашлык прекрасно подходит как закуска к свежему прохладному пиву. Обладает замечательным вкусом! (200/20 гр).</description>
+			</offer>
+			<offer id="2876" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>477</categoryId>
+				<picture>http://fasteda.ru/data/big/2876.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык корейка ягнёнка</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Мясо ягненка всегда славилось нежностью. При приготовлении этого шашлыка используются специальные маринады, чтоб мясо было ароматное и нежное. Попробуйте шашлык из мяса ягненка – закажите доставку домой или в офис и вы поймете, что такое по-настоящему нежное мясо (200/20 гр).</description>
+			</offer>
+			<offer id="2877" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>477</categoryId>
+				<picture>http://fasteda.ru/data/big/2877.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык из бараньей мякоти</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>приготовленный в специальном маринаде, который придает мясу ароматный вкус. Шашлык из бараньей мякоти – это одно из классических блюд кавказской кухни (200/20 гр).</description>
+			</offer>
+			<offer id="2931" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>481</categoryId>
+				<picture>http://fasteda.ru/data/big/2931.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык по-царски СУЛТАН</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Шашлык из корейки телятины было одно из самых популярных блюд на царских столах различных стран и не просто так - ведь мясо корейка телятины является нежнейшим мясом. Шашлык из корейки телятины всегда украсит Ваш стол и придаст атмосферу настоящего царского пира. Состав: шашлык из корейки молочной телятины, помидор и болгарский перец на мангале (250/100/20 гр).</description>
+			</offer>
+			<offer id="2932" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>481</categoryId>
+				<picture>http://fasteda.ru/data/big/2932.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык из телятины</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Нежное диетическое мясо телятины приготовленное на мангале - это украшение для любого стола (200/20 гр).</description>
+			</offer>
+			<offer id="2891" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>478</categoryId>
+				<picture>http://fasteda.ru/data/big/2891.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык филе курицы</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Нежное мясо курицы в специальном маринаде (220/20 гр).</description>
+			</offer>
+			<offer id="2888" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>478</categoryId>
+				<picture>http://fasteda.ru/data/big/2888.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крылья куринные</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Отличная закуска к пиву (4 шт).</description>
+			</offer>
+			<offer id="2889" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>478</categoryId>
+				<picture>http://fasteda.ru/data/big/2889.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык из цыплёнка</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Целый цыпленок зажаренный на мангале - праздник для любого любителя курицы (1 шт 700 гр).</description>
+			</offer>
+			<offer id="2890" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>478</categoryId>
+				<picture>http://fasteda.ru/data/big/2890.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык куриный</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Куринные ножки с хрустящей корочкой (250/20 гр).</description>
+			</offer>
+			<offer id="2915" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>479</categoryId>
+				<picture>http://fasteda.ru/data/big/2915.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сибас на вертеле</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Свежее филе лосося приготовленное в специальном лимоном соусе – замечательное лакомство для людей любого возраста. Может стать отличным блюдом для романтического вечера вкупе с белым вином (1 шт).</description>
+			</offer>
+			<offer id="2916" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>479</categoryId>
+				<picture>http://fasteda.ru/data/big/2916.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык из рыбы Дорадо</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Рыба в спец. Маринаде. Дорадо оценят любители здорового образа жизни и приверженцы низкоуглеводных диет, так как дорада в среднем содержит 1,8 гр жиров на 100 гр филе (1 шт).</description>
+			</offer>
+			<offer id="3257" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>479</categoryId>
+				<picture>http://fasteda.ru/data/big/3257.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык филе семги</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>200/20 гр.</description>
+			</offer>
+			<offer id="2908" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>482</categoryId>
+				<picture>http://fasteda.ru/data/big/2908.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Помидор на мангале</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Помидор на мангале (1 шт).</description>
+			</offer>
+			<offer id="2909" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>482</categoryId>
+				<picture>http://fasteda.ru/data/big/2909.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Перец острый на мангале</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Перец острый на мангале (2 шт).</description>
+			</offer>
+			<offer id="2910" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>482</categoryId>
+				<picture>http://fasteda.ru/data/big/2910.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сладкий перец на мангале</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Болгарский перец на мангале (1 шт).</description>
+			</offer>
+			<offer id="2911" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>482</categoryId>
+				<picture>http://fasteda.ru/data/big/2911.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баклажан на мангале</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Баклажаны на мангале-они запекаются в собственной кожуре,на раскаленных углях и впитывают в себя аромат березового дыма,который придает особенный вкус блюду (1 шт).</description>
+			</offer>
+			<offer id="2912" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>482</categoryId>
+				<picture>http://fasteda.ru/data/big/2912.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Молодой картофель на мангале</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Великолепный гарнир к шашлыку (200 гр).</description>
+			</offer>
+			<offer id="2913" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>482</categoryId>
+				<picture>http://fasteda.ru/data/big/2913.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Шашлык овощное ассорти</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Овощной шашлык – это как прекрасное дополнение к мясным шашлыкам, так и  самостоятельное блюдо. Овощи, приготовленные на мангале,сохраняют свою сочность, и приобретают аромат дымка. Состав: Перец острый, помидор , болг. Перец , баклажан + сливочное масло (возможно заказать любой состав шашлыка – подробности у оператора)(280 гр).</description>
+			</offer>
+			<offer id="2923" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>1960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>437</categoryId>
+				<picture>http://fasteda.ru/data/big/2923.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ассорти  «Шашлычный Двор» на 3-4 персоны</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Специальное предложение для больших и шумных компаний. Блюдо рассчитано на 3-4 человека. Ассорти включает в себя свинину, баранину, курицу , люля-кебаб,  картофель и овощи приготовленные на мангале. Т.е. способно удовлетворить вкусовые пристрастия различных людей, сидящих с Вами за одним столом. При заказе ассорти “Шашлычный Двор” соусы в подарок (2000 гр).</description>
+			</offer>
+			<offer id="2878" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>439</categoryId>
+				<picture>http://fasteda.ru/data/big/2878.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель Айдахо</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Молодой картофель порезанный дольками с ароматными специями!!! Прекрасное дополнение к мясу или рыбе (150 гр).</description>
+			</offer>
+			<offer id="2879" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>439</categoryId>
+				<picture>http://fasteda.ru/data/big/2879.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Золотистый картофель, приготовленный во фритюре (150 гр).</description>
+			</offer>
+			<offer id="2880" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>439</categoryId>
+				<picture>http://fasteda.ru/data/big/2880.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лук маринованный</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Хрустящий и нежный маринованный лук (100 гр).</description>
+			</offer>
+			<offer id="2881" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>439</categoryId>
+				<picture>http://fasteda.ru/data/big/2881.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сыр Сулугуни</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Грузинский сыр сулугуни. Он приятен на вкус некоторой соленостью и нежным запахом. Прекрасная закуска или дополнение к трапезе (150 гр).</description>
+			</offer>
+			<offer id="2883" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>439</categoryId>
+				<picture>http://fasteda.ru/data/big/2883.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лаваш</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Армянский (тонкий) лаваш. Прекрасно подходит взамен хлеба к мясным и рыбным блюдам. 1порция-(1лаваш).</description>
+			</offer>
+			<offer id="2884" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>439</categoryId>
+				<picture>http://fasteda.ru/data/big/2884.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фирменная мини буханка</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2886" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>439</categoryId>
+				<picture>http://fasteda.ru/data/big/2886.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name> Сырное ассорти Панир</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Это великолепное ассорти из трех видов солёных сыров, которые приготовлены на Кавказе  (330 гр).</description>
+			</offer>
+			<offer id="2887" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>439</categoryId>
+				<picture>http://fasteda.ru/data/big/2887.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сыр Чанах</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Сыр чанах сделан на основе овечьего молока. Овечиц получил распространение во времена Римской империи - именно тогда появились настоящие сырные гурманы  (150 гр).</description>
+			</offer>
+			<offer id="9092" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1619</categoryId>
+				<picture>http://fasteda.ru/data/big/9092.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>суп Хашлама с бульоном</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>(500 гр.).</description>
+			</offer>
+			<offer id="9093" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>440</categoryId>
+				<picture>http://fasteda.ru/data/big/9093.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Витаминный</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>(150 гр.).</description>
+			</offer>
+			<offer id="2917" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>440</categoryId>
+				<picture>http://fasteda.ru/data/big/2917.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Летний</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Помидор, огурец, зелень, лук, перец, раст. масло (200 гр).</description>
+			</offer>
+			<offer id="3258" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>440</categoryId>
+				<picture>http://fasteda.ru/data/big/3258.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощная корзина Армения на 3-4 персоны</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Помидоры, огурцы, редис, болг. перец, сыр, зелень (400/100/50 гр).</description>
+			</offer>
+			<offer id="2918" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>440</categoryId>
+				<picture>http://fasteda.ru/data/big/2918.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Греческий</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Помидор, огурец, сыр фетака, перец болгарский(230 гр).</description>
+			</offer>
+			<offer id="2919" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>440</categoryId>
+				<picture>http://fasteda.ru/data/big/2919.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соленья Кавказ на 3 персоны</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Предлагаем Вам попробовать соленья по старинным рецептам Кавказских народов. Острые, кислые, сладкие ароматы удачно сочетаются в этом блюде (480 гр).</description>
+			</offer>
+			<offer id="2920" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>440</categoryId>
+				<picture>http://fasteda.ru/data/big/2920.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощное ассорти</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Только свежые отборные овощи. Прекрасно дополнят вкусный обед (250/100 гр)Состав: помидоры, огурцы, редис, болгарский перец, сыр, зелень.</description>
+			</offer>
+			<offer id="2921" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>440</categoryId>
+				<picture>http://fasteda.ru/data/big/2921.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ассорти свежей зелени</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Вкусное дополнение к мясу или рыбе (120 гр)Состав: петрушка, укроп, кинза, зеленый лук.</description>
+			</offer>
+			<offer id="2892" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1620</categoryId>
+				<picture>http://fasteda.ru/data/big/2892.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тархун 0,5 л</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Классический напиток Тархун.</description>
+			</offer>
+			<offer id="2893" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1620</categoryId>
+				<picture>http://fasteda.ru/data/big/2893.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Дюшес 0,5 л</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Классический грушевый газированный напиток.</description>
+			</offer>
+			<offer id="9096" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1620</categoryId>
+				<picture>http://fasteda.ru/data/big/9096.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ной-люкс  0,5</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>мин.вода без газа
+.</description>
+			</offer>
+			<offer id="9100" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1620</categoryId>
+				<picture>http://fasteda.ru/data/big/9100.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чай Липтон 0,6</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9099" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1620</categoryId>
+				<picture>http://fasteda.ru/data/big/9099.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чай Липтон 1,2</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9098" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1620</categoryId>
+				<picture>http://fasteda.ru/data/big/9098.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пепси 0,6</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9097" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1620</categoryId>
+				<picture>http://fasteda.ru/data/big/9097.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пепси 1,25</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2904" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>451</categoryId>
+				<picture>http://fasteda.ru/data/big/2904.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бжни 0,5 л</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Минеральная вода «Бжни» богата содержанием микроэлементов, которые по своим свойствам приближаются к водам курортов Боржоми в Грузии и Виши во Франции.</description>
+			</offer>
+			<offer id="2906" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>451</categoryId>
+				<picture>http://fasteda.ru/data/big/2906.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Джермук 0,5 л</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>«Джермук» — углекислая гидрокарбонатная сульфатно-натриевая минеральная вода. Горячий источник находится на территории высокогорного курорта Джермук в 175 км от Еревана. Является довольно близким аналогом известных вод чехословацкого курорта Карловы Вары, но отличается от них меньшей минерализацией и большим содержанием кальция.</description>
+			</offer>
+			<offer id="7139" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>452</categoryId>
+				<picture>http://fasteda.ru/data/big/7139.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус белый чесночный</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>(60 гр).</description>
+			</offer>
+			<offer id="7581" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>452</categoryId>
+				<picture>http://fasteda.ru/data/big/7581.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Аджика</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3261" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>452</categoryId>
+				<picture>http://fasteda.ru/data/big/3261.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус тайский сладкий чили</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>60 гр.</description>
+			</offer>
+			<offer id="3260" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>452</categoryId>
+				<picture>http://fasteda.ru/data/big/3260.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гранатовый соус Нашраб к рыбе</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>60 гр.</description>
+			</offer>
+			<offer id="2929" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>452</categoryId>
+				<picture>http://fasteda.ru/data/big/2929.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус шашлычный фирменный</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>фирменный соус,специально сваренный  из томатов с кавказскими пряностями по старинным рецептам (60 гр).</description>
+			</offer>
+			<offer id="2930" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>452</categoryId>
+				<picture>http://fasteda.ru/data/big/2930.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус Тар-Тар</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Класический соус тар-тар. Прекрасно подходит как к рыбе так и к мясу (60 гр).</description>
+			</offer>
+			<offer id="11267" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>438</categoryId>
+				<picture>http://fasteda.ru/data/big/11267.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баранина (Маринуем мы - готовите Вы)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="2899" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>438</categoryId>
+				<picture>http://fasteda.ru/data/big/2899.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свинина (Маринуем мы-готовите Вы)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Свинина замаринована по специальному рецепту шеф-повара Шашлычного Двора. Доставляется маринованный шашлык в удобных ведрах-банках (1 кг).</description>
+			</offer>
+			<offer id="2900" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>438</categoryId>
+				<picture>http://fasteda.ru/data/big/2900.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Телятина  (Маринуем мы-готовите Вы)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Нежная телятина в специальном маринаде от шеф-повара. Доставляется маринованный шашлык в удобных ведрах-банках (1 кг).</description>
+			</offer>
+			<offer id="2901" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>438</categoryId>
+				<picture>http://fasteda.ru/data/big/2901.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриный (Маринуем мы - готовите Вы)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description> Курица в ароматном маринаде по специальному рецепту Шашлычного Двора. Доставляется маринованный шашлык в удобных ведрах-банках (1 кг).</description>
+			</offer>
+			<offer id="2902" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>980</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>438</categoryId>
+				<picture>http://fasteda.ru/data/big/2902.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спец. маринованное мясо по-кавказски 2,5 кг</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Весна и лето время загородного отдыха. Возьми с собой на природу  2,5 кг нежного маринованного мяса ассорти и никаких хлопот! Маринуют специалисты-готовите Вы.</description>
+			</offer>
+			<offer id="7128" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>4000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1192</categoryId>
+				<picture>http://fasteda.ru/data/big/7128.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Буженина домашняя (свиной окорок)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>4-5 кг.</description>
+			</offer>
+			<offer id="7129" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>3300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1192</categoryId>
+				<picture>http://fasteda.ru/data/big/7129.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Индейка «Праздничная»</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>3-4 кг.</description>
+			</offer>
+			<offer id="7130" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>13000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1192</categoryId>
+				<picture>http://fasteda.ru/data/big/7130.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Молочный ягненок в тандыре</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>10-13 кг.</description>
+			</offer>
+			<offer id="7131" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>3000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1192</categoryId>
+				<picture>http://fasteda.ru/data/big/7131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ножка ягненка в тандыре</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>2-3 кг.</description>
+			</offer>
+			<offer id="7132" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>6500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1192</categoryId>
+				<picture>http://fasteda.ru/data/big/7132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Поросенок молочный в тандыре</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>5-7 кг.</description>
+			</offer>
+			<offer id="7133" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>2000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1192</categoryId>
+				<picture>http://fasteda.ru/data/big/7133.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Семга банкетная «ГИГАНТ»</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>4-6 кг.</description>
+			</offer>
+			<offer id="9094" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1194</categoryId>
+				<picture>http://fasteda.ru/data/big/9094.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сытный обед (13:00-16:00) </name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Сытный обед состоящий из:Наваристого супа Хашлама, приготовленного из мяса телятины с овощами, зеленью и картошкой -  500 гр.Витаминного салата - 150 гр.Лапши домашней- птичье гнездо, заправленной обжаренным свинным мясом с луком, в тайском кисло-сладком соусе - 180 гр.Лаваш - 1 пор.</description>
+			</offer>
+			<offer id="7134" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>6000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1194</categoryId>
+				<picture>http://fasteda.ru/data/big/7134.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>День Рождения / Новый Год (8-10 человек)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Шашлык из свинины по-кавказcки - 2 пор.| Шашлык из свиной шейки-2 пор.|Чалагач-2 пор.|Свиные ребра патронташ-2 пор.|Шашлык из телятины-2 пор.|Шашлык куриный-2 пор.|Люля – кебаб из курицы-2 пор.| Люля – кебаб из баранины-2 пор.| Картофель на мангале-2 пор.|Соленья Кавказ-2 пор.|Ассорти из свежей зелени-2 пор.|Фирменная мини-буханка-4 пор.|Лаваш-4 пор.|Соус шашлычный фирменный-8 пор.| Соус Тар-Тар-2 пор.| Лук маринованный-2 пор
+(6.5 кг).</description>
+			</offer>
+			<offer id="7135" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>1960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1194</categoryId>
+				<picture>http://fasteda.ru/data/big/7135.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Домашний (3-4 человека)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Шашлык из свинины по-кавказcки - 2 пор.|Шашлык из свиной шейки - 2 пор.| Картофель фри - 4 пор.|Соус шашлычный фирменный - 4 шт.| Фирменная мини-буханка - 2 шт.| Лаваш - 2 шт.|Овощная корзина \\\&amp;quot;Армения\\\&amp;quot; - 1 шт
+(2 кг).</description>
+			</offer>
+			<offer id="7136" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>2000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1194</categoryId>
+				<picture>http://fasteda.ru/data/big/7136.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Офис (5 человек)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Шашлык из свиной шейки - 5 пор.| Картофель фри - 5 пор.| Соус шашлычный фирменный - 5 пор.| Фирменная мини-буханка - 2 шт.| Лаваш 2 пор.| Ассорти из свежей зелени - 1 шт
+(2.5 кг).</description>
+			</offer>
+			<offer id="7137" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>1050</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1194</categoryId>
+				<picture>http://fasteda.ru/data/big/7137.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Романтик</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Шашлык филе семги - 2 пор.
+Ассорти из свежей зелени - 1 пор.
+Гранатовый соус \&amp;quot;Наршараб\&amp;quot; - 2 пор.
+Фирменная мини-буханка-2 пор.
+Картофель Фри - 2 пор. (700 гр).</description>
+			</offer>
+			<offer id="7138" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>2200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1194</categoryId>
+				<picture>http://fasteda.ru/data/big/7138.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Футбольный</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Куриные крылья - 2 пор.|Свиные ребра патронташ - 2 пор.|Картофель фри - 1 пор.|Соус Тар-Тар - 2 пор.|Соус шашлычный фирменный - 2 пор.| Kozel светлое - 6 л
+(1.25 кг + 6 л).</description>
+			</offer>
+			<offer id="11269" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>3130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1194</categoryId>
+				<picture>http://fasteda.ru/data/big/11269.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пикник (8-12 человек)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Специальное маринованое мясо по-кавказски (2,5 кг) x 2 ,
+Соус шашлычный фирменный 50 гр. (4 порц.),
+Лаваш (10 шт.),
+Овощная корзина Армения(1 порц.),
+Лук маринованный(1 порц.),
+Pepsi 1,25 литра (2,5 литра)
+Одноразовый мангал + уголь  (пакет объёмом 14 л.) В ПОДАРОК!!!!Набор рассчитан на 8-12 человек.</description>
+			</offer>
+			<offer id="11270" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>2040</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1194</categoryId>
+				<picture>http://fasteda.ru/data/big/11270.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Первомайский барашек (3-4 человека)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Шашлык баранина на косточке (1 порц.)
+Шашлык из бараньей мякоти (1 порц.)
+Икибир (1 порц.)
+Шашлык бараньи семечки (1 порц.)
+Лаваш (5 шт.)
+Картофель \&amp;quot;Айдахо\&amp;quot; (2 порц.)
+Картофель на мангале (2 порц.)
+Соус шашлычный фирменный 50 гр. (4 порц.)
+Pepsi 1,25 лит (2,5 литра)
+Набор рассчитан на 3-4 человек.</description>
+			</offer>
+			<offer id="11268" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>1000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1194</categoryId>
+				<picture>http://fasteda.ru/data/big/11268.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вегетарианский (2-3 человека)</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>Шашлык овощное ассорти (2 порц.),
+Люля - кебаб из картофеля (2 порц.),
+Овощное ассорти(1 порц.),
+Лаваш (2 порц.)                                                    
+Лук маринованный(1 порц.)                      
+Соус шашлычный фирменный(2 порц.).</description>
+			</offer>
+			<offer id="12480" available="true">
+				<url>http://fasteda.ru/menu/shashlik_dvor/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2068</categoryId>
+				<picture>http://fasteda.ru/data/big/12480.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из кролика</name>
+				<vendor>Шашлычный Двор - доставка шашлыков</vendor>
+				<description>200 гр.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

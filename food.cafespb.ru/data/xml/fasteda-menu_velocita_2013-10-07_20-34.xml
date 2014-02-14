@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:34">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1270">Пицца</category>
+			<category id="1263">Холодные закуски</category>
+			<category id="1265">Салаты</category>
+			<category id="1267">Горячие блюда</category>
+			<category id="1272">Роллы</category>
+			<category id="1273">Запеченные роллы</category>
+			<category id="1274">Суши</category>
+			<category id="1266">Супы</category>
+			<category id="1271">Паста</category>
+			<category id="1275">Десерты</category>
+			<category id="1264">Горячие закуски к пиву</category>
+		</categories>
+		<offers>
+			<offer id="7669" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7669.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Pizza ADRIANO</name>
+				<vendor>Velocita</vendor>
+				<description>Пармская ветчина, салами «Милано», перец Чили, вяленые помидоры, сыр «Моцарелла», томатный соус, руккола.
+(420 гр).</description>
+			</offer>
+			<offer id="7670" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>435</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7670.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Грандиоза» </name>
+				<vendor>Velocita</vendor>
+				<description>Вырезка телятины, шампиньоны, томаты, кольца синего лука, сыр «Моцарелла», томатный соус, майонез.
+(500 гр).</description>
+			</offer>
+			<offer id="7673" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7673.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Акапулько</name>
+				<vendor>Velocita</vendor>
+				<description>Вырезка свинины, салями «Пепперони», кольца синего лука, перец Чили, томаты, сыр «Моцарелла», томатный соус.
+(550 гр).</description>
+			</offer>
+			<offer id="7674" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7674.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гавайская</name>
+				<vendor>Velocita</vendor>
+				<description>Ветчина, конс. Ананасы, сыр «Дор Блю», паприка, сыр «Моцарелла», томатный соус.
+(510 гр).</description>
+			</offer>
+			<offer id="7675" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7675.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маринеро</name>
+				<vendor>Velocita</vendor>
+				<description>Креветки коктейльные, мидии, осьминог, кальмар, лосось, чесночный дрессинг, сыр «Моцарелла»,  томатный соус.
+(440 гр).</description>
+			</offer>
+			<offer id="7676" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7676.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Римская</name>
+				<vendor>Velocita</vendor>
+				<description>Салями «Милано», ветчина, корнишоны, томаты, сыр «Моцарелла», томатный соус.
+(470 гр).</description>
+			</offer>
+			<offer id="7677" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7677.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепперони</name>
+				<vendor>Velocita</vendor>
+				<description>Салями «Пепперони», сыр «Моцарелла», томатный соус.
+(420 гр).</description>
+			</offer>
+			<offer id="7679" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7679.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карбонара</name>
+				<vendor>Velocita</vendor>
+				<description>Бекон, лук Порей, сыр «Моцарелла», сливочный соус, яйцо куриное.
+(450 гр).</description>
+			</offer>
+			<offer id="7681" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7681.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кватро формаджи</name>
+				<vendor>Velocita</vendor>
+				<description>Сыр «Моцарелла», сыр «Дор Блю», сыр «Бри», сыр «Чеддер», томатный соус.
+(380 гр).</description>
+			</offer>
+			<offer id="7671" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7671.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Бичиклетта»  </name>
+				<vendor>Velocita</vendor>
+				<description>Куриное филе, бекон, шампиньоны, корнишоны, томаты, сыр «Моцарелла», сливочный соус.
+(480 гр).</description>
+			</offer>
+			<offer id="7672" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7672.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Con Manzo    </name>
+				<vendor>Velocita</vendor>
+				<description>Ростбиф, томаты, кольца синего лука, корнишоны, перец Чили, сыр «Моцарелла», томатный соус.
+(420 гр).</description>
+			</offer>
+			<offer id="7678" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7678.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кальцоне (закрытая пицца)</name>
+				<vendor>Velocita</vendor>
+				<description>Ветчина, шампиньоны, каперсы, оливки черные, яйцо куриное, сыр «Моцарелла», томатный соус.
+(450 гр).</description>
+			</offer>
+			<offer id="7680" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1270</categoryId>
+				<picture>http://fasteda.ru/data/big/7680.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маргарита </name>
+				<vendor>Velocita</vendor>
+				<description>Сыр «Моцарелла», томатный соус.
+(300 гр).</description>
+			</offer>
+			<offer id="7623" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1263</categoryId>
+				<picture>http://fasteda.ru/data/big/7623.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тар-тар из лосося с сливочным сыром</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7624" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1263</categoryId>
+				<picture>http://fasteda.ru/data/big/7624.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тар-тар из тунца с клубникой</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7625" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1263</categoryId>
+				<picture>http://fasteda.ru/data/big/7625.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырное плато </name>
+				<vendor>Velocita</vendor>
+				<description>Камамбер, Чеддер, Дор Блю, Пармезан.</description>
+			</offer>
+			<offer id="7626" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1263</categoryId>
+				<picture>http://fasteda.ru/data/big/7626.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясное плато </name>
+				<vendor>Velocita</vendor>
+				<description>Еркширский  ростбиф, диженская  буженина, пряный язык с тимяном.</description>
+			</offer>
+			<offer id="7627" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1263</categoryId>
+				<picture>http://fasteda.ru/data/big/7627.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рулетики с копченым лососем и сыром Филадельфия </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7637" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7637.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с курицей</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7640" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7640.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Классический Греческий салат   </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7641" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7641.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с пармской ветчиной, сочной дыней, спаржей и сливочно-коньячным соусом</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7642" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7642.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из пармской ветчины, рукколы, мякоти апельсина и кольцами красного лука с бальзамической заправкой</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7643" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7643.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Гуакамоле» </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7644" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7644.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясной микс из ростбифа, пряного языка, маринованных огурцов, опят и соусом «Ворчестер»</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7646" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7646.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Теплый салат с креветками и лососем</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7638" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7638.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с креветками</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7639" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7639.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с лососем </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7645" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1265</categoryId>
+				<picture>http://fasteda.ru/data/big/7645.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из маринованных водорослей Чукка </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7656" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7656.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из лосося с паровыми овощами – Бэби и сливочно-икорным соусом</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7657" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7657.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из тунца в пармской ветчине и спаржей и соусом Госпачо </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7658" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7658.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Дорадо запечная с пряными травами и овощами гриль</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7659" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>345</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7659.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медальоны из свиной вырезки с картофельным пюре и сливочно-грибным соусом </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7660" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7660.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Миньон из телятины с  овощами гриль  и соусом Демигляс </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7661" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>895</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7661.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пряное каре ягненка с овощным рататуем и вишневым соусом </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7662" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>595</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7662.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из австралийской говядины с овощым гарниром</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7663" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7663.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мраморный стейк Рибай с овощами  и грибным соусом</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7664" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>845</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7664.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Утиная грудка с винной грушей и вишневым конфитюром  </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7665" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7665.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе индейки на гриле с картофельным пюре и соусом Карри </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7666" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1267</categoryId>
+				<picture>http://fasteda.ru/data/big/7666.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная грудка фаршированная сыром и соусом  Дор Блю   </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7689" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1272</categoryId>
+				<picture>http://fasteda.ru/data/big/7689.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филадельфия</name>
+				<vendor>Velocita</vendor>
+				<description>Лосось, авокадо, сливочный сыр, огурец.
+(240 гр).</description>
+			</offer>
+			<offer id="7690" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1272</categoryId>
+				<picture>http://fasteda.ru/data/big/7690.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Bivako</name>
+				<vendor>Velocita</vendor>
+				<description>Угорь, сливочный сыр, такуан.
+(260 гр).</description>
+			</offer>
+			<offer id="7691" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>268</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1272</categoryId>
+				<picture>http://fasteda.ru/data/big/7691.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фуджияма</name>
+				<vendor>Velocita</vendor>
+				<description>Краб микс,  спайси соус, угорь, огурец.
+(256 гр).</description>
+			</offer>
+			<offer id="7692" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1272</categoryId>
+				<picture>http://fasteda.ru/data/big/7692.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Калифорния в кунжуте</name>
+				<vendor>Velocita</vendor>
+				<description>Краб микс, огурец, авокадо, кунжут.
+(235 гр).</description>
+			</offer>
+			<offer id="7693" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1272</categoryId>
+				<picture>http://fasteda.ru/data/big/7693.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бостон</name>
+				<vendor>Velocita</vendor>
+				<description>Лосось, креветка, краб микс, водоросли чукка.
+(350 гр).</description>
+			</offer>
+			<offer id="7694" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1272</categoryId>
+				<picture>http://fasteda.ru/data/big/7694.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спайси эби сяке</name>
+				<vendor>Velocita</vendor>
+				<description>Лосось, креветка, спайси соус.
+(260 гр).</description>
+			</offer>
+			<offer id="7695" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1272</categoryId>
+				<picture>http://fasteda.ru/data/big/7695.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Банкок</name>
+				<vendor>Velocita</vendor>
+				<description>Угорь, сливочный сыр, амлет, киви.</description>
+			</offer>
+			<offer id="7696" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1273</categoryId>
+				<picture>http://fasteda.ru/data/big/7696.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячий краб</name>
+				<vendor>Velocita</vendor>
+				<description>Краб, лосось, сливочный сыр, сыр Моцарелла.
+(295 гр).</description>
+			</offer>
+			<offer id="7697" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1273</categoryId>
+				<picture>http://fasteda.ru/data/big/7697.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спайси  Ролл</name>
+				<vendor>Velocita</vendor>
+				<description>Краб, лосось, сливочный сыр, спайси соус, сыр Моцарелла.
+(256 гр).</description>
+			</offer>
+			<offer id="7698" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1273</categoryId>
+				<picture>http://fasteda.ru/data/big/7698.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Америка</name>
+				<vendor>Velocita</vendor>
+				<description>Угорь, лосось, сливочный сыр, сыр Моцарелла.
+(295 гр).</description>
+			</offer>
+			<offer id="7699" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1273</categoryId>
+				<picture>http://fasteda.ru/data/big/7699.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кайоси ролл</name>
+				<vendor>Velocita</vendor>
+				<description>Мидии, краб, моцарелла.
+(220 гр).</description>
+			</offer>
+			<offer id="7700" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>29</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://fasteda.ru/data/big/7700.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Авокадо </name>
+				<vendor>Velocita</vendor>
+				<description>(38 гр).</description>
+			</offer>
+			<offer id="7701" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>29</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://fasteda.ru/data/big/7701.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>Velocita</vendor>
+				<description>(33 гр).</description>
+			</offer>
+			<offer id="7702" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://fasteda.ru/data/big/7702.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Копченый угорь </name>
+				<vendor>Velocita</vendor>
+				<description>(36 гр).</description>
+			</offer>
+			<offer id="7703" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://fasteda.ru/data/big/7703.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Креветка тигровая </name>
+				<vendor>Velocita</vendor>
+				<description>(33 гр).</description>
+			</offer>
+			<offer id="7704" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>29</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://fasteda.ru/data/big/7704.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маринованные водоросли Чукка </name>
+				<vendor>Velocita</vendor>
+				<description>(34 гр).</description>
+			</offer>
+			<offer id="7705" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://fasteda.ru/data/big/7705.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Cream  суши </name>
+				<vendor>Velocita</vendor>
+				<description>Лосось, копченый угорь, креветка тигровая, краб.
+(35 гр).</description>
+			</offer>
+			<offer id="7706" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1274</categoryId>
+				<picture>http://fasteda.ru/data/big/7706.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Острые суши </name>
+				<vendor>Velocita</vendor>
+				<description>Лосось, копченый угорь, креветка тигровая, краб, мидии.
+(35 гр).</description>
+			</offer>
+			<offer id="7650" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1266</categoryId>
+				<picture>http://fasteda.ru/data/big/7650.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем-суп из грибов </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7649" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1266</categoryId>
+				<picture>http://fasteda.ru/data/big/7649.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем-суп из лосося  с креветками </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7651" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1266</categoryId>
+				<picture>http://fasteda.ru/data/big/7651.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сливочный суп с угрем  </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7652" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1266</categoryId>
+				<picture>http://fasteda.ru/data/big/7652.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кимчи с говядиной</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7653" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1266</categoryId>
+				<picture>http://fasteda.ru/data/big/7653.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мисо суп   </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7654" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1266</categoryId>
+				<picture>http://fasteda.ru/data/big/7654.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный бульон с домашней лапшей </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7655" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1266</categoryId>
+				<picture>http://fasteda.ru/data/big/7655.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Солянка</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7647" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1266</categoryId>
+				<picture>http://fasteda.ru/data/big/7647.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минестроне</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7648" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1266</categoryId>
+				<picture>http://fasteda.ru/data/big/7648.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп томатный  с  сыром Моцарелла и соусом Песто </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7682" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1271</categoryId>
+				<picture>http://fasteda.ru/data/big/7682.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти «Карбонара»</name>
+				<vendor>Velocita</vendor>
+				<description>Бекон, репч.лук, яйцо куриное, соус, Пармезан, зелень.
+</description>
+			</offer>
+			<offer id="7683" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1271</categoryId>
+				<picture>http://fasteda.ru/data/big/7683.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти «Болоньезе»</name>
+				<vendor>Velocita</vendor>
+				<description>Фарш мясной «Болоньезе», репч.лук, Пармезан, зелень.</description>
+			</offer>
+			<offer id="7684" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>355</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1271</categoryId>
+				<picture>http://fasteda.ru/data/big/7684.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паста с морепродуктами</name>
+				<vendor>Velocita</vendor>
+				<description>Креветки, мидии, осьминог, кальмар, томатный соус, Пармезан, зелень.</description>
+			</offer>
+			<offer id="7685" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>355</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1271</categoryId>
+				<picture>http://fasteda.ru/data/big/7685.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паста «Аррабьята»</name>
+				<vendor>Velocita</vendor>
+				<description>Филе телятины, , перец Чили, чеснок, томаты, Пармезан, зелень.</description>
+			</offer>
+			<offer id="7686" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1271</categoryId>
+				<picture>http://fasteda.ru/data/big/7686.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пенне с курицей и грибами</name>
+				<vendor>Velocita</vendor>
+				<description>Филе куриное, шампиньоны, сливки, Пармезан, зелень.</description>
+			</offer>
+			<offer id="7687" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1271</categoryId>
+				<picture>http://fasteda.ru/data/big/7687.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с Горгонзолой и грецкими орехами</name>
+				<vendor>Velocita</vendor>
+				<description>Горгонзола, сливки, Пармезан, грецкие орехи.</description>
+			</offer>
+			<offer id="7688" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1271</categoryId>
+				<picture>http://fasteda.ru/data/big/7688.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с лесными грибами</name>
+				<vendor>Velocita</vendor>
+				<description>Лесные грибы, репч.лук, чеснок, Пармезан, сливки.</description>
+			</offer>
+			<offer id="7707" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1275</categoryId>
+				<picture>http://fasteda.ru/data/big/7707.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк с клубникой    </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7708" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1275</categoryId>
+				<picture>http://fasteda.ru/data/big/7708.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Латте Макиатто</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7709" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1275</categoryId>
+				<picture>http://fasteda.ru/data/big/7709.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадно-вишневое пирожное</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7713" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1275</categoryId>
+				<picture>http://fasteda.ru/data/big/7713.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Камамбер</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7710" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1275</categoryId>
+				<picture>http://fasteda.ru/data/big/7710.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Яблочный пай  с корицей и шариком ванильного мороженного</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7711" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1275</categoryId>
+				<picture>http://fasteda.ru/data/big/7711.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Десерт «Райское яблочко»</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7712" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1275</categoryId>
+				<picture>http://fasteda.ru/data/big/7712.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фруктовый салат</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7629" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1264</categoryId>
+				<picture>http://fasteda.ru/data/big/7629.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиные ребрышки в горчично-медовом маринаде </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7628" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1264</categoryId>
+				<picture>http://fasteda.ru/data/big/7628.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырные палочки с розовым соусом </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7630" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1264</categoryId>
+				<picture>http://fasteda.ru/data/big/7630.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кольца кальмара </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7631" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1264</categoryId>
+				<picture>http://fasteda.ru/data/big/7631.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ржаные гренки  </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7632" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1264</categoryId>
+				<picture>http://fasteda.ru/data/big/7632.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крылышки куриные с соусом барбекю  </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7633" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1264</categoryId>
+				<picture>http://fasteda.ru/data/big/7633.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жюльен  с грибами и филе  цыпленка </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7634" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1264</categoryId>
+				<picture>http://fasteda.ru/data/big/7634.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Запеченные мидии  </name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7635" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1264</categoryId>
+				<picture>http://fasteda.ru/data/big/7635.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чипсы</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7636" available="true">
+				<url>http://fasteda.ru/menu/velocita/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1264</categoryId>
+				<picture>http://fasteda.ru/data/big/7636.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фисташки</name>
+				<vendor>Velocita</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:35">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="634">Американское мраморное мясо</category>
+			<category id="632">Мясо</category>
+			<category id="636">Рыба</category>
+			<category id="638">Гарниры</category>
+			<category id="628">Закуски</category>
+			<category id="625">Классические салаты</category>
+			<category id="630">Супы</category>
+			<category id="641">Пицца</category>
+			<category id="643">Воки</category>
+			<category id="645">Суши</category>
+			<category id="649">Запеченные суши</category>
+			<category id="647">Острые суши</category>
+			<category id="652">Роллы</category>
+			<category id="654">Десерты</category>
+			<category id="656">Домашняя паста</category>
+			<category id="658">Ризотто</category>
+			<category id="660">Сашими </category>
+		</categories>
+		<offers>
+			<offer id="3884" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>634</categoryId>
+				<picture>http://fasteda.ru/data/big/3884.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Нью-Йорк стейк</name>
+				<vendor>Fra.telli</vendor>
+				<description>Американская мраморная говядина, тонкий край, поясничная часть.
+(220гр).</description>
+			</offer>
+			<offer id="3885" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>980</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>634</categoryId>
+				<picture>http://fasteda.ru/data/big/3885.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стриплойн стейк с Чоризо</name>
+				<vendor>Fra.telli</vendor>
+				<description>220гр.</description>
+			</offer>
+			<offer id="3886" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>634</categoryId>
+				<picture>http://fasteda.ru/data/big/3886.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рибай стейк</name>
+				<vendor>Fra.telli</vendor>
+				<description>Американская мраморная говядина, толстый край, рёберная (лопатачная) часть.
+(220гр).</description>
+			</offer>
+			<offer id="3977" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>632</categoryId>
+				<picture>http://fasteda.ru/data/big/3977.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бефстроганов с пюре</name>
+				<vendor>Fra.telli</vendor>
+				<description>Говяжья вырезка, нарезанная соломкой, лук репчатый, сливки.. Бефстроганов закладывается в кармашек из лепёшки и подается с пюре. 
+(350гр).</description>
+			</offer>
+			<offer id="3880" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>632</categoryId>
+				<picture>http://fasteda.ru/data/big/3880.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриное филе с грибным соусом (</name>
+				<vendor>Fra.telli</vendor>
+				<description>Куриное филе, обжаренное на гриле, подаётся со сливочно-грибным соусом (опята и белые, сливки, дэмигляс, зелень петрушки). При подаче смазывается зелёным маслом и украшается петрушкой. 
+(250гр).</description>
+			</offer>
+			<offer id="3881" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>632</categoryId>
+				<picture>http://fasteda.ru/data/big/3881.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бифштекс с соусом Аматричана и картофельным пюре</name>
+				<vendor>Fra.telli</vendor>
+				<description>Бифштекс из рубленого мяса подаётся с томатным соусом Наполи и картофельным пюре, украшается микс-салатом из фриссе, листьев сельдерея, лоло-россо, петрушки. Отдается с кусочком хлебной лепешки.
+(270гр).</description>
+			</offer>
+			<offer id="3882" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>632</categoryId>
+				<picture>http://fasteda.ru/data/big/3882.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пеппер стейк</name>
+				<vendor>Fra.telli</vendor>
+				<description>Медальон из  говяжьей вырезки обжаривается на гриле, подаётся со свежей рукколой и сливочно-перечным соусом.
+(270гр).</description>
+			</offer>
+			<offer id="3883" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>632</categoryId>
+				<picture>http://fasteda.ru/data/big/3883.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ребра ягненка с соусом на основе Кьянти</name>
+				<vendor>Fra.telli</vendor>
+				<description>Ребрышки ягнёнка обжариваются на гриле, подаются с картофельным пюре и соусом Кьянти (красное вино, соус Демигляс).
+
+(355гр).</description>
+			</offer>
+			<offer id="3978" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>636</categoryId>
+				<picture>http://fasteda.ru/data/big/3978.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бранзино с сицилийской капонатой</name>
+				<vendor>Fra.telli</vendor>
+				<description>Бранзино – это сибас, он же лаврак и спигола. Филе обжаривается на гриле, подаётся на капонате (цукини, баклажаны, паприка, лук, каперсы, оливки Каламата, базилик, петрушка, красный винный уксус, обжаренные на оливковом масле). 
+(230гр).</description>
+			</offer>
+			<offer id="3887" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>636</categoryId>
+				<picture>http://fasteda.ru/data/big/3887.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Котлеты из лосося</name>
+				<vendor>Fra.telli</vendor>
+				<description>Подаются с картофельным пюре, шпинатным соусом и салатом из проростков гороха, лоло россо, фриссе, петрушки, листьев сельдерея.
+(265гр).</description>
+			</offer>
+			<offer id="3888" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>636</categoryId>
+				<picture>http://fasteda.ru/data/big/3888.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак с пряными травами и помидорами черри</name>
+				<vendor>Fra.telli</vendor>
+				<description>На запеченое филе судака выкладывают обжаренные с базиликом черри, затем хлебную крошку со свежим базиликом и петрушкой. При отдаче украшается бальзамическим кремом.
+(230гр).</description>
+			</offer>
+			<offer id="3889" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>636</categoryId>
+				<picture>http://fasteda.ru/data/big/3889.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Треска с кремом из корня сельдерея</name>
+				<vendor>Fra.telli</vendor>
+				<description>Обжаренное на сливочном масле, панированное в муке филе трески подаётся с кремом из корня сельдерея.
+
+(210гр).</description>
+			</offer>
+			<offer id="3890" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>636</categoryId>
+				<picture>http://fasteda.ru/data/big/3890.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Норвежский лосось с тартаром из огурца</name>
+				<vendor>Fra.telli</vendor>
+				<description>Филе норвежского лосося обжаривается на гриле, подаётся с тар-таром из огурца (свежий огурец нарезан кубиком и заправлен йогуртом и рубленым укоропом).
+(230гр).</description>
+			</offer>
+			<offer id="3979" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>638</categoryId>
+				<picture>http://fasteda.ru/data/big/3979.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фасоль кенийская</name>
+				<vendor>Fra.telli</vendor>
+				<description>Фасоль кенийская (паровая со сливочным маслом и чесноком) 
+(190гр).</description>
+			</offer>
+			<offer id="3891" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>638</categoryId>
+				<picture>http://fasteda.ru/data/big/3891.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Fra.telli</vendor>
+				<description>180гр.</description>
+			</offer>
+			<offer id="3892" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>638</categoryId>
+				<picture>http://fasteda.ru/data/big/3892.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель с розмарином</name>
+				<vendor>Fra.telli</vendor>
+				<description>150гр.</description>
+			</offer>
+			<offer id="3893" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>638</categoryId>
+				<picture>http://fasteda.ru/data/big/3893.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Брокколи с пармезаном</name>
+				<vendor>Fra.telli</vendor>
+				<description>100гр.</description>
+			</offer>
+			<offer id="3894" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>638</categoryId>
+				<picture>http://fasteda.ru/data/big/3894.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шпинат с пармезаном</name>
+				<vendor>Fra.telli</vendor>
+				<description>80гр.</description>
+			</offer>
+			<offer id="3895" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>638</categoryId>
+				<picture>http://fasteda.ru/data/big/3895.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи-гриль</name>
+				<vendor>Fra.telli</vendor>
+				<description>170гр.</description>
+			</offer>
+			<offer id="3970" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>628</categoryId>
+				<picture>http://fasteda.ru/data/big/3970.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Миллефолье из сезонных овощей и моццареллы</name>
+				<vendor>Fra.telli</vendor>
+				<description>(210гр).</description>
+			</offer>
+			<offer id="3971" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>628</categoryId>
+				<picture>http://fasteda.ru/data/big/3971.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриная печень, тушенная с овощами</name>
+				<vendor>Fra.telli</vendor>
+				<description>(450гр).</description>
+			</offer>
+			<offer id="3972" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>628</categoryId>
+				<picture>http://fasteda.ru/data/big/3972.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Антипасто из мясных деликатесов</name>
+				<vendor>Fra.telli</vendor>
+				<description>(210гр).</description>
+			</offer>
+			<offer id="3990" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>628</categoryId>
+				<picture>http://fasteda.ru/data/big/3990.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Брускетты</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3871" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>628</categoryId>
+				<picture>http://fasteda.ru/data/big/3871.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Карпаччо из лосося</name>
+				<vendor>Fra.telli</vendor>
+				<description>Тонкие ломтики норвежского лосося, огурцы, Черри томаты, лук чивис (резанец), соль, перец, лимонный сок, оливковое масло.
+(160гр).</description>
+			</offer>
+			<offer id="3872" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>628</categoryId>
+				<picture>http://fasteda.ru/data/big/3872.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Карпаччо из говядины</name>
+				<vendor>Fra.telli</vendor>
+				<description>Слайсы говяжьей вырезки, ломтики Грана Падано, свежая руккола, соль, перец, оливковое масло.
+(110гр).</description>
+			</offer>
+			<offer id="3873" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>628</categoryId>
+				<picture>http://fasteda.ru/data/big/3873.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баклажаны алла Пармиджана</name>
+				<vendor>Fra.telli</vendor>
+				<description>230гр.</description>
+			</offer>
+			<offer id="3875" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>628</categoryId>
+				<picture>http://fasteda.ru/data/big/3875.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тарелка с фермерскими сырами и медом</name>
+				<vendor>Fra.telli</vendor>
+				<description>Горгонзолла, таледжио, овечий «Пекорино Марзалино», Грана Падано, Качиоковалло Рагузано), подаются с мёдом, миндалём и грецким орехом.
+(150гр).</description>
+			</offer>
+			<offer id="3863" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3863.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощной салат</name>
+				<vendor>Fra.telli</vendor>
+				<description>Смесь салатных листьев (Маше, шпинат, руккола), корень и стебель сельдерея, оливки Каламата (красные оливки, без косточки), томаты (обычные), слайсы редиса, кольца красного лука. Заправка: оливковое масло.
+(230гр).</description>
+			</offer>
+			<offer id="3965" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3965.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спагетти с морепродуктами</name>
+				<vendor>Fra.telli</vendor>
+				<description>(390гр).</description>
+			</offer>
+			<offer id="3973" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3973.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Холодный салат с фузилли и ветчиной</name>
+				<vendor>Fra.telli</vendor>
+				<description>(270гр).</description>
+			</offer>
+			<offer id="3974" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3974.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Капрезе</name>
+				<vendor>Fra.telli</vendor>
+				<description>(315гр).</description>
+			</offer>
+			<offer id="3864" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3864.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свежие листья салата с брынзой</name>
+				<vendor>Fra.telli</vendor>
+				<description>смесь салатных листьев (Лоло-россо, руккола, шпинат), свежий огурец, томаты (обычные), кольца красного лука, зеленые оливки с косточкой, тертая Брынза. Заправка: оливковое масло. 
+(280гр)
+.</description>
+			</offer>
+			<offer id="3865" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3865.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рукола с пармезаном и черри</name>
+				<vendor>Fra.telli</vendor>
+				<description>Листья рукколы, томаты Черри, слайсы Грана Падано. Заправка: оливковое масло, бальзамический крем. 
+(120гр).</description>
+			</offer>
+			<offer id="3867" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3867.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь с куриным филе</name>
+				<vendor>Fra.telli</vendor>
+				<description>Листья салата Ромейн с соусом Цезарь (майонез, пармезан, анчоусы, оливковое масло), гренки из белого хлеба, ломтики сыра Пармеза. 
+(210гр).</description>
+			</offer>
+			<offer id="3868" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3868.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь с беконом</name>
+				<vendor>Fra.telli</vendor>
+				<description>Листья салата Ромейн с соусом Цезарь (майонез, пармезан, анчоусы, оливковое масло), гренки из белого хлеба, ломтики сыра Пармеза. 
+(210гр).</description>
+			</offer>
+			<offer id="3869" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3869.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь с креветками</name>
+				<vendor>Fra.telli</vendor>
+				<description>Листья салата Ромейн с соусом Цезарь (майонез, пармезан, анчоусы, оливковое масло), гренки из белого хлеба, ломтики сыра Пармеза. 
+(210гр).</description>
+			</offer>
+			<offer id="3870" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3870.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с тунцом, оливками и картофелем</name>
+				<vendor>Fra.telli</vendor>
+				<description>Смесь салатных листьев (Маше, Лоло-россо, шпинат), тунец в собственном соку, отварное перепелиное яйцо, томаты Черри, отварной картофель, зеленые оливки с косточкой. Заправка: оливковое масло, бальзамический крем.
+(230гр).</description>
+			</offer>
+			<offer id="3874" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>625</categoryId>
+				<picture>http://fasteda.ru/data/big/3874.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Телятина с соусом из тунца</name>
+				<vendor>Fra.telli</vendor>
+				<description>Запеченная телячья вырезка, охлаждается, нарезается на тонкие ломтики, подается с соусом из тунца, каперсами, томатами Черри, салатными листьями Фриссе и Лоло-Россо.
+(170гр).</description>
+			</offer>
+			<offer id="3969" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>630</categoryId>
+				<picture>http://fasteda.ru/data/big/3969.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фасолевый суп с беконом</name>
+				<vendor>Fra.telli</vendor>
+				<description>(330гр).</description>
+			</offer>
+			<offer id="3876" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>630</categoryId>
+				<picture>http://fasteda.ru/data/big/3876.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриный суп с овощами и домашней пастой</name>
+				<vendor>Fra.telli</vendor>
+				<description>Куриный бульон с отварным мясом цыпленка, брокколи, моркови, макерони, свежая зелень.
+(350гр).</description>
+			</offer>
+			<offer id="3877" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>630</categoryId>
+				<picture>http://fasteda.ru/data/big/3877.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крем-суп Минестроне</name>
+				<vendor>Fra.telli</vendor>
+				<description>Суп готовится на курином бульоне, с добавлением моркови, картофеля, баклажан, зеленого горошка, чеснока, базилика, цукини, стебля сельдерея и репчатого лука. 
+(310гр).</description>
+			</offer>
+			<offer id="3878" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>630</categoryId>
+				<picture>http://fasteda.ru/data/big/3878.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тыквенный суп со шпинатом</name>
+				<vendor>Fra.telli</vendor>
+				<description>Суп готовится на курином бульоне, с добавлением репчатого лука, картофеля, тыквы, сливочного масла и меда. При отдаче в него добавляют свежий шпинат, оливковое масло и украшают бальзамическим кремом.
+(250гр).</description>
+			</offer>
+			<offer id="3879" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>630</categoryId>
+				<picture>http://fasteda.ru/data/big/3879.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Cуп с морепродуктами</name>
+				<vendor>Fra.telli</vendor>
+				<description>Говится на рыбном бульоне с добавлением томатного соуса), судака, лосося, тигровой креветки, мидии на створке, чеснока, сухого орегано и оливкового масла. Суп подаётся с чиабаттой с зелёным маслом (смесь свежих трав с оливковым маслом)
+(390гр).</description>
+			</offer>
+			<offer id="3896" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3896.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Маргарита</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3898" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3898.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Алла Дьявола</name>
+				<vendor>Fra.telli</vendor>
+				<description>Соус томатный, моцарелла, салями, лук чивис.</description>
+			</offer>
+			<offer id="3900" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3900.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ветчина и грибы</name>
+				<vendor>Fra.telli</vendor>
+				<description>Соус томатный, моцарела, ветчина, шампиньоны, петрушка.</description>
+			</offer>
+			<offer id="3902" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3902.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кальцоне «Corno di Montone»</name>
+				<vendor>Fra.telli</vendor>
+				<description>Закрытая пицца. Внутри сыр моцарелла, шампиньоны, сверху поливают томатным соусом и кладут сыр Пекорино Романо.</description>
+			</offer>
+			<offer id="3903" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3903.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «Spaccanapoli»</name>
+				<vendor>Fra.telli</vendor>
+				<description>Соус томатный, сыр моцарелла, копченый сыр Рикотта, вяленые томаты, соус песто, базилик – украшение.</description>
+			</offer>
+			<offer id="3905" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3905.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «La Camorra»</name>
+				<vendor>Fra.telli</vendor>
+				<description>Соус томатный, моцарелла, Панчетта, кольца красного лука, маринованный пикантный перец, куриный желток.</description>
+			</offer>
+			<offer id="3907" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3907.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца «Salentina»</name>
+				<vendor>Fra.telli</vendor>
+				<description>Соус томатный, моцарела, креветки, каперсы, томаты, слайсы Грана падано, руккола.
+</description>
+			</offer>
+			<offer id="3909" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3909.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Белая пицца со шпинатом</name>
+				<vendor>Fra.telli</vendor>
+				<description>Сливки, оливковое масло, сыр моцарелла, томаты Черри, шпинат, чесночное масло, слайсы пармезана.
+</description>
+			</offer>
+			<offer id="3911" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3911.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Четыре сыра</name>
+				<vendor>Fra.telli</vendor>
+				<description>Пармезан, моцарелла, эменталь, горгонзола, руккола.</description>
+			</offer>
+			<offer id="3913" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>641</categoryId>
+				<picture>http://fasteda.ru/data/big/3913.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>С куриным филе и горгонзолой</name>
+				<vendor>Fra.telli</vendor>
+				<description>Соус томатный, моцарелла, куриное филе, горгонзола, оливки Каламата, соус песто.
+</description>
+			</offer>
+			<offer id="3926" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>643</categoryId>
+				<picture>http://fasteda.ru/data/big/3926.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вок с куриным филе и кокосовым молоком </name>
+				<vendor>Fra.telli</vendor>
+				<description>Лапша Вок (пшеничная, без яйца), куриный бульон, кокосовое молоко, паприка, лук красный, горошек стручковый, проростки бобов и сои, морковь, масло растительное и кунжутное, кинза, филе куры, кунжут, кокосы, чеснок, имбирь.
+(425гр).</description>
+			</offer>
+			<offer id="3927" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>643</categoryId>
+				<picture>http://fasteda.ru/data/big/3927.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вок с креветками и манго</name>
+				<vendor>Fra.telli</vendor>
+				<description>Лапша Вок (пшеничная, без яйца), куриный бульон, кокосовое молоко, паприка, лук красный, горошек стручковый, проростки бобов и сои, морковь, масло растительное и кунжутное, кинза, тигровые креветки, манго, кунжут, кокосы, чеснок, имбирь.
+(410гр).</description>
+			</offer>
+			<offer id="3928" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>643</categoryId>
+				<picture>http://fasteda.ru/data/big/3928.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вок с говядиной </name>
+				<vendor>Fra.telli</vendor>
+				<description>Лапша Вок (пшеничная, без яйца), куриный бульон, кокосовое молоко, паприка, лук красный, горошек стручковый, проростки дайкона, морковь, масло растительное и кунжутное, кинза, говяжья вырезка, манго, кунжут, кокосы, чеснок, имбирь.
+(410гр)
+.</description>
+			</offer>
+			<offer id="3929" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>645</categoryId>
+				<picture>http://fasteda.ru/data/big/3929.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3930" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>645</categoryId>
+				<picture>http://fasteda.ru/data/big/3930.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3931" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>645</categoryId>
+				<picture>http://fasteda.ru/data/big/3931.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3932" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>645</categoryId>
+				<picture>http://fasteda.ru/data/big/3932.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветка</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3938" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>649</categoryId>
+				<picture>http://fasteda.ru/data/big/3938.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3939" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>649</categoryId>
+				<picture>http://fasteda.ru/data/big/3939.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3940" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>649</categoryId>
+				<picture>http://fasteda.ru/data/big/3940.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветка</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3941" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>649</categoryId>
+				<picture>http://fasteda.ru/data/big/3941.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Краб</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3934" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>649</categoryId>
+				<picture>http://fasteda.ru/data/big/3934.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3936" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>647</categoryId>
+				<picture>http://fasteda.ru/data/big/3936.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветка</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3935" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>647</categoryId>
+				<picture>http://fasteda.ru/data/big/3935.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3933" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>647</categoryId>
+				<picture>http://fasteda.ru/data/big/3933.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>Fra.telli</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3942" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>652</categoryId>
+				<picture>http://fasteda.ru/data/big/3942.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с острым угрём </name>
+				<vendor>Fra.telli</vendor>
+				<description>рис, угорь, авокадо, спайси соус, огурец, соус унаги, Нори, кунжут.</description>
+			</offer>
+			<offer id="3943" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>652</categoryId>
+				<picture>http://fasteda.ru/data/big/3943.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филадельфия</name>
+				<vendor>Fra.telli</vendor>
+				<description>Рис, лосось, сыр Буко (мягкий творожный сыр, как Филадельфия), авокадо, огурец, Нори, кунжут.</description>
+			</offer>
+			<offer id="3944" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>652</categoryId>
+				<picture>http://fasteda.ru/data/big/3944.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл с острым тунцом </name>
+				<vendor>Fra.telli</vendor>
+				<description>Рис, тунец, авокадо, спайси соус, огурец, Нори, кунжут.</description>
+			</offer>
+			<offer id="3945" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>652</categoryId>
+				<picture>http://fasteda.ru/data/big/3945.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Калифорния</name>
+				<vendor>Fra.telli</vendor>
+				<description>Рис, краб, Нори, авокадо, огурец, тобико (икра летучей рыбы).</description>
+			</offer>
+			<offer id="3984" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>652</categoryId>
+				<picture>http://fasteda.ru/data/big/3984.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Запеченный ролл с угрем и сыром Филадельфия</name>
+				<vendor>Fra.telli</vendor>
+				<description>Рис, угорь, Нори, авокадо, спайси соус, сыр Буко, соус унаги, кунжут, соус масаго.
+</description>
+			</offer>
+			<offer id="3985" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>652</categoryId>
+				<picture>http://fasteda.ru/data/big/3985.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Запеченный ролл с крабом и угрем</name>
+				<vendor>Fra.telli</vendor>
+				<description>Рис, угорь, краб, Нори, соус масаго, соус унаги, кунжут.</description>
+			</offer>
+			<offer id="3986" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>652</categoryId>
+				<picture>http://fasteda.ru/data/big/3986.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареный ролл с лососем и угрем</name>
+				<vendor>Fra.telli</vendor>
+				<description>Лосось, угорь, шнит, Масаго, огурец, Панко. Панируется в муке, яйце и сухарях и жарится во фритюре.</description>
+			</offer>
+			<offer id="3987" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>652</categoryId>
+				<picture>http://fasteda.ru/data/big/3987.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Запеченный ролл с гребешком и крабом</name>
+				<vendor>Fra.telli</vendor>
+				<description>Рис, гребешок, краб, Нори, соус масаго, соус унаги, кунжут.</description>
+			</offer>
+			<offer id="3988" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>652</categoryId>
+				<picture>http://fasteda.ru/data/big/3988.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл Панко с крабом и масаго</name>
+				<vendor>Fra.telli</vendor>
+				<description>Рис, краб, нори, авокадо, огурец, Панко (панировочные сухари Панко), сверху выкладывается икра Тобико и ширачи (острый соус из Чили перца).</description>
+			</offer>
+			<offer id="3946" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>654</categoryId>
+				<picture>http://fasteda.ru/data/big/3946.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Панна Котта</name>
+				<vendor>Fra.telli</vendor>
+				<description>Сливочное ванильное желе, подаётся с клубничным соусом и свежей клубникой.
+(135гр).</description>
+			</offer>
+			<offer id="3947" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>654</categoryId>
+				<picture>http://fasteda.ru/data/big/3947.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лимонный пирог</name>
+				<vendor>Fra.telli</vendor>
+				<description>Песочная основа, масса из яиц, сливок, лимонного сока и лимонной цедры. Подаётся с ванильным соусом.
+(149гр).</description>
+			</offer>
+			<offer id="3948" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>654</categoryId>
+				<picture>http://fasteda.ru/data/big/3948.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Теплый грушевый кекс с кремом Маскарпоне</name>
+				<vendor>Fra.telli</vendor>
+				<description>Бисквитное тесто с кусочками груши. Подаётся с кремом маскарпоне (маскарпоне, сливки, сахарная пудра).
+(190гр).</description>
+			</offer>
+			<offer id="3949" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>654</categoryId>
+				<picture>http://fasteda.ru/data/big/3949.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тирамису</name>
+				<vendor>Fra.telli</vendor>
+				<description>Печенье савоярди, вымоченное в крепком кофе и амаретто, прослоенное сливочным кремом на основе сыра маскарпоне, сахарной пудры, сливок и желтка.
+(140гр).</description>
+			</offer>
+			<offer id="3950" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>654</categoryId>
+				<picture>http://fasteda.ru/data/big/3950.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шоколадный пирог</name>
+				<vendor>Fra.telli</vendor>
+				<description>Песочная основа, масса на основе заварного крема (сливочный крем) и топленого горького шоколада. Подаётся с ванильным соусом.
+(149гр).</description>
+			</offer>
+			<offer id="3951" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>654</categoryId>
+				<picture>http://fasteda.ru/data/big/3951.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Домашний чизкейк</name>
+				<vendor>Fra.telli</vendor>
+				<description>Песочно-миндальная основа, масса из сливочного сыра, яйца, сахарной пудры и сливок. Подаётся с клубничным и апельсиновым соусом.
+(165гр).</description>
+			</offer>
+			<offer id="3952" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>654</categoryId>
+				<picture>http://fasteda.ru/data/big/3952.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крем Маскарпоне с карамелью Драмбулле</name>
+				<vendor>Fra.telli</vendor>
+				<description>Крошка из орехов и песочного теста прослаивается кремом Маскарпоне (желтки, сахарная пудра, Маскарпоне). Украшается свежими ягодами. 
+(130гр).</description>
+			</offer>
+			<offer id="3989" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>654</categoryId>
+				<picture>http://fasteda.ru/data/big/3989.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Яблочный штрудель </name>
+				<vendor>Fra.telli</vendor>
+				<description>Рулет из слоеного теста с яблоком, корицей, изюмом,, подаётся тёплым с ванильным соусом и ягодами (черника, малина)
+(200гр).</description>
+			</offer>
+			<offer id="3953" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3953.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спагетти Алио Олио Пеперончино</name>
+				<vendor>Fra.telli</vendor>
+				<description>(225гр).</description>
+			</offer>
+			<offer id="3954" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3954.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спагетти со свежими томатами и базиликом</name>
+				<vendor>Fra.telli</vendor>
+				<description>(370гр).</description>
+			</offer>
+			<offer id="3955" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3955.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фузилли c куриным филе и паприкой</name>
+				<vendor>Fra.telli</vendor>
+				<description>(350гр).</description>
+			</offer>
+			<offer id="3956" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3956.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спагетти Болоньезе</name>
+				<vendor>Fra.telli</vendor>
+				<description>(385гр).</description>
+			</offer>
+			<offer id="3957" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3957.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тортеллони с рикоттой и шпинатом</name>
+				<vendor>Fra.telli</vendor>
+				<description>(235гр).</description>
+			</offer>
+			<offer id="3958" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3958.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пенне алла Сичилиана</name>
+				<vendor>Fra.telli</vendor>
+				<description>(360гр).</description>
+			</offer>
+			<offer id="3959" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3959.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тальятелли с лесными грибами и панчеттой</name>
+				<vendor>Fra.telli</vendor>
+				<description>(350гр).</description>
+			</offer>
+			<offer id="3960" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3960.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Макерони 4 сыра с черным трюфелем</name>
+				<vendor>Fra.telli</vendor>
+				<description>(330гр).</description>
+			</offer>
+			<offer id="3961" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3961.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спагетти Карбонара</name>
+				<vendor>Fra.telli</vendor>
+				<description>(345гр).</description>
+			</offer>
+			<offer id="3962" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3962.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тальятелли с пармой, горгонзолой и грецким орехом</name>
+				<vendor>Fra.telli</vendor>
+				<description>(300гр).</description>
+			</offer>
+			<offer id="3963" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3963.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тальятелли с лососем и брокколи</name>
+				<vendor>Fra.telli</vendor>
+				<description>(380гр).</description>
+			</offer>
+			<offer id="3964" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>656</categoryId>
+				<picture>http://fasteda.ru/data/big/3964.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Домашняя лазанья</name>
+				<vendor>Fra.telli</vendor>
+				<description>(400гр).</description>
+			</offer>
+			<offer id="3966" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>658</categoryId>
+				<picture>http://fasteda.ru/data/big/3966.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ризотто со шпинатом и черри</name>
+				<vendor>Fra.telli</vendor>
+				<description>(340гр).</description>
+			</offer>
+			<offer id="3967" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>658</categoryId>
+				<picture>http://fasteda.ru/data/big/3967.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ризотто с лесными грибами</name>
+				<vendor>Fra.telli</vendor>
+				<description>(410гр).</description>
+			</offer>
+			<offer id="3968" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>658</categoryId>
+				<picture>http://fasteda.ru/data/big/3968.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ризотто с морепродуктами</name>
+				<vendor>Fra.telli</vendor>
+				<description>(350гр).</description>
+			</offer>
+			<offer id="3980" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>660</categoryId>
+				<picture>http://fasteda.ru/data/big/3980.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось</name>
+				<vendor>Fra.telli</vendor>
+				<description>Подаётся с морковью, огурцом, дайконом, цикорием. Овощи поливаются соусом (мицукано – рисовый уксус, кунжутное и оливковое масло, соевый соус).</description>
+			</offer>
+			<offer id="3981" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>660</categoryId>
+				<picture>http://fasteda.ru/data/big/3981.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Угорь</name>
+				<vendor>Fra.telli</vendor>
+				<description>Подаётся с морковью, огурцом, дайконом, цикорием. Овощи поливаются соусом (мицукано – рисовый уксус, кунжутное и оливковое масло, соевый соус).</description>
+			</offer>
+			<offer id="3982" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>660</categoryId>
+				<picture>http://fasteda.ru/data/big/3982.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>Fra.telli</vendor>
+				<description>Подаётся с морковью, огурцом, дайконом, цикорием. Овощи поливаются соусом (мицукано – рисовый уксус, кунжутное и оливковое масло, соевый соус).</description>
+			</offer>
+			<offer id="3983" available="true">
+				<url>http://fasteda.ru/menu/fratelli/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>660</categoryId>
+				<picture>http://fasteda.ru/data/big/3983.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветка</name>
+				<vendor>Fra.telli</vendor>
+				<description>Подаётся с морковью, огурцом, дайконом, цикорием. Овощи поливаются соусом (мицукано – рисовый уксус, кунжутное и оливковое масло, соевый соус).</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

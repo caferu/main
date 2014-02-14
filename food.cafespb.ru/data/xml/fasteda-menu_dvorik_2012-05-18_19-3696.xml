@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="143">Сытные пироги</category>
+			<category id="145">Сладкие пироги</category>
+			<category id="495">Пирожки</category>
+			<category id="278">Десерты</category>
+			<category id="139">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="1457" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>293</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1457.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с картофелем и луком</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1458" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>319</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1458.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с капустой</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1459" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1459.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с картошкой и грибами</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1605" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>322</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1605.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Курник </name>
+				<vendor>Кошкин Дом</vendor>
+				<description>800 грамм.</description>
+			</offer>
+			<offer id="1460" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>344</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1460.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с сельдью </name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1474" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>499</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1474.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с мясом и яйцом</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1461" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1461.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с рисом и яйцом</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1462" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>356</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1462.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с курицей и мускатным орехом</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1463" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>385</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1463.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с курицей и грибами</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1464" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1464.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с курицей и черносливом</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1471" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>630</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1471.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с лососем</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1465" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>369</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1465.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с зеленым луком</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1466" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>354</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1466.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с грибами и рисом</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1467" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>387</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1467.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с грибами</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1468" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>371</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1468.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с печенью</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1469" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>363</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1469.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог «Рыба» (0.6кг)</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>600 гр.</description>
+			</offer>
+			<offer id="1470" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1470.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с судаком и рисом</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1472" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>354</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1472.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог «Поросенок» (0.6кг)</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>600 гр.</description>
+			</offer>
+			<offer id="1473" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>428</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1473.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с мясом и рисом</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="3242" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>407</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/3242.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог брынза со шпинатом</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1606" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1606.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рулет ветчина и сыр</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>750 грамм.</description>
+			</offer>
+			<offer id="1607" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1607.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с курой</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>600 грамм.</description>
+			</offer>
+			<offer id="1608" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1608.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с морепродуктами</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>570 грамм.</description>
+			</offer>
+			<offer id="1609" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1609.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с салями</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>580 грамм.</description>
+			</offer>
+			<offer id="1610" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>143</categoryId>
+				<picture>http://fasteda.ru/data/big/1610.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пицца с ветчиной</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>580 грамм.</description>
+			</offer>
+			<offer id="3254" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/3254.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог ягодное лукошко</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг. Много-много разных натуральных ягод!.</description>
+			</offer>
+			<offer id="3255" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/3255.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог клубника с персиком</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1475" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>372</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1475.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с черной смородиной </name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1476" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>433</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1476.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с брусникой</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1477" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>341</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1477.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с творогом</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1478" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>343</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1478.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с клубникой</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1479" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>448</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1479.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с черникой</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1480" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>324</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1480.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с яблоками</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1481" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>332</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1481.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с лимоном</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1482" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>384</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1482.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с брусникой и яблоками</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1483" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>377</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1483.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с вишней</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1484" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>347</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1484.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Каравай (0.8кг)</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>800 грамм.</description>
+			</offer>
+			<offer id="1598" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>341</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1598.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог яблоко с лимоном</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1599" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>387</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1599.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с ежевикой</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1600" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>449</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1600.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с малиной</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1601" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>348</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1601.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с курагой</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1602" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>448</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1602.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с клюквой</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="1603" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>339</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>145</categoryId>
+				<picture>http://fasteda.ru/data/big/1603.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирог с персиком</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 кг.</description>
+			</offer>
+			<offer id="3245" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3245.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с рисом 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3249" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3249.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с мясом 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3246" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3246.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с картошкой и грибами 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3248" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3248.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с лососем 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3243" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3243.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с капустой 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3247" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3247.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с зел.луком 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3244" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3244.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с картошкой 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3253" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3253.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с брусникой 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3251" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3251.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с яблоком 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3250" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3250.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с вишней 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3252" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>495</categoryId>
+				<picture>http://fasteda.ru/data/big/3252.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ватрушка с лимоном 10 штук</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>10 штук.</description>
+			</offer>
+			<offer id="3256" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>278</categoryId>
+				<picture>http://fasteda.ru/data/big/3256.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пряники</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1651" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>278</categoryId>
+				<picture>http://fasteda.ru/data/big/1651.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Двойное сердце в корзинке</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>Пряники-козули Валентинки.</description>
+			</offer>
+			<offer id="1652" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>278</categoryId>
+				<picture>http://fasteda.ru/data/big/1652.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сердца в корзинке</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>Пряники-козули Валентинки.</description>
+			</offer>
+			<offer id="1604" available="true">
+				<url>http://fasteda.ru/menu/dvorik/</url>
+				<price>133</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>139</categoryId>
+				<picture>http://fasteda.ru/data/big/1604.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс смородина 1 л.</name>
+				<vendor>Кошкин Дом</vendor>
+				<description>1 л.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

@@ -1,0 +1,2526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-12 03:32">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1206">Рыбные горячие блюда</category>
+			<category id="1204">Горячие блюда из птицы</category>
+			<category id="1202">Горячие мясные блюда</category>
+			<category id="1200">Супы</category>
+			<category id="1198">Горячие закуски</category>
+			<category id="1190">Холодные закуски и салаты</category>
+			<category id="1208">Паста</category>
+			<category id="1210">Пицца</category>
+			<category id="1212">Шашлыки</category>
+			<category id="1214">Гарниры</category>
+			<category id="1216">Десерты</category>
+			<category id="1222">Минеральная вода</category>
+			<category id="1224">Безалкогольные напитки</category>
+			<category id="1226">Напитки домашнего приготовления</category>
+			<category id="1228">Свежевыжатый сок</category>
+		</categories>
+		<offers>
+			<offer id="7205" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1206</categoryId>
+				<picture>http://fasteda.ru/data/big/7205.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чудо лосось на бамбуковой подушке</name>
+				<vendor>Киликия</vendor>
+				<description>Стейк из лосося, приготовленный на гриле, подается на маринованном бамбуке с морскими водорослями и соусами: грибным и шпинатным.</description>
+			</offer>
+			<offer id="7209" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1206</categoryId>
+				<picture>http://fasteda.ru/data/big/7209.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Форель Радужная</name>
+				<vendor>Киликия</vendor>
+				<description>Целиковая речная форель запеченная с грибным соусом.</description>
+			</offer>
+			<offer id="7208" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1206</categoryId>
+				<picture>http://fasteda.ru/data/big/7208.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пангасиус запеченный</name>
+				<vendor>Киликия</vendor>
+				<description>Филе пангасиуса под золотистым сыром с долькой томата.Подается с пюре, грибным и шпинатным соусом.</description>
+			</offer>
+			<offer id="7211" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1206</categoryId>
+				<picture>http://fasteda.ru/data/big/7211.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сковорода Рыбацкая</name>
+				<vendor>Киликия</vendor>
+				<description>Пангасиус и лосось обжаренные на сковороде с луком, паприкой и шампиньонами  в сливочном соусе.</description>
+			</offer>
+			<offer id="7213" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1206</categoryId>
+				<picture>http://fasteda.ru/data/big/7213.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сибас на пару</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7206" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1206</categoryId>
+				<picture>http://fasteda.ru/data/big/7206.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки термидор с диким рисом</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7210" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1206</categoryId>
+				<picture>http://fasteda.ru/data/big/7210.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кармрахайт</name>
+				<vendor>Киликия</vendor>
+				<description>Настоящая армянская озерная форель, приготовленная по желанию в печи или на пару.</description>
+			</offer>
+			<offer id="7212" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1206</categoryId>
+				<picture>http://fasteda.ru/data/big/7212.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крабовые котлетки с пюре и соусом «тар-тар»</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7214" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1206</categoryId>
+				<picture>http://fasteda.ru/data/big/7214.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дорадо на гриле</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7198" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1204</categoryId>
+				<picture>http://fasteda.ru/data/big/7198.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриная грудка с грибным фаршем</name>
+				<vendor>Киликия</vendor>
+				<description>Ломтик куриного филе, обжаренный с фаршем из шампиньонов.Подается с грибным  и томатным соусом.</description>
+			</offer>
+			<offer id="7202" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1204</categoryId>
+				<picture>http://fasteda.ru/data/big/7202.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сковорода Киликия с курой</name>
+				<vendor>Киликия</vendor>
+				<description>Кусочки курицы, обжаренные с овощами в томатном соусе на сковороде.</description>
+			</offer>
+			<offer id="7203" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1204</categoryId>
+				<picture>http://fasteda.ru/data/big/7203.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Перепелка запеченая</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7204" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1204</categoryId>
+				<picture>http://fasteda.ru/data/big/7204.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тава из курицы</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционное армянское блюдо.Аппетитные кусочки курицы запеченные с овощами в домашней печи.</description>
+			</offer>
+			<offer id="7199" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1204</categoryId>
+				<picture>http://fasteda.ru/data/big/7199.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Утиная грудка  с миндалем и гранатовым соусом</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7200" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1204</categoryId>
+				<picture>http://fasteda.ru/data/big/7200.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ариса</name>
+				<vendor>Киликия</vendor>
+				<description>Домашняя армянская пшеничная каша с курой и сливочным маслом.</description>
+			</offer>
+			<offer id="7201" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1204</categoryId>
+				<picture>http://fasteda.ru/data/big/7201.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Котлета по-киевски с пюре</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7180" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7180.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Толма из виноградных листьев</name>
+				<vendor>Киликия</vendor>
+				<description>Конвертики из виноградных листьев с мясным фаршем и специями. Подается с соусом Мацун.</description>
+			</offer>
+			<offer id="7181" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7181.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хазани Платинум</name>
+				<vendor>Киликия</vendor>
+				<description>Нежные отбивные из баранины, обжаренные со специями. Подаются с грибным и томатным соусом.</description>
+			</offer>
+			<offer id="7184" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7184.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хашлама</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционное армянское блюдо. Аппетитные кусочки баранины или говядины на выбор на кости, тушеные с томатами, картофелем, болгарским перцем и луком.</description>
+			</offer>
+			<offer id="7185" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7185.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина с фисташками</name>
+				<vendor>Киликия</vendor>
+				<description>Запеченая вырезка из свинины, начиненная фисташками и мягким  творожным сыром. Подается с грибным и томатным соусом.</description>
+			</offer>
+			<offer id="7186" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7186.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок табака </name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7187" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7187.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Томленая буженина с соусом бешамель</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7188" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>1200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7188.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк «Рибай»</name>
+				<vendor>Киликия</vendor>
+				<description>Стейк из австралийской мраморной говядины с соусом демигляс и салатом коул-слоу.
+</description>
+			</offer>
+			<offer id="7189" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7189.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хинкали ( 1шт.)</name>
+				<vendor>Киликия</vendor>
+				<description>Домашние грузинские пельмени  с домашним фаршем и бульоном.</description>
+			</offer>
+			<offer id="7191" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7191.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Толма Летняя</name>
+				<vendor>Киликия</vendor>
+				<description>Тушеные томат, баклажан и паприка, начиненные домашним фаршем с рисом и специями.Подается с наваристым овощным жульеном.</description>
+			</offer>
+			<offer id="7192" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7192.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Медальоны из филе говядины</name>
+				<vendor>Киликия</vendor>
+				<description>Нежные медальоны из вырезки  говядины с соусом Демиглясс и салатом коулслоу.</description>
+			</offer>
+			<offer id="7193" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7193.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тава Киликия</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционное армянское блюдо.Аппетитные кусочки говядины запеченные с овощами в домашней печи.</description>
+			</offer>
+			<offer id="7194" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7194.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тава Золотое руно</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционное армянское блюдо.Аппетитные кусочки баранины на косточке запеченные с овощами в домашней печи.</description>
+			</offer>
+			<offer id="7195" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7195.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тава Золотой теленок</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционное армянское блюдо.Аппетитные кусочки нежной телятины  запеченные с овощами в домашней печи.</description>
+			</offer>
+			<offer id="7196" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7196.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тава карс</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционное армянское блюдо.Аппетитные кусочки куриной печени и сердечки, запеченные с овощами в домашней печи.</description>
+			</offer>
+			<offer id="7197" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7197.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кюфта Киликийская</name>
+				<vendor>Киликия</vendor>
+				<description>Нежная взбивная говядина с луком , яйцом и специями.Отваривается или обжаривается  по желанию.</description>
+			</offer>
+			<offer id="7182" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7182.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кролик ,тушеный в сметане с лисичками </name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7183" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7183.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бараньи котлеты на косточке</name>
+				<vendor>Киликия</vendor>
+				<description>Каре новозеландского ягненка, маринованное со специями, готовится на гриле и подается с домашними картофельными чипсами и виноградным соусом.</description>
+			</offer>
+			<offer id="7190" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1202</categoryId>
+				<picture>http://fasteda.ru/data/big/7190.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Драник с бефстрогановым</name>
+				<vendor>Киликия</vendor>
+				<description>Ломтики молодой говядины, обжаренные с луком и сливками, подаются завернутыми в хрустящий  драник.</description>
+			</offer>
+			<offer id="7169" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7169.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Харчо</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционный наваристый острый суп с томатами, рисом, бараниной и специями.</description>
+			</offer>
+			<offer id="7170" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7170.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Уха</name>
+				<vendor>Киликия</vendor>
+				<description>Классический легкий рыбный суп с пангасиусом, луком, картофелем, томатами.</description>
+			</offer>
+			<offer id="7172" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7172.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хаш</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционный армянский наваристый бульон из говяжьих ножек.Подается с рубленым чесноком, соленьями и сухим лавашем.</description>
+			</offer>
+			<offer id="7175" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7175.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Урарту</name>
+				<vendor>Киликия</vendor>
+				<description>Наваристый  островатый суп на говядине с добавлением  домашних пельменей, лапши, овощей и специй.</description>
+			</offer>
+			<offer id="7176" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7176.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лобхашу</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционный фасолевый суп.</description>
+			</offer>
+			<offer id="7177" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7177.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спас</name>
+				<vendor>Киликия</vendor>
+				<description>Суп из мацони с пшеницей и кинзой. По желанию подается холодным или теплым.</description>
+			</offer>
+			<offer id="7178" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7178.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пити</name>
+				<vendor>Киликия</vendor>
+				<description>Наваристый суп из баранины с картофелем, индийским горохом и традиционными специями.</description>
+			</offer>
+			<offer id="7179" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7179.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Царский суп</name>
+				<vendor>Киликия</vendor>
+				<description>Нежный сливочный суп с лососем, креветками, шампиньонами.Подается с хрустящей гренкой с икрой.</description>
+			</offer>
+			<offer id="7168" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7168.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крем-суп из шампиньонов</name>
+				<vendor>Киликия</vendor>
+				<description>Нежный суп из шампиньонов с добавлением сливок. Подается с моцареллой.</description>
+			</offer>
+			<offer id="7171" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7171.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Борщ московский</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7174" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7174.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Авелуковый суп</name>
+				<vendor>Киликия</vendor>
+				<description>Домашний армянский суп, сваренный из горной травы авелук с добавлением картофеля, лука, чеснока и ароматной зелени.</description>
+			</offer>
+			<offer id="7173" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1200</categoryId>
+				<picture>http://fasteda.ru/data/big/7173.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп куриный с кнелями</name>
+				<vendor>Киликия</vendor>
+				<description>Легкий куриный бульон с хрустящими сырными кнелями.</description>
+			</offer>
+			<offer id="7154" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7154.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яичница с помидорами</name>
+				<vendor>Киликия</vendor>
+				<description>Готовится по армянскому рецепту.</description>
+			</offer>
+			<offer id="7155" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7155.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Печень куриная в сметанном соусе с имбирем</name>
+				<vendor>Киликия</vendor>
+				<description>Нежные кусочки куриной печени , тушеные в сливочном соусе с имбирем и специями.Подается с ломтиком ананаса, припущенного на гриле.</description>
+			</offer>
+			<offer id="7161" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7161.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хачапури по-аджарски</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционный пышный хачапури в форме лодочки с начинкой из домашнего молочного сыра.</description>
+			</offer>
+			<offer id="7162" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7162.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ломаджо</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционные островатые хрустящие лепешки с фаршем из баранины либо говядины и традиционными специями.</description>
+			</offer>
+			<offer id="7163" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7163.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пюрек</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционный армянский пирог с говядиной и грецким орехом.</description>
+			</offer>
+			<offer id="7164" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7164.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кутабы с зеленью</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7165" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7165.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кутабы с бараниной</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7166" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7166.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кутабы с говядиной</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7167" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7167.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кутабы с сыром</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7156" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7156.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грибной жульен</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7157" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7157.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блинчики Петровские</name>
+				<vendor>Киликия</vendor>
+				<description>Домашние блинчики с куриным филе и грибами, запеченные до золотистой корочки под сыром.</description>
+			</offer>
+			<offer id="7159" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7159.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки к пиву</name>
+				<vendor>Киликия</vendor>
+				<description>Обжаренныес луком  до золотистой корочки креветки ,подаются с долькой лимона.</description>
+			</offer>
+			<offer id="7158" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7158.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченые Мидии под соусом Ред Айленд</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7160" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1198</categoryId>
+				<picture>http://fasteda.ru/data/big/7160.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сибэх</name>
+				<vendor>Киликия</vendor>
+				<description>Дикая горная трава, обжаренная с яйцом и луком.</description>
+			</offer>
+			<offer id="7082" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7082.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Деревенский салат</name>
+				<vendor>Киликия</vendor>
+				<description>Нежный отварной картофель, маринованные грибы, соленые огурцы, лук, заправленные ароматным оливковым маслом.</description>
+			</offer>
+			<offer id="7084" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7084.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Моцарелла</name>
+				<vendor>Киликия</vendor>
+				<description>Классическая итальянская закуска из сочных томатов и мягкого сыра моцарелла, заправленная итальянской заправкой с кедровыми орешками.</description>
+			</offer>
+			<offer id="7085" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7085.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Греческий</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7098" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7098.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат из буженины</name>
+				<vendor>Киликия</vendor>
+				<description>Листья салата, заправленные сырным соусом с кусочками буженины.</description>
+			</offer>
+			<offer id="7087" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7087.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Туна</name>
+				<vendor>Киликия</vendor>
+				<description>Легкий салат из нежного тунца и микса листьев салата и свежих овощей, подается с перепелиными яйцами, каперсами и долькой лимона.</description>
+			</offer>
+			<offer id="7088" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7088.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с креветками </name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7089" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7089.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с курой</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7090" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7090.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тигровые креветки </name>
+				<vendor>Киликия</vendor>
+				<description>Микс листьев салата с обжаренными королевскими креветками  и ломтиками пармезана, заправленный ароматной итальянской заправкой на основе оливкового масла, бальзамико и соуса песто.</description>
+			</offer>
+			<offer id="7091" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7091.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки на овощной подушке</name>
+				<vendor>Киликия</vendor>
+				<description>Сочные креветки на подушке из мелко рубленых томатов,огурцов, паприки, листьев салата, заправленных домашним майонезом.</description>
+			</offer>
+			<offer id="7092" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7092.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Теплая моцарелла с томатами</name>
+				<vendor>Киликия</vendor>
+				<description>Классическая теплая закуска из сыра моцарелла, запеченного на кольцах свежего томата с кедровыми орешками, соусом песто и бальзамическим кремом.</description>
+			</offer>
+			<offer id="7093" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7093.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Столичный</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционный домашний салат с куриным филе и домашним майонезом.</description>
+			</offer>
+			<offer id="7094" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7094.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шеф- Салат из ростбифа</name>
+				<vendor>Киликия</vendor>
+				<description>Теплый салат из свежих томатов и огурцов, листьев салата и ожаренных нежных ломтиков говядины, приправленный чесночным соусом. Подается с кольцами сладкого лука, обжаренного в масле.</description>
+			</offer>
+			<offer id="7095" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7095.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Табуле</name>
+				<vendor>Киликия</vendor>
+				<description>Традиционный армянский салат из мелко рубленых томатов, огурцов, булгура, приправленных оливковым маслом и ароматными травами. Подается в салатных листьях .</description>
+			</offer>
+			<offer id="7097" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7097.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Парма ди Пармезано</name>
+				<vendor>Киликия</vendor>
+				<description>Микс листьев салата с ломтиками пармы, пармезаном.Заправляется оливковым маслом и бальзамическим кремом.</description>
+			</offer>
+			<offer id="7101" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Киликия</name>
+				<vendor>Киликия</vendor>
+				<description>Сытный салат из молодой отварной говядины, молочного сыра, лука и обжаренных грибов, заправленный домашним майонезом и перетертым грецким орехом.</description>
+			</offer>
+			<offer id="7107" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7107.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясное ассорти</name>
+				<vendor>Киликия</vendor>
+				<description>Буженина, бастурма, куриный рулет.</description>
+			</offer>
+			<offer id="7108" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7108.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыбное ассорти</name>
+				<vendor>Киликия</vendor>
+				<description>Палтус холодного копчения, лосось слабой соли и золотистая гренка с красной икрой.</description>
+			</offer>
+			<offer id="7109" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7109.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лоби</name>
+				<vendor>Киликия</vendor>
+				<description>Отварная красная фасоль с армянскими специями, луком, чесноком и зеленью.</description>
+			</offer>
+			<offer id="7110" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7110.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Селедка под водку с картофельным дранником</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7140" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7140.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соленья</name>
+				<vendor>Киликия</vendor>
+				<description>Соленые томаты, огурцы, капуста и морковь.</description>
+			</offer>
+			<offer id="7148" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7148.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сырная тарелка</name>
+				<vendor>Киликия</vendor>
+				<description>Благородный Дор-Блю, мягкий сливочный камамбер и домашний армянский сыры с золотистыми крекерами и веточкой винограда.</description>
+			</offer>
+			<offer id="7150" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7150.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Можож</name>
+				<vendor>Киликия</vendor>
+				<description>Маринованные свиные ножки со свежим лимоном.</description>
+			</offer>
+			<offer id="7151" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7151.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Толстый помидор</name>
+				<vendor>Киликия</vendor>
+				<description>Сочные томаты с биточками из свежего домашнего творога с чесноком и зеленью.</description>
+			</offer>
+			<offer id="7152" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7152.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Язык томленый с травами и соусом хрен</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7153" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7153.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хумус</name>
+				<vendor>Киликия</vendor>
+				<description>Ароматное пюре из индийского гороха, заправленного чесноком, кунжутным маслом, тахином и зеленью.</description>
+			</offer>
+			<offer id="7104" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7104.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аджаб- Сандал</name>
+				<vendor>Киликия</vendor>
+				<description>Баклажан, томат и болгарский перец, тушеные с ароматными армянскими специями и зеленью.</description>
+			</offer>
+			<offer id="7105" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7105.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грунтовые овощи с зеленью</name>
+				<vendor>Киликия</vendor>
+				<description>Сочные грунтовые томаты, хрустящие молодые огурцы и острый стручковый перец с душистой зеленью.</description>
+			</offer>
+			<offer id="7106" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7106.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Армянская сырная тарелка</name>
+				<vendor>Киликия</vendor>
+				<description>Овечий, нежный домашний и рассыпчатый  сыр , подается с душистой зеленью.</description>
+			</offer>
+			<offer id="7142" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7142.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грибы соленые</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7143" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7143.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Армянский сыр</name>
+				<vendor>Киликия</vendor>
+				<description>Домашний сыр из коровьего молока.</description>
+			</offer>
+			<offer id="7144" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7144.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бастурма</name>
+				<vendor>Киликия</vendor>
+				<description>Вяленая говядина в ароматном перце.</description>
+			</offer>
+			<offer id="7146" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7146.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Армянский маринад</name>
+				<vendor>Киликия</vendor>
+				<description>Бамия, шушан, бохи.</description>
+			</offer>
+			<offer id="7147" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7147.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карпаччо из говядины</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7149" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7149.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Каурма</name>
+				<vendor>Киликия</vendor>
+				<description>Томленая говядина в сливочном масле и с кольцами ароматного лука.</description>
+			</offer>
+			<offer id="7083" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7083.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриный салат на французский манер</name>
+				<vendor>Киликия</vendor>
+				<description>Микс листьев салата, помидор, паприка, томат, ананас, сельдерей с ломтиками золотистой курочки в кунжуте.</description>
+			</offer>
+			<offer id="7086" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7086.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат из говядины под сырным соусом</name>
+				<vendor>Киликия</vendor>
+				<description>Свежие овощи с отварной говядиной и  сыром, заправленные соусом «коктейль».</description>
+			</offer>
+			<offer id="7096" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7096.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рулетики из баклажанов с орехами</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7102" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7102.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Авелуковый Салат</name>
+				<vendor>Киликия</vendor>
+				<description>Дикорастущая  горная трава, приправленная грецким орехом, чесноком и оливковым маслом. Подается с соусом «Мацон».</description>
+			</offer>
+			<offer id="7103" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7103.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат из копченой форели под соусом коктейль</name>
+				<vendor>Киликия</vendor>
+				<description>Нежная перетертая копченая форель с рисом, паприкой, огурцом, томатом  под розовым соусом.</description>
+			</offer>
+			<offer id="7141" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7141.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Камац Мацун</name>
+				<vendor>Киликия</vendor>
+				<description>Нежные биточки из сливочного мацони с молотым грецким орехом, чесноком и зеленью.</description>
+			</offer>
+			<offer id="7145" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1190</categoryId>
+				<picture>http://fasteda.ru/data/big/7145.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощное ассорти</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7215" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1208</categoryId>
+				<picture>http://fasteda.ru/data/big/7215.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Таглиателли с молодой говядиной</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7216" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1208</categoryId>
+				<picture>http://fasteda.ru/data/big/7216.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дары Моря</name>
+				<vendor>Киликия</vendor>
+				<description>Лосось, креветки, кальмары.</description>
+			</offer>
+			<offer id="7217" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1208</categoryId>
+				<picture>http://fasteda.ru/data/big/7217.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Регатони с овощным жульеном</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7218" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1208</categoryId>
+				<picture>http://fasteda.ru/data/big/7218.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Таглиателли Алла Карбонат</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7219" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1208</categoryId>
+				<picture>http://fasteda.ru/data/big/7219.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аришта</name>
+				<vendor>Киликия</vendor>
+				<description>Домашняя армянская лапша, обжаренная с луком и сливочным маслом.</description>
+			</offer>
+			<offer id="7220" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1210</categoryId>
+				<picture>http://fasteda.ru/data/big/7220.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Киликия</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7221" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1210</categoryId>
+				<picture>http://fasteda.ru/data/big/7221.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощная</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7222" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1210</categoryId>
+				<picture>http://fasteda.ru/data/big/7222.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Маргарита</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7223" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1210</categoryId>
+				<picture>http://fasteda.ru/data/big/7223.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пицца из морепродуктов</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7224" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1210</categoryId>
+				<picture>http://fasteda.ru/data/big/7224.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сырная</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7225" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1210</categoryId>
+				<picture>http://fasteda.ru/data/big/7225.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепперони</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7226" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1210</categoryId>
+				<picture>http://fasteda.ru/data/big/7226.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Армения</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7227" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7227.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из баранины на косточке</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7228" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7228.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из филе баранины</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7229" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7229.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из баранины с курдюком</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7230" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7230.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из телятины</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7231" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7231.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Телятина на косточке</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7232" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7232.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7233" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7233.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свиных ребрышек</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7234" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7234.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины (вырезка) </name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7235" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7235.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины (чалагач)</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7236" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7236.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинины карбонат</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7237" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7237.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из кролика</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7241" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7241.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из перепелки</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7242" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7242.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из тигровых креветок</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7243" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7243.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из курицы</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7244" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7244.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык овощной </name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7238" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7238.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кебаб из баранины</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7239" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7239.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кебаб из говядины</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7240" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1212</categoryId>
+				<picture>http://fasteda.ru/data/big/7240.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кебаб из курицы назани</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7250" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1214</categoryId>
+				<picture>http://fasteda.ru/data/big/7250.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ризотто из кальмаров</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7251" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1214</categoryId>
+				<picture>http://fasteda.ru/data/big/7251.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Плов с грибами</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7252" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1214</categoryId>
+				<picture>http://fasteda.ru/data/big/7252.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис Дикий </name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7246" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1214</categoryId>
+				<picture>http://fasteda.ru/data/big/7246.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель по-домашнему</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7247" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1214</categoryId>
+				<picture>http://fasteda.ru/data/big/7247.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7248" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1214</categoryId>
+				<picture>http://fasteda.ru/data/big/7248.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель айдахо</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7249" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1214</categoryId>
+				<picture>http://fasteda.ru/data/big/7249.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Греча с грибной подливкой</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7245" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1214</categoryId>
+				<picture>http://fasteda.ru/data/big/7245.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жареный картофель с грибами</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8629" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/8629.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чиз-кейк Нью-Йорк</name>
+				<vendor>Киликия</vendor>
+				<description>Классический чизкейк New York из сливочного сыра.120гр.
+</description>
+			</offer>
+			<offer id="8630" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/8630.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вишнёвый штрудель</name>
+				<vendor>Киликия</vendor>
+				<description>Классический баварский вишневый штрудельПодается с шариком мороженого. (120/25гр.)
+.</description>
+			</offer>
+			<offer id="8631" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/8631.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карамельно-ореховое пирожное</name>
+				<vendor>Киликия</vendor>
+				<description>Сладко-соленые арахисовые орешки, светлый и молочный шоколад,сливочная карамель между двумя слоями брауни. Макушка украшена орешками, с медовой корочкой.(90гр.)
+.</description>
+			</offer>
+			<offer id="8632" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/8632.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лимонный кремовый торт</name>
+				<vendor>Киликия</vendor>
+				<description>Основание из песочного теста, с лимонно-сливочным кремом и слоем лимонного бисквита сверху.(93гр.)
+.</description>
+			</offer>
+			<offer id="8633" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/8633.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тирамису Далия</name>
+				<vendor>Киликия</vendor>
+				<description>Пропитанный кофе с ликером бисквит и нежный крем из свежего сыра маскарпоне. Попробуйте любимый итальянский десерт, сделанный в форме цветка юга Италии – георгина Далии.(90гр.)
+.</description>
+			</offer>
+			<offer id="8634" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/8634.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Брусничный кремовый торт с белым шоколадом</name>
+				<vendor>Киликия</vendor>
+				<description>песочное тесто с джемом из свежей брусники, сверху покрыт нежным сливочным кремом, и присыпан тертым белым шоколадом и свежей брусникой.(117гр.) 
+.</description>
+			</offer>
+			<offer id="8635" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/8635.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Двойной шоколадный торт</name>
+				<vendor>Киликия</vendor>
+				<description>Нежный бисквит с шоколадной начинкой. Сверху покрыт толстым слоем шоколада. (117гр.)
+.</description>
+			</offer>
+			<offer id="8636" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/8636.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Торт Яблочный гурман</name>
+				<vendor>Киликия</vendor>
+				<description>Свежие яблоки на хрустящем песочно-дрожжевом тесте, покрытые миндалем, корицей и желе.161/25 гр.
+</description>
+			</offer>
+			<offer id="8637" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/8637.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Торт Морковный</name>
+				<vendor>Киликия</vendor>
+				<description>Коржи с добавлением моркови, ананаса, грецкого ореха, изюма пропитаны сливочным крем и украшены кремом из сливочного сыра.(146гр.)
+.</description>
+			</offer>
+			<offer id="7266" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/7266.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мороженое в ассортименте</name>
+				<vendor>Киликия</vendor>
+				<description>Подается 2 шарика мороженого (120гр) и на выбор добавляется:           варенье/ фрукты /сгущённое молоко /грецкий орех или миндаль / шоколадную крошку - 30-40гр.
+</description>
+			</offer>
+			<offer id="7259" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/7259.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Клубника на сливках</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7258" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/7258.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пахлава</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7263" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/7263.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Азиатское мороженое</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7255" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/7255.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Варенье домашнее</name>
+				<vendor>Киликия</vendor>
+				<description>Грецкий орех, инжир, кизил, белая черешня, вишня, абрикос.</description>
+			</offer>
+			<offer id="7261" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1216</categoryId>
+				<picture>http://fasteda.ru/data/big/7261.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Камац мацун</name>
+				<vendor>Киликия</vendor>
+				<description>Биточки из домашнего творога с изюмом на крекере.</description>
+			</offer>
+			<offer id="7280" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1222</categoryId>
+				<picture>http://fasteda.ru/data/big/7280.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>BonAqua 0,25л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7284" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1222</categoryId>
+				<picture>http://fasteda.ru/data/big/7284.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Джермук 0,5 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7281" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1222</categoryId>
+				<picture>http://fasteda.ru/data/big/7281.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ной 0,5 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7282" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1222</categoryId>
+				<picture>http://fasteda.ru/data/big/7282.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бжни 0,5 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7283" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1222</categoryId>
+				<picture>http://fasteda.ru/data/big/7283.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дилижан 0,5 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7285" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1222</categoryId>
+				<picture>http://fasteda.ru/data/big/7285.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Эвиан 0,5 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7286" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1224</categoryId>
+				<picture>http://fasteda.ru/data/big/7286.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок в ассортименте  0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7287" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1224</categoryId>
+				<picture>http://fasteda.ru/data/big/7287.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Армянский сок 0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7288" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1224</categoryId>
+				<picture>http://fasteda.ru/data/big/7288.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Cola 0,33 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7289" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1224</categoryId>
+				<picture>http://fasteda.ru/data/big/7289.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite 0,33 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7290" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1224</categoryId>
+				<picture>http://fasteda.ru/data/big/7290.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Fanta 0,33 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7292" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1224</categoryId>
+				<picture>http://fasteda.ru/data/big/7292.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Молочный коктейль 0,3 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7293" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1224</categoryId>
+				<picture>http://fasteda.ru/data/big/7293.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Армянский сок 0,25 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7291" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1224</categoryId>
+				<picture>http://fasteda.ru/data/big/7291.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лимонад Киликия 0,5 л</name>
+				<vendor>Киликия</vendor>
+				<description>Тархун,дюшес, вишня, барбарис,лимон.</description>
+			</offer>
+			<offer id="7294" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1226</categoryId>
+				<picture>http://fasteda.ru/data/big/7294.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тан 0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7295" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1226</categoryId>
+				<picture>http://fasteda.ru/data/big/7295.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морс клюквенный 0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7296" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1226</categoryId>
+				<picture>http://fasteda.ru/data/big/7296.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Квас 0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7297" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1226</categoryId>
+				<picture>http://fasteda.ru/data/big/7297.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Домашний лимонад 0,3 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7298" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1228</categoryId>
+				<picture>http://fasteda.ru/data/big/7298.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морковь 0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7299" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1228</categoryId>
+				<picture>http://fasteda.ru/data/big/7299.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яблоко 0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7300" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1228</categoryId>
+				<picture>http://fasteda.ru/data/big/7300.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Апельсин 0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7301" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1228</categoryId>
+				<picture>http://fasteda.ru/data/big/7301.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грейпфрут 0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7302" available="true">
+				<url>http://fasteda.ru/menu/kilikia/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1228</categoryId>
+				<picture>http://fasteda.ru/data/big/7302.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сельдерей 0,2 л</name>
+				<vendor>Киликия</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

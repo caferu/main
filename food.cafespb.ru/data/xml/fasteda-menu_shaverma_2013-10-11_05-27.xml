@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 05:27">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="929">Шаверма</category>
+			<category id="943">Основные блюда</category>
+			<category id="941">Супы</category>
+			<category id="937">Горячие закуски</category>
+			<category id="932">Холодные закуски</category>
+			<category id="939">Закуски ко всему</category>
+			<category id="934">Салаты</category>
+			<category id="949">Гарниры</category>
+			<category id="947">Паста/Пицца</category>
+			<category id="945">Блюда-wok</category>
+			<category id="951">Соуса и топпинги</category>
+			<category id="953">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="5681" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5681.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мексиканская шаверма</name>
+				<vendor>Light Cafe</vendor>
+				<description>Для темпераментных личностей – говядина с мексиканскими
+специями и острым чили перцем, листьями салата, фасолью,
+томатами, луком и сыром в обжаренном лаваше с Light соусом..</description>
+			</offer>
+			<offer id="5682" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5682.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Греческая шаверма</name>
+				<vendor>Light Cafe</vendor>
+				<description>Фета, маслины, паприка, огурцы, томаты, красный лук и листья салата с оливковым маслом и Light соусом для
+любителей Греции и Cертаки….</description>
+			</offer>
+			<offer id="5683" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5683.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шаверма с куриным филе или Классика Light Cafe</name>
+				<vendor>Light Cafe</vendor>
+				<description>Без лишних слов!!! Надо брать! Кусочки куриного филе, томаты, огурцы, лук под Light соусом в нежном слегка обжаренном хрустящем лаваше.</description>
+			</offer>
+			<offer id="5687" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5687.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вегетарианская шаверма или Шаверма для девочек</name>
+				<vendor>Light Cafe</vendor>
+				<description>Томаты, огурцы, редис, паприка и лук под Light соусом.</description>
+			</offer>
+			<offer id="5688" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5688.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Детская шаверма</name>
+				<vendor>Light Cafe</vendor>
+				<description>Для самых маленьких мы тоже приготовили вкуснятину – куриное филе с огурцами, томатами и лайт соусом!.</description>
+			</offer>
+			<offer id="5689" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5689.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сливочно-Фруктовая шаверма</name>
+				<vendor>Light Cafe</vendor>
+				<description>Венец творческого полета шеф-повара!
+Это настоящее открытие сезона! Ее должен оценить каждый!.</description>
+			</offer>
+			<offer id="5680" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5680.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мега Шаверма</name>
+				<vendor>Light Cafe</vendor>
+				<description>Кто-то ее любит, кто-то ненавидит...но ее едят ВСЕ!.</description>
+			</offer>
+			<offer id="5685" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5685.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шаверма с говядиной или шаверма для мальчиков!</name>
+				<vendor>Light Cafe</vendor>
+				<description>Говядина, томаты, огурцы, лук под Light соусом в нежном слегка обжаренном хрустящем лаваше.</description>
+			</offer>
+			<offer id="5684" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5684.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шаверма с лососем</name>
+				<vendor>Light Cafe</vendor>
+				<description>Лосось, авакадо, огурцы, зеленый лук, листья салата под соусом тар-тар в нежном обжаренном лаваше.</description>
+			</offer>
+			<offer id="5686" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>929</categoryId>
+				<picture>http://fasteda.ru/data/big/5686.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шаверма с тигровыми креветками</name>
+				<vendor>Light Cafe</vendor>
+				<description>Тигровые креветки, ананасы, томаты, огурцы, Light соус в нежном слегка обжаренном лаваше.</description>
+			</offer>
+			<offer id="5740" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5740.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ребрышки свиные (1 порция)</name>
+				<vendor>Light Cafe</vendor>
+				<description>Сочное мясо на косточках, запеченое под шашлычным соусом с картофелем айдахо, что может быть лучше!?.</description>
+			</offer>
+			<offer id="5742" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5742.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Место под солнцем – легенда Лайт Кафе</name>
+				<vendor>Light Cafe</vendor>
+				<description>Медальоны из свинины в беконе с грибным соусом и пюре.</description>
+			</offer>
+			<offer id="5745" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5745.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк из мраморной говядины</name>
+				<vendor>Light Cafe</vendor>
+				<description>Мраморная говядина с запеченными томатами, специями, луком, маринованными патиссонами и кукурузой.</description>
+			</offer>
+			<offer id="5748" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5748.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бефстроганов</name>
+				<vendor>Light Cafe</vendor>
+				<description>Говядина с шампиньонами и репчатым луком с пюре.</description>
+			</offer>
+			<offer id="5751" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5751.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк из лосося (на гриле/на пару)</name>
+				<vendor>Light Cafe</vendor>
+				<description>Лосось со специями, лимоном и зеленью.</description>
+			</offer>
+			<offer id="5752" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5752.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Серебряная ладья</name>
+				<vendor>Light Cafe</vendor>
+				<description>Стейк из лосося с цветной капустой, томатами, паприкой, картофелем и специями.</description>
+			</offer>
+			<offer id="5753" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5753.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сибас</name>
+				<vendor>Light Cafe</vendor>
+				<description>Сибас, фенхель, лук порей, лимон и зелень.</description>
+			</offer>
+			<offer id="5754" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5754.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Дорада</name>
+				<vendor>Light Cafe</vendor>
+				<description>Дорада, фенхель, яблоки, лимон.</description>
+			</offer>
+			<offer id="5755" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5755.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак с картофельным пюре и грибным муссом</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5743" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5743.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк из свинины</name>
+				<vendor>Light Cafe</vendor>
+				<description>Свиной карбонад с маринованными кукурузой, патиссонами, помидорками черри и репчатым луком.</description>
+			</offer>
+			<offer id="5747" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5747.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Т-Bone стейк</name>
+				<vendor>Light Cafe</vendor>
+				<description>с ароматным можжевеловым маслом, с брускетами из ржаного хлеба с рукколой и томатами черри.</description>
+			</offer>
+			<offer id="5749" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5749.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриное филе в собственном соку</name>
+				<vendor>Light Cafe</vendor>
+				<description>под глазурью с паровыми овощами и дижонским соусом.</description>
+			</offer>
+			<offer id="5750" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>943</categoryId>
+				<picture>http://fasteda.ru/data/big/5750.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цыпленок табака</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5733" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>941</categoryId>
+				<picture>http://fasteda.ru/data/big/5733.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Том Кха (Тайский суп)</name>
+				<vendor>Light Cafe</vendor>
+				<description>Куриный бульон, кокосовое молоко, тигровые креветки, кальмар, лимонный сорго, имбирь, чили, шитаке, томаты,
+лайм, паста том ям, подается с кинзой..</description>
+			</offer>
+			<offer id="5734" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>941</categoryId>
+				<picture>http://fasteda.ru/data/big/5734.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Том Ям с креветками (Тайский суп)</name>
+				<vendor>Light Cafe</vendor>
+				<description>Куриный бульон, кокосовое молоко, имбирь, чеснок, лимонный сорго, чили перец, куриное филе, тигровые
+креветки, шампиньоны, подается с кинзой..</description>
+			</offer>
+			<offer id="5735" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>941</categoryId>
+				<picture>http://fasteda.ru/data/big/5735.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сливочный крем-суп с лососем и креветками</name>
+				<vendor>Light Cafe</vendor>
+				<description>Картофель, сливки, креветки, лосось и специи.</description>
+			</offer>
+			<offer id="5736" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>941</categoryId>
+				<picture>http://fasteda.ru/data/big/5736.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Солянка мясная</name>
+				<vendor>Light Cafe</vendor>
+				<description>Куриный бульон, огурцы, томаты, язык говяжий, буженина, карбонат, каперсы, маслины, сметана и зелень.</description>
+			</offer>
+			<offer id="5737" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>941</categoryId>
+				<picture>http://fasteda.ru/data/big/5737.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Уха царская</name>
+				<vendor>Light Cafe</vendor>
+				<description>Судак, лосось, картофель, лук-порей, куриное яйцо, зелень.</description>
+			</offer>
+			<offer id="5738" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>941</categoryId>
+				<picture>http://fasteda.ru/data/big/5738.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриный бульон</name>
+				<vendor>Light Cafe</vendor>
+				<description>Бульон, куриная грудка, домашняя лапша, сервируется пшеничными гренками.</description>
+			</offer>
+			<offer id="5739" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>941</categoryId>
+				<picture>http://fasteda.ru/data/big/5739.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп с кнелями</name>
+				<vendor>Light Cafe</vendor>
+				<description>Изысканный сливочный крем-суп с грибами и кнелями из куриного филе со свежим розмарином для лакомок по
+грибам и почитателей супчиков-пюре..</description>
+			</offer>
+			<offer id="5720" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>937</categoryId>
+				<picture>http://fasteda.ru/data/big/5720.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тигровые креветки в кисло-сладком соусе с овощами</name>
+				<vendor>Light Cafe</vendor>
+				<description>Как известно, морепродукты полезны. Овощи тоже. Польза в квадрате. Кисло-сладкий соус придает математике вкус Солнца! Для романтичных интеллектуалов… Продолжить можно Тайским супом и Мохито Нужного размера.</description>
+			</offer>
+			<offer id="5721" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>937</categoryId>
+				<picture>http://fasteda.ru/data/big/5721.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареный сулугуни</name>
+				<vendor>Light Cafe</vendor>
+				<description>c гранатом и зеленью.</description>
+			</offer>
+			<offer id="5722" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>937</categoryId>
+				<picture>http://fasteda.ru/data/big/5722.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Долма</name>
+				<vendor>Light Cafe</vendor>
+				<description>Виноградный лист любит Солнце. Мы тоже!.</description>
+			</offer>
+			<offer id="5723" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>937</categoryId>
+				<picture>http://fasteda.ru/data/big/5723.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жульен куриный (1 порция)</name>
+				<vendor>Light Cafe</vendor>
+				<description>Филе курицы, лук, белое вино, сливки
+и специи, запекается под сыром с зеленью.</description>
+			</offer>
+			<offer id="5725" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>937</categoryId>
+				<picture>http://fasteda.ru/data/big/5725.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жульен грибной (1 порция)</name>
+				<vendor>Light Cafe</vendor>
+				<description>Шампиньоны, лук, белое вино, сливки
+и специи, запекается под сыром с зеленью..</description>
+			</offer>
+			<offer id="5727" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>937</categoryId>
+				<picture>http://fasteda.ru/data/big/5727.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Драники (с беконом или грибами)</name>
+				<vendor>Light Cafe</vendor>
+				<description>Картофель, яйцо, специи, подается со сметаной и зеленью.</description>
+			</offer>
+			<offer id="5690" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5690.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филе селедочки</name>
+				<vendor>Light Cafe</vendor>
+				<description>с салатом из яблок, маринованных огурцов и репчатого лука под белым соусом с хрустящими хлебными палочками.</description>
+			</offer>
+			<offer id="5692" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5692.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сливочный мусс с копченым лососем</name>
+				<vendor>Light Cafe</vendor>
+				<description>с зеленью и креветками.</description>
+			</offer>
+			<offer id="5693" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5693.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось холодного копчения с картофелем шато</name>
+				<vendor>Light Cafe</vendor>
+				<description>Идеальная закуска под любые напитки.</description>
+			</offer>
+			<offer id="5694" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5694.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мясное ассорти из буженины, говяжьего языка и карбоната (1 порция)</name>
+				<vendor>Light Cafe</vendor>
+				<description>С шашлычным соусом и домашними солениями.</description>
+			</offer>
+			<offer id="5696" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5696.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соления в лучших русских традициях (1 порция)</name>
+				<vendor>Light Cafe</vendor>
+				<description>квашеная капустка, черемша, соленые огурчики, маринованные чеснок и острый перец.</description>
+			</offer>
+			<offer id="5698" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5698.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Изысканное рыбное ассорти (1 порция)</name>
+				<vendor>Light Cafe</vendor>
+				<description>из лосося холодного копчения, лосося шеф-посола и лосося гравлакс с соусом тар-тар.</description>
+			</offer>
+			<offer id="5700" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5700.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ассорти из свежих овощей</name>
+				<vendor>Light Cafe</vendor>
+				<description>Томаты, огурцы, паприка, редис, листья салата с Лайт соусом.</description>
+			</offer>
+			<offer id="5701" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5701.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ассорти из маринованных грибочков</name>
+				<vendor>Light Cafe</vendor>
+				<description>Грузди, опята, вешенки с репчатым луком и чесноком.</description>
+			</offer>
+			<offer id="5702" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5702.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свежие овощи с сырным соусом</name>
+				<vendor>Light Cafe</vendor>
+				<description>Свежие огурцы, морковь, стебель сельдерея, паприка и кудрявая петрушечка со сливочно-сырным соусом!.</description>
+			</offer>
+			<offer id="5704" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>932</categoryId>
+				<picture>http://fasteda.ru/data/big/5704.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Маслины и оливки на любой вкус!</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5728" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>939</categoryId>
+				<picture>http://fasteda.ru/data/big/5728.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Классическая закуска «ко всему»</name>
+				<vendor>Light Cafe</vendor>
+				<description>Обжаренный арахис, начос, копченый сыр, сухарики, соус.</description>
+			</offer>
+			<offer id="5729" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>939</categoryId>
+				<picture>http://fasteda.ru/data/big/5729.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Горячий набор закусок «ко всему»</name>
+				<vendor>Light Cafe</vendor>
+				<description>Картофель айдахо, куриные наггетсы, луковые кольца, кальмаровые палочки с брусочками свежей моркови с соусом тар-тар и кетчупом.</description>
+			</offer>
+			<offer id="5730" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>939</categoryId>
+				<picture>http://fasteda.ru/data/big/5730.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гёдзики (1 порция)</name>
+				<vendor>Light Cafe</vendor>
+				<description>Пельмешки, обжаренные в остром соевом соусе.</description>
+			</offer>
+			<offer id="5732" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>939</categoryId>
+				<picture>http://fasteda.ru/data/big/5732.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Айдахо</name>
+				<vendor>Light Cafe</vendor>
+				<description>Картофель со специями, чесночком и укропом.</description>
+			</offer>
+			<offer id="8152" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/8152.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Летнее настроение</name>
+				<vendor>Light Cafe</vendor>
+				<description>Любишь экспериментировать!? Тогда наслаждайся легким
+салатом с апельсином, сельдереем, тигровыми креветками,
+клубникой, мятой и листьями салата под розовым соусом..</description>
+			</offer>
+			<offer id="8153" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/8153.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гавайский салат</name>
+				<vendor>Light Cafe</vendor>
+				<description>с ананасами, маринованными огурчиками, картофелем
+под розовым соусом с томатами черри и зеленью..</description>
+			</offer>
+			<offer id="5705" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5705.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Летнее настроение</name>
+				<vendor>Light Cafe</vendor>
+				<description>Любишь экспериментировать!? Тогда наслаждайся легким салатом с апельсином, сельдереем, тигровыми креветками, клубникой, мятой и листьями салата под розовым соусом.</description>
+			</offer>
+			<offer id="5707" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5707.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тайский салат</name>
+				<vendor>Light Cafe</vendor>
+				<description>Тигровые креветки, свежие огурцы, паприка, стручковая фасоль, горошек, листья салата под заправкой с добавлением зелени и соком лайма.</description>
+			</offer>
+			<offer id="5708" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5708.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с лососем и креветками</name>
+				<vendor>Light Cafe</vendor>
+				<description>Лосось шеф-посола, креветки, корень сельдерея, листья салата, сыр, яйцо куриное, заправляется майонезом.</description>
+			</offer>
+			<offer id="5710" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5710.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рафаэлло</name>
+				<vendor>Light Cafe</vendor>
+				<description>Нежнейший салат из говяжьего языка, куриного филе, сыра, яблок, маринованных огурцов и куриного яйца под майонезом. Украшается ананасами и кокосовой стружкой!.</description>
+			</offer>
+			<offer id="5711" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5711.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат «Лесной»</name>
+				<vendor>Light Cafe</vendor>
+				<description>с шампиньонами, куриным филе, луком и сыром.</description>
+			</offer>
+			<offer id="5712" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5712.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гнездо Глухаря – классика Light Cafe</name>
+				<vendor>Light Cafe</vendor>
+				<description>Куриное филе, отварной картофель, пассированные овощи,сельдерей, морковь, лук, заправляется майонезом.</description>
+			</offer>
+			<offer id="5713" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5713.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Традиционный Цезарь</name>
+				<vendor>Light Cafe</vendor>
+				<description>Куриное филе, обжаренное в соевом соусе, салат Ромейн, крутоны, томаты черри, перепелиные яйца, пармезан.</description>
+			</offer>
+			<offer id="5714" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5714.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь с креветками</name>
+				<vendor>Light Cafe</vendor>
+				<description>Креветки, обжаренные в коньяке, салат Ромейн, крутоны, томаты черри, перепелиные яйца, пармезан.</description>
+			</offer>
+			<offer id="5716" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5716.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Легендарный Греческий салат</name>
+				<vendor>Light Cafe</vendor>
+				<description>Листья салата, томаты, огурцы, паприка, гигантские маслины,
+маринованный красный лук, фета с оливковым маслом..</description>
+			</offer>
+			<offer id="5718" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5718.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Легкий салат с обжаренными тигровыми креветками</name>
+				<vendor>Light Cafe</vendor>
+				<description>со спаржей и томатами черри под ореховым соусом – для скучающих по лету, и особо жаждущих отпуска.</description>
+			</offer>
+			<offer id="5719" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5719.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пикантный микс-салат с запеченной мраморной говядиной и свежими овощами</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5717" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>934</categoryId>
+				<picture>http://fasteda.ru/data/big/5717.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Легкий микс-салат с сочным куриным филе и свежими овощами</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5772" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>949</categoryId>
+				<picture>http://fasteda.ru/data/big/5772.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель Айдахо</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5775" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>949</categoryId>
+				<picture>http://fasteda.ru/data/big/5775.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5776" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>949</categoryId>
+				<picture>http://fasteda.ru/data/big/5776.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи гриль</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5779" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>949</categoryId>
+				<picture>http://fasteda.ru/data/big/5779.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Капуста брокколи</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5780" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>949</categoryId>
+				<picture>http://fasteda.ru/data/big/5780.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цветная капуста</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5782" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>949</categoryId>
+				<picture>http://fasteda.ru/data/big/5782.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хлебная корзина</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5789" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>949</categoryId>
+				<picture>http://fasteda.ru/data/big/5789.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тар-тар</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5774" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>949</categoryId>
+				<picture>http://fasteda.ru/data/big/5774.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5777" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>949</categoryId>
+				<picture>http://fasteda.ru/data/big/5777.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи на пару</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5763" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>947</categoryId>
+				<picture>http://fasteda.ru/data/big/5763.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спагетти Мария</name>
+				<vendor>Light Cafe</vendor>
+				<description>Спагетти, ветчина, бекон, шампиньоны, лук репчатый, сливочно-томатный соус, пармезан, зелень, томаты.</description>
+			</offer>
+			<offer id="5764" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>947</categoryId>
+				<picture>http://fasteda.ru/data/big/5764.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спагетти Карбонара</name>
+				<vendor>Light Cafe</vendor>
+				<description>Спагетти, бекон, лук, соус, свежий базилик, яйцо, томаты.</description>
+			</offer>
+			<offer id="5765" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>947</categoryId>
+				<picture>http://fasteda.ru/data/big/5765.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пенне Арабиата</name>
+				<vendor>Light Cafe</vendor>
+				<description>Пенне, бекон, лук, томаты, чеснок, зелень и пармезан.</description>
+			</offer>
+			<offer id="5766" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>947</categoryId>
+				<picture>http://fasteda.ru/data/big/5766.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фетучини с мраморной говядиной и пармской ветчиной</name>
+				<vendor>Light Cafe</vendor>
+				<description>Феттуччинне, лук, шампиньоны, мраморная говядина,
+пармская ветчина, сливочный соус..</description>
+			</offer>
+			<offer id="5767" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>947</categoryId>
+				<picture>http://fasteda.ru/data/big/5767.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Спагетти Болоньезе</name>
+				<vendor>Light Cafe</vendor>
+				<description>Спагетти, говядина, лук, шампиньоны, соус.</description>
+			</offer>
+			<offer id="5768" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>947</categoryId>
+				<picture>http://fasteda.ru/data/big/5768.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца Маргарита</name>
+				<vendor>Light Cafe</vendor>
+				<description>Тесто, томаты, шашлычный соус, сыр, специи, зелень.</description>
+			</offer>
+			<offer id="5769" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>947</categoryId>
+				<picture>http://fasteda.ru/data/big/5769.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца Пиноккио</name>
+				<vendor>Light Cafe</vendor>
+				<description>Тесто, шашлычный соус, ветчина, паприка, шампиньоны, маслины, сыр, специи, зелень.</description>
+			</offer>
+			<offer id="5771" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>947</categoryId>
+				<picture>http://fasteda.ru/data/big/5771.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пицца с грибами «Природа»</name>
+				<vendor>Light Cafe</vendor>
+				<description>Тесто, соус, шампиньоны, белые грибы, сыр, специи, зелень.</description>
+			</offer>
+			<offer id="5760" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>945</categoryId>
+				<picture>http://fasteda.ru/data/big/5760.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриное филе с рисом, овощами и шампиньонами в остром карри-соусе</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5757" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>945</categoryId>
+				<picture>http://fasteda.ru/data/big/5757.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Яичная китайская лапша с куриным филе и овощами в соево-ореховом соусе</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5758" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>945</categoryId>
+				<picture>http://fasteda.ru/data/big/5758.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рисовая лапша с мраморной говядиной, овощами и грибами в изысканном устричном соусе</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5759" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>945</categoryId>
+				<picture>http://fasteda.ru/data/big/5759.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рисовая лапша с овощами и шампиньонами с кисло-сладким соусом и белой рыбкой</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5761" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>945</categoryId>
+				<picture>http://fasteda.ru/data/big/5761.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Говядина с овощами, шампиньонами и арахисом в соево-ореховом, остром-карри соусе с рисом</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5762" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>945</categoryId>
+				<picture>http://fasteda.ru/data/big/5762.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рисовая лапша с овощами, с шампиньонами и куриным филе, обжаренное в панировке с карри-соусом</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5783" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>951</categoryId>
+				<picture>http://fasteda.ru/data/big/5783.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лайт соус</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5784" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>951</categoryId>
+				<picture>http://fasteda.ru/data/big/5784.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кетчуп классический</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5785" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>951</categoryId>
+				<picture>http://fasteda.ru/data/big/5785.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Майонез</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5786" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>951</categoryId>
+				<picture>http://fasteda.ru/data/big/5786.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сметана</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5787" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>951</categoryId>
+				<picture>http://fasteda.ru/data/big/5787.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соус «Белые грибы»</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5788" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>951</categoryId>
+				<picture>http://fasteda.ru/data/big/5788.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Дижонский соус</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5790" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>951</categoryId>
+				<picture>http://fasteda.ru/data/big/5790.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлычный</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5791" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>951</categoryId>
+				<picture>http://fasteda.ru/data/big/5791.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мед цветочный</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5792" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>951</categoryId>
+				<picture>http://fasteda.ru/data/big/5792.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Джем</name>
+				<vendor>Light Cafe</vendor>
+				<description>(брусника, клубника, малина, черника).</description>
+			</offer>
+			<offer id="5793" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>953</categoryId>
+				<picture>http://fasteda.ru/data/big/5793.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сладкая шаверма</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5794" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>953</categoryId>
+				<picture>http://fasteda.ru/data/big/5794.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Камамбер с грушей</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5795" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>953</categoryId>
+				<picture>http://fasteda.ru/data/big/5795.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шоколадное фондю</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5796" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>953</categoryId>
+				<picture>http://fasteda.ru/data/big/5796.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чизкейк</name>
+				<vendor>Light Cafe</vendor>
+				<description>(Классический, клубничный, ежевичный, шоколадно-клюквенный).</description>
+			</offer>
+			<offer id="5797" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>953</categoryId>
+				<picture>http://fasteda.ru/data/big/5797.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блинчики с вареньем</name>
+				<vendor>Light Cafe</vendor>
+				<description>На выбор: с вареньем, медом, сметаной или мороженным.</description>
+			</offer>
+			<offer id="5798" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>953</categoryId>
+				<picture>http://fasteda.ru/data/big/5798.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Таинственный остров</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5799" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>953</categoryId>
+				<picture>http://fasteda.ru/data/big/5799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мороженое (шарик)</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5800" available="true">
+				<url>http://fasteda.ru/menu/shaverma/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>953</categoryId>
+				<picture>http://fasteda.ru/data/big/5800.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сорбет (порция)</name>
+				<vendor>Light Cafe</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

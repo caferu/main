@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="304">Главные блюда</category>
+			<category id="623">Воки</category>
+			<category id="305">Закуски</category>
+			<category id="307">Салаты</category>
+			<category id="309">Десерты</category>
+			<category id="325">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="2275" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/2275.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок в кисло-сладком соусе c рисом</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежные кусочки филе цыпленка, много риса, с добавлением китайских специй понравятся настоящим ценителям азиатской кухни
+(410 гр).</description>
+			</offer>
+			<offer id="1891" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/1891.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок в кисло - сладком соусе с лапшой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежные кусочки филе цыпленка с добавлением китайских специй и вкуснейшей лапши понравятся настоящим ценителям азиатской кухни
+ (410 гр).</description>
+			</offer>
+			<offer id="2273" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/2273.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина Губаджоу </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Классический пример китайской кухни
+(410 гр).</description>
+			</offer>
+			<offer id="3847" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3847.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Cвинина в кисло-сладком с рисом </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Кусочки свинины, обжаренные в воке с оригинальными специями, просто тают во рту, а рис, в качестве гарнира, делает блюдо еще полезнее и питательнее
+( 410 гр).</description>
+			</offer>
+			<offer id="3848" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3848.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Cвинина в кисло-сладком с лапшой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежнейшая свинина, приготовленная по традиционному китайскому рецепту, и гарнир из питательной лапши станут великолепным обедом для любителей поесть по-домашнему
+( 410 гр).</description>
+			</offer>
+			<offer id="3551" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3551.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина Соба </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежная говядина в классическом сочетании с гречневой лапшей и острым соусом
+(410гр).</description>
+			</offer>
+			<offer id="2346" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/2346.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок  Кунг Пао</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Классическое блюдо сычуаньской кухни, изобретенное в провинции Сычуань в западном Китае, с острым насыщенным вкусом
+ (410 гр).</description>
+			</offer>
+			<offer id="3846" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3846.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок терияки с лапшей </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1898" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/1898.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок терияки с рисом </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежная курица, приготовленная по классическому рецепту
+ (410 гр).</description>
+			</offer>
+			<offer id="2272" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/2272.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина терияки с лапшой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежнейшая свинина, приготовленная по традиционному китайскому рецепту, и гарнир из питательной лапши станут великолепным обедом для любителей поесть по домашнему
+ (410 гр).</description>
+			</offer>
+			<offer id="3543" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3543.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыпленок Мугу- Гайпан </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Куриное филе, приготовленное в соусе терияки, в сочетании с собой и овощами, станет отличным выбором для тех, кто хочет вкусно поесть без лишних экспериментов
+(410гр).</description>
+			</offer>
+			<offer id="3852" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3852.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось терияки с рисом </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежное филе лосося, обжаренное в соусе терияки, в классическом сочетании с рисом и зеленым горошком
+(410 гр).</description>
+			</offer>
+			<offer id="1899" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/1899.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось терияки с лапшой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежное филе лосося, обжаренное в соусе терияки, лапша, в качестве гарнира, и молодой горошек. Отлично подойдёт тем, кто предпочитает легкую и здоровую еду
+(410 гр).</description>
+			</offer>
+			<offer id="1895" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/1895.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острая свинина с рисом </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежнейшая свинина с рисом и овощами в остром соусе
+ (410 гр).</description>
+			</offer>
+			<offer id="3849" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3849.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острая свинина с лапшой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Острая свинина в сочетании с лапшой и свежими овощами. Насыщенный, яркий вкус
+( 410 гр).</description>
+			</offer>
+			<offer id="3850" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3850.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина Спайси </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Блюдо для тех, кто любит \&amp;quot;по-острее\&amp;quot;
+( 410 гр).</description>
+			</offer>
+			<offer id="1897" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/1897.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки по янч-жоуски </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Свежие крупные креветки и особый сорт риса, приготовленные в воке с использованием лучших приправ и кисло-сладким соусом, вполне могут претендовать на звание Вашего любимого блюда
+(410 гр).</description>
+			</offer>
+			<offer id="3548" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3548.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось в кисло-сладком соусе с собой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Кусочки лосося в сочетании с гречневой лапшой и кисло-сладким соусом. Идеальное блюдо для тех кто хочет прожить 100 лет!
+(410гр).</description>
+			</offer>
+			<offer id="1892" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/1892.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина в кисло - сладком соусе с рисом</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Сочные кусочки говядины, обжаренные в воке со специями и овощами, в сочетании со стеклянной лапшой, подойдут любителям экзотики
+ (410 гр).</description>
+			</offer>
+			<offer id="3851" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3851.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина в кисло-сладком соусе с собой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежная говядина в классическом сочетании с гречневой лапшей 
+(410 гр).</description>
+			</offer>
+			<offer id="3845" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3845.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Имбирный цыпленок </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Глубокий имбирный вкус, нежный цыпленок и много овощей
+(410 гр).</description>
+			</offer>
+			<offer id="3552" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3552.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Имбирный лосось</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Кусочки лосося с овощами и имбирным соусом - неожиданное сочетание с великолепным вкусом
+ (410гр)
+.</description>
+			</offer>
+			<offer id="1890" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/1890.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина в имбирном соусе  с рисом</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Кусочки говядины, обжаренные в воке с оригинальными специями, просто тают во рту, а рис, делает блюдо еще полезнее и питательнее
+
+
+(410 гр).</description>
+			</offer>
+			<offer id="3547" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3547.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина Чоу Мэйн </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Классический пример китайской кухни. Пикантное, сытное блюдо не оставит Вас равнодушным
+(410гр).</description>
+			</offer>
+			<offer id="3553" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3553.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Королевские креветки терияки с собой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Свежайшие королевские креветки в сочетании с паприкой, зеленым горошком и цукини - клондайк здоровья
+(410гр).</description>
+			</offer>
+			<offer id="3853" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3853.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки терияки </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Необычное сочетание для любителей экспериментов
+(410 гр).</description>
+			</offer>
+			<offer id="1896" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/1896.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые креветки с харусаме  </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Одно из лучших блюд нашего меню
+ (410 гр).</description>
+			</offer>
+			<offer id="1900" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/1900.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морепродукты в имбирном соусе с собой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Свежайшие морепродукты, приправленные традиционными китайскими специями, в сочетании с гречневой лапшой и имбирным соусом
+ (410 гр) .</description>
+			</offer>
+			<offer id="3854" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3854.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спайси Морепродукты </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Микс из мидий, креветок и колец кальмара, рис и овощи, приправленные острыми китайскими специями
+(410 гр).</description>
+			</offer>
+			<offer id="3556" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3556.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шитаке в кисло-сладком соусе </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Китайские грибы Шитаке в сочетание с цукини и гречневой лапшой - замечательное блюдо для людей, следящих за своей фигурой
+(410гр).</description>
+			</offer>
+			<offer id="3855" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3855.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Имбирные овощи </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Отличное горячее блюдо для любителей овощей, c баклажанами и фирменным имбирным соусом
+(410 гр).</description>
+			</offer>
+			<offer id="3558" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>304</categoryId>
+				<picture>http://fasteda.ru/data/big/3558.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вегетарианская лапша с баклажанами </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Отличное горячее блюдо для любителей овощей, c баклажанами и фирменным имбирным соусом
+(410гр).</description>
+			</offer>
+			<offer id="3859" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>623</categoryId>
+				<picture>http://fasteda.ru/data/big/3859.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вок с цыплёнком  </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Сытное вкусное блюдо, состоящее на одну половину из нежнейшего куриного филе, а другую - сочных овощей, и все это в сочетании с традициоными китайскими специями и соусом
+(350гр).</description>
+			</offer>
+			<offer id="3861" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>623</categoryId>
+				<picture>http://fasteda.ru/data/big/3861.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вок с креветками </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Огромные королевкие креветки и овощи, приготовленные в воке в пропорции 1 к 1! И никакой лапши)
+(350гр).</description>
+			</offer>
+			<offer id="3860" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>623</categoryId>
+				<picture>http://fasteda.ru/data/big/3860.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вок со свининой  </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежнейшие кусочки свиной шеи, дополненные овощами, приготовленными на воке. Искушение для гурманов
+(350гр).</description>
+			</offer>
+			<offer id="2349" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>305</categoryId>
+				<picture>http://fasteda.ru/data/big/2349.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Panda Чикен</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Кура филе, соус Панда, соус Шираче,
+китайская капуста, зеленый лук, растительное масло, майонез (300 гр).</description>
+			</offer>
+			<offer id="1905" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>305</categoryId>
+				<picture>http://fasteda.ru/data/big/1905.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветки темпура</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Королевские креветки, кляр, соус темпура, лимон, зелень (395 гр).</description>
+			</offer>
+			<offer id="1906" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>305</categoryId>
+				<picture>http://fasteda.ru/data/big/1906.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крабовые шарики</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Свиная шея, снежный краб, яичный белок, чеснок, панировочные сухари, соевый соус, лимон, чеснок, зеленый лук (300 гр).</description>
+			</offer>
+			<offer id="3560" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>305</categoryId>
+				<picture>http://fasteda.ru/data/big/3560.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с лососем </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Классический ролл с лососем, отличная легкая закуска
+(130гр).</description>
+			</offer>
+			<offer id="3561" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>305</categoryId>
+				<picture>http://fasteda.ru/data/big/3561.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл с курой  </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Классический ролл с нежным куриным филе
+(140гр).</description>
+			</offer>
+			<offer id="3562" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>305</categoryId>
+				<picture>http://fasteda.ru/data/big/3562.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощной ролл </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Много - много овощей, свежий насыщенный вкус. Идеальная легкая закуска
+(140гр).</description>
+			</offer>
+			<offer id="1908" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>307</categoryId>
+				<picture>http://fasteda.ru/data/big/1908.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Пад Тай с курой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Традиционный тайский салат из отварной лапши, курицы и овощей приправлен необычными специями
+(280 гр).</description>
+			</offer>
+			<offer id="1909" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>307</categoryId>
+				<picture>http://fasteda.ru/data/big/1909.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Пад Тай со свининой </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Тайское национальное блюдо, в основе которого лежат нежные кусочки свинины и лапша, может стать отличным началом вкусного обеда
+(267 гр).</description>
+			</offer>
+			<offer id="3563" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>307</categoryId>
+				<picture>http://fasteda.ru/data/big/3563.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Пад Тай с креветками </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Изысканный тайский классический салат с королевскими креветками
+(280гр).</description>
+			</offer>
+			<offer id="2270" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>307</categoryId>
+				<picture>http://fasteda.ru/data/big/2270.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Пад Тай с грибами шитаке </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Сытный и вкусный салат с лапшой харусаме и шрибами шитаке. Удивите себя неожиданными сочетаниями
+ (280 гр).</description>
+			</offer>
+			<offer id="3564" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>307</categoryId>
+				<picture>http://fasteda.ru/data/big/3564.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с цыплёнком </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Овощной микс с королевскими креветками и имбирно-чесночным соусом. 100 % Фитнес салат!
+(310гр).</description>
+			</offer>
+			<offer id="2271" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>307</categoryId>
+				<picture>http://fasteda.ru/data/big/2271.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с креветками</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Нежнейшие кусочки курицы в сочетании с рукколой и томатами, прекрасно дополнят Ваш обед
+ (270 гр).</description>
+			</offer>
+			<offer id="2350" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>307</categoryId>
+				<picture>http://fasteda.ru/data/big/2350.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чукка салат </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Свежий, летний салат с нашим фирменным ореховым соусом
+ (253 гр).</description>
+			</offer>
+			<offer id="3565" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>307</categoryId>
+				<picture>http://fasteda.ru/data/big/3565.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощной салат </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>100 % здоровья. Только свежие, полезные овощи и зелень
+(310гр).</description>
+			</offer>
+			<offer id="2344" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>309</categoryId>
+				<picture>http://fasteda.ru/data/big/2344.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Банановая темпура</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Сладкая, нежная и восхитетельно вкусная классическая банановая темпура
+(230 гр)
+.</description>
+			</offer>
+			<offer id="2343" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>309</categoryId>
+				<picture>http://fasteda.ru/data/big/2343.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ананасовая темпура</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Потрясающий десерт из свежего ананаса
+ (250 гр).</description>
+			</offer>
+			<offer id="3566" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>309</categoryId>
+				<picture>http://fasteda.ru/data/big/3566.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фруктовый ролл </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Наше сладкое изобретение для Вашего удовольствия
+(130гр).</description>
+			</offer>
+			<offer id="1912" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>309</categoryId>
+				<picture>http://fasteda.ru/data/big/1912.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк «Нью-Йорк»</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Классический чизкейк Нью-Йорк (110 гр).</description>
+			</offer>
+			<offer id="1915" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>309</categoryId>
+				<picture>http://fasteda.ru/data/big/1915.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк «Шоколадный»</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>100% сладкого удовольствия
+(152 гр).</description>
+			</offer>
+			<offer id="3856" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>309</categoryId>
+				<picture>http://fasteda.ru/data/big/3856.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк Яблочно - карамельный </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>Сладкое удовольствие)
+.</description>
+			</offer>
+			<offer id="2279" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2279.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Cola 1л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2280" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2280.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Cola 2л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2282" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2282.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite 1 л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3862" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/3862.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite 2 л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2285" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2285.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Fanta 1 л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2286" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2286.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Fanta 2 л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2288" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2288.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Bon Aqua (минеральная вода) 1 л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2289" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2289.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Bon Aqua (минеральная вода) 2 л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2290" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2290.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Nestea 0,5 л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2292" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2292.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соки «Nico» 1 л  в ассорт.</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2298" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2298.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Tuborg 0,5 л.</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2299" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2299.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Heineken 0,5 л.</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3567" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/3567.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Krusovice 0,5 </name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2296" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2296.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Kozel 0,5 л.</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2297" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2297.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Miller 0,33 л.</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2300" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2300.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Балтика 7 0,5 л.</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2294" available="true">
+				<url>http://fasteda.ru/menu/panda/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>325</categoryId>
+				<picture>http://fasteda.ru/data/big/2294.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Redds 0,33 л</name>
+				<vendor>Panda - китайская еда</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:37">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="526">Тайская кухня</category>
+			<category id="542">Салаты и закуски</category>
+			<category id="527">Суши</category>
+			<category id="532">Гунканы</category>
+			<category id="539">Наборы</category>
+			<category id="534">Классические роллы</category>
+			<category id="536">Фирменные роллы</category>
+			<category id="530">Топпинги</category>
+			<category id="529">Десерты</category>
+			<category id="528">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="3417" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3417.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Салат Ям Яй</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Картошка с болгарским перцем и кинзой в устричном соусе (280 гр).</description>
+			</offer>
+			<offer id="3418" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3418.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Овощи Ям</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Грибы шиитаке, брокколи, сельдерей, морковь, болгарский перец (400 гр).</description>
+			</offer>
+			<offer id="3419" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3419.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Салат Тай микс</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Салат Айсберг, помидоры Черри, огурец, миндаль, болгарский перец, острый соус (280 гр).</description>
+			</offer>
+			<offer id="3421" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3421.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Крылья Тайланда</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Куриные крылышки, кляр, панировочные сухари с чесночным и кисло-сладким соусами (350 гр).</description>
+			</offer>
+			<offer id="3422" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3422.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Хот Яй</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Брокколи, морковь, чеснок, острый соус (300 гр).</description>
+			</offer>
+			<offer id="3423" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3423.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Салат Лайт Тай</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Огурец с золотыми грибами в уксусе (280 гр).</description>
+			</offer>
+			<offer id="3424" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3424.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Бананы по тайски</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Бананы, карамель, миндаль (260 гр).</description>
+			</offer>
+			<offer id="3425" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3425.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Салат Ям Му</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Жареная говядина, помидоры Черри, огурец, острый соус (280 гр).</description>
+			</offer>
+			<offer id="3426" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3426.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Морские гады</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Морепродукты (осьминоги, мидии, кальмары) с жареной лапшой (300 гр).</description>
+			</offer>
+			<offer id="3427" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3427.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Сытый Будда</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Морепродукты (осьминоги, мидии, кальмары, креветки) с болгарским перцем и рисом (300 гр).</description>
+			</offer>
+			<offer id="3428" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3428.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Боб Таун</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Бобовая лапша со свининой и стручковой фасолью в соевом соусе(350 гр).</description>
+			</offer>
+			<offer id="3429" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3429.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Жареная лапша Фреш</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Сочное куриное филе с лапшой в тайском кисло-сладком соусе чили с ананасом (300 гр)
+.</description>
+			</offer>
+			<offer id="3430" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3430.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Секрет Тайланда</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Парная свинина с морковью и древесными грибами (310 гр)
+.</description>
+			</offer>
+			<offer id="3431" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3431.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Му Тай</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Свинина в кисло-сладком соусе с кинзой и древесными грибами (250 гр).</description>
+			</offer>
+			<offer id="3432" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3432.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Курица по-тайски</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Нежное куриное филе и овощи в кисло-сладком соусе (320 гр).</description>
+			</offer>
+			<offer id="3433" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3433.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Огненный Тай</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Нежная телятина с сельдереем и красным стручковым перцем (350 гр).</description>
+			</offer>
+			<offer id="3434" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3434.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Так Тай</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Креветки и нежная говядина со стеклянной лапшой (300 гр).</description>
+			</offer>
+			<offer id="3435" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3435.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Паттайя</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Креветки, морковь, сельдерей (300 гр).</description>
+			</offer>
+			<offer id="3436" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3436.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Азиатский ягненок</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Нежный молодой барашек с грибами шиитаке и болгарским перцем, тушеный в соевом соусе (340 гр).</description>
+			</offer>
+			<offer id="3437" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3437.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Окунь Самуи</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Нежное филе морского окуня с древесными грибами в кисло-сладком соусе (280 гр).</description>
+			</offer>
+			<offer id="3438" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3438.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Сытный Бангкок</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Сочная говядина с болгарским перцем и древесными грибами в тайском соусе чили с ананасом (330 гр)
+.</description>
+			</offer>
+			<offer id="3439" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3439.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Щедрый Будда</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Осетрина с помидорами Черри и свежей кинзой, дополнительный соус (220 гр).</description>
+			</offer>
+			<offer id="3440" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3440.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Кунг Тай</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Тигровые креветки с чесноком и устричным соусом (260 гр).</description>
+			</offer>
+			<offer id="3441" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3441.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Тайфуд</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Гигантские мидии, тигровые креветки, черные спагетти с чернилами каракатиц, кинза, дополнительный острый соус Тайфуд (300 гр).</description>
+			</offer>
+			<offer id="3442" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>526</categoryId>
+				<picture>http://fasteda.ru/data/big/3442.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Дикая утка</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Филе дикой утки с сочным болгарским перцем и древесными грибами (320 гр)
+.</description>
+			</offer>
+			<offer id="3531" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>542</categoryId>
+				<picture>http://fasteda.ru/data/big/3531.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Салат Чукка</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Водоросли Чукка, ореховый соус, огурец, лимон (140 гр).</description>
+			</offer>
+			<offer id="3532" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>542</categoryId>
+				<picture>http://fasteda.ru/data/big/3532.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Салат с угрем</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Угорь, стеклянная лапша, водоросли Чукка, авокадо, огурец, соус, лимон 
+(200 гр).</description>
+			</offer>
+			<offer id="3533" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>542</categoryId>
+				<picture>http://fasteda.ru/data/big/3533.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Салат с креветками</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Креветки, краб, огурец, салат Айсберг, икра Тобико оранжевая 
+(250 гр).</description>
+			</offer>
+			<offer id="3534" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>542</categoryId>
+				<picture>http://fasteda.ru/data/big/3534.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Бекон на тайской шпажке</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Бекон, черный хлеб, помидоры Черри, сыр, лист салата (120 гр).</description>
+			</offer>
+			<offer id="3535" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>542</categoryId>
+				<picture>http://fasteda.ru/data/big/3535.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Эби темпура</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Тигровые креветки, темпура, авокадо, огурец, соус (120 гр).</description>
+			</offer>
+			<offer id="3536" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>542</categoryId>
+				<picture>http://fasteda.ru/data/big/3536.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Салат с копченым лососем</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Копченый лосось, болгарский перец, салат Айсберг, огурец, помидоры Черри 
+(150 гр).</description>
+			</offer>
+			<offer id="3537" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>542</categoryId>
+				<picture>http://fasteda.ru/data/big/3537.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Запеченные мидии</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Рис, мидии, острый соус, салат Айсберг (200 гр).</description>
+			</offer>
+			<offer id="3454" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>527</categoryId>
+				<picture>http://fasteda.ru/data/big/3454.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Сяке 2 шт</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>60 гр.</description>
+			</offer>
+			<offer id="3455" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>527</categoryId>
+				<picture>http://fasteda.ru/data/big/3455.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Сяки копченый 2 шт</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>60 гр.</description>
+			</offer>
+			<offer id="3456" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>527</categoryId>
+				<picture>http://fasteda.ru/data/big/3456.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Ика 2 шт</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Кальмар (60 гр).</description>
+			</offer>
+			<offer id="3457" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>527</categoryId>
+				<picture>http://fasteda.ru/data/big/3457.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Тако 2 шт</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Осьминог (60 гр).</description>
+			</offer>
+			<offer id="3458" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>527</categoryId>
+				<picture>http://fasteda.ru/data/big/3458.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Тай 2 шт</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Окунь (60 гр).</description>
+			</offer>
+			<offer id="3459" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>527</categoryId>
+				<picture>http://fasteda.ru/data/big/3459.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Тамаго яки 2 шт</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Японский омлет (60 гр).</description>
+			</offer>
+			<offer id="3460" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>527</categoryId>
+				<picture>http://fasteda.ru/data/big/3460.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Унаги 2 шт</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Угорь (60 гр).</description>
+			</offer>
+			<offer id="3461" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>527</categoryId>
+				<picture>http://fasteda.ru/data/big/3461.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Эби 2 шт</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Креветка (60 гр).</description>
+			</offer>
+			<offer id="3462" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>527</categoryId>
+				<picture>http://fasteda.ru/data/big/3462.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Магуро 2 шт</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Тунец (60 гр).</description>
+			</offer>
+			<offer id="3479" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>532</categoryId>
+				<picture>http://fasteda.ru/data/big/3479.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Чукка</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Маринованные водоросли (28 гр).</description>
+			</offer>
+			<offer id="3480" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>532</categoryId>
+				<picture>http://fasteda.ru/data/big/3480.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Кани</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Краб (28 гр).</description>
+			</offer>
+			<offer id="3481" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>532</categoryId>
+				<picture>http://fasteda.ru/data/big/3481.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Тобико гункан</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Икра тобико (28 гр).</description>
+			</offer>
+			<offer id="3482" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>532</categoryId>
+				<picture>http://fasteda.ru/data/big/3482.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Тобико кунжи гункан</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Икра тобико, кунжут  (28 гр).</description>
+			</offer>
+			<offer id="3483" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>532</categoryId>
+				<picture>http://fasteda.ru/data/big/3483.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Хотате тобико гункан</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Гребешок, икра тобико (28 гр).</description>
+			</offer>
+			<offer id="3484" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>532</categoryId>
+				<picture>http://fasteda.ru/data/big/3484.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Икура гункан</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Красная икра (28 гр).</description>
+			</offer>
+			<offer id="3528" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>539</categoryId>
+				<picture>http://fasteda.ru/data/big/3528.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Набор №1 Люкс</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Суши: красная икра (1 шт.), икра Тобико оранжевая (1 шт.), омлет (2 шт.), гребешок (4 шт.). Запеченный HOT ROLL (угорь, огурец, кунжут, острый соус)  (400 гр).</description>
+			</offer>
+			<offer id="3529" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>600</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>539</categoryId>
+				<picture>http://fasteda.ru/data/big/3529.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Набор №2 Запеченное ассорти</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, окунь, гребешок, тунец, краб 
+(350 гр).</description>
+			</offer>
+			<offer id="3530" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>800</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>539</categoryId>
+				<picture>http://fasteda.ru/data/big/3530.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Набор №3 Суши микс</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Тигровый ролл, ролл тамаго лосось, суши: лосось (2 шт.), креветка (1 шт.), острый лосось (2 шт.), острый краб (1 шт.) (800 гр).</description>
+			</offer>
+			<offer id="3485" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>534</categoryId>
+				<picture>http://fasteda.ru/data/big/3485.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Дайкон маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Маринованная редька (110 гр).</description>
+			</offer>
+			<offer id="3486" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>534</categoryId>
+				<picture>http://fasteda.ru/data/big/3486.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Чукка маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Маринованная редька, 
+салат чукка, авокадо (130 гр).</description>
+			</offer>
+			<offer id="3487" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>534</categoryId>
+				<picture>http://fasteda.ru/data/big/3487.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Ролл с тунцом</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>110 гр.</description>
+			</offer>
+			<offer id="3488" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>534</categoryId>
+				<picture>http://fasteda.ru/data/big/3488.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Ролл с лососем</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>110 гр.</description>
+			</offer>
+			<offer id="3489" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>534</categoryId>
+				<picture>http://fasteda.ru/data/big/3489.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Ролл с угрём</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>110 гр.</description>
+			</offer>
+			<offer id="3490" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>534</categoryId>
+				<picture>http://fasteda.ru/data/big/3490.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Унаги каппа маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Угорь, огурец (110 гр).</description>
+			</offer>
+			<offer id="3491" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3491.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Унаги сезам маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Угорь, огурец, черный кунжут (180 гр).</description>
+			</offer>
+			<offer id="3492" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3492.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Самурай</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, огурец, острый соус, кунжут  (190 гр).</description>
+			</offer>
+			<offer id="3493" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3493.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Черный самурай</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, огурец, острый соус, черный кунжут (190 гр).</description>
+			</offer>
+			<offer id="3494" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3494.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Осака</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Авокадо, сыр Филадельфия,икра тобико оранжевая, кунжут (180 гр).</description>
+			</offer>
+			<offer id="3495" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3495.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Шахматы</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Креветка в терияки, сыр Филадельфия, салат, икра тобико красная и черная  (180 гр).</description>
+			</offer>
+			<offer id="3496" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3496.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Жареная шкурка</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Жаренная шкура лосося, краб, сыр Филадельфия, огурец, икра Тобико черная  (280 гр).</description>
+			</offer>
+			<offer id="3497" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3497.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Аляска ролл</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Копченый лосось, сыр Филадельфия, огурец, кунжут (200 гр).</description>
+			</offer>
+			<offer id="3498" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3498.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Грин пис</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, сыр Филадельфия, огурец, паприка, салат, зелень 
+Вес: 215 гр.</description>
+			</offer>
+			<offer id="3499" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3499.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Филадельфия</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, сыр Филадельфия, огурец (200 гр).</description>
+			</offer>
+			<offer id="3500" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3500.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Сайо нара</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Огурец, японский омлет, сыр Филадельфия, икра тобико красная (200 гр).</description>
+			</offer>
+			<offer id="3501" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3501.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Сливочный ролл с угрём</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>260 гр.</description>
+			</offer>
+			<offer id="3502" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3502.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Нагано</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, сыр Филадельфия, огурец, икра тобико черная (200 гр).</description>
+			</offer>
+			<offer id="3503" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3503.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Острый лосось</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, Сыр Филадельфия, огурец, острый соус, икра тобико, кунжут (220 гр).</description>
+			</offer>
+			<offer id="3504" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3504.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Зелибоба</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, японский омлет, сыр Филадельфия, угорь, икра тобико, острый соус (210 гр).</description>
+			</offer>
+			<offer id="3505" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3505.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Радуга</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Краб, лосось, окунь, угорь, тунец, креветка, сыр Филадельфия, огурец 
+ (300 гр).</description>
+			</offer>
+			<offer id="3506" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3506.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Калифорния маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Краб, огурец, авокадо, икра тобико красная (190 гр).</description>
+			</offer>
+			<offer id="3507" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3507.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Император маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Угорь, имбирь, помидор, огурец, икра тобико красная (190 гр).</description>
+			</offer>
+			<offer id="3508" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3508.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Танка маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, тунец, сыр Филадельфия, креветка, японский омлет, огурец 
+(230 гр).</description>
+			</offer>
+			<offer id="3509" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3509.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Суши Цу маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Копченый лосось, салат, икра тобико оранжевая, сыр Филадельфия (190 гр).</description>
+			</offer>
+			<offer id="3510" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3510.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Филадельфия Икура</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, красная икра, сыр Филадельфия 
+(200 гр).</description>
+			</offer>
+			<offer id="3511" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3511.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Химомару маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Красная икра, копченый лосось, сыр Филадельфия, авокадо (190 гр).</description>
+			</offer>
+			<offer id="3512" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3512.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Токио</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, икра тобико красная, авокадо, стружка тунца (180 гр).</description>
+			</offer>
+			<offer id="3513" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3513.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Тигровый ролл</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Креветка, сыр Филадельфия, краб, огурец (260 гр).</description>
+			</offer>
+			<offer id="3514" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3514.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>СПб ролл</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Краб, лосось, огурец, икра тобико красная (280 гр).</description>
+			</offer>
+			<offer id="3515" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3515.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Цуками</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Окунь, соус, лосось, японский омлет, огурец, сыр Филадельфия, икра тобико 
+(235 гр).</description>
+			</offer>
+			<offer id="3516" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3516.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Канада</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, угорь, огурец (230 гр).</description>
+			</offer>
+			<offer id="3517" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3517.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Банзай маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Обжаренный окунь, сыр Филадельфия, угорь, огурец, икра тобико черная 
+(200 гр).</description>
+			</offer>
+			<offer id="3518" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3518.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Курилы</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, краб, острый соус, огурец, кинза (260 гр).</description>
+			</offer>
+			<offer id="3519" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3519.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Унаги грин маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Угорь, васаби, огурец, икра тобико зеленая (190 гр).</description>
+			</offer>
+			<offer id="3520" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3520.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Ред ролл</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Краб, сыр Филадельфия, огурец, икра тобико красная (280 гр).</description>
+			</offer>
+			<offer id="3521" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3521.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Филадельфия Люкс</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, красная икра, сыр Филадельфия 
+(200 гр).</description>
+			</offer>
+			<offer id="3522" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3522.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Фуджияма</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Угорь, краб, огурец (280 гр).</description>
+			</offer>
+			<offer id="3523" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3523.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Искушение</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, угорь, огурец, фирменный соус  (220 гр).</description>
+			</offer>
+			<offer id="3524" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3524.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Фудзи маки</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Угорь, икра тобико красная, стружка тунца, сыр Филадельфия, острый соус 
+(190 гр).</description>
+			</offer>
+			<offer id="3525" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3525.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Камчатка</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Лосось, краб, огурец, красная икра 
+(300 гр).</description>
+			</offer>
+			<offer id="3526" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3526.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Шеф ролл</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Гребешок, угорь, острый соус, лосось, краб, икра тобико (225 гр).</description>
+			</offer>
+			<offer id="3527" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>536</categoryId>
+				<picture>http://fasteda.ru/data/big/3527.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Дракон ролл</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Угорь, краб, огурец, острый соус 
+(250 гр).</description>
+			</offer>
+			<offer id="3443" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3443.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Ореховый соус</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3444" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3444.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Тайский кисло-сладкий соус Чили с ананасом</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3445" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3445.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Чесночный соус</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3446" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3446.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Имбирь белый</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3447" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3447.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Спайси соус</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3448" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3448.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Кисло-сладкий соус</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3449" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3449.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Соевый соус</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3450" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3450.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Имбирь розовый</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3451" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3451.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Васаби</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3452" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3452.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Шоколад</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3453" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>530</categoryId>
+				<picture>http://fasteda.ru/data/big/3453.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Соус карри</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3477" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>529</categoryId>
+				<picture>http://fasteda.ru/data/big/3477.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Бананы в кляре</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3478" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>529</categoryId>
+				<picture>http://fasteda.ru/data/big/3478.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Ассорти в кляре</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Яблоко, ананас, банан, кляр, грецкий орех, мед, шоколад (180 гр).</description>
+			</offer>
+			<offer id="3463" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3463.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Кока кола 0,5 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3464" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3464.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Кока-кола 1 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3465" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3465.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Бон Аква газ. 0,5 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3466" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3466.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Бон Аква негаз. 0,5 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3467" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3467.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Спрайт 0,5 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3468" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3468.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Спрайт 1 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3469" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3469.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Сок Я 1 л мексиканский микс</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3473" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3473.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Энергетический напиток Ред Бул 0,35 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3474" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3474.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Чай ДЛЯ ТЕБЯ зеленый с цитроном 0,47 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3475" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3475.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Чай ДЛЯ ТЕБЯ зеленый с гранатом 0,47 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3476" available="true">
+				<url>http://fasteda.ru/menu/thaifood/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>528</categoryId>
+				<picture>http://fasteda.ru/data/big/3476.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>150</local_delivery_cost>
+				<name>Чай ДЛЯ ТЕБЯ зеленый 0,47 л</name>
+				<vendor>Thaifood - доставка тайской еды и суши</vendor>
+				<description>Без сахара.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 02:09">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="13">Холодные закуски</category>
+			<category id="112">Салаты</category>
+			<category id="11">Горячие закуски</category>
+			<category id="12">Первые блюда</category>
+			<category id="294">Основные блюда</category>
+			<category id="296">Гарниры</category>
+			<category id="238">Хлеб</category>
+			<category id="121">Десерты</category>
+			<category id="136">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="82" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13</categoryId>
+				<picture>http://fasteda.ru/data/big/82.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Копченое и чесночное сало с деревенским хлебом</name>
+				<vendor>Корчма</vendor>
+				<description>И огурцами домашнего посола
+.</description>
+			</offer>
+			<offer id="12425" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13</categoryId>
+				<picture>http://fasteda.ru/data/big/12425.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Три сыров с медом и виноградом </name>
+				<vendor>Корчма</vendor>
+				<description>талледжио, проволоне дольче, горгонзолла.</description>
+			</offer>
+			<offer id="3837" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13</categoryId>
+				<picture>http://fasteda.ru/data/big/3837.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сельдь на тосте из черного хлеба с горчичным соусом и  молодым картофелем </name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3838" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13</categoryId>
+				<picture>http://fasteda.ru/data/big/3838.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Маринованные опята с деревенской сметаной и печеным чесноком </name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3839" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13</categoryId>
+				<picture>http://fasteda.ru/data/big/3839.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рыбное плато</name>
+				<vendor>Корчма</vendor>
+				<description>Соленый лосось, копченая скумбрия, маринованные кальмары, палтус
+.</description>
+			</offer>
+			<offer id="2323" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13</categoryId>
+				<picture>http://fasteda.ru/data/big/2323.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мясное плато</name>
+				<vendor>Корчма</vendor>
+				<description>Пармская ветчина, мортаделла, буженина, салями сальсичио
+.</description>
+			</offer>
+			<offer id="7391" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13</categoryId>
+				<picture>http://fasteda.ru/data/big/7391.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Домашняя буженина с соусом из чернослива </name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="79" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>13</categoryId>
+				<picture>http://fasteda.ru/data/big/79.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Язык телячий отварной с хреном и горчицей</name>
+				<vendor>Корчма</vendor>
+				<description>Подается с кресс салатом и тостами из черного хлеба с чесноком (100/40/40 гр).</description>
+			</offer>
+			<offer id="12412" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/12412.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из печеной свеклы, сельди и молодого картофеля</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12413" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/12413.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из свежих огурцов, редиса с яйцом пашот</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12414" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/12414.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат из свежих овощей </name>
+				<vendor>Корчма</vendor>
+				<description>томаты, огурцы, редис, паприка, зелень; заправка на выбор – сметана, песто, оливковое масло.</description>
+			</offer>
+			<offer id="1814" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/1814.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с белой фасолью и томатами</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1810" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/1810.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Греческий салат</name>
+				<vendor>Корчма</vendor>
+				<description>Свежие овощи с маринованным сыром фета, заправка на основе оливкового масла и бальзамического соуса.</description>
+			</offer>
+			<offer id="2318" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/2318.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Капустный салат с белыми грибами и грецкими орехами</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1813" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/1813.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Оливье с мясом кролика</name>
+				<vendor>Корчма</vendor>
+				<description>И домашним майонезом.</description>
+			</offer>
+			<offer id="12415" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/12415.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с тигровыми креветками и кокосовым соусом </name>
+				<vendor>Корчма</vendor>
+				<description>обжаренные тигровые креветки с листьями салата и соусом из свежего кокоса.</description>
+			</offer>
+			<offer id="1817" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/1817.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Цезарь с беконом</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="84" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/84.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь с куриной грудкой гриль</name>
+				<vendor>Корчма</vendor>
+				<description>Жареная на гриле куриная грудка, салат ромейн, чесночные гренки из черного хлеба, соус из яичных желтков с добавлением анчоусов, пармезана, чеснока и растительного масла.</description>
+			</offer>
+			<offer id="1816" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/1816.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Цезарь с олениной</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12416" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/12416.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с утиной грудкой и печеным ананасом </name>
+				<vendor>Корчма</vendor>
+				<description>обжаренная утиная грудка с миксом салатных листьев, печеным ананасом и медово-розмариновым соусом.</description>
+			</offer>
+			<offer id="12417" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/12417.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с теплым осьминогом </name>
+				<vendor>Корчма</vendor>
+				<description>кусочки отварного осьминога с томатами кумато и грейпфрутово-оливковым соусом.</description>
+			</offer>
+			<offer id="12418" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/12418.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат с соленым лососем, спаржей и тайским манго</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1815" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>112</categoryId>
+				<picture>http://fasteda.ru/data/big/1815.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь с тигровыми креветками</name>
+				<vendor>Корчма</vendor>
+				<description>Жареные тигровые креветки, салат ромейн, сыр пармезан, отварное яйцо, чесночные гренки из черного хлеба, заправляется соусом из желтков с добавлением анчоусов, чеснока, пармезан и растительного масла.</description>
+			</offer>
+			<offer id="7393" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>11</categoryId>
+				<picture>http://fasteda.ru/data/big/7393.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Драники картофельные со сметаной </name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7394" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>11</categoryId>
+				<picture>http://fasteda.ru/data/big/7394.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Драники картофельные с грибами и сметаной </name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="749" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>11</categoryId>
+				<picture>http://fasteda.ru/data/big/749.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Драники картофельные с беконом и сметаной</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="807" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>11</categoryId>
+				<picture>http://fasteda.ru/data/big/807.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тигровые креветки с салатом инди и лимонным соусом</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="108" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12</categoryId>
+				<picture>http://fasteda.ru/data/big/108.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Солянка с мясными деликатесами</name>
+				<vendor>Корчма</vendor>
+				<description>Солёные огурцы, лук, томат, мясной набор, лимон, сметана, маслины, зелень.</description>
+			</offer>
+			<offer id="106" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12</categoryId>
+				<picture>http://fasteda.ru/data/big/106.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Уха наваристая с расстегаем рыбным</name>
+				<vendor>Корчма</vendor>
+				<description>Лосось,белорыбица, картофель, лук порей, томаты, зелень .</description>
+			</offer>
+			<offer id="109" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12</categoryId>
+				<picture>http://fasteda.ru/data/big/109.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп из белых грибов</name>
+				<vendor>Корчма</vendor>
+				<description>Грибы белыее, лук, морковь, перловая крупа, картофель, сметана
+.</description>
+			</offer>
+			<offer id="110" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12</categoryId>
+				<picture>http://fasteda.ru/data/big/110.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Борщ с мясом в хлебе</name>
+				<vendor>Корчма</vendor>
+				<description>Свекла, морковь, лук, капуста, чеснок, ветчина, язык отварной, буженина, зелень, сметана .</description>
+			</offer>
+			<offer id="716" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12</categoryId>
+				<picture>http://fasteda.ru/data/big/716.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриный бульон с лапшой и зеленым луком </name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1808" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12</categoryId>
+				<picture>http://fasteda.ru/data/big/1808.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Томатный суп с сыром фета</name>
+				<vendor>Корчма</vendor>
+				<description>Томаты, лук, чеснок, сыр фета, кедровые орехи, соус песто.</description>
+			</offer>
+			<offer id="2315" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>12</categoryId>
+				<picture>http://fasteda.ru/data/big/2315.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гороховый суп с копченостями</name>
+				<vendor>Корчма</vendor>
+				<description>Горох, морковь, картофель, свинина копченая, томаты черри, зеленый лук
+.</description>
+			</offer>
+			<offer id="12420" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/12420.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тушеные языки ягненка с травами и картофелем</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12419" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/12419.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Говяжий язык на гриле с горчичным соусом </name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12421" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/12421.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареный кукурузный цыпленок в чесночном соусе и трюфельным маслом</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12422" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/12422.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Утиная ножка с картофельным пюре и печеным чесноком</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="92" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/92.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк лосося на решетке с грейпфрутовым маслом и свежими травами </name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2309" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/2309.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареная дорада на решетке с тимьяном</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="99" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/99.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриные котлеты с грибным соусом </name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="100" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/100.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из лосося</name>
+				<vendor>Корчма</vendor>
+				<description>Маринованное филе семги, жареное на вертеле. Подается с соусом Тар-тар.</description>
+			</offer>
+			<offer id="101" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из свинины</name>
+				<vendor>Корчма</vendor>
+				<description>Подается на лаваше с шашлычным соусом и овощным гарниром.</description>
+			</offer>
+			<offer id="102" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/102.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из баранины</name>
+				<vendor>Корчма</vendor>
+				<description>Подается на лаваше с овощным гарниром и шашлычным соусом .</description>
+			</offer>
+			<offer id="1822" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/1822.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Телячья печень в соусе из белых грибов</name>
+				<vendor>Корчма</vendor>
+				<description>Подается с картофельным пюре, с зеленым луком и печеной паприкой
+.</description>
+			</offer>
+			<offer id="103" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/103.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из куриного филе</name>
+				<vendor>Корчма</vendor>
+				<description>Подается на лаваше с соусом кари и овощным гарниром.</description>
+			</offer>
+			<offer id="104" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/104.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык овощной</name>
+				<vendor>Корчма</vendor>
+				<description>Томаты, лук, паприка, баклажан, цукини, обжареные на углях, подаются с шашлычным соусом .</description>
+			</offer>
+			<offer id="1821" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/1821.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк из австралийской говядины</name>
+				<vendor>Корчма</vendor>
+				<description>Подается с соусом Порто .</description>
+			</offer>
+			<offer id="744" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/744.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свиное филе, запеченное в травах с соусом Чоризо</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1823" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/1823.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Люля-кебаб из баранины</name>
+				<vendor>Корчма</vendor>
+				<description>Рубленая баранина со специями, приготовленная на мангале; подается на лаваше, с запеченными томатами и баклажанами, маринованным луком и шашлычным соусом
+.</description>
+			</offer>
+			<offer id="2303" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/2303.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Корейка баранины с соусом из томатов</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2306" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>294</categoryId>
+				<picture>http://fasteda.ru/data/big/2306.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свиные ребра, запеченные с розмарином</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12423" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>296</categoryId>
+				<picture>http://fasteda.ru/data/big/12423.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареный картофель с лисичками и домашней сметаной</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12424" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>296</categoryId>
+				<picture>http://fasteda.ru/data/big/12424.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареный картофель ратте с белыми грибами и сметаной</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11559" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>296</categoryId>
+				<picture>http://fasteda.ru/data/big/11559.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ассорти дикого риса и басмати</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1836" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>296</categoryId>
+				<picture>http://fasteda.ru/data/big/1836.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Корчма</vendor>
+				<description>160 гр.</description>
+			</offer>
+			<offer id="1838" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>296</categoryId>
+				<picture>http://fasteda.ru/data/big/1838.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи сезонные</name>
+				<vendor>Корчма</vendor>
+				<description>Томаты, огурцы, редис, паприка, зелень, заправка на ваш выбор(330/40 гр).</description>
+			</offer>
+			<offer id="2301" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>296</categoryId>
+				<picture>http://fasteda.ru/data/big/2301.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель отварной</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3412" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>238</categoryId>
+				<picture>http://fasteda.ru/data/big/3412.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Полубагет выпечной</name>
+				<vendor>Корчма</vendor>
+				<description>Со шпинатом или чесночно-сырной начинкой.</description>
+			</offer>
+			<offer id="1312" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>145</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>238</categoryId>
+				<picture>http://fasteda.ru/data/big/1312.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хлебная корзинка с ароматным маслом</name>
+				<vendor>Корчма</vendor>
+				<description>Булочка французская, с кунжутом, булочка 5 злаков и солодовый хлеб. Подается с маслом с чесноком, с зеленью и паприкой(160/30 гр).</description>
+			</offer>
+			<offer id="1313" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>238</categoryId>
+				<picture>http://fasteda.ru/data/big/1313.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лаваш тонкий</name>
+				<vendor>Корчма</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="1832" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>238</categoryId>
+				<picture>http://fasteda.ru/data/big/1832.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Булочка из печи на ваш выбор</name>
+				<vendor>Корчма</vendor>
+				<description>Французская, мультизлаковая, пражская, с кунжутом на выбор (40 гр).</description>
+			</offer>
+			<offer id="789" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/789.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Домашний чизкейк с соусом из манго</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="790" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/790.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Домашнее варенье</name>
+				<vendor>Корчма</vendor>
+				<description>Клубничное, малиновое,черносмородиновое(50 гр).</description>
+			</offer>
+			<offer id="795" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/795.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с медом</name>
+				<vendor>Корчма</vendor>
+				<description>3шт/150/50 гр.</description>
+			</offer>
+			<offer id="796" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/796.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины со сметаной</name>
+				<vendor>Корчма</vendor>
+				<description>3шт/150/50 гр.</description>
+			</offer>
+			<offer id="797" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/797.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с маслом</name>
+				<vendor>Корчма</vendor>
+				<description>3шт/150/50 гр.</description>
+			</offer>
+			<offer id="798" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/798.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины с вареньем</name>
+				<vendor>Корчма</vendor>
+				<description>3шт/150/50 гр.</description>
+			</offer>
+			<offer id="799" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блины со сгущенным молоком</name>
+				<vendor>Корчма</vendor>
+				<description>3шт/150/50 гр.</description>
+			</offer>
+			<offer id="803" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/803.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тирамису</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="805" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фруктовая тарелка с шоколадным соусом</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="806" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>121</categoryId>
+				<picture>http://fasteda.ru/data/big/806.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Домашние эклеры</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12501" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>136</categoryId>
+				<picture>http://fasteda.ru/data/big/12501.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пиво безалкогольное пшеничное Шнайдер Вайс (Германия)</name>
+				<vendor>Корчма</vendor>
+				<description> 0,33 л.</description>
+			</offer>
+			<offer id="3403" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>136</categoryId>
+				<picture>http://fasteda.ru/data/big/3403.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Морс клюквенный 0,5 л</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3404" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>136</categoryId>
+				<picture>http://fasteda.ru/data/big/3404.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Квас хлебный 0,5 л</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3405" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>136</categoryId>
+				<picture>http://fasteda.ru/data/big/3405.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пиво Баклер безалкогольное бут. 0,33 л</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3406" available="true">
+				<url>http://fasteda.ru/menu/kor/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>136</categoryId>
+				<picture>http://fasteda.ru/data/big/3406.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соки свежевыжатые 0,2 л</name>
+				<vendor>Корчма</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

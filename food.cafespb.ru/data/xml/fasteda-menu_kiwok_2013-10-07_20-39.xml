@@ -1,0 +1,2382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:39">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1374">Готовые ВОКи</category>
+			<category id="1375">Салаты</category>
+			<category id="1377">Супы</category>
+			<category id="1382">Горячие закуски</category>
+			<category id="1401">ВОК основы начинки соусы</category>
+			<category id="1378">Горячие блюда</category>
+			<category id="1376">Рекомендуем</category>
+			<category id="1379">Суши</category>
+			<category id="1380">Суши сеты</category>
+			<category id="1381">Роллы</category>
+			<category id="1383">Криспы и роллы</category>
+			<category id="1384">Десерты</category>
+			<category id="1385">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="7808" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7808.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КИВОК БИГ СИТИ 550 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Яичная лапша, свежие овощи, большая порция курицы, двойная порция ананасов, кисло-сладкий соус.</description>
+			</offer>
+			<offer id="7809" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7809.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КИВОК СИТИ 430 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Яичная лапша, свежие овощи, курица, ананас, кисло-сладкий соус.</description>
+			</offer>
+			<offer id="7814" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7814.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КИВОК ЧП 430 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша перечная, свежие овощи, говядина, шампиньоны, соус ЧП.</description>
+			</offer>
+			<offer id="7812" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7812.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кивок Стар 430 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша удон, свежие овощи, свинина, сыр, соус карри.</description>
+			</offer>
+			<offer id="7810" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7810.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КИВОК ОКЕАН 430 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша фунчоза, свежие овощи, морепродукты, черри, устричный соус.</description>
+			</offer>
+			<offer id="7805" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7805.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КИВОК ДРАЙВ 450 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Фирменная перечная лапша, большая порция говядины, капуста, лук-порей, стебель сельдерея, соус терияки.</description>
+			</offer>
+			<offer id="7813" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7813.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кивок Самурай 430 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша ВАСАБИ, свежие овощи, курица, черри, соус терияки.</description>
+			</offer>
+			<offer id="7807" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7807.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кивок Канары 450 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Диетический вариант! Лапша удон, большая порция куриного филе, лук-порей, стебель сельдерея, паприка, кисло-сладкий соус.</description>
+			</offer>
+			<offer id="7811" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7811.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кивок Анимэ 430 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша КИВОК, свежие овощи, говядина, шиитаки, кисло-сладкий соус.</description>
+			</offer>
+			<offer id="7806" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7806.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КИВОК МЕГА 430 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Рис, свежие овощи, свинина, шампиньоны, соус терияки.</description>
+			</offer>
+			<offer id="7797" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7797.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КИВОК Стамбул 520 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Огромная порция свежих баклажанов с говядиной, суши-рисом и фирменным соусом ЧП.</description>
+			</offer>
+			<offer id="7801" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7801.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кивок Марабу 560 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Филе куриное, лапша рисовая, огурцы свежие, паприка, черри, лук репчатый, лук зеленый, соус имбирный.</description>
+			</offer>
+			<offer id="7800" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7800.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кивок Афродита 390 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Свежие паприка, цуккини, морковь, брокколи, стручковая фасоль, лук, шампиньоны, сыр Фета, кунжут белый, оливковое масло.</description>
+			</offer>
+			<offer id="7796" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7796.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КИВОК СВЕТОФОР 300 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>СПЕЦИАЛЬНО ДЛЯ ДЕТЕЙ! Три цветных вида лапши ручной работы: красная, желтая и зеленая, курица, свежие овощи, кисло-сладкий соус.</description>
+			</offer>
+			<offer id="7798" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7798.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кивок Дикий Буйвол 480 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Говядина, стручковая фасоль, шампиньоны, смесь золотистого и дикого риса, соус терияки.</description>
+			</offer>
+			<offer id="12355" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/12355.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Вок с собой и говядиной</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша гречневая соба, говядина, свежие овощи, паприка, сыр, шиитаке, соус.</description>
+			</offer>
+			<offer id="7799" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7799.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кивок Вегетарианец с чесноком 430 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша рисовая, свежие морковь, паприка, лук, цукини, шампиньоны, сыр Тофу, кунжут белый, соус чесночный.</description>
+			</offer>
+			<offer id="7802" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7802.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острая говядина с картошкой и салат 600 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>большая порция говядины, обжаренный картофель, зелень, острый соус, салат из томатов черри, огурцов и зелени, со специальным соусом от шеф-повара.</description>
+			</offer>
+			<offer id="7803" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7803.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Казан-Вок с картофелем и бараниной в красном вине 550 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Ароматная баранина в красном вине, большая порция свежих овощей: картофель, морковь, баклажаны, паприка, черри, свежий и маринованный лук, соус специальный острый.</description>
+			</offer>
+			<offer id="7804" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7804.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Казан-Вок с рисом и курицей в красном вине 550 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Курица в красном вине, рис, свежие баклажаны, морковь, паприка, черри, лук свежий и маринованный, соус терияки.</description>
+			</offer>
+			<offer id="7815" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7815.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис с говядиной 440 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Суши-рис, говядина, лук репчатый, лук порей, свежее куриное яйцо, соус терияки.</description>
+			</offer>
+			<offer id="7816" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7816.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис с курицей 440 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Суши-рис, куриное филе, лук репчатый, лук порей, свежее куриное яйцо, соус терияки.</description>
+			</offer>
+			<offer id="7817" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7817.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис со свининой 440 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Суши-рис, свинина, лук репчатый, лук порей, свежее куриное яйцо, соус терияки.</description>
+			</offer>
+			<offer id="7818" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7818.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис с креветками 440 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Суши-рис, креветки, лук репчатый, лук порей, свежее куриное яйцо, соус терияки.</description>
+			</offer>
+			<offer id="7819" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1374</categoryId>
+				<picture>http://fasteda.ru/data/big/7819.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис с лососем 440 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Рис, лосось, лук репчатый, лук порей, свежее куриное яйцо, соус терияки.</description>
+			</offer>
+			<offer id="7820" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7820.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Здоровье 160 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Свежий стебель сельдерея, морковь, яблоко, курага, чернослив.</description>
+			</offer>
+			<offer id="7821" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7821.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Морской 150 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лосось слабосоленый со свекольным соком, морковь свежая, сыр Дор-блю, сок лимона, оливковое масло.</description>
+			</offer>
+			<offer id="7822" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7822.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>САЛАТ ФЕРМЕРСКИЙ 160 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Филе куриное, чечевица, маслины, свежие черри, ростки сои и красный репчатый лук, оливковое масло, сок лимона.</description>
+			</offer>
+			<offer id="7823" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7823.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>САЛАТ С ЛОСОСЕМ И РУККОЛОЙ 170 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лосось слабосоленый со свекольным соком, свежая руккола, огурец и черри, соус мятно-йогуртовый, оливковое масло.</description>
+			</offer>
+			<offer id="7824" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7824.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>САЛАТ С РУККОЛОЙ, КРЕВЕТКАМИ И АВОКАДО 160 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Свежая руккола, лайм, черри и авокадо, креветки, оливковое масло, морская соль.</description>
+			</offer>
+			<offer id="7825" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7825.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>САЛАТ ТОСКАНА 130 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Свежие руккола и черри, маслины, сыр фета, соус бальзамический.</description>
+			</offer>
+			<offer id="7827" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7827.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>САЛАТ ЦЕЗАРЬ С КУРИЦЕЙ 200 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Свежий салат романо, салат айсберг, черри, филе куриное, гренки, сыр пармезан, соус цезарь.</description>
+			</offer>
+			<offer id="7826" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7826.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>САЛАТ ЦЕЗАРЬ С КРЕВЕТКАМИ 190 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Свежий салат романо, салат айсберг, черри, креветки тигровые, гренки, сыр пармезан, соус цезарь.</description>
+			</offer>
+			<offer id="7828" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7828.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>САЛАТ ГРЕЧЕСКИЙ 170 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Свежий салат айсберг, черри, болгарский перец и красный репчатый лук, маслины, сыр фета, соус бальзамический.</description>
+			</offer>
+			<offer id="7829" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7829.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат витаминный 150 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Морковь, капуста, масло растительное, соль, сахар.</description>
+			</offer>
+			<offer id="7834" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7834.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат из фунчозы 220 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Фунчоза, огурец, морковь, паприка, лимон, соевый соус, кунжут.</description>
+			</offer>
+			<offer id="7835" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7835.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Чука 160 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли чука, соус ореховый, кунжут белый, лимон.</description>
+			</offer>
+			<offer id="7832" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7832.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с копченым лососем 160 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лосось, редька, огурец, перец, масло кунжутное, авокадо, салат, лимон, кунжут.</description>
+			</offer>
+			<offer id="7833" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7833.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с копченым угрем 160 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Угорь, редька, огурец, перец, масло кунжутное, авокадо, салат, лимон, кунжут.</description>
+			</offer>
+			<offer id="7831" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1375</categoryId>
+				<picture>http://fasteda.ru/data/big/7831.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с морепродуктами 250 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>салат Айсберг, свежая морковь, паприка, креветки тигровые, мидии салатные, кальмар, заправка кунжутная.</description>
+			</offer>
+			<offer id="7842" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1377</categoryId>
+				<picture>http://fasteda.ru/data/big/7842.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тыквенный суп с тигровой креветкой</name>
+				<vendor>Kiwok</vendor>
+				<description>Тыква, креветки, сливки, бульон, порей, специи.</description>
+			</offer>
+			<offer id="7843" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1377</categoryId>
+				<picture>http://fasteda.ru/data/big/7843.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КРЕМ-СУП ГРИБНОЙ</name>
+				<vendor>Kiwok</vendor>
+				<description>Свежие шампиньоны и репчатый лук, молоко, сливки.</description>
+			</offer>
+			<offer id="7844" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1377</categoryId>
+				<picture>http://fasteda.ru/data/big/7844.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп с белыми грибами и сметаной</name>
+				<vendor>Kiwok</vendor>
+				<description>Грибы: белые, шампиньоны, шиитаки; паприка, бульон, сметана.</description>
+			</offer>
+			<offer id="7845" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1377</categoryId>
+				<picture>http://fasteda.ru/data/big/7845.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мисо суп</name>
+				<vendor>Kiwok</vendor>
+				<description>С сыром Тофу и зеленым луком.</description>
+			</offer>
+			<offer id="7846" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1377</categoryId>
+				<picture>http://fasteda.ru/data/big/7846.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КИМ-ЧИ</name>
+				<vendor>Kiwok</vendor>
+				<description>бульон ким-чи, яйцо, водоросли, лук порей, кунжут.</description>
+			</offer>
+			<offer id="7847" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1377</categoryId>
+				<picture>http://fasteda.ru/data/big/7847.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Унаги-широ суп</name>
+				<vendor>Kiwok</vendor>
+				<description>Сливочный суп с угрем, рисом, зеленым луком и кунжутом.</description>
+			</offer>
+			<offer id="7848" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1377</categoryId>
+				<picture>http://fasteda.ru/data/big/7848.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КУРИНЫЙ БУЛЬОН</name>
+				<vendor>Kiwok</vendor>
+				<description>Куриный бульон, свежие стебель сельдерея, морковь, лук и зелень.</description>
+			</offer>
+			<offer id="7909" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1382</categoryId>
+				<picture>http://fasteda.ru/data/big/7909.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тигровые креветки темпура</name>
+				<vendor>Kiwok</vendor>
+				<description>креветки, кляр, сухари панко, соус унаги, лимон.</description>
+			</offer>
+			<offer id="7910" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1382</categoryId>
+				<picture>http://fasteda.ru/data/big/7910.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крылышки с хрустящей корочкой</name>
+				<vendor>Kiwok</vendor>
+				<description>Куриные крылышки,фирменный кляр, специи, томатный пряный соус.</description>
+			</offer>
+			<offer id="7911" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1382</categoryId>
+				<picture>http://fasteda.ru/data/big/7911.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тигровые креветки-гриль</name>
+				<vendor>Kiwok</vendor>
+				<description>креветки, соус терияки, суши рис, лимон.</description>
+			</offer>
+			<offer id="7912" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1382</categoryId>
+				<picture>http://fasteda.ru/data/big/7912.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченные мидии игай яки</name>
+				<vendor>Kiwok</vendor>
+				<description>Мидии.</description>
+			</offer>
+			<offer id="7787" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1401</categoryId>
+				<picture>http://fasteda.ru/data/big/7787.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша яичная 280 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша классическая яичная, свежие овощи: брокколи, сладкий перец, стручковая фасоль, капуста, морковь.</description>
+			</offer>
+			<offer id="7788" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1401</categoryId>
+				<picture>http://fasteda.ru/data/big/7788.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша Удон 280 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Широкая пшеничная лапша удон, свежие овощи: брокколи, сладкий перец, стручковая фасоль, капуста, морковь.</description>
+			</offer>
+			<offer id="7789" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1401</categoryId>
+				<picture>http://fasteda.ru/data/big/7789.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша Фунчоза 280 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Тонкая прозрачная лапша фунчоза (стеклянная лапша), свежие овощи: брокколи, сладкий перец, стручковая фасоль, капуста, морковь.</description>
+			</offer>
+			<offer id="7790" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1401</categoryId>
+				<picture>http://fasteda.ru/data/big/7790.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша перечная 280 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша ПЕРЕЧНАЯ ручной работы с добавлением черного перца, свежие овощи: брокколи, сладкий перец, стручковая фасоль, капуста, морковь.</description>
+			</offer>
+			<offer id="7791" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1401</categoryId>
+				<picture>http://fasteda.ru/data/big/7791.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша Васаби 280 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Зеленая лапша ВАСАБИ ручной работы с добавлением васаби, свежие овощи: брокколи, сладкий перец, стручковая фасоль, капуста, морковь.</description>
+			</offer>
+			<offer id="7792" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1401</categoryId>
+				<picture>http://fasteda.ru/data/big/7792.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша киВок 280 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Красная лапша КИВОК ручной работы с добавлением свекольного сока, свежие овощи: брокколи, сладкий перец, стручковая фасоль, капуста, морковь.</description>
+			</offer>
+			<offer id="7793" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1401</categoryId>
+				<picture>http://fasteda.ru/data/big/7793.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лапша гречневая СОБА 280 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Лапша гречневая СОБА, свежие овощи: брокколи, сладкий перец, стручковая фасоль, капуста, морковь.</description>
+			</offer>
+			<offer id="7794" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1401</categoryId>
+				<picture>http://fasteda.ru/data/big/7794.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис с овощами 280 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Белый рис, яйцо, свежие овощи: брокколи, сладкий перец, стручковая фасоль, капуста, хрустящая морковь.</description>
+			</offer>
+			<offer id="7795" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1401</categoryId>
+				<picture>http://fasteda.ru/data/big/7795.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощной набор 300 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Больше свежих овощей: брокколи, паприка, стручковая фасоль, капуста, морковь, черри, шампиньоны, грибы шиитаке.</description>
+			</offer>
+			<offer id="7849" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1378</categoryId>
+				<picture>http://fasteda.ru/data/big/7849.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ГОВЯДИНА ОТВАРНАЯ С ОВОЩАМИ 270 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Сочная диетическая отварная говядина, свежайшая цветная и брюссельская капуста, молодой зеленый горошек, свежие черри, соус бальзамический.</description>
+			</offer>
+			<offer id="7850" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1378</categoryId>
+				<picture>http://fasteda.ru/data/big/7850.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ЛОСОСЬ НА ПАРУ С ОВОЩАМИ 360 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Нежнейший диетический лососевый стейк, свежие цукини, морковь, болгарский перец и баклажан, фирменный имбирно-цитрусовый соус.</description>
+			</offer>
+			<offer id="7853" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1378</categoryId>
+				<picture>http://fasteda.ru/data/big/7853.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ФИЛЕ ИНДЕЙКИ С РИСОМ И ОВОЩАМИ 270 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Филе индейки, рис со свежими овощами, свежая кинза, оригинальный имбирно-соевый соус.</description>
+			</offer>
+			<offer id="7851" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1378</categoryId>
+				<picture>http://fasteda.ru/data/big/7851.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КУРИЦА НА ПАРУ С РИСОМ 260 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Диетическое куриное филе, смесь полезного дикого и белого риса, свежие овощи, фирменный йогуртово-огурцовый соус.</description>
+			</offer>
+			<offer id="7852" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1378</categoryId>
+				<picture>http://fasteda.ru/data/big/7852.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КОТЛЕТКИ КУРИНЫЕ С ПЮРЕ 290 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Нежнейшие котлетки из куриного фарша, приготовленные на пару, домашнее картофельное пюре, фирменный соус с йогуртом и грецким орехом.</description>
+			</offer>
+			<offer id="7855" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1378</categoryId>
+				<picture>http://fasteda.ru/data/big/7855.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ОРЗОТТО ИЗ ПЕРЛОВОЙ КРУПЫ 260 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Перловая крупа со свежими цукини, морковью, болгарским перцем, баклажаном и репчатым луком, заправленная оливковым маслом.</description>
+			</offer>
+			<offer id="7854" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1378</categoryId>
+				<picture>http://fasteda.ru/data/big/7854.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ГРЕЧА С ГРИБАМИ 220 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Греча с шампиньонами, лучком и ароматной зеленью, заправленная оливковым маслом.</description>
+			</offer>
+			<offer id="7856" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1378</categoryId>
+				<picture>http://fasteda.ru/data/big/7856.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>РИС С ОВОЩАМИ В СОЕВОМ СОУСЕ 310 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Рис со свежими цукини, морковью, болгарским перцем, баклажаном и репчатым луком, заправленный оливковым маслом и соевым соусом.</description>
+			</offer>
+			<offer id="7836" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>1500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1376</categoryId>
+				<picture>http://fasteda.ru/data/big/7836.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>3 плюс 3</name>
+				<vendor>Kiwok</vendor>
+				<description>Три любых готовых коробочки с фирменной лапшой (Сити, ЧП, Анимэ, Самурай) ПЛЮС три ролла Калифорния или Филадельфия.</description>
+			</offer>
+			<offer id="7840" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>2000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1376</categoryId>
+				<picture>http://fasteda.ru/data/big/7840.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>5 плюс 5</name>
+				<vendor>Kiwok</vendor>
+				<description>Пять любых готовых коробочек с фирменной лапшой (Сити, ЧП, Анимэ, Самурай) ПЛЮС пять роллов Калифорния или Филадельфия.</description>
+			</offer>
+			<offer id="7837" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1376</categoryId>
+				<picture>http://fasteda.ru/data/big/7837.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>СУШИ-ЛАНЧ ПО БУДНЯМ 11:00-16:00</name>
+				<vendor>Kiwok</vendor>
+				<description>Ароматный куриный бульон с удоном, свежий ролл с авокадо, чукой или огурцом, фирменный салат КИВОК или ВИТАМИННЫЙ, морс или зеленый чай 0,5 л. К любому бизнес-ланчу можно приобрести напиток 0.5 л за 40 руб.</description>
+			</offer>
+			<offer id="7838" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1376</categoryId>
+				<picture>http://fasteda.ru/data/big/7838.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ВОК-ЛАНЧ ПО БУДНЯМ 11:00-16:00</name>
+				<vendor>Kiwok</vendor>
+				<description>Ароматный куриный бульон с удоном, горячий вок со свининой, курицей или говядиной, фирменный салат КИВОК или ВИТАМИННЫЙ, морс или зеленый чай 0,5 л. К любому бизнес-ланчу можно приобрести напиток 0.5 л за 40 руб.</description>
+			</offer>
+			<offer id="7839" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1376</categoryId>
+				<picture>http://fasteda.ru/data/big/7839.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>МЕГА-ЛАНЧ ПО БУДНЯМ 11:00-16:00</name>
+				<vendor>Kiwok</vendor>
+				<description>Ароматный куриный бульон с удоном, горячий вок со свининой, курицей или говядиной, свежий ролл с авокадо, чукой или огурцом, фирменный салат КИВОК или ВИТАМИННЫЙ, морс или зеленый чай 0,5 л. К любому бизнес-ланчу можно приобрести напиток 0.5 л за 40 руб.</description>
+			</offer>
+			<offer id="7857" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7857.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сяке (лосось)</name>
+				<vendor>Kiwok</vendor>
+				<description>Всего: 40 руб.</description>
+			</offer>
+			<offer id="7863" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7863.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кунсей (копченый лосось)</name>
+				<vendor>Kiwok</vendor>
+				<description>Всего: 40 руб.</description>
+			</offer>
+			<offer id="7860" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7860.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чука (Кайсо)</name>
+				<vendor>Kiwok</vendor>
+				<description>Всего: 40 руб.</description>
+			</offer>
+			<offer id="7858" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7858.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Унаги (угорь копченый)</name>
+				<vendor>Kiwok</vendor>
+				<description>Всего: 80 руб.</description>
+			</offer>
+			<offer id="7864" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7864.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тобико (икра летучей рыбы)</name>
+				<vendor>Kiwok</vendor>
+				<description>Всего: 60 руб.</description>
+			</offer>
+			<offer id="7859" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7859.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Эби (креветка)</name>
+				<vendor>Kiwok</vendor>
+				<description>Всего: 80 руб.</description>
+			</offer>
+			<offer id="7861" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7861.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ТУНА (ТУНЕЦ)</name>
+				<vendor>Kiwok</vendor>
+				<description>Всего: 80 руб.</description>
+			</offer>
+			<offer id="7862" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7862.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хотате (морской гребешок)</name>
+				<vendor>Kiwok</vendor>
+				<description>Всего: 70 руб.</description>
+			</offer>
+			<offer id="7866" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7866.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые суши на выбор</name>
+				<vendor>Kiwok</vendor>
+				<description>Острые суши: с лососем, гребешком, крабом, кальмаром, угрем, креветкой, тунцом или окунем по 90 руб.</description>
+			</offer>
+			<offer id="7865" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1379</categoryId>
+				<picture>http://fasteda.ru/data/big/7865.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченные суши на выбор</name>
+				<vendor>Kiwok</vendor>
+				<description>Запеченные суши: с лососем, гребешком, крабом, кальмаром, мидиями, угрем, креветкой, тунцом или окунем по 90 руб.</description>
+			</offer>
+			<offer id="12364" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/12364.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор для себя</name>
+				<vendor>Kiwok</vendor>
+				<description>Ролл Калифорния с крабом, тонкий ролл с огурцом, тонкий ролл с копченым лососем, по две суши с лососем, с тунцом, с угрем
+
+970 гр.</description>
+			</offer>
+			<offer id="12365" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/12365.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор классический</name>
+				<vendor>Kiwok</vendor>
+				<description>Роллы Филадельфия, Филадельфия унаги, Калифорния с крабом.</description>
+			</offer>
+			<offer id="12366" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/12366.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор на двоих</name>
+				<vendor>Kiwok</vendor>
+				<description>Роллы Филадельфия, Филадельфия мэджик, тонкие роллы с чуккой, с копченым лососем, с тунцом, с лососем
+(1330 гр).</description>
+			</offer>
+			<offer id="12367" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>2500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/12367.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Большой запеченный набор</name>
+				<vendor>Kiwok</vendor>
+				<description>Состав: запеченные суши по две штуки - мидии, кальмар, краб, лосось, морской окунь, креветка - всего 12 штук, роллы запеченные: с крабом и гребешком, с креветкой, с мидиями, с угрем и кальмаром - по половинке, с шиитаке, с начинкой угорь, с начинкой лосось и лосось темпура - по целому.</description>
+			</offer>
+			<offer id="12368" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>3900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/12368.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Большое ассорти</name>
+				<vendor>Kiwok</vendor>
+				<description>Роллы Филадельфия, Филадельфия гриль, Филадельфия кунсей, Дуэт, Филадельфия унаги, Калифорния с крабом, Бонито, Окинава, Кивок, острый ролл с крабом, запеченнный ролл с шиитаке, по 2 суши с угрем, с тобико, с тунцом, с лососем, с острым крабом.</description>
+			</offer>
+			<offer id="12369" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>5900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/12369.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мега микс</name>
+				<vendor>Kiwok</vendor>
+				<description>Огромный набор суши и роллов для большой и дружной компании!
+ Состав: роллы Филадельфия, Филадельфия унаги, Чайна таун, Калифорния с крабом, Ясай маки 2 шт., Кивок, Бонито, специальный острый с лососем, тонкие роллы с чуккой, с тунцом, с креветкой, с копченым лососем, с угрем, по половинке мягких роллов с креветкой, с лососем, с тунцом, с крабом, по половинке острых роллов с гребешком, с кальмаром, с копченым лососем, с угрем; по 2 суши острые мидии, острый кальмар, острый краб, острый лосось, острый окунь, острый тунец, острый угорь, острая креветка, морской гребешок, чукка, с лососем, тунцом и копченым лососем, с угрем, с креветкой.</description>
+			</offer>
+			<offer id="7868" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/7868.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>ВОК-ЛАНЧ ПО БУДНЯМ 11:00-16:00</name>
+				<vendor>Kiwok</vendor>
+				<description>Ароматный куриный бульон с удоном, горячий вок со свининой, курицей или говядиной, фирменный салат КИВОК или ВИТАМИННЫЙ, морс или зеленый чай 0,5 л. К любому бизнес-ланчу можно приобрести напиток 0.5 л за 40 руб.</description>
+			</offer>
+			<offer id="7867" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/7867.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>СУШИ-ЛАНЧ ПО БУДНЯМ 11:00-16:00</name>
+				<vendor>Kiwok</vendor>
+				<description>Ароматный куриный бульон с удоном, свежий ролл с авокадо, чукой или огурцом, фирменный салат КИВОК или ВИТАМИННЫЙ, морс или зеленый чай 0,5 л. К любому бизнес-ланчу можно приобрести напиток 0.5 л за 40 руб.</description>
+			</offer>
+			<offer id="7869" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>349</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/7869.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>МЕГА-ЛАНЧ ПО БУДНЯМ 11:00-16:00</name>
+				<vendor>Kiwok</vendor>
+				<description>Ароматный куриный бульон с удоном, горячий вок со свининой, курицей или говядиной, свежий ролл с авокадо, чукой или огурцом, фирменный салат КИВОК или ВИТАМИННЫЙ, морс или зеленый чай 0,5 л. К любому бизнес-ланчу можно приобрести напиток 0.5 л за 40 руб.</description>
+			</offer>
+			<offer id="7872" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/7872.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор с лососем</name>
+				<vendor>Kiwok</vendor>
+				<description>Ролл Филадельфия, суши с лососем 2шт., ролл с лососем, филадельфия суши 2шт.</description>
+			</offer>
+			<offer id="12363" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/12363.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор мини</name>
+				<vendor>Kiwok</vendor>
+				<description>По половинке тонкого ролла с тунцом, с лососем, с огурцом, с угрем; суши с лососем, с копченым лососем, с тунцом, с гребешком (575 гр).</description>
+			</offer>
+			<offer id="7871" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/7871.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Постный набор</name>
+				<vendor>Kiwok</vendor>
+				<description>Ясай маки, ролл с огурцом, ролл с авокадо, ролл с чуккой.</description>
+			</offer>
+			<offer id="7870" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>700</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/7870.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Запеченный суши сет</name>
+				<vendor>Kiwok</vendor>
+				<description>Запеченные суши: с лососем, с крабом, с угрем, с креветкой, с гребешком, 1/2 ролла ассорти с лососем, 1/2 ролла с мидиями.</description>
+			</offer>
+			<offer id="7874" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>1000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/7874.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор с угрем</name>
+				<vendor>Kiwok</vendor>
+				<description>Филадельфия унаги, тонкий ролл с угрем, 2 суши угорь, 2 тизу суши угорь.</description>
+			</offer>
+			<offer id="7873" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1380</categoryId>
+				<picture>http://fasteda.ru/data/big/7873.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острый набор</name>
+				<vendor>Kiwok</vendor>
+				<description>Острый ролл с лососем, 2 острых суши с угрем, 2 острых суши с тунцом, 2 острых суши с креветкой.</description>
+			</offer>
+			<offer id="12359" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/12359.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия лайт</name>
+				<vendor>Kiwok</vendor>
+				<description>Филадельфия Лайт – это всеми любимый ролл Филадельфия с лососевой шапочкой. 
+
+ Состав: лосось, сыр филадельфия, огурец.</description>
+			</offer>
+			<offer id="12360" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/12360.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия ВИП</name>
+				<vendor>Kiwok</vendor>
+				<description>Филадельфия Вип — классическая Филадельфия с добавлением нежного авокадо, таящего во рту и аппетитной икрой тобико. Увеличенная порция Филадельфии Классик.</description>
+			</offer>
+			<offer id="7900" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7900.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия</name>
+				<vendor>Kiwok</vendor>
+				<description>лосось, сыр филадельфия, огурец.</description>
+			</offer>
+			<offer id="7899" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7899.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия Мэджик</name>
+				<vendor>Kiwok</vendor>
+				<description>сливочный сыр, крабовый микс, огурец, лосось.</description>
+			</offer>
+			<offer id="7898" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7898.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия с лососем гриль</name>
+				<vendor>Kiwok</vendor>
+				<description>сыр, огурец, лосось гриль.</description>
+			</offer>
+			<offer id="7901" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7901.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Филадельфия Унаги</name>
+				<vendor>Kiwok</vendor>
+				<description>угорь, сыр филадельфия, авокадо,соус унаги,кунжут.</description>
+			</offer>
+			<offer id="12361" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/12361.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния с крабом</name>
+				<vendor>Kiwok</vendor>
+				<description>крабовый микс, соус, огурец, авокадо, икра тобико.</description>
+			</offer>
+			<offer id="7904" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7904.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния с лососем</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7886" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7886.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось темпура</name>
+				<vendor>Kiwok</vendor>
+				<description>Лосось,огурец, сыр филадельфия, сухари панко.</description>
+			</offer>
+			<offer id="7885" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7885.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Креветка темпура ролл</name>
+				<vendor>Kiwok</vendor>
+				<description>Креветка, огурец, майонез, сухари панко.</description>
+			</offer>
+			<offer id="7884" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7884.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Калифорния Темпура</name>
+				<vendor>Kiwok</vendor>
+				<description>Крабовый микс, авокадо, икра тобико, сухари панко.</description>
+			</offer>
+			<offer id="7875" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7875.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бангкок</name>
+				<vendor>Kiwok</vendor>
+				<description>Большой ролл 10 кусочков: сливочный сыр, крабовый микс, паприка, огурец, кунжут, лайм, спайси.</description>
+			</offer>
+			<offer id="7876" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7876.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Норвежский</name>
+				<vendor>Kiwok</vendor>
+				<description>Большой ролл 10 кусочков: сливочный сыр, лосось, паприка, огурец, икра тобико, кунжут, стружка тунца.</description>
+			</offer>
+			<offer id="7877" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7877.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чайна Таун</name>
+				<vendor>Kiwok</vendor>
+				<description>Большой ролл 10 кусочков: лосось, сливочный сыр, паприка, огурец, угорь, кунжут, спайси, соус унаги.</description>
+			</offer>
+			<offer id="7879" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7879.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Фудзияма</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли нори, рис, омлет, снежный краб, огурец, лосось, спайси соус.</description>
+			</offer>
+			<offer id="7878" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7878.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Окинава</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли нори, рис, омлет, сливочный сыр, огурец, копченый лосось, кунжут белый.</description>
+			</offer>
+			<offer id="7880" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7880.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Дуэт</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли нори, рис, сливочный сыр, огурец, копченый лосось, угорь, кунжут.</description>
+			</offer>
+			<offer id="7902" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7902.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бонито</name>
+				<vendor>Kiwok</vendor>
+				<description>копченый лосось, сыр филадельфия, огурец, стружка тунца.</description>
+			</offer>
+			<offer id="7896" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7896.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>KiWok ролл</name>
+				<vendor>Kiwok</vendor>
+				<description>сыр, огурец, копченый лосось, кунжут, тобико.</description>
+			</offer>
+			<offer id="7882" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7882.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Ясай маки</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли нори, рис, лист салата, сливочный сыр, огурец, перец болгарский, томат, авокадо.</description>
+			</offer>
+			<offer id="7881" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7881.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Острый специальный ролл с лососем</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли нори, рис, омлет, сливочный сыр, огурец, лосось, спайси соус.</description>
+			</offer>
+			<offer id="7883" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7883.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Сливочный краб</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли нори, рис, снежный краб, огурец, авокадо, икра тобико, креветка.</description>
+			</offer>
+			<offer id="7890" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7890.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченный ролл с крабом</name>
+				<vendor>Kiwok</vendor>
+				<description>Сыр, огурец, крабовый микс, сыр гауда.</description>
+			</offer>
+			<offer id="7887" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7887.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченный ролл с грибами шиитаке</name>
+				<vendor>Kiwok</vendor>
+				<description>Сыр, огурец, омлет, шиитаке, яки соус.</description>
+			</offer>
+			<offer id="7893" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7893.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Запеченный ролл с крабом и гребешком</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли нори, рис, лосось, снежный краб, гребешок, кунжут, яки соус.</description>
+			</offer>
+			<offer id="7888" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7888.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченный ролл с креветкой</name>
+				<vendor>Kiwok</vendor>
+				<description>Сыр, омлет, огурец, креветка, яки соус, тобико.</description>
+			</offer>
+			<offer id="7889" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7889.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченный ролл с угрем</name>
+				<vendor>Kiwok</vendor>
+				<description>Сыр, огурец, омлет, угорь, яки соус, кунжут.</description>
+			</offer>
+			<offer id="7892" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7892.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Запеченный ролл с угрем и кальмаром</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли нори, рис, сыр сливочный, лосось, кальмар, угорь, икра тобико, спайси соус, яки соус.</description>
+			</offer>
+			<offer id="7894" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7894.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Запеченные роллы с начинкой на выбор</name>
+				<vendor>Kiwok</vendor>
+				<description>С начинкой на выбор: лосось - 300 р, угорь, креветка, гребешок - 350 р.</description>
+			</offer>
+			<offer id="7891" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7891.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Запеченный ролл с мидиями</name>
+				<vendor>Kiwok</vendor>
+				<description>Водоросли нори, рис, сыр сливочный, омлет, лосось, мидии, спайси соус, яки соус.</description>
+			</offer>
+			<offer id="7897" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7897.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Острые роллы на выбор</name>
+				<vendor>Kiwok</vendor>
+				<description>с лососем,с гребешком, с крабом, с копченным лососем по 250 руб.; с угрем 350 руб.; с креветкой, с тунцом,  по 300 руб; с кальмаром по 200 руб.</description>
+			</offer>
+			<offer id="7895" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7895.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мягкие роллы на выбор</name>
+				<vendor>Kiwok</vendor>
+				<description>с угрем 300 руб.; с лососем, копченным лососем 250 руб.; с креветкой 300 руб.; с тунцом 300 руб.; с крабом 250 руб.</description>
+			</offer>
+			<offer id="7905" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7905.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тонкие роллы на выбор</name>
+				<vendor>Kiwok</vendor>
+				<description>Тонкие роллы на выбор - с огурцом, с авокадо, с чукой.</description>
+			</offer>
+			<offer id="7906" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7906.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тонкие роллы на выбор</name>
+				<vendor>Kiwok</vendor>
+				<description>С лососем, с копченым лососем.</description>
+			</offer>
+			<offer id="7907" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7907.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тонкие роллы с гребешком</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7908" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1381</categoryId>
+				<picture>http://fasteda.ru/data/big/7908.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тонкие роллы на выбор</name>
+				<vendor>Kiwok</vendor>
+				<description>С копченым угрем, с тунцом, с креветкой.</description>
+			</offer>
+			<offer id="7914" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1383</categoryId>
+				<picture>http://fasteda.ru/data/big/7914.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КРИСП С ЛОСОСЕМ 165 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Крисп ржаной, слабосоленый лосось, соус дор-блю, свежий лист салата, свежий огурец и лимон.</description>
+			</offer>
+			<offer id="7918" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1383</categoryId>
+				<picture>http://fasteda.ru/data/big/7918.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КРИСП С ОЛИВКАМИ И ПОМИДОРАМИ 150 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Крисп ржаной, сливочный соус, свежий лист салата, помидор, оливки.</description>
+			</offer>
+			<offer id="7916" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1383</categoryId>
+				<picture>http://fasteda.ru/data/big/7916.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>КРИСП С КУРИНОЙ ГРУДКОЙ 160 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Крисп ржаной, куриное филе, сливочный соус, лист салата, огурец и помидор.</description>
+			</offer>
+			<offer id="7915" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1383</categoryId>
+				<picture>http://fasteda.ru/data/big/7915.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>РОЛЛ ПШЕНИЧНЫЙ С ЛОСОСЕМ 165 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Ролл, слабосоленый лосось, соус дор-блю, свежий лист салата, лимон.</description>
+			</offer>
+			<offer id="7919" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1383</categoryId>
+				<picture>http://fasteda.ru/data/big/7919.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>РОЛЛ С ОЛИВКАМИ И ПОМИДОРАМИ 150 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Ролл, сливочный соус, свежий лист салата, помидор, оливки.</description>
+			</offer>
+			<offer id="7917" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1383</categoryId>
+				<picture>http://fasteda.ru/data/big/7917.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>РОЛЛ С КУРИНОЙ ГРУДКОЙ 160 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Ролл, куриное филе, сливочный соус, лист салата, огурец и помидор.</description>
+			</offer>
+			<offer id="7959" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1384</categoryId>
+				<picture>http://fasteda.ru/data/big/7959.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Чизкейк классический</name>
+				<vendor>Kiwok</vendor>
+				<description>Чизкейк классический с сиропом на выбор - клубничным или вишневым.</description>
+			</offer>
+			<offer id="7960" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1384</categoryId>
+				<picture>http://fasteda.ru/data/big/7960.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>НОВИНКА! Пирожное КАРТОШКА ручной работы</name>
+				<vendor>Kiwok</vendor>
+				<description>Пирожное КАРТОШКА ручной работы!.</description>
+			</offer>
+			<offer id="7961" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1384</categoryId>
+				<picture>http://fasteda.ru/data/big/7961.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тирамису ручной работы 150 гр</name>
+				<vendor>Kiwok</vendor>
+				<description>Пирожное Тирамису ручной работы.</description>
+			</offer>
+			<offer id="7962" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1384</categoryId>
+				<picture>http://fasteda.ru/data/big/7962.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл фруктовый с клубникой</name>
+				<vendor>Kiwok</vendor>
+				<description>Сладкий сливочный сыр, клубника, киви, банан, сироп на выбор - клубничный или вишневый.</description>
+			</offer>
+			<offer id="7963" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1384</categoryId>
+				<picture>http://fasteda.ru/data/big/7963.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл фруктовый с вишней</name>
+				<vendor>Kiwok</vendor>
+				<description>Сладкий сливочный сыр, вишня, киви, банан, сироп на выбор - клубничный или вишневый.</description>
+			</offer>
+			<offer id="7964" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1384</categoryId>
+				<picture>http://fasteda.ru/data/big/7964.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл фруктовый с апельсином</name>
+				<vendor>Kiwok</vendor>
+				<description>Сладкий сливочный сыр, апельсин, киви, банан, сироп на выбор - клубничный или вишневый.</description>
+			</offer>
+			<offer id="7965" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1384</categoryId>
+				<picture>http://fasteda.ru/data/big/7965.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ролл орехово-шоколадный</name>
+				<vendor>Kiwok</vendor>
+				<description>Ролл с шоколадом и орехами.</description>
+			</offer>
+			<offer id="11254" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/11254.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Коктейль клубничный</name>
+				<vendor>Kiwok</vendor>
+				<description>Классический молочный коктейль - как в детстве! Состав: клубничное мороженое пломбир, молоко, сахарная пудра
+(430 мл).</description>
+			</offer>
+			<offer id="11252" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/11252.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Коктейль ванильный</name>
+				<vendor>Kiwok</vendor>
+				<description>Классический молочный коктейль - как в детстве! Состав: ванильное мороженое пломбир, молоко, сахарная пудра
+(430 мл).</description>
+			</offer>
+			<offer id="11253" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/11253.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Коктейль шоколадный</name>
+				<vendor>Kiwok</vendor>
+				<description>Классический молочный коктейль - как в детстве! Состав: шоколадное мороженое пломбир, молоко, сахарная пудра
+(430 мл).</description>
+			</offer>
+			<offer id="7920" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7920.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фреш апельсин 0,5 л</name>
+				<vendor>Kiwok</vendor>
+				<description>100% свежевыжатый сок из апельсинов.</description>
+			</offer>
+			<offer id="7921" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7921.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фреш грейпфрут 0,5 л</name>
+				<vendor>Kiwok</vendor>
+				<description>100% свежевыжатый сок.</description>
+			</offer>
+			<offer id="7922" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7922.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фреш апельсин-грейпфрут 0,5 л</name>
+				<vendor>Kiwok</vendor>
+				<description>100% свежевыжатый сок.</description>
+			</offer>
+			<offer id="7923" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7923.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пиво разливное светлое 1л.</name>
+				<vendor>Kiwok</vendor>
+				<description>Настоящее живое разливное пиво.</description>
+			</offer>
+			<offer id="7924" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7924.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пиво разливное темное 1л.</name>
+				<vendor>Kiwok</vendor>
+				<description>Настоящее живое разливное пиво.</description>
+			</offer>
+			<offer id="7925" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7925.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морс ягодный 0,5 л</name>
+				<vendor>Kiwok</vendor>
+				<description>Морс из свежих ягод.</description>
+			</offer>
+			<offer id="7926" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7926.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морс ягодный 1 л</name>
+				<vendor>Kiwok</vendor>
+				<description>Морс из свежих ягод.</description>
+			</offer>
+			<offer id="7939" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7939.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кока-Кола 0,5 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7943" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7943.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бон аква газ 0,5 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7944" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7944.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бон аква негаз 0,5 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7945" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7945.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кока-кола 1 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7953" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7953.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок RICH апельсиновый 1 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7954" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7954.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок RICH ананасовый 1 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7955" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7955.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок RICH яблочный 1 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7956" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7956.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок RICH виноград 1 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7957" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7957.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок RICH манго 1 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7958" available="true">
+				<url>http://fasteda.ru/menu/kiwok/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1385</categoryId>
+				<picture>http://fasteda.ru/data/big/7958.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок RICH томатный 1 л</name>
+				<vendor>Kiwok</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

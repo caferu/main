@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 03:22">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="227">Холодные закуски</category>
+			<category id="213">Салаты</category>
+			<category id="214">Плата на две персоны</category>
+			<category id="223">Гриль-меню</category>
+			<category id="226">Югославские</category>
+			<category id="230">Вегетерианское меню</category>
+			<category id="229">Супы</category>
+			<category id="224">Рыба</category>
+			<category id="228">Горячие закуски</category>
+			<category id="225">Дессерт</category>
+			<category id="222">Гарниры</category>
+			<category id="233">Интернациональные блюда</category>
+			<category id="232">Блюда из птицы</category>
+		</categories>
+		<offers>
+			<offer id="1219" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>227</categoryId>
+				<picture>http://fasteda.ru/data/big/1219.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Плата сыров</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>325 гр.</description>
+			</offer>
+			<offer id="1223" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>760</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>227</categoryId>
+				<picture>http://fasteda.ru/data/big/1223.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Закуска Драго </name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Сырокопченая ветчина,ростбиф,
+буженина,язык,сыр сулугуни, овощи,
+соус, 426 гр.
+.</description>
+			</offer>
+			<offer id="1231" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>720</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>227</categoryId>
+				<picture>http://fasteda.ru/data/big/1231.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рыбное ассорти</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Лосось слабой соли,угорь г/к,масляная рыба х/к,маринованые креветки,семга х/к,красная икра,оливки,зелень, 434 гр.
+</description>
+			</offer>
+			<offer id="1233" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>227</categoryId>
+				<picture>http://fasteda.ru/data/big/1233.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соленья</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Огурчики слабой соли,моченые помидорки,квашеная капуста с луком,паприка острая,грибочки,лук маринованный,клюква, 440 гр
+.</description>
+			</offer>
+			<offer id="1234" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>227</categoryId>
+				<picture>http://fasteda.ru/data/big/1234.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мясное ассорти</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Сырокопченая ветчина, язык, буженина,ростбиф,зелень,фрукты, 263 гр.
+</description>
+			</offer>
+			<offer id="1236" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>227</categoryId>
+				<picture>http://fasteda.ru/data/big/1236.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Русская тарелка</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Сало разных сортов,грибочки с лучком,гренки, 270 гр.
+</description>
+			</offer>
+			<offer id="1281" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>227</categoryId>
+				<picture>http://fasteda.ru/data/big/1281.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось, тост, масло</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Филе лосося, тосты, сливочное масло, 319 гр.</description>
+			</offer>
+			<offer id="1282" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>227</categoryId>
+				<picture>http://fasteda.ru/data/big/1282.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Грибное лукошко со сметаной или маслом</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="1215" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1215.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат  по-сербски</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Помидоры, огурцы,сладкий перец,растительное масло,специи,зелень, 276 гр.
+ 
+</description>
+			</offer>
+			<offer id="1216" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1216.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Розана</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Куриное филе ,креветки, ананас,  яблоко,оливки,огурцы,зеленый салат, 271 гр.
+</description>
+			</offer>
+			<offer id="1217" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1217.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Хорватия</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Картофель,говядина,соленый огурец,грибы,чесночно-сметанный соус, 219 гр.
+</description>
+			</offer>
+			<offer id="1218" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1218.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат руккола с копченой семгой</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Микс зеленых салатов,семга холодного копчения,яйцо перепелиное,помидорки черри,сырный соус, 265 гр.
+</description>
+			</offer>
+			<offer id="1220" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1220.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Теплый салат с лососем </name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Микс зеленых салатов,лосось, манго, апельсин, дайкон,бальзамико-соевй соус, 330/30 гр.</description>
+			</offer>
+			<offer id="1287" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1287.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Младен</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Язык, жареные грибы, свежие овощи, соус, 300 гр.</description>
+			</offer>
+			<offer id="1289" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1289.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Дары моря</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Кальмары, креветки, мидии, копченая рыба, овощи, зелень, соус лосось соленый, 380 гр.</description>
+			</offer>
+			<offer id="1290" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1290.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Фигаро</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Ростбиф, язык, свежие овощи, горчичный соус, 270 гр.</description>
+			</offer>
+			<offer id="1286" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1286.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шопский салат</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Огурцы, помидоры, репчатый лук, тертая брынза, растительное масло, 250 гр.</description>
+			</offer>
+			<offer id="1288" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>213</categoryId>
+				<picture>http://fasteda.ru/data/big/1288.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Цезарь</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Микс зеленых салатов, куриное филе, яйцо перепелиное, бекон, пармезан, черри, сухарики, грибы лесные, заправка, 300 гр.</description>
+			</offer>
+			<offer id="1213" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>3200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>214</categoryId>
+				<picture>http://fasteda.ru/data/big/1213.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Плата» Медитериан»</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Жареное филе судака с соусом из морепродуктов ,солнечник,лосось запеченный под сыром с соусом из креветок и овощей,судак орли ,панированные кальмары ,тигровые креветки,ризотто с морепродуктами ,овощами ,соус, 1804 гр.</description>
+			</offer>
+			<offer id="1214" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>1500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>214</categoryId>
+				<picture>http://fasteda.ru/data/big/1214.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Плата Драго </name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Бифштекс,свиное филе,куриный медальон,чевапчичи,шампиньоны,фрукты,жареные овощи,картофель фри, 1434 гр
+.</description>
+			</offer>
+			<offer id="1270" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>1900</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>214</categoryId>
+				<picture>http://fasteda.ru/data/big/1270.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Плата Романов</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Большой бифштекс (фаршированный ветчиной, сыром, маринованными огурцами и свежими белыми грибами), запеченный в беконе. Фрукты, соусы холондез и фефер, а также сырный. Жареные овощи, картофель фри, 1609 гр.</description>
+			</offer>
+			<offer id="1222" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>3400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1222.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>1 кг мужской еды</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Стейк говядины,оленина гриль,филе свинины,телячьи котлетки,овощи,соус сальса,кетчуп,горчица, 1450 гр.
+</description>
+			</offer>
+			<offer id="1227" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>1400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1227.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из осетрины с соусом сальса</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Осетрина, отварной картофель, лимон, зелень, 150/100/40/20/5 гр.
+</description>
+			</offer>
+			<offer id="1228" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>970</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1228.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из баранины</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Баранина,печеная паприка.лук красный,помидорки,соус, 300 гр
+.</description>
+			</offer>
+			<offer id="1230" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>840</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1230.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк из говядины с овощным миксом</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Соус сальса, 370 гр.</description>
+			</offer>
+			<offer id="1239" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1239.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк Александар</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Говяжье филе,соус охотничий с грибами  и беконом,овощное рагу, 543 гр.
+</description>
+			</offer>
+			<offer id="1271" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1271.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Оленина на гриле</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>С овощным миксом или лисичками, соус черносмородиновый, 250/70/40 гр.</description>
+			</offer>
+			<offer id="1272" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1272.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баранина на ребрах с овощами</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>250/75/40 гр.</description>
+			</offer>
+			<offer id="1273" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1273.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из свинины</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Свинина, лук маринованный, помидоры, кетчуп.</description>
+			</offer>
+			<offer id="1274" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1274.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветки тигровые на углях</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Обжаренные креветки, гарнир из брокколи, отварного картофеля, лимон, 200/200/128 гр.</description>
+			</offer>
+			<offer id="1275" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>980</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>223</categoryId>
+				<picture>http://fasteda.ru/data/big/1275.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из семги с овощами</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>200/100 гр.</description>
+			</offer>
+			<offer id="1224" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>226</categoryId>
+				<picture>http://fasteda.ru/data/big/1224.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Плескавица</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Фарш говядины и свинины фаршируется мелко нарезанным сыром,шпигом,луком, сладким перцем,формируется в виде лепешки, 460 гр.
+</description>
+			</offer>
+			<offer id="1225" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>226</categoryId>
+				<picture>http://fasteda.ru/data/big/1225.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чевапчичи</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Фарш говядины и свинины формируется в виде колбасок, 310 гр.
+</description>
+			</offer>
+			<offer id="1285" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>226</categoryId>
+				<picture>http://fasteda.ru/data/big/1285.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Блюдо Драго</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Куриный медальон, бифштекс, свиное филе под соус из шампиньонов, фефер соус,татарский соус,жареные овощи, 550 гр. </description>
+			</offer>
+			<offer id="1283" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>226</categoryId>
+				<picture>http://fasteda.ru/data/big/1283.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мучкалица Лесковац</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Свиной эскалоп обжаривается на углях, смешивается с обжаренными помидорами, сладким перцем, луком, 400/20/3 гр.</description>
+			</offer>
+			<offer id="1249" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>226</categoryId>
+				<picture>http://fasteda.ru/data/big/1249.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фаршированное филе Гурман</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Cвиное филе фаршируется сыром, ветчиной, маринованными огурцами, сладким перцем, обжаривается на углях, 190/108 гр.</description>
+			</offer>
+			<offer id="1250" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>226</categoryId>
+				<picture>http://fasteda.ru/data/big/1250.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Варадера</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Свиное филе, запеченое под соусом из шампиньонов,с бананами под сыром, 300/108/160 гр.</description>
+			</offer>
+			<offer id="1279" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>226</categoryId>
+				<picture>http://fasteda.ru/data/big/1279.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ноазет</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Свиное филе в соусе из шампиньонов, копченой ветчины и маринованных огурцов, 400/20/3 гр.</description>
+			</offer>
+			<offer id="1284" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>610</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>226</categoryId>
+				<picture>http://fasteda.ru/data/big/1284.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Микс гриль</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>бифштекс, свиной эскалоп, свиное филе, куриный медальон, плескавица,лук фри,жареная паприка,листья салата,кетчуп, 400 гр.</description>
+			</offer>
+			<offer id="1237" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>230</categoryId>
+				<picture>http://fasteda.ru/data/big/1237.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Биточка из шпината</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Шпинат,яйцо,специи,соус, 220 гр
+.</description>
+			</offer>
+			<offer id="1240" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>230</categoryId>
+				<picture>http://fasteda.ru/data/big/1240.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощной шницель</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>220/150/110 гр.</description>
+			</offer>
+			<offer id="1241" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>230</categoryId>
+				<picture>http://fasteda.ru/data/big/1241.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Перец фаршированный</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>163/160 гр.</description>
+			</offer>
+			<offer id="1235" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1235.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Борщ</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>330 гр.</description>
+			</offer>
+			<offer id="1238" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1238.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Уха Империал</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>345 гр.</description>
+			</offer>
+			<offer id="1266" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1266.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крем суп из шампиньонов</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>350 гр.</description>
+			</offer>
+			<offer id="1263" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1263.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суп Морская свежесть</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Филе лосося, копченая рыба, репчатый лук, икра красная, сливки, 350 гр.</description>
+			</offer>
+			<offer id="1262" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1262.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Французский луковый суп, запеченый под сыром</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>375 гр.</description>
+			</offer>
+			<offer id="1264" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1264.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крем-суп Драго</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>350 гр.</description>
+			</offer>
+			<offer id="1265" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1265.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Крем суп из шпината</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>350 гр.</description>
+			</offer>
+			<offer id="1267" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1267.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Томатный суп пюре с беконом и луком</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>350 гр.</description>
+			</offer>
+			<offer id="1268" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1268.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриный бульон с домашней лапшой</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>350 гр.</description>
+			</offer>
+			<offer id="1269" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>229</categoryId>
+				<picture>http://fasteda.ru/data/big/1269.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Черногорский Бурек с мясным бульоном</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Слоеное тесто, мясной фарш с обжаренным луком, бульон, 450 гр.</description>
+			</offer>
+			<offer id="1226" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>1050</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>224</categoryId>
+				<picture>http://fasteda.ru/data/big/1226.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Осетрина Провансаль</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Осетрина,чеснок,зелень,помидоры,сливочное масло,отварные овощи, 570 гр
+.</description>
+			</offer>
+			<offer id="1291" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>224</categoryId>
+				<picture>http://fasteda.ru/data/big/1291.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак жареный</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Жареное филе судака, лимон, зеленый салат, отварной картофель, брокколи, тар-тар, 165/200/128/60 гр.</description>
+			</offer>
+			<offer id="1292" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>224</categoryId>
+				<picture>http://fasteda.ru/data/big/1292.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак Орли</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Обжаренное филе в тесте, лимон, татарский соус, 200/128/60 гр.</description>
+			</offer>
+			<offer id="1293" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>224</categoryId>
+				<picture>http://fasteda.ru/data/big/1293.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Лосось припущенный со шпинатом</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>235/68 гр.</description>
+			</offer>
+			<offer id="1294" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>224</categoryId>
+				<picture>http://fasteda.ru/data/big/1294.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рыбное филе Балтика</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Обжаренное филе судака с соусом Балтика (кальмары, мидии, креветки, лимон, белое вино), гарнир из отварных овощей (картофель, брокколи), 170/150/200/128 гр.</description>
+			</offer>
+			<offer id="1295" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>224</categoryId>
+				<picture>http://fasteda.ru/data/big/1295.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк лосося Норвежский</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Запеченное филе лосося с коктейльными креветками, томатами, сыром и соусом холондез, гарнир из отварного картофеля с брокколи, 270/200/128 гр.</description>
+			</offer>
+			<offer id="1296" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>640</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>224</categoryId>
+				<picture>http://fasteda.ru/data/big/1296.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Семга в шампанском</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Филе семги, обжаренное с шампиньонами в шампанском, отварной картофель и брокколи, 230/200/3 гр.</description>
+			</offer>
+			<offer id="1297" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>720</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>224</categoryId>
+				<picture>http://fasteda.ru/data/big/1297.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Солнечник отварной или жареный</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Отварное филе Солнечника с морковью, луком, помидорами, петрушкой, отварные овощи (картофель, брокколи), 150/200/95 гр.</description>
+			</offer>
+			<offer id="1298" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>224</categoryId>
+				<picture>http://fasteda.ru/data/big/1298.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кальмары жареные</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Жареные кальмары, отварной картофель и брокколи, 160/200/128/60 гр.</description>
+			</offer>
+			<offer id="1303" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>228</categoryId>
+				<picture>http://fasteda.ru/data/big/1303.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Креветки или улитки в шляпках шампиньонов</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Креветки запеченные в Дил-соусе под сыром, рис, зеленый салат, 200/135/190 гр.</description>
+			</offer>
+			<offer id="1304" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>228</categoryId>
+				<picture>http://fasteda.ru/data/big/1304.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Баклажаны запеченные с моцареллой</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Баклажаны, помидоры, чеснок, моцарелла, 220/20/3 гр.</description>
+			</offer>
+			<offer id="1305" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>228</categoryId>
+				<picture>http://fasteda.ru/data/big/1305.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель жареный с лисичками</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>210/50/30 гр.</description>
+			</offer>
+			<offer id="1229" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>225</categoryId>
+				<picture>http://fasteda.ru/data/big/1229.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сырный торт</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1280" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>225</categoryId>
+				<picture>http://fasteda.ru/data/big/1280.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Дыня с орехами в сливочном соусе</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Дыня, грецкие орехи, сливочный соус, шоколадный сироп.</description>
+			</offer>
+			<offer id="1248" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>222</categoryId>
+				<picture>http://fasteda.ru/data/big/1248.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи  гриль</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>220 гр.</description>
+			</offer>
+			<offer id="1221" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>222</categoryId>
+				<picture>http://fasteda.ru/data/big/1221.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="1242" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>222</categoryId>
+				<picture>http://fasteda.ru/data/big/1242.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель тушеный в сливках</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="1243" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>222</categoryId>
+				<picture>http://fasteda.ru/data/big/1243.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Айдахо</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="1244" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>222</categoryId>
+				<picture>http://fasteda.ru/data/big/1244.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пребранец</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Фасоль, помидоры, лук порей,зелень, соус острый, 200 гр.</description>
+			</offer>
+			<offer id="1245" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>222</categoryId>
+				<picture>http://fasteda.ru/data/big/1245.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ризотто с морепродуктами</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="1246" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>222</categoryId>
+				<picture>http://fasteda.ru/data/big/1246.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рис</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="1247" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>222</categoryId>
+				<picture>http://fasteda.ru/data/big/1247.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощное рагу</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>200 гр.</description>
+			</offer>
+			<offer id="1299" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>233</categoryId>
+				<picture>http://fasteda.ru/data/big/1299.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рулет из ягненка</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Филе ягненка, фаршированное шпинатом, беконом, грибами, баклажаны, чеснок, петрушка, 220/158 гр.</description>
+			</offer>
+			<offer id="1300" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>233</categoryId>
+				<picture>http://fasteda.ru/data/big/1300.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Соте Строганов</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Говяжье филе, шампиньоны, маринованные огурцы, винный соус, 370/30/3 гр.</description>
+			</offer>
+			<offer id="1301" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>233</categoryId>
+				<picture>http://fasteda.ru/data/big/1301.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шницель венский</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Свиное филе в сухарях, французский гарнир, соус тар-тар, 280/125/160/30 гр.</description>
+			</offer>
+			<offer id="1302" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>640</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>233</categoryId>
+				<picture>http://fasteda.ru/data/big/1302.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Медальон из свинины</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>С соусом из шампиньонов, французский гарнир, 650 гр.</description>
+			</offer>
+			<offer id="1451" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>232</categoryId>
+				<picture>http://fasteda.ru/data/big/1451.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриное филе жареное на углях</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1276" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>232</categoryId>
+				<picture>http://fasteda.ru/data/big/1276.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Акаламандиз</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Куриные грудки, фаршированные ветчиной и сыром, панированные в сухарях, соус тар-тар, французский гарнир, 185/160/108/30/30 гр.</description>
+			</offer>
+			<offer id="1277" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>232</categoryId>
+				<picture>http://fasteda.ru/data/big/1277.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шашлык из куры</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>230/153/60 гр.</description>
+			</offer>
+			<offer id="1278" available="true">
+				<url>http://fasteda.ru/menu/drago/</url>
+				<price>950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>232</categoryId>
+				<picture>http://fasteda.ru/data/big/1278.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Подкопченая утка с яблоками</name>
+				<vendor>Доставка из ресторана Драго</vendor>
+				<description>Под апельсиновым соком, 250/100/100/45/50 гр.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

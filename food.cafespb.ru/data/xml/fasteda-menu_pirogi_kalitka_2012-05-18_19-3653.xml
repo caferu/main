@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="515">Сладкие открытые пироги</category>
+			<category id="513">Сытные пироги</category>
+			<category id="522">Выпечка</category>
+		</categories>
+		<offers>
+			<offer id="3347" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3347.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С черникой 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3349" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3349.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С черникой 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3350" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3350.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С черникой 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3359" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3359.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С творогом и изюмом 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3360" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3360.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С творогом и изюмом 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3361" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3361.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С творогом и изюмом 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3356" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3356.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С вишней 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3357" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3357.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С вишней 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3358" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3358.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С вишней 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3348" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3348.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С брусникой и яблоком 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3351" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3351.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С брусникой и яблоком 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3352" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3352.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С брусникой и яблоком 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3353" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3353.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С яблоком и лимоном 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3354" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>750</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3354.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С яблоком и лимоном 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3355" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>515</categoryId>
+				<picture>http://fasteda.ru/data/big/3355.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С яблоком и лимоном 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3344" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3344.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С лесными грибами 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3345" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>975</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3345.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С лесными грибами 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3346" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3346.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С лесными грибами 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3341" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3341.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С капустой и яйцом 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3342" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>975</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3342.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С капустой и яйцом 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3343" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3343.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С капустой и яйцом 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3338" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3338.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С картофелем и  скумбрией горячего копчения 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3339" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>975</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3339.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С картофелем и  скумбрией горячего копчения 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3340" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3340.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С картофелем и  скумбрией горячего копчения 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3332" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3332.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С мясом, луком и яйцом 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3333" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>975</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3333.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С мясом, луком и яйцом 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3334" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3334.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С мясом, луком и яйцом 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3335" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3335.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С ливером 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3336" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>975</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3336.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С ливером 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3337" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3337.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С ливером 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3329" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3329.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С лососем и  лесными грибами 1 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3330" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>975</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3330.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С лососем и  лесными грибами 1,5 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3331" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>1300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>513</categoryId>
+				<picture>http://fasteda.ru/data/big/3331.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С лососем и  лесными грибами 2 кг</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3397" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>522</categoryId>
+				<picture>http://fasteda.ru/data/big/3397.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Калитка с картофелем</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>100 гр.</description>
+			</offer>
+			<offer id="3396" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>522</categoryId>
+				<picture>http://fasteda.ru/data/big/3396.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с капустой и яйцом</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3395" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>522</categoryId>
+				<picture>http://fasteda.ru/data/big/3395.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с мясом</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3394" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>522</categoryId>
+				<picture>http://fasteda.ru/data/big/3394.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с ливером</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3393" available="true">
+				<url>http://fasteda.ru/menu/pirogi_kalitka/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>522</categoryId>
+				<picture>http://fasteda.ru/data/big/3393.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пирожок с картофелем и грибами</name>
+				<vendor>Пироги Калитка</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

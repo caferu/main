@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-11 20:32">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1065">Готовые решения</category>
+			<category id="1671">Детское меню</category>
+			<category id="1670">Ризотто</category>
+			<category id="1073">Супы</category>
+			<category id="1076">Домашняя паста</category>
+			<category id="1077">Салаты</category>
+			<category id="1074">Гриль</category>
+			<category id="1096">Гарниры</category>
+			<category id="1072">Хлеб</category>
+			<category id="1057">Десерты</category>
+			<category id="1059">Домашние лимонады</category>
+			<category id="1067">Горячие напитки</category>
+			<category id="1061">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="12333" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/12333.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Фумо»</name>
+				<vendor>Any Pasta</vendor>
+				<description>Овощной салат с лососем, хрустящим луком и лимоном.</description>
+			</offer>
+			<offer id="12334" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/12334.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Тонно»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9515" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/9515.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с салями «Милано» </name>
+				<vendor>Any Pasta</vendor>
+				<description>Салат-микс, салями, гренки, медово-горчичная заправка.</description>
+			</offer>
+			<offer id="9516" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/9516.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясная тарелка </name>
+				<vendor>Any Pasta</vendor>
+				<description>Буженина, говядина, салями, пармская ветчина, вяленые томаты, горчичная заправка.</description>
+			</offer>
+			<offer id="9517" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/9517.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырная тарелка </name>
+				<vendor>Any Pasta</vendor>
+				<description>Дор-блю, моцарелла, эмменталь, таледжио, мед, чиабатта.</description>
+			</offer>
+			<offer id="9518" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/9518.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паста с салями «Пеперони» </name>
+				<vendor>Any Pasta</vendor>
+				<description>Макарончини, салями, моцарелла, томатный соус, чили.</description>
+			</offer>
+			<offer id="7329" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>319</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7329.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Треска  «Мерлузо» </name>
+				<vendor>Any Pasta</vendor>
+				<description>С картофелем гриль, шампиньонами и соусом цезарь.</description>
+			</offer>
+			<offer id="7330" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7330.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Фрутти ди Маре»</name>
+				<vendor>Any Pasta</vendor>
+				<description>Морепродукты с припущенными овощами в томатном соусе.</description>
+			</offer>
+			<offer id="7340" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7340.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини «Маргарита» </name>
+				<vendor>Any Pasta</vendor>
+				<description>Моцарелла, томатный соус, базилик, пармезан.</description>
+			</offer>
+			<offer id="7341" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7341.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти Эни Паста </name>
+				<vendor>Any Pasta</vendor>
+				<description>Овощи, базилик, моцарелла, чеснок.</description>
+			</offer>
+			<offer id="7342" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7342.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти «Гурме» </name>
+				<vendor>Any Pasta</vendor>
+				<description>Со свининой и шампиньонами в сливочно- горчичном соусе.</description>
+			</offer>
+			<offer id="7343" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7343.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли «Лацио»</name>
+				<vendor>Any Pasta</vendor>
+				<description>С говядиной и шампиньонами в сливочном соусе.</description>
+			</offer>
+			<offer id="7344" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7344.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли «Абруццо»</name>
+				<vendor>Any Pasta</vendor>
+				<description>С баклажанамим и беконом, томатным соусом.</description>
+			</offer>
+			<offer id="7345" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7345.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли «Аль Фредо»</name>
+				<vendor>Any Pasta</vendor>
+				<description>С куриным филе, шампиньонами и сливочным соусом.</description>
+			</offer>
+			<offer id="7351" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7351.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини  «Аль Сальмоне» </name>
+				<vendor>Any Pasta</vendor>
+				<description>C лососем и шпинатом, сливочным соусом.</description>
+			</offer>
+			<offer id="7352" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7352.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини «Маринара»</name>
+				<vendor>Any Pasta</vendor>
+				<description>C морепродуктами, зелеными оливками в томатном соусе.</description>
+			</offer>
+			<offer id="6316" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6316.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти «Карбонара»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6317" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6317.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини «Болонез»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6318" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6318.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини «Сицилиана» с баклажанами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6320" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6320.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли «Арабиата»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6321" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6321.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини «Аль Помодоро»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6323" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6323.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Цезарь» с курицей</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6324" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6324.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Цезарь» с креветками</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6327" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6327.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат с тунцом и хрустящим луком бальзамико</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6328" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6328.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат с копченым лососем и лимоном</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6331" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>369</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6331.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось «Грилета»</name>
+				<vendor>Any Pasta</vendor>
+				<description>С овощами гриль и соусом «Цезарь».</description>
+			</offer>
+			<offer id="6332" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6332.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Говядина «Песто»</name>
+				<vendor>Any Pasta</vendor>
+				<description>С пастой и соусом «Песто».</description>
+			</offer>
+			<offer id="6333" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>319</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/6333.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свинина «Чулета»</name>
+				<vendor>Any Pasta</vendor>
+				<description>С картофелем гриль и горчичным соусом.</description>
+			</offer>
+			<offer id="7331" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>399</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7331.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясной сет «Камерата»</name>
+				<vendor>Any Pasta</vendor>
+				<description>Говядина, свинина,куриное филе, овощи гриль, чиабатта и соус песто.</description>
+			</offer>
+			<offer id="7332" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7332.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриное филе «Полло»</name>
+				<vendor>Any Pasta</vendor>
+				<description>Со свежим овощами и лимонной заправкой.</description>
+			</offer>
+			<offer id="7349" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7349.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли «Спиначи»</name>
+				<vendor>Any Pasta</vendor>
+				<description>Cо шпинатом и сыром дор- блю, сливочным соусом.</description>
+			</offer>
+			<offer id="7354" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7354.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини «Биф Песто» </name>
+				<vendor>Any Pasta</vendor>
+				<description>C говядиной и соусом песто.</description>
+			</offer>
+			<offer id="7360" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7360.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли «Прованс»</name>
+				<vendor>Any Pasta</vendor>
+				<description>C овощами и беконом в соусе песто .</description>
+			</offer>
+			<offer id="7359" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7359.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини «Панчета» </name>
+				<vendor>Any Pasta</vendor>
+				<description>4-ре сыра с беконом .</description>
+			</offer>
+			<offer id="7386" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1065</categoryId>
+				<picture>http://fasteda.ru/data/big/7386.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Венето» </name>
+				<vendor>Any Pasta</vendor>
+				<description>Овощной с куриным филе и вялеными томатами.</description>
+			</offer>
+			<offer id="9512" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1671</categoryId>
+				<picture>http://fasteda.ru/data/big/9512.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Наггетсы куриные с сырным соусом </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9513" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>105</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1671</categoryId>
+				<picture>http://fasteda.ru/data/big/9513.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп с куриными фрикадельками </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9514" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1671</categoryId>
+				<picture>http://fasteda.ru/data/big/9514.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарошки с мягким сыром </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9504" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1670</categoryId>
+				<picture>http://fasteda.ru/data/big/9504.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ризотто с куриным филе</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9505" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1670</categoryId>
+				<picture>http://fasteda.ru/data/big/9505.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ризотто с лососем </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9506" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1670</categoryId>
+				<picture>http://fasteda.ru/data/big/9506.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ризотто с говядиной </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9507" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1670</categoryId>
+				<picture>http://fasteda.ru/data/big/9507.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ризотто с овощами </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6329" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>209</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1073</categoryId>
+				<picture>http://fasteda.ru/data/big/6329.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем «Помодоро»</name>
+				<vendor>Any Pasta</vendor>
+				<description>Томатный крем-суп со сливками, гренками и зеленью.</description>
+			</offer>
+			<offer id="6330" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1073</categoryId>
+				<picture>http://fasteda.ru/data/big/6330.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырный суп  «Бари» </name>
+				<vendor>Any Pasta</vendor>
+				<description>С беконом с гренками.</description>
+			</offer>
+			<offer id="7323" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1073</categoryId>
+				<picture>http://fasteda.ru/data/big/7323.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп грибной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6338" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1073</categoryId>
+				<picture>http://fasteda.ru/data/big/6338.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырный суп</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6339" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1073</categoryId>
+				<picture>http://fasteda.ru/data/big/6339.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный бульон</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6340" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>145</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1073</categoryId>
+				<picture>http://fasteda.ru/data/big/6340.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный бульон сфрикадельками и зеленью «Густо»   </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6341" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>129</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1073</categoryId>
+				<picture>http://fasteda.ru/data/big/6341.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Томатный</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6377" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6377.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти с лососем</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7363" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7363.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти с бужениной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7365" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7365.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти с говядиной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7368" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7368.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти со шпинатом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7369" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7369.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с бужениной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7370" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7370.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с говядиной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7371" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7371.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли со шпинатом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7372" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7372.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с бужениной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7373" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7373.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с говядиной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7374" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7374.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли со шпинатом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7375" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7375.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с бужениной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7376" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7376.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с говядиной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7377" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7377.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини со шпинатом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7378" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>229</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7378.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини с бужениной </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7379" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7379.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини с говядиной</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7380" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/7380.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини со шпинатом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6378" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6378.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти с морепродуктами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6379" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6379.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти с оливковым маслом и пармезаном</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6380" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6380.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти с  лесными грибами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6381" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6381.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти с куриной грудкой</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6382" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6382.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти с  овощами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6383" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6383.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти «Четыре сыра»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6415" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6415.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с куриной печенью</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6416" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6416.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с лососем</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6417" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6417.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с морепродуктами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6418" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6418.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с оливковым маслом и пармезаном</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6419" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6419.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с лесными грибами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6420" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6420.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с куриной грудкой</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6421" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6421.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли с овощами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6422" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6422.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелли «Четыре сыра»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6423" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6423.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с куриной печенью</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6424" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6424.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с лососем</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6425" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6425.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с морепродуктами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6426" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6426.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с оливковым маслом и пармезаном</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6427" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6427.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с лесными грибами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6428" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6428.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с куриной грудкой</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6429" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6429.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли с овощами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6431" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6431.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фузилли «Четыре сыра»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6432" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6432.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с куриной печенью</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6433" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6433.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с лососем</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6434" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6434.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с морепродуктами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6435" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6435.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с с оливковым маслом и пармезаном</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6436" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6436.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с лесными грибами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6437" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6437.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с куриной грудкой</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6438" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6438.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с овощами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6439" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6439.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини «Четыре сыра»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6440" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6440.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини с куриной песенью</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6441" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6441.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини с лососем</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6442" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6442.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини с морепродуктами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6443" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6443.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини с оливковым маслом и пармезаном</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6444" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>259</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6444.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини с лесными грибами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6445" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>219</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6445.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини с куриной грудкой</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6446" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6446.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини с овощами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6447" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>239</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1076</categoryId>
+				<picture>http://fasteda.ru/data/big/6447.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Макарончини «Четыре сыра»</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9509" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/9509.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Микс</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6451" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6451.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленый салат с морепродуктами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6448" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6448.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат с моцареллой</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6449" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6449.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленый салат с оливковым маслом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6450" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6450.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат с куриной грудкой</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6395" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6395.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленый салат с копченым лососем</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6452" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6452.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат с тунцом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6454" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6454.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат с оливковым маслом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6455" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6455.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленый салат с куриной грудкой</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6456" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6456.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат с морепродуктами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6457" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6457.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленый салат с моцареллой</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6458" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>179</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6458.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной салат с копченым лососем</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6459" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1077</categoryId>
+				<picture>http://fasteda.ru/data/big/6459.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленый салат с тунцом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7334" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1074</categoryId>
+				<picture>http://fasteda.ru/data/big/7334.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Треска на гриле</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6334" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>269</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1074</categoryId>
+				<picture>http://fasteda.ru/data/big/6334.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось гриль</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6335" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>344</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1074</categoryId>
+				<picture>http://fasteda.ru/data/big/6335.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медальоны из говядины</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6336" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>249</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1074</categoryId>
+				<picture>http://fasteda.ru/data/big/6336.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медальоны из свинины</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6337" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>209</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1074</categoryId>
+				<picture>http://fasteda.ru/data/big/6337.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриное филе</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6343" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1096</categoryId>
+				<picture>http://fasteda.ru/data/big/6343.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паста с оливковым маслом</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6344" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1096</categoryId>
+				<picture>http://fasteda.ru/data/big/6344.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель гриль</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6345" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1096</categoryId>
+				<picture>http://fasteda.ru/data/big/6345.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленый микс с овощами</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6346" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1096</categoryId>
+				<picture>http://fasteda.ru/data/big/6346.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи гриль</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6342" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1072</categoryId>
+				<picture>http://fasteda.ru/data/big/6342.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чиабатта</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7325" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1057</categoryId>
+				<picture>http://fasteda.ru/data/big/7325.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печенье миндальное </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="7326" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>45</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1057</categoryId>
+				<picture>http://fasteda.ru/data/big/7326.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кантучини</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6354" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1057</categoryId>
+				<picture>http://fasteda.ru/data/big/6354.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печенье шоколадное</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6355" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1057</categoryId>
+				<picture>http://fasteda.ru/data/big/6355.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Меренги</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9510" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1059</categoryId>
+				<picture>http://fasteda.ru/data/big/9510.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>«Сицилийский апельсин» </name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6356" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1059</categoryId>
+				<picture>http://fasteda.ru/data/big/6356.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мятный 0,25 л</name>
+				<vendor>Any Pasta</vendor>
+				<description>Домашний лимонад (250 мл).</description>
+			</offer>
+			<offer id="6357" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1059</categoryId>
+				<picture>http://fasteda.ru/data/big/6357.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Базиликовый 0,25 л</name>
+				<vendor>Any Pasta</vendor>
+				<description>Холодный домашний лимонад (250 мл).</description>
+			</offer>
+			<offer id="6364" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1067</categoryId>
+				<picture>http://fasteda.ru/data/big/6364.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячий имбирно-медовый 0,3 л</name>
+				<vendor>Any Pasta</vendor>
+				<description>Горячий домашний лимонад (300 мл).</description>
+			</offer>
+			<offer id="6365" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1067</categoryId>
+				<picture>http://fasteda.ru/data/big/6365.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячий сицилийский апельсин 0,3 л</name>
+				<vendor>Any Pasta</vendor>
+				<description>Горячий домашний лимонад (300 мл).</description>
+			</offer>
+			<offer id="6366" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1067</categoryId>
+				<picture>http://fasteda.ru/data/big/6366.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Глинтвейн 0,3 л</name>
+				<vendor>Any Pasta</vendor>
+				<description>300 мл.</description>
+			</offer>
+			<offer id="6367" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1067</categoryId>
+				<picture>http://fasteda.ru/data/big/6367.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чашка чая 0,3 л</name>
+				<vendor>Any Pasta</vendor>
+				<description>300 мл.</description>
+			</offer>
+			<offer id="6368" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1067</categoryId>
+				<picture>http://fasteda.ru/data/big/6368.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эспрессо</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6369" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1067</categoryId>
+				<picture>http://fasteda.ru/data/big/6369.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Американо</name>
+				<vendor>Any Pasta</vendor>
+				<description>0.3 л.</description>
+			</offer>
+			<offer id="6370" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>99</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1067</categoryId>
+				<picture>http://fasteda.ru/data/big/6370.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капучино</name>
+				<vendor>Any Pasta</vendor>
+				<description>0.3 л.</description>
+			</offer>
+			<offer id="9511" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1061</categoryId>
+				<picture>http://fasteda.ru/data/big/9511.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Швепс</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6359" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1061</categoryId>
+				<picture>http://fasteda.ru/data/big/6359.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Coca-Cola 0.33</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6360" available="true">
+				<url>http://fasteda.ru/menu/any_pasta/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1061</categoryId>
+				<picture>http://fasteda.ru/data/big/6360.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода</name>
+				<vendor>Any Pasta</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

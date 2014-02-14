@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-07-17 14:00">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1933">Стейки</category>
+			<category id="836">Мясо</category>
+			<category id="825">КАТАПЛАНА</category>
+			<category id="824">Салаты</category>
+			<category id="1932">Закуски</category>
+			<category id="834">Мясо а ля планча</category>
+			<category id="832">Супы</category>
+			<category id="838">Рыба</category>
+			<category id="840">Рис</category>
+			<category id="844">Пасты</category>
+			<category id="846">Гарниры</category>
+			<category id="848">Хлеб</category>
+			<category id="852">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="4975" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1933</categoryId>
+				<picture>http://fasteda.ru/data/big/4975.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соломийо</name>
+				<vendor>MACARENA</vendor>
+				<description>Филе говядины, приготовленное на планче. Подается в соусе из сыра Горгонзола.</description>
+			</offer>
+			<offer id="4976" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1933</categoryId>
+				<picture>http://fasteda.ru/data/big/4976.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чулетон</name>
+				<vendor>MACARENA</vendor>
+				<description>Большой испанский стейк из говядины на кости.</description>
+			</offer>
+			<offer id="4980" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>870</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1933</categoryId>
+				<picture>http://fasteda.ru/data/big/4980.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк Карнеро</name>
+				<vendor>MACARENA</vendor>
+				<description>Нежное филе говядины, приготовленное на гриле. Подается с картофелем фри и голландским соусом.</description>
+			</offer>
+			<offer id="4978" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>1350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1933</categoryId>
+				<picture>http://fasteda.ru/data/big/4978.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк Рибай</name>
+				<vendor>MACARENA</vendor>
+				<description>Австралия, зерновой откорм. Сочный стейк из реберной части. Подается с миксом салатных листьев и грибным соусом. Рекомендуемая степень прожарки - medium.</description>
+			</offer>
+			<offer id="4979" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>1450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1933</categoryId>
+				<picture>http://fasteda.ru/data/big/4979.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе Миньон</name>
+				<vendor>MACARENA</vendor>
+				<description>Австралия. Травяной откорм. Стейк из говяжей вырезки - самого нежного и постного мяса. Готовится на планче. Подается с картофелем.</description>
+			</offer>
+			<offer id="4981" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1933</categoryId>
+				<picture>http://fasteda.ru/data/big/4981.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пеппер стейк</name>
+				<vendor>MACARENA</vendor>
+				<description>Стейк из нежного филе говядины в перечной корочке. Подается с миксом салатных листьев и острым соусом. Рекомендуемая степень прожарки - medium.</description>
+			</offer>
+			<offer id="5028" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5028.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ростбиф с овощами, картофелем и зеленой фасолью</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5029" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>640</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5029.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе телятины</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5030" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5030.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баварские колбаски с горчицей и капустой</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5034" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5034.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Острые свиные ребрышки</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5032" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5032.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Долма с соусом мацони</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5033" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5033.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Манты</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5035" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5035.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бефстроганов с картофельным пюре</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5036" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5036.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фахитас из свинины, куры или микса (свинина, кура, говядина)</name>
+				<vendor>MACARENA</vendor>
+				<description>Для двоих.</description>
+			</offer>
+			<offer id="5037" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5037.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фахитас из говядины</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5038" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5038.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная грудка фаршированная грибами</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5040" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5040.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиная рулька с розмарином и запеченным картофелем</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5041" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>790</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5041.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Особуко из телятины</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5042" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>820</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5042.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Баранья ножка с розмарином</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5043" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5043.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свинина фаршированная грибами</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5046" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>760</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5046.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Котлетки из баранины</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5045" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>836</categoryId>
+				<picture>http://fasteda.ru/data/big/5045.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кюфта по-ливански</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4969" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>1180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>825</categoryId>
+				<picture>http://fasteda.ru/data/big/4969.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясная Катаплана (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>Свинина, куриное филе, грибы на подушке из овощей в ароматном соусе на основе красного вина.</description>
+			</offer>
+			<offer id="11302" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>690</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>825</categoryId>
+				<picture>http://fasteda.ru/data/big/11302.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясная Катаплана (на одного)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4968" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>1250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>825</categoryId>
+				<picture>http://fasteda.ru/data/big/4968.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Катаплана   Маришку (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>Сибас, тигровые креветки, гребешок, мидии с овощами и зеленью в соусе на основе белого вина.</description>
+			</offer>
+			<offer id="4970" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>820</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>825</categoryId>
+				<picture>http://fasteda.ru/data/big/4970.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощная Катаплана (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>Ассорти овощей в пикантном густом соусе с добавлением белого вина.</description>
+			</offer>
+			<offer id="11303" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>825</categoryId>
+				<picture>http://fasteda.ru/data/big/11303.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощная Катаплана (на одного)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4971" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>1180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>825</categoryId>
+				<picture>http://fasteda.ru/data/big/4971.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Катаплана Фрутти ди Маре (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4972" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>1380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>825</categoryId>
+				<picture>http://fasteda.ru/data/big/4972.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сарсуэла в Катаплане (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11304" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>960</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>825</categoryId>
+				<picture>http://fasteda.ru/data/big/11304.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Катаплана с рисом и морепродуктами (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11305" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>825</categoryId>
+				<picture>http://fasteda.ru/data/big/11305.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Катаплана с рисом и морепродуктами (на одного)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4958" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4958.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из свежих овощей</name>
+				<vendor>MACARENA</vendor>
+				<description>Перец, салат, томаты, огурцы, лук.</description>
+			</offer>
+			<offer id="4959" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4959.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат греческий</name>
+				<vendor>MACARENA</vendor>
+				<description>Томаты, огурцы, сыр фета, лук, перец.</description>
+			</offer>
+			<offer id="4960" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4960.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с морепродуктами</name>
+				<vendor>MACARENA</vendor>
+				<description>Зеленый салат, креветки, кальмары, мидии.</description>
+			</offer>
+			<offer id="4961" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4961.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с языком</name>
+				<vendor>MACARENA</vendor>
+				<description>Язык, перец, баклажаны, цукини, руккола.</description>
+			</offer>
+			<offer id="4952" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4952.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с тунцом</name>
+				<vendor>MACARENA</vendor>
+				<description>Тунец, спаржа, томаты, огурцы, яйцо.</description>
+			</offer>
+			<offer id="11301" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/11301.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капрезе</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4963" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4963.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с теплой говядиной</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4964" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4964.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с креветками и авокадо</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5095" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/5095.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с хамоном</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5094" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/5094.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с тунцом</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4957" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>580</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4957.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тигровые креветки с рукколой и томатами черри</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4956" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4956.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из кролика по-португальски</name>
+				<vendor>MACARENA</vendor>
+				<description>Наличие уточните у менеджера.</description>
+			</offer>
+			<offer id="4954" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4954.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с куриным филе</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4955" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4955.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цезарь с лососем</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4967" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4967.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с анчоусами</name>
+				<vendor>MACARENA</vendor>
+				<description>Анчоусы, сушеные томаты, сыр, яйцо, спаржа.</description>
+			</offer>
+			<offer id="5096" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/5096.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленый салат с  ростбифом, томатами и сыром Пармезан</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4962" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>824</categoryId>
+				<picture>http://fasteda.ru/data/big/4962.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с осьминогом</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4984" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4984.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хамон Серрано</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4985" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4985.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хамон Иберико</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4993" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4993.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хамон из утки с ягодной сальсой</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4987" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4987.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рулетики из баклажанов с лососем и сыром</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4988" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4988.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Икра на тостах</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4989" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4989.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гуакомоле на тостах</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4995" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4995.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тунец с томатами</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4991" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4991.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Оливки Скампи</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4992" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4992.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Зеленые оливки</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4996" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4996.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Язык говяжий с соусом</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4994" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4994.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карпаччо из говядины</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4999" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4999.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Котлетки с треской и картофелем</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4998" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4998.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крокеты с ветчиной и сыром или хамоном</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4990" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4990.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Филе анчоуса с брускеттой</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5006" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/5006.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тортилья по-испански</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5004" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/5004.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мидии по-мексикански</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5008" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/5008.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мидии в коньячном соусе</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11298" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/11298.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соления</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4966" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/4966.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тар-тар из тунца с перепелиным яйцом</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11299" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/11299.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Иберийское ассорти (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11300" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1932</categoryId>
+				<picture>http://fasteda.ru/data/big/11300.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чипсы Начос с соусом Чили кон карне (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5017" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>780</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5017.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соломийо из говядины</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5018" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5018.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриное филе на планче</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5019" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5019.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чулетас из свинины</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5020" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>850</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5020.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пеппер Стейк с миксом из салатных листьев и острым соусом</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5021" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5021.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сердитос со свининой</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5022" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>670</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5022.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медальоны из говядины с белыми грибами</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5023" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5023.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гамбургер с картофелем фри</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5024" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5024.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Энчиладас с куриным филе</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5026" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5026.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чулетон из говядины</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5025" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/5025.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бурритос с говядиной</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4977" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>990</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/4977.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чулетон</name>
+				<vendor>MACARENA</vendor>
+				<description>Большой испанский стейк из говядины на кости.</description>
+			</offer>
+			<offer id="11297" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>870</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/11297.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк Карнеро с картофелем фри  голландским соусом</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4974" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>1350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>834</categoryId>
+				<picture>http://fasteda.ru/data/big/4974.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк Рибай с соусом из белых грибов и морской солью</name>
+				<vendor>MACARENA</vendor>
+				<description>Австралия. Зерновой откорм. Сочный стейк из реберной части. Подается с миксом салатных листьев и грибным соусом. Рекомендуемая степень прожарки - medium.</description>
+			</offer>
+			<offer id="5013" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>832</categoryId>
+				<picture>http://fasteda.ru/data/big/5013.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Томатный по-мексикански</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5012" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>832</categoryId>
+				<picture>http://fasteda.ru/data/big/5012.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чили кон карне</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5014" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>832</categoryId>
+				<picture>http://fasteda.ru/data/big/5014.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ккюфта-бозбаш</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5015" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>832</categoryId>
+				<picture>http://fasteda.ru/data/big/5015.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный с домашней лапшой</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11292" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>832</categoryId>
+				<picture>http://fasteda.ru/data/big/11292.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем-суп из тыквы с соусом Песто</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11293" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>832</categoryId>
+				<picture>http://fasteda.ru/data/big/11293.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп с морепродуктами, лососем и мидиями</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11294" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>832</categoryId>
+				<picture>http://fasteda.ru/data/big/11294.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грибной крем-суп</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11295" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>832</categoryId>
+				<picture>http://fasteda.ru/data/big/11295.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Том-Ям</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11296" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>832</categoryId>
+				<picture>http://fasteda.ru/data/big/11296.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Суп с лососем по-фински</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5048" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>560</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/5048.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось со спаржей и сыром пармезан</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5049" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/5049.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Креветки на гриле</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5050" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/5050.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Дорада по-сицилийски с овощами</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5051" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>490</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/5051.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак по-перуански</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5052" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/5052.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5053" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>640</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/5053.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спигола (сибас, морской волк)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5056" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>840</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/5056.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Осьминог по-галлийски</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5055" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/5055.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк из лосося с картофельным пюре</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5054" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>680</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/5054.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мидии в сырно-чесночном соусе или соусе из томатов</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="4973" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>838</categoryId>
+				<picture>http://fasteda.ru/data/big/4973.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сарсуэла (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>Зеленые мидии, кальмар, филе дорадо и лосося, гребешки и тигровые креветки с овощами в соусе на основе белого вина.</description>
+			</offer>
+			<offer id="5058" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>860</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>840</categoryId>
+				<picture>http://fasteda.ru/data/big/5058.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паэлья с морепродуктами (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5060" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>740</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>840</categoryId>
+				<picture>http://fasteda.ru/data/big/5060.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Паэлья с курице и кроликом (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5061" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>840</categoryId>
+				<picture>http://fasteda.ru/data/big/5061.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ризотто с белыми грибами и сыром Пармезан</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5059" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>840</categoryId>
+				<picture>http://fasteda.ru/data/big/5059.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ризотто со спаржей и креветками</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5062" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>840</categoryId>
+				<picture>http://fasteda.ru/data/big/5062.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Плов</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5063" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>840</categoryId>
+				<picture>http://fasteda.ru/data/big/5063.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ризотто со креветками и чесноком</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5075" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>844</categoryId>
+				<picture>http://fasteda.ru/data/big/5075.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти с помидорчиками и сыром Моцарелла</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5079" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>844</categoryId>
+				<picture>http://fasteda.ru/data/big/5079.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти Карбонара</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5077" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>844</categoryId>
+				<picture>http://fasteda.ru/data/big/5077.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пенне с сыром</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5078" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>844</categoryId>
+				<picture>http://fasteda.ru/data/big/5078.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелле с лососем и икром</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5083" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>844</categoryId>
+				<picture>http://fasteda.ru/data/big/5083.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лингвини с морепродуктами</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5080" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>844</categoryId>
+				<picture>http://fasteda.ru/data/big/5080.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Спагетти Дон Карлеоне</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5081" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>844</categoryId>
+				<picture>http://fasteda.ru/data/big/5081.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелле с белыми грибами</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5082" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>844</categoryId>
+				<picture>http://fasteda.ru/data/big/5082.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тальятелле с филе говядины</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5085" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>846</categoryId>
+				<picture>http://fasteda.ru/data/big/5085.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Отварной картофель с зеленью</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5087" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>846</categoryId>
+				<picture>http://fasteda.ru/data/big/5087.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель с четырьмя соусами (на двоих)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5088" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>846</categoryId>
+				<picture>http://fasteda.ru/data/big/5088.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5090" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>846</categoryId>
+				<picture>http://fasteda.ru/data/big/5090.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кукурузные чипсы </name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5089" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>846</categoryId>
+				<picture>http://fasteda.ru/data/big/5089.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кукуруза</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5086" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>846</categoryId>
+				<picture>http://fasteda.ru/data/big/5086.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощи на гриле</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5091" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>848</categoryId>
+				<picture>http://fasteda.ru/data/big/5091.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тосты с томатами и чесноком</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5092" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>848</categoryId>
+				<picture>http://fasteda.ru/data/big/5092.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лепешки с сыром и сальсой</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5093" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>848</categoryId>
+				<picture>http://fasteda.ru/data/big/5093.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячий хлеб с маслом (пшеничный и ржаной)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5098" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5098.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тирамису MACARENA</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5101" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сорбет (лимон, апельсин, грейпфрут)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5100" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5100.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мороженое</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5102" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5102.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Карамельно - ореховое пирожное</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5112" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5112.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Брусничный торт</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5103" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5103.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мусс Три шоколада с ванильным пирожным</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5104" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5104.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Парфэ</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5116" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5116.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Клубничный торт с миндалем и виноградным сорбетом</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5108" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5108.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Канноли</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5110" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5110.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чизкейк Нью-Йорк</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5113" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5113.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Наполеон</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11273" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/11273.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крема Катаплана</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5114" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5114.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морковный торт</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5117" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5117.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадное суфле с сорбетом  из маракуйи</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5118" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5118.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Теплый яблочный  пирог с мороженым </name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5119" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5119.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фруктовый салат</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5120" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5120.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадное фондю с фруктами</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5072" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5072.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырная тарелка на двоих (Камамбер, Пармезан, Горгонзола, Маасдам, козий сыр)</name>
+				<vendor>MACARENA</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="5073" available="true">
+				<url>http://fasteda.ru/menu/macarena/</url>
+				<price>590</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>852</categoryId>
+				<picture>http://fasteda.ru/data/big/5073.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырная тарелка Премиум на двоих</name>
+				<vendor>MACARENA</vendor>
+				<description>Пармиджано Реджано, Манчего, Кесо де Кабра, Горгонзола.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

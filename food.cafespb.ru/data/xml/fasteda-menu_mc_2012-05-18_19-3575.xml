@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:35">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="7">Сандвичи</category>
+			<category id="3">Картофель</category>
+			<category id="6">Салаты</category>
+			<category id="8">Соусы</category>
+			<category id="5">Напитки</category>
+			<category id="1">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="3995" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/3995.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикенбургер с беконом</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>83</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/1.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Биг Макс</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, говядина, салат, сыр, соус.</description>
+			</offer>
+			<offer id="2" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>98</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/2.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рояль де Люкс</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, говядина, горчица, кетчуп, сыр, салат.</description>
+			</offer>
+			<offer id="3" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/3.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Филе-о-фишс</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, рыбное филе, соус, сыр.</description>
+			</offer>
+			<offer id="4" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>41</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/4.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чизбургер</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, говядина, горчица, кетчуп, сыр.</description>
+			</offer>
+			<offer id="5" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>31</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/5.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гамбургер</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, говядина, горчица, кетчуп.</description>
+			</offer>
+			<offer id="6" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>41</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/6.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикенбургер</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, курятина, салат, майонез.</description>
+			</offer>
+			<offer id="7" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/7.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Макчикен</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, курятина, салат, майонез.</description>
+			</offer>
+			<offer id="8" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/8.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рояль Чизбургер</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, говядина, горчица, кетчуп, сыр.</description>
+			</offer>
+			<offer id="9" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/9.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Двойной Чизбургер</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, говядина, горчица, кетчуп, сыр.</description>
+			</offer>
+			<offer id="3226" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>117</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/3226.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Биф Ролл</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="1866" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>117</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/1866.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикен бекон</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="10" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>87</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/10.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикен Макнаггетс 6 шт + 1 соус</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Обжаренные кусочки куриного белого мяса в панировке, которые подаются с бесплатным соусом: горчичным, кисло-сладким, барбекю, карри.</description>
+			</offer>
+			<offer id="11" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>117</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/11.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикен Макнаггетс 9 шт + 2 соуса</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Обжаренные кусочки куриного белого мяса в панировке, которые подаются с бесплатным соусом: горчичным, кисло-сладким, барбекю, карри.</description>
+			</offer>
+			<offer id="12" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>212</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/12.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чикен Макнаггетс 20 шт + 3 соус</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Обжаренные кусочки куриного белого мяса в панировке, которые подаются с бесплатным соусом: горчичным, кисло-сладким, барбекю, карри.</description>
+			</offer>
+			<offer id="13" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/13.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Биг-тейсти</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Булочка, говядина, майонез, салат, помидор, сыр.</description>
+			</offer>
+			<offer id="500" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>114</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/500.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Биф а-ля Рус с беконом</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="507" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>98</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/507.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ролл Цезарь</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Сочная куриная котлета, салат, ломтик помидора и сыр Пармезан в пресной пшеничной лепешке, заправленной соусом Цезарь.</description>
+			</offer>
+			<offer id="1205" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>7</categoryId>
+				<picture>http://fasteda.ru/data/big/1205.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фиш Ролл</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="18" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>37</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3</categoryId>
+				<picture>http://fasteda.ru/data/big/18.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри мал.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Хрустящий, с золотистой корочкой и слегка посоленный картофель фри.</description>
+			</offer>
+			<offer id="19" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3</categoryId>
+				<picture>http://fasteda.ru/data/big/19.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри стандарт.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Хрустящий, с золотистой корочкой и слегка посоленный картофель фри.</description>
+			</offer>
+			<offer id="20" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3</categoryId>
+				<picture>http://fasteda.ru/data/big/20.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри бол.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Хрустящий, с золотистой корочкой и слегка посоленный картофель фри.</description>
+			</offer>
+			<offer id="21" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>62</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>3</categoryId>
+				<picture>http://fasteda.ru/data/big/21.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель по-деревенски</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Аппетитные, обжаренные со специями ломтики картофеля с соусом на выбор.</description>
+			</offer>
+			<offer id="51" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>6</categoryId>
+				<picture>http://fasteda.ru/data/big/51.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощной салат</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Из сочных салатных листьев, моркови, помидоров Черри, кукурузы и свежих огурцов. Насладитесь вкусом свежих овощей, а для пикантности добавьте соус Масло &amp; Винный Уксус или соус 1000 Островов.</description>
+			</offer>
+			<offer id="52" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>6</categoryId>
+				<picture>http://fasteda.ru/data/big/52.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат Цезарь</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Салат из сочных салатных листьев, моркови, помидоров Черри, с кусочками куриной котлеты в панировке и сыра Пармезан. Этот кулинарный шедевр приготовлен специально для вас, и разве можно перед этим устоять! А для полноты вкуса приправьте салат соусом Цезарь.</description>
+			</offer>
+			<offer id="502" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>37</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>6</categoryId>
+				<picture>http://fasteda.ru/data/big/502.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Морковные палочки</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="54" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>8</categoryId>
+				<picture>http://fasteda.ru/data/big/54.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Карри</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="55" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>8</categoryId>
+				<picture>http://fasteda.ru/data/big/55.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Барбекю</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="56" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>8</categoryId>
+				<picture>http://fasteda.ru/data/big/56.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Горчичный</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="57" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>8</categoryId>
+				<picture>http://fasteda.ru/data/big/57.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сырный</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="58" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>8</categoryId>
+				<picture>http://fasteda.ru/data/big/58.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кисло-сладкий</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="59" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>8</categoryId>
+				<picture>http://fasteda.ru/data/big/59.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="60" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>18</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>8</categoryId>
+				<picture>http://fasteda.ru/data/big/60.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Майонез</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="26" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>54</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/26.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Молочный коктейль мал.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Густые и сытные со щедрой добавкой шоколадного, клубничного, ванильного сиропа.</description>
+			</offer>
+			<offer id="27" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>63</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/27.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Молочный коктейль стандарт.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Густые и сытные со щедрой добавкой шоколадного, клубничного, ванильного сиропа.</description>
+			</offer>
+			<offer id="28" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/28.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Молочный коктейль бол.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Густые и сытные со щедрой добавкой шоколадного, клубничного, ванильного сиропа.</description>
+			</offer>
+			<offer id="30" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>64</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/30.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Липтон Айс Ти</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Со вкусом лимона и зеленый чай.</description>
+			</offer>
+			<offer id="33" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/33.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>БонАква</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Чистая питьевая газированная и негазированная вода в бутылках 0,5 литра.</description>
+			</offer>
+			<offer id="34" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>43</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/34.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Апельсиновый сок мал.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Свежий апельсиновый сок.</description>
+			</offer>
+			<offer id="37" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/37.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кофе черный средний</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Эспрессо с добавлением горячей воды по-настоящему бодрит и согревает. Ароматный с золотистой пеночкой, но с меньшим содержанием кофеина. Его насыщенным ароматом и прекрасным вкусом можно и нужно наслаждаться не спеша, а его тепло и энергия останутся с вами надолго!.</description>
+			</offer>
+			<offer id="38" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>63</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/38.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кофе черный бол.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Эспрессо с добавлением горячей воды по-настоящему бодрит и согревает. Ароматный с золотистой пеночкой, но с меньшим содержанием кофеина. Его насыщенным ароматом и прекрасным вкусом можно и нужно наслаждаться не спеша, а его тепло и энергия останутся с вами надолго!.</description>
+			</offer>
+			<offer id="39" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/39.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Капучино средний</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Уникальный напиток, пользующийся популярностью во всем мире. Ароматный эспрессо с нежным вспененным молоком и плотной шапкой молочной пены. Его горячая нежность никого не оставит равнодушным - расслабтесь и забудьте обо всех своих заботах. Для приготовления КАПУЧИНО Макдоналдс использует отборный кофе от компании Paulig.</description>
+			</offer>
+			<offer id="40" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/40.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Капучино большой</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Уникальный напиток, пользующийся популярностью во всем мире. Ароматный эспрессо с нежным вспененным молоком и плотной шапкой молочной пены. Его горячая нежность никого не оставит равнодушным - расслабьтесь и забудьте обо всех своих заботах. Для приготовления КАПУЧИНО Макдоналдс использует отборный кофе от компании Paulig. </description>
+			</offer>
+			<offer id="41" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/41.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Глясе</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Сверху мороженое, а под ним - ароматный кофе! Удивительный контраст освежающей прохлады и горячего бодрящего кофе, который дарит чувство гармонии. Для приготовления ГЛЯСЕ Макдоналдс использует отборный кофе от компании Paulig. </description>
+			</offer>
+			<offer id="42" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>73</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/42.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Латте</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Итальянский вариант кофе с молоком. Великолепное сочетание - бодрость эспрессо и подогретого с помощью пара молока. Этот воздушный и мягкий кофе с молочной пеной согреет и подарит вам новые силы. Для приготовления ЛАТТЕ Макдоналдс использует отборный кофе от компании Paulig. </description>
+			</offer>
+			<offer id="50" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>27</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/50.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Актимель</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Йогурт, содержащий специальные лактобактерии.Способствуют укреплению иммунитета!.</description>
+			</offer>
+			<offer id="505" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>53</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/505.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Двойной эспрессо</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Уникальный напиток, пользующийся популярностью во всем мире. Ароматный эспрессо с нежным вспененным молоком и плотной шапкой молочной пены. Его горячая нежность никого не оставит равнодушным - расслабьтесь и забудьте обо всех своих заботах. </description>
+			</offer>
+			<offer id="557" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/557.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кока-Кола маленькая 0,5</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>(0,5 л.).</description>
+			</offer>
+			<offer id="558" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/558.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кока-Кола средняя 1 л.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>(1 л.).</description>
+			</offer>
+			<offer id="559" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/559.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кока-Кола большая 2 л.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>(2 л.).</description>
+			</offer>
+			<offer id="684" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/684.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Аква Минерале  Актив с лимоном 0,6 л.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Для молодых, энергичных, динамичных людей, достигающих успеха, живущих преимущественно в городах, и заботящихся о своем здоровье и современном стиле жизни.</description>
+			</offer>
+			<offer id="685" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/685.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Аква Минерале Актив с апельсином 0,6 л.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Для молодых, энергичных, динамичных людей, достигающих успеха, живущих преимущественно в городах, и заботящихся о своем здоровье и современном стиле жизни.</description>
+			</offer>
+			<offer id="686" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/686.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Энергетический напиток Ред Булл 0,35 л.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Повышает работоспособность, повышает концентрацию внимания и скорость реакции, повышает бдительность, улучшает эмоциональное состояние, стимулирует обмен веществ.
+Эффективность Ред Булла подтверждена известными спортсменами, успешными менеджерами, студентами и специалистами во всем мире.</description>
+			</offer>
+			<offer id="1723" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>59</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>5</categoryId>
+				<picture>http://fasteda.ru/data/big/1723.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кола в стакане стандарт.</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="44" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>http://fasteda.ru/data/big/44.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирожок с вишней</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Пирожок с вишневой начинкой.</description>
+			</offer>
+			<offer id="46" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>52</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>http://fasteda.ru/data/big/46.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мороженое на выбор</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Политое на ваш выбор горячим шоколадом, горячим карамельным, прохладным клубничным сиропом.</description>
+			</offer>
+			<offer id="47" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>64</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>http://fasteda.ru/data/big/47.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Макфлурри</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Нежное мороженое, смешанное с хрустящим наполнителем.Потрясающий вихрь вкуса!.</description>
+			</offer>
+			<offer id="48" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>69</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>http://fasteda.ru/data/big/48.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Макфлурри Де Люкс</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Нежное клубнично-шоколадное и карамельно-шоколадное мороженое, смешанное с хрустящим наполнителем.</description>
+			</offer>
+			<offer id="49" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>57</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>http://fasteda.ru/data/big/49.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Маффин с черной смородиной</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Маффины шоколадные и с черной смородиной. Эти нежные кексы прекрасно подходят к любому горячему или прохладительному напитку.</description>
+			</offer>
+			<offer id="504" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>57</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>http://fasteda.ru/data/big/504.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Маффин шоколадный</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Маффины шоколадные и с черной смородиной. Эти нежные кексы прекрасно подходят к любому горячему или прохладительному напитку.</description>
+			</offer>
+			<offer id="1653" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>157</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>http://fasteda.ru/data/big/1653.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хэппи мил</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>Гамбургер или чизбургер на выбор, картофель фри/наггетсы, сок/кола. Игрушка для мальчика или девочки.</description>
+			</offer>
+			<offer id="2728" available="true">
+				<url>http://fasteda.ru/menu/mc/</url>
+				<price>46</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>http://fasteda.ru/data/big/2728.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пирожок сезонный</name>
+				<vendor>Доставка Макдональдс</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

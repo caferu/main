@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-07 20:38">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="978">Чебуреки</category>
+			<category id="984">Салаты</category>
+			<category id="979">Горячие блюда</category>
+			<category id="981">Супы</category>
+			<category id="983">Десерты</category>
+			<category id="986">Напитки</category>
+			<category id="2027">Дополнения</category>
+		</categories>
+		<offers>
+			<offer id="6067" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6067.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек фирменный «Брынза»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Хрустящее тесто с тающей начинкой из домашней брынзы и сыра Гауда
+(120 гр).</description>
+			</offer>
+			<offer id="6068" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6068.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек фирменный «Брынза» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="12156" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/12156.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Тар-тар»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С рубленой говяжьей вырезкой, корнишонами, каперсами, рукколой, приправленный соевым соусом (120 гр).</description>
+			</offer>
+			<offer id="12157" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/12157.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Тар-тар» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6069" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6069.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Русский»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Начиненный толченым картофелем и жареными грибами с добавлениям лука
+(120 гр).</description>
+			</offer>
+			<offer id="6070" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6070.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Русский» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6071" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6071.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Деликатесный»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Жаренный до золотистой корочки, с нежной курочкой, сыром и грибами.
+(120 гр).</description>
+			</offer>
+			<offer id="6072" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6072.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Деликатесный» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6073" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6073.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Не детский»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Сочный чебурек начиненный свининой, луком и пряностями. 
+(120 гр).</description>
+			</offer>
+			<offer id="6074" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6074.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Не детский» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6075" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6075.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Восточный»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Чебурек из рубленой баранины с овощами, кинзой и зеленью, приправленный свежим чили-перцем по-восточному.
+(120 гр).</description>
+			</offer>
+			<offer id="6076" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6076.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Мужской»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Румяный, аппетитный чебурек с говядиной и свининой с добавлением пряностей и зелени.
+(120 гр).</description>
+			</offer>
+			<offer id="6077" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6077.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Мужской» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6078" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6078.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Дамский»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Сочный чебурек с начинкой из телятины , лука и зелени.
+(120гр).</description>
+			</offer>
+			<offer id="6079" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6079.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Дамский» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6080" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6080.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Карелия»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Нежное филе корельской форели с тертым сыром и зеленью.
+(120 гр).</description>
+			</offer>
+			<offer id="6081" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6081.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Карелия» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="6082" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6082.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Осенний»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С баклажанами, сладким перцем, помидорами и моцареллой, приправленный базиликом.
+(120 гр).</description>
+			</offer>
+			<offer id="6083" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/6083.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Осенний» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(180 гр).</description>
+			</offer>
+			<offer id="9121" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/9121.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Баварский»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Сытный чебурек со свининой, охотничьими колбасками, копченой    грудинкой, грибами и сыром
+(120 гр.).</description>
+			</offer>
+			<offer id="9124" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/9124.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Баварский» (с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Сытный чебурек со свининой, охотничьими колбасками, копченой    грудинкой, грибами и сыром
+(180 гр.).</description>
+			</offer>
+			<offer id="9122" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/9122.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Итальянский»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Легкий, оригинальный чебурек с пармской ветчиной, рукколой и пармезаном 
+(120 гр.).</description>
+			</offer>
+			<offer id="9123" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>978</categoryId>
+				<picture>http://fasteda.ru/data/big/9123.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Итальянский»(с двойной начинкой)</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Легкий, оригинальный чебурек с пармской ветчиной, рукколой и пармезаном 
+(180 гр.).</description>
+			</offer>
+			<offer id="12159" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>158</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/12159.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Имеретинский салат</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Курица с гранатом, тархуном и заправкой из грецких орехов.</description>
+			</offer>
+			<offer id="6102" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>247</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/6102.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Цезарь» с цыпленком</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Сочные листья салата с пармезаном и  гренками. Заправка из анчоусов и каперсов, дополняется жареным цыпленком (200гр).</description>
+			</offer>
+			<offer id="6103" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/6103.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат из свежих овощей с заправкой на ваш выбор.</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(150 гр).</description>
+			</offer>
+			<offer id="6109" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>139</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/6109.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сельдь по-русски</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С отварным картофелем, красным луком и подсолнечным маслом.</description>
+			</offer>
+			<offer id="6110" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>157</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/6110.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Белоснежный сыр «Брынза»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Со свежими овощами, салатом айсберг,маслинами,красным луком и маслом.
+(200 гр).</description>
+			</offer>
+			<offer id="6111" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>117</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/6111.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Русский винегрет</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С отварными овощами, зимними соленьями и маринованными грибами, заправляется ароматным подсолнечным маслом и горчицей
+(200 гр).</description>
+			</offer>
+			<offer id="12158" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>148</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/12158.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырная тарелка</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Гауда, сулугуни, фета и дор-блю с зеленью и маслинами .</description>
+			</offer>
+			<offer id="6112" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>137</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/6112.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Оливье»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Домашний салат с картофелем, маринованным огурцом, морковью и вареной колбасой, подается с зеленым горошком и зеленью.
+(200 гр).</description>
+			</offer>
+			<offer id="6113" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>89</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/6113.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Капустный салат</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Белокочанная капуста с морковью, апельсинами и яблоками, заправленная маслом, соком лимона и брусникой.
+(200 гр).</description>
+			</offer>
+			<offer id="6114" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>147</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/6114.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сельдь «Под шубой»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Классическая селедочка, прослоенная отварными овощами, яйцом и майонезом. 
+(200 гр).</description>
+			</offer>
+			<offer id="6115" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>148</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/6115.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Деревенский»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Свиная буженина с маринованным огурчиком, отварным картофелем и заправкой из сметаны и хрена.
+(200 гр).</description>
+			</offer>
+			<offer id="9109" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>329</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/9109.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Цезарь» с тигровыми креветками</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Сочные листья салата с пармезаном и  гренками. Заправка из анчоусов и каперсов, дополняется тигровыми креветками (200 гр).</description>
+			</offer>
+			<offer id="9118" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>159</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/9118.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рыбный салат</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С копченной зубаткой, картофелем, яблоком и горчичной заправкой.</description>
+			</offer>
+			<offer id="9119" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>174</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/9119.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Малосоленая форель</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Со свежими овощами, мякотью апельсина, оливковым маслом, медом и соевым соусом.</description>
+			</offer>
+			<offer id="9120" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>137</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>984</categoryId>
+				<picture>http://fasteda.ru/data/big/9120.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат «Огород»   </name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Печеные баклажаны, сладкий перец и помидоры с ароматным маслом и яблочным уксусом.</description>
+			</offer>
+			<offer id="6085" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>297</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/6085.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Форель в фольге</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.Запеченная форель с рисом, луком и помидорами, приправленная ароматным сливочным маслом, кинзой и тархуном.</description>
+			</offer>
+			<offer id="6086" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/6086.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фрикассе из цыпленка</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Небольшие кусочки филе цыпленка, приготовленные с грибами, вином и сливками, подается со спагетти и сыром.</description>
+			</offer>
+			<offer id="6087" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>258</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/6087.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Цыпленок «Табака»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Зажаренный до корочки с чесноком и перцем, подается с картофелем фри и маринованным луком.
+</description>
+			</offer>
+			<offer id="6088" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/6088.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Бефстроганов</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Ломтики говядины с грибами, паприкой и томатом, тушеные в сметане, подается с гречневой кашей.</description>
+			</offer>
+			<offer id="6089" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/6089.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Плов по-узбекски из говядины</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Узбекский плов, приготовленный с изюмом, барбарисом и зирой.</description>
+			</offer>
+			<offer id="6090" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/6090.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Жаркое из свинины</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Кусочки свинины, тушеные в горшочке,с  картофелем, луком и чесноком, приправленные сладким перцем.
+(400 гр).</description>
+			</offer>
+			<offer id="6091" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/6091.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Манты узбекские</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С бараниной, луком и сладким перцем, подаются со сметаной.</description>
+			</offer>
+			<offer id="9112" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>297</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/9112.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минутный стейк</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Тонко отбитый и быстро обжаренный стейк из говядины, подается с картофелем  «Айдахо», жареными помидорами и чесночным маслом (600 гр).</description>
+			</offer>
+			<offer id="9113" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>258</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/9113.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясо по-грузински</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Свиная отбивная с жареным луком и помидорами, запеченная под сыром сулугуми и тархуном, подается с картофелем по-деревенски и соусом сацибелли.</description>
+			</offer>
+			<offer id="9114" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>278</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/9114.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак по-польски</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Обжаренное филе судака, подается с картофельным пюре, овощным жульеном и подливой из сливочного масла и яиц.</description>
+			</offer>
+			<offer id="9116" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>297</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/9116.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чанахи</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Тушеная баранина с баклажанами, томатами, картофелем, паприкой, зеленью и специями.</description>
+			</offer>
+			<offer id="9117" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>199</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>979</categoryId>
+				<picture>http://fasteda.ru/data/big/9117.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чахохбили</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Тушеная курица с луком, помидорами, картофелем, паприкой и зеленью.</description>
+			</offer>
+			<offer id="6092" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>98</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>981</categoryId>
+				<picture>http://fasteda.ru/data/big/6092.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный бульон</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С фрикадельками, домашней лапшой и зеленью.
+(400 мл).</description>
+			</offer>
+			<offer id="6093" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>981</categoryId>
+				<picture>http://fasteda.ru/data/big/6093.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Гороховая похлебка</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С копченой свининой и чесночными гренками (400 мл).</description>
+			</offer>
+			<offer id="6094" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>198</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>981</categoryId>
+				<picture>http://fasteda.ru/data/big/6094.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уха с оливками</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Из форели и судака с добавлением сливок (400 мл).</description>
+			</offer>
+			<offer id="6096" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>981</categoryId>
+				<picture>http://fasteda.ru/data/big/6096.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Борщ «Московский»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Густой наваристый свекольник с говядиной, чесноком и сметаной
+(400 мл).</description>
+			</offer>
+			<offer id="6097" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>981</categoryId>
+				<picture>http://fasteda.ru/data/big/6097.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырная похлебка</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С добавлением сыра с голубой плесенью и сливок. Дополняется гренками и зеленью.
+(250 мл).</description>
+			</offer>
+			<offer id="9110" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>189</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>981</categoryId>
+				<picture>http://fasteda.ru/data/big/9110.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Харчо</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Знаменитый грузинский суп с бараньей грудинкой, приправляется соусом ткемали, кинзой и чесноком.</description>
+			</offer>
+			<offer id="9111" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>149</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>981</categoryId>
+				<picture>http://fasteda.ru/data/big/9111.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Грибной суп</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Из боровиков и шампиньонов с картофелем, перловой крупой и густой сметаной.</description>
+			</offer>
+			<offer id="6098" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/6098.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Медовик</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Медовый бисквит, прослоенный сметанным кремом, подается с клубничным соусом.
+(100 гр).</description>
+			</offer>
+			<offer id="6099" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>97</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/6099.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ванильное мороженое с сиропом</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="6100" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>97</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/6100.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадное мороженое с сиропом</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="6101" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/6101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Булочка с маком в шоколадной глазури</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="9125" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9125.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Вишневое суфле</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Воздушный сметанно-ягодный десерт.</description>
+			</offer>
+			<offer id="9126" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>97</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9126.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фруктовый салат</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Салат из сезонных и консервированных фруктов и ягод со взбитыми сливками и мятой.</description>
+			</offer>
+			<offer id="9127" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9127.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Как штрудель»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С яблоками, изюмом, орехами и корицей, подается с вишневым соусом.</description>
+			</offer>
+			<offer id="9128" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9128.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Пьяная вишня»</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С вишней, выдержанной в сиропе и коньяке.</description>
+			</offer>
+			<offer id="9129" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9129.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чебурек «Тутти-Фрутти»   </name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>С фруктовым салатом, орехами и мятой.</description>
+			</offer>
+			<offer id="9130" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9130.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Молочный коктейль</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Ванильный, клубничный или шоколадный.</description>
+			</offer>
+			<offer id="9131" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Буше</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9132" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картошка</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9133" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9133.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Восточная корзиночка</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9134" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9134.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>корзиночка с фруктами</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9135" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9135.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лакомка</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9136" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9136.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эклер</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9137" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9137.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эклер миндальный</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9138" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9138.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Черный лес</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="9139" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>983</categoryId>
+				<picture>http://fasteda.ru/data/big/9139.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шоколадное пирожное с вишней</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="6121" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>986</categoryId>
+				<picture>http://fasteda.ru/data/big/6121.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свежевыжатый сок - апельсиновый</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(0.2 л).</description>
+			</offer>
+			<offer id="6122" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>195</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>986</categoryId>
+				<picture>http://fasteda.ru/data/big/6122.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свежевыжатый сок - грейпфрутовый</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(0.2 л).</description>
+			</offer>
+			<offer id="6123" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>986</categoryId>
+				<picture>http://fasteda.ru/data/big/6123.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>Апельсин, томат, грейпфрут, ананас, яблоко, вишня, мультифрут.
+(0.2 л).</description>
+			</offer>
+			<offer id="6124" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>986</categoryId>
+				<picture>http://fasteda.ru/data/big/6124.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс домашний</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(0.2 л).</description>
+			</offer>
+			<offer id="6125" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>986</categoryId>
+				<picture>http://fasteda.ru/data/big/6125.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Квас домашний</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>(0.2 л).</description>
+			</offer>
+			<offer id="12160" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2027</categoryId>
+				<picture>http://fasteda.ru/data/big/12160.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12161" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2027</categoryId>
+				<picture>http://fasteda.ru/data/big/12161.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Хлеб</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12162" available="true">
+				<url>http://fasteda.ru/menu/chebureki_brynza/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2027</categoryId>
+				<picture>http://fasteda.ru/data/big/12162.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лаваш</name>
+				<vendor>Чебуречная «Брынза»</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

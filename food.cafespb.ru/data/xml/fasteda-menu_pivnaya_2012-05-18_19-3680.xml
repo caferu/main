@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="97">Горячие блюда</category>
+			<category id="395">Салаты и холодные закуски</category>
+			<category id="393">Пивные закусоны</category>
+			<category id="544">Многоколбасное меню</category>
+			<category id="397">Рыбное. Вяленое. Сушеное. Под «Пенистое»</category>
+			<category id="93">Горячие закуски</category>
+			<category id="498">Паста</category>
+			<category id="103">Соусы</category>
+			<category id="133">Супы</category>
+			<category id="101">Гарниры</category>
+			<category id="104">Десерты</category>
+			<category id="496">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="3267" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>980</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/3267.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк Ри-бай</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Мраморная говядина, в классике Medium rare с соусом из белых грибов. (степень прожарки может быть изменена по Вашему желанию) (250/110/40гр).</description>
+			</offer>
+			<offer id="603" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>4950</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/603.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Большое мясное наедалово для 4 голодных огромных байкеров или 6 - 8 - 10 приличных людей</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Колбасный Кружок по интересам, Многоколбасная сковорода с горькой Чицей, охотные колбаски, классический стейк из говядины, жареная куриная грудка, свиной ломоть, свиная рулька Айсбан, Ново Рёбра, куриные нелеталы, язык телячий, картофель фри, салат айсберг, томаты черри, горчица, кетчуп, соус чесночный, соус сырный, соус BBQ (5-6 кило).</description>
+			</offer>
+			<offer id="604" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/604.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тёлочкины пеньки</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С мелкодисперсным сливочным картофелем и хрустящей копчёной свиной грудкой. Подаётся с заправкой оливлемопарсли. Состав:  Телятина, картофельное пюре, бекон, томаты черри, оливковое масло, зелень (150/150/20гр).</description>
+			</offer>
+			<offer id="628" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/628.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ново Рёбра</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Грызловые рёбра прожаренные до хруста, к тому же немало засыпаны сыром и острозатобасчины. Состав: свиные рёбра, сыр, соус табаско (350гр).</description>
+			</offer>
+			<offer id="629" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>495</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/629.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свино Грудь</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С хрящами, разварным корнеплодом и зелёными олиными ягодками. Состав: свиные рёбра, отварной картофель, оливки, зелень (350гр).</description>
+			</offer>
+			<offer id="630" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/630.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Судак по-польски</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Шляховый судак в яично-масленно-укроповом соусе с картопляным пюре, как раньше. Состав: Судак, картофельное пюре, яйцо, сливочное масло, зелень (180/150 гр).</description>
+			</offer>
+			<offer id="631" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/631.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>К.Г.Б.</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Клаб ГамБургер Бир. Он же разорви хлеборезку, настолько не мал. Состав: Булочка для гамбургера, говяжья вырезка, свиная шея, бекон, салат айсберг, соус сырный, томаты, корнишоны, лук, картофель фри, соус табаско, соус барбекю(390/110/40 гр).</description>
+			</offer>
+			<offer id="632" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/632.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Фахитос</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Из хитрой перуанской фасоли, с перуанскими специями и мясом молодого гуанако. Подаваемый уважаемым мексиканцам, с кориандром и потатовым хлебом (600 гр).</description>
+			</offer>
+			<offer id="2651" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2651.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свиные кубы на манер шашлыка</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С дымным луком и помидоровым засыпом. Состав: Свинина, лук, помидоры, чеснок, зелень(310гр).</description>
+			</offer>
+			<offer id="2662" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>385</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2662.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свиной ломоть</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С чесночным маслом и подпеченными томатами черри.Состав: Свиная шея, томаты черри, чесночное масло, горчица, зелень(160/30гр) .</description>
+			</offer>
+			<offer id="2656" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>935</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2656.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Нога молодого вепря</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Подкопченная на дубовой щепе.Состав: Рулька свиная с/к (ВЕПРЬ), овощи Микс, грибной соус, зелень(≈700гр).</description>
+			</offer>
+			<offer id="2658" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>385</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2658.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Поджарка из ломтиков говядины</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>На сливочном масле с репчатым луком и маринованными корнишонами (250гр).</description>
+			</offer>
+			<offer id="2652" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2652.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Котлы с Томиными оматами</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Жирненькие, сочные, румяные, вмеруупругие котлетки с помидорово-луковым маринадомЪ.Фарш из свинины и говядины, помидоры, лук, чеснок, зелень(300гр).</description>
+			</offer>
+			<offer id="2657" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>845</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2657.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свиная рулька Айсбан</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Подается с тушеной капусткой, беконом и тмином. Состав: Свиная ножка Айсбан, тушёная квашеная капуста, Айсбан соус(300/150/50гр) .</description>
+			</offer>
+			<offer id="2660" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2660.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Жареная куриная грудка </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С хрустящим луком и розовым перцем.Состав: Курица филе, перец чилли, жаренный лук, зелень(180гр).</description>
+			</offer>
+			<offer id="2661" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>760</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2661.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Микс-гриль </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Свиной ломотёк + медаль телячья + грудь куриная + овощи и зелень. Говяжья вырезка, свиная шея, курица филе, овощи микс, соус (350/110/60гр) .</description>
+			</offer>
+			<offer id="2654" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>570</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2654.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Классический стейк из говядины</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Со свежими овощами и соусом Green Pepper (степень прожарки только «Well-done»).</description>
+			</offer>
+			<offer id="2647" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>605</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2647.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>НаиТигрейшие креветки</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Обжаренные по способу Кияна в оливковом масле с рубленым чесноком. Подаются с соусом 1000 островов (180/40гр).</description>
+			</offer>
+			<offer id="2648" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2648.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Краснокожий морской Окунь</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С индейским картофелем и Шрек-соусом, гарнированный печёными красными шарами.Состав: Окунь, картофель айдахо, томаты черри, Шеф соус, зелень(280/20гр) .</description>
+			</offer>
+			<offer id="2650" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2650.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Золотисторумяный Дряник </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Под сыром обильно начиненный ветчиной.Состав: Картофель, яйцо, чеснок, ветчина, сыр, сметана, зелень(250/50гр) .</description>
+			</offer>
+			<offer id="2653" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>660</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2653.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк Beer</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Большой кус толстого края племенного быка Борьки с соусом из боровиков. (210/50/40гр) (степень прожарки только «Well-done»).</description>
+			</offer>
+			<offer id="2646" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2646.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Грибница по Юнцевски из лукошка грибника Гошки</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>По словам селян поднимает настроение и потенцию. В блюдо входит тыренный картофель с колхозных полей,Грибы подосиновики, лук, зелень(440 гр) .</description>
+			</offer>
+			<offer id="2655" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>405</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2655.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Медальоны Телячьи</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Нежнейшие медальоны доведенные нашими поварами до совершенства вкуса, в экзотическом соусе crème de céleste. Говядина, сливки, сыр Дор Блю, зелень(170гр).</description>
+			</offer>
+			<offer id="2659" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>495</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2659.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Стейк из шотландского лосося</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>На рисовой подушке, со сливочным соусом, с красной икрой, подаётся как жареный так и на пару.Состав: Лосось, дикий рис, соус Сливочно-икорный, лимон, зелень (170/150/50гр)   .</description>
+			</offer>
+			<offer id="2649" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>405</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>97</categoryId>
+				<picture>http://fasteda.ru/data/big/2649.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ладожский судак </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Запеченный на голомундирном картофеле с сочной сливочной подливой и яйцом дикого перепела. Состав: Судак, картофель, сыр, майонез,  зелень (280 гр) .</description>
+			</offer>
+			<offer id="575" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/575.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Рыбковая тарелка</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Рыбковая тарелка с лососями холодного копчения, слабой сольцы, долями лимона и тостами с красными яйцами рыб. Состав: филе лосося, красная икра, тостовый хлеб, яйцо перепела, сливочное масло, оливки, маслины, лимон, зелень (135гр) .</description>
+			</offer>
+			<offer id="576" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/576.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь с тигроветкой</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Цезарь с тигроветкой, знаменитый салат для ценителей морских гадов и весёлых барышень. Состав: Тигровые креветки, салат айсберг, томаты черри, пармезан, пшеничные гренки, соус Цезарь, соус соевый (210гр) .</description>
+			</offer>
+			<offer id="2634" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2634.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Цезарь Beer</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Так любимый всеми салат с жареными грудками кур и беконом CRISP. Состав: Кура филе,салат Айсберг,бекон,томаты черри, соус Цезарь,гренки (280 гр)  .</description>
+			</offer>
+			<offer id="2633" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2633.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хрустящие, острые, спресованые свиные ушки</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>В виде тонконарезаных ломтиков. Подаются с пряным соусом. Свиной рулет (100гр) .</description>
+			</offer>
+			<offer id="2635" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2635.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат-малат</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Засыпан жареными грибами, зело-сытен. Сыр, огурец, ветчина, майонез, шампиньоны, паприка, яйцо (220гр)  .</description>
+			</offer>
+			<offer id="2636" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2636.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куни - салат</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С сочной подливкой и сухарями, известный своими нежными качествами теплый язычок сосущего теленка, в обрамлении овощей, таких как - огурчик и помидор, безжалостно культивируемых колхозниками села Большие Лупы. Состав: Язык, помидоры, огурец, салат Айсберг,сухари, майонез, горчица, лук фри (260 гр) .</description>
+			</offer>
+			<offer id="2637" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>185</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2637.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сочнейший салат </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Из хрустящего огурца, помидора, репчатого лука, всё крупно порезав и не забыв сметаны для сочности. Состав: Помидоры, огурец, лук, салат Айсберг, сметана, зелень (200гр) .</description>
+			</offer>
+			<offer id="2638" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2638.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Шеф салат</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Прозванный так за свою сытность и вкус, состоящий из обжаренной грудки пулярки, баварской ветчины, сыра Ольтермани, многим салатного листа с соусом из свежего кориандра и чеснока. Состав: Куриное филе, ветчина, салат Айсберг, яйцо, томаты черри, Шеф соус(250/50гр) .</description>
+			</offer>
+			<offer id="2639" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2639.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Грецкий салат, вкусом известен!</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С мягкой брынзой, овощами и заправкой из лучшего оливкового масла и бальзамика.(В салате могут попадаться грецкие орехи). Состав: Брынза, помидоры, огурцы, паприка, масло оливковое, маслины, лук (200гр) .</description>
+			</offer>
+			<offer id="2640" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2640.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Оливье </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С колбасой Ухо Горло Нос (Док.), мозговым горошком и прочими овощами в прекрасном дополнении Прованского саля. Состав: Картофель, ветчина, морковь, корнишоны, зелёный горошек, яйцо, зелень, майонез (200гр) .</description>
+			</offer>
+			<offer id="2641" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2641.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салат крупного нарезу</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Для следящих за фигурой, состоит из разнообразных круглых овощей, зелени, жареных шляпок грибов и политый душистым маслицем. Состав: Помидоры, солёный огурец, лук, кукуруза, перец, шампиньоны, зелень (200гр.).</description>
+			</offer>
+			<offer id="2642" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>385</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2642.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мясной разносол</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Домашняя буженина, говяжий язык, Брауншвейгская колбаска и пряные ветчинные рулеты (210гр).</description>
+			</offer>
+			<offer id="2643" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2643.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сельдь вкуса отменного</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>По обычаю Русаков, подаваемая с разварной картохой, кольцами лука и обильно политая вкусным духмяным маслом.Состав: Сельдь, картофель, лук, масло, зелень (350гр).</description>
+			</offer>
+			<offer id="2644" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>395</categoryId>
+				<picture>http://fasteda.ru/data/big/2644.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Холодная буженина</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Обильно чинённая зубчиками чеснока с душистыми травами(130гр).</description>
+			</offer>
+			<offer id="577" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/577.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Унашки с норкой</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Вкусная острая поддела под угорь, улетающая под пенистое (40гр).</description>
+			</offer>
+			<offer id="578" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/578.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мэндаль копченый </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="579" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/579.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кеша Чилийский</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>(100 гр).</description>
+			</offer>
+			<offer id="2623" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2623.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Охотные колбаски</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С охотой добытые и прекрасно изготовленные охотником Акимовым и им же заботливо пожаренные. Подаются с соусом Дикий чесночок (170 гр) .</description>
+			</offer>
+			<offer id="2620" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2620.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Обильная тарелка с пучеглазыми, сочнорозовыми креветками  </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Так и манят своими усиками ярого пивомана. Состав: Креветки отварные, коньячный соус, лимон (300/40гр).</description>
+			</offer>
+			<offer id="2622" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2622.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хрустящее жареное гнездо</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Из копченого сырца с коньячным соусом (85/40гр) .</description>
+			</offer>
+			<offer id="2624" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2624.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Пивной многосытный микс</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С кольцами белкового, гренкосыром и охотными колбасами. Состав: Кольца кальмара, гренки, сыр, охотничьи колбаски (380гр) .</description>
+			</offer>
+			<offer id="2625" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2625.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Куриные нелеталы </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Тщательно оторванные, незамедлительно зачищенные и вкусно приготовленные нашими поварами. Куриные крылья, соус Барбекю, специи (200гр).</description>
+			</offer>
+			<offer id="2626" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2626.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель фри с Охотными колбасками</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Состав: Картофель фри, охотничьи колбаски, сырный соус (130/50гр).</description>
+			</offer>
+			<offer id="2627" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>625</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2627.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Доска пивных закусок</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Состав: Сырные пальцы Beer House, куриные крылья, кольца белкового кальмара (400гр).</description>
+			</offer>
+			<offer id="2628" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2628.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Острые кревые ветки</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Приготовленные как семечки, обжаренные и сдобренные мелкорубленым чесночком и зеленью (200гр).</description>
+			</offer>
+			<offer id="2629" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2629.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сырные пальцы Beer House</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Тщательно перемотанные беконом и румяно подпрожаренные до расплавки сыра.Состав: Сыр, бекон, яйцо, сухари пшеничный (130гр).</description>
+			</offer>
+			<offer id="2631" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2631.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сырокопченая нарезь Кабанчикового филе </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Они же свиные стручки. Любимая закусь профессора Плейшнера (60гр).</description>
+			</offer>
+			<offer id="2632" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>393</categoryId>
+				<picture>http://fasteda.ru/data/big/2632.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Свиные Лопухи  Джеймс Бонд</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Антигламурная закуска для настоящих шпионов. Свиные ушки (110гр).</description>
+			</offer>
+			<offer id="582" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>460</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>544</categoryId>
+				<picture>http://fasteda.ru/data/big/582.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Колбасный Кружок По-интересам</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Колбасный Кружок по интересам из колбасок разных народов: Душистая Цыганская (со степными жгучими травами), Сочная Украинская (с хрустящей шкваркой);  Пряная Узбекская (с бараньим курдюком). Подается со сливочным картофелем и открывающей чакры горчицей. (230/200/20гр).</description>
+			</offer>
+			<offer id="583" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>544</categoryId>
+				<picture>http://fasteda.ru/data/big/583.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Душистые бараньи колотульки</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С тушёной квашеной капусткой, семенами тмина и горчицей Хиросима (190/200/30гр)  .</description>
+			</offer>
+			<offer id="584" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>340</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>544</categoryId>
+				<picture>http://fasteda.ru/data/big/584.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Нюрнбергская улитка (или просто Нюра)</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Пряная немчурская колбаска, подается с картофельным салатом и тушёной капустой (100/100/100/20гр).</description>
+			</offer>
+			<offer id="585" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>544</categoryId>
+				<picture>http://fasteda.ru/data/big/585.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Многоколбасная сковорода с горькой Чицей</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Большой микс из разнообразной колбасы с домашней картошкой (650/40гр).</description>
+			</offer>
+			<offer id="586" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>544</categoryId>
+				<picture>http://fasteda.ru/data/big/586.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Украинские колбаски</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Толстые, сочные, крупнокусковонабитые с нарубленным сало и чесноком Украинские колбаски, с тушёной капусткой, для лучшего усвоения (200/190/30гр) .</description>
+			</offer>
+			<offer id="602" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>544</categoryId>
+				<picture>http://fasteda.ru/data/big/602.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Очень кусный, хороший колбаска по рецепт Узбекистон</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Очень кусный, хороший колбаска по рецепт Узбекистон. Сок течёт, животик радоваться, с капуста и соус острый-острый! Слеза тек на Русский земля капала. Купить нужно очень (200/190/30гр).</description>
+			</offer>
+			<offer id="605" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>397</categoryId>
+				<picture>http://fasteda.ru/data/big/605.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Red Пёрка - проворноплавниковая, хитрого просола (1 шт)</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Красноперка.</description>
+			</offer>
+			<offer id="2630" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>397</categoryId>
+				<picture>http://fasteda.ru/data/big/2630.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Камбала Кандалакшская</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Вяленая на берегу Белого моря, незабываемая по вкусу и запаху, подается с набором Молодого хирурга на Правде (1 шт).</description>
+			</offer>
+			<offer id="2687" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>397</categoryId>
+				<picture>http://fasteda.ru/data/big/2687.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вобла Астраханская</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Часто подаётся с икоркой и пузырём (170гр).</description>
+			</offer>
+			<offer id="2688" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>121</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>397</categoryId>
+				<picture>http://fasteda.ru/data/big/2688.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сопа янтарная, жирком сочащаяся </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>120 гр.</description>
+			</offer>
+			<offer id="2689" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>397</categoryId>
+				<picture>http://fasteda.ru/data/big/2689.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Набор Пивомана-Рыбоеда</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Жирная янтарная сопа, душистая вобла и корюшковая насыпь (250гр).</description>
+			</offer>
+			<offer id="4097" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>93</categoryId>
+				<picture>http://fasteda.ru/data/big/4097.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мидии &lt;&lt;Девичьи&gt;&gt;</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Мидии Девичьи в створках, на соли запеченные под соусом яйцесыр. (200гр.).</description>
+			</offer>
+			<offer id="2645" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>93</categoryId>
+				<picture>http://fasteda.ru/data/big/2645.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мидии &lt;&lt;Девичьи&gt;&gt; с пряным маслом</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Мидии Девичьи с пряным маслом для облегчения скольжения. Возлежат на Чиабатте . Состав: Мидии КиВИ, чиабатта, чесночное масло (190/50 гр).</description>
+			</offer>
+			<offer id="3271" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>498</categoryId>
+				<picture>http://fasteda.ru/data/big/3271.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Street</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>спагетти, сыр дор блю, сливки (Käserei) (250гр).</description>
+			</offer>
+			<offer id="3270" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>498</categoryId>
+				<picture>http://fasteda.ru/data/big/3270.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Салмон</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Спагетти, лосось, сливки, водка.  (250гр).</description>
+			</offer>
+			<offer id="3269" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>498</categoryId>
+				<picture>http://fasteda.ru/data/big/3269.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Маринара</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Спагетти, морские гады, сливки  (250гр).</description>
+			</offer>
+			<offer id="3268" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>498</categoryId>
+				<picture>http://fasteda.ru/data/big/3268.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Карбонара</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Спагетти, бекон, яичный желток, сливки (250гр).</description>
+			</offer>
+			<offer id="644" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/644.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="645" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>40</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/645.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сметана</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="647" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/647.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Горчица </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>20 гр.</description>
+			</offer>
+			<offer id="648" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/648.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Хрен </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="2667" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2667.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сырный</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>40 гр.</description>
+			</offer>
+			<offer id="2668" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2668.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Барбекю</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>40 гр.</description>
+			</offer>
+			<offer id="2669" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>75</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2669.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Rod island  </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>40гр.</description>
+			</offer>
+			<offer id="2670" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>85</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2670.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Из боровиков  </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>40гр.</description>
+			</offer>
+			<offer id="2671" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2671.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чесночный</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="2672" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2672.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Green pepper  </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>40гр.</description>
+			</offer>
+			<offer id="2673" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2673.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сметана</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="2674" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2674.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Майонез</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>50 гр.</description>
+			</offer>
+			<offer id="2675" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2675.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Кетчуп</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>40 гр.</description>
+			</offer>
+			<offer id="2676" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2676.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Масло растительное</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="2677" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>103</categoryId>
+				<picture>http://fasteda.ru/data/big/2677.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Масло оливковое</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>30 гр.</description>
+			</offer>
+			<offer id="580" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>133</categoryId>
+				<picture>http://fasteda.ru/data/big/580.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Уха по Шостацки</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С судаком, картофелем, помидором и чёрным пересом - как надо! (350гр).</description>
+			</offer>
+			<offer id="2681" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>133</categoryId>
+				<picture>http://fasteda.ru/data/big/2681.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Гороховая хлёбка </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Состав: Горох, бекон, зелень(350гр).</description>
+			</offer>
+			<offer id="2682" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>175</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>133</categoryId>
+				<picture>http://fasteda.ru/data/big/2682.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Наваристый бульон  </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Состав: Бульон куриный, кура голень, яйцо, морковь, зелень(350гр).</description>
+			</offer>
+			<offer id="2684" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>133</categoryId>
+				<picture>http://fasteda.ru/data/big/2684.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Душистая похлебка из боровиков  </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Состав: Подосиновики, морковь, картофель, лук, сметана, зелень (400гр).</description>
+			</offer>
+			<offer id="2683" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>133</categoryId>
+				<picture>http://fasteda.ru/data/big/2683.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Суточные щи </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Состав: Капуста, буженина, морковь, лук, картофель, лимон, сметана, зелень (330гр).</description>
+			</offer>
+			<offer id="2680" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>133</categoryId>
+				<picture>http://fasteda.ru/data/big/2680.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сливочный кремосуп из молодых лососей </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Состав: Филе лосося, мидия Киви, картофель, сливки, зелень(350гр) .</description>
+			</offer>
+			<offer id="581" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>101</categoryId>
+				<picture>http://fasteda.ru/data/big/581.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи Beer Grill </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Состав: Перец болгарский, картофель, лук, морковь, шампиньоны, томаты черри (150 гр).</description>
+			</offer>
+			<offer id="639" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>101</categoryId>
+				<picture>http://fasteda.ru/data/big/639.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Айдахо</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>или Каротоха по-деревенски  (150гр).</description>
+			</offer>
+			<offer id="640" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>101</categoryId>
+				<picture>http://fasteda.ru/data/big/640.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>На деревенских сливках (200гр).</description>
+			</offer>
+			<offer id="2663" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>101</categoryId>
+				<picture>http://fasteda.ru/data/big/2663.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Картофель Запеченный в кожуре</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С чесночным маслом, зеленью и сыром (210гр).</description>
+			</offer>
+			<offer id="2664" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>101</categoryId>
+				<picture>http://fasteda.ru/data/big/2664.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тушёная квашеная капуста</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description> С беконом и тмином (200гр).</description>
+			</offer>
+			<offer id="2665" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>101</categoryId>
+				<picture>http://fasteda.ru/data/big/2665.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Белый и Дикий рис</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Отварной или обжаренный,            на ваш вкус (150гр).</description>
+			</offer>
+			<offer id="2666" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>101</categoryId>
+				<picture>http://fasteda.ru/data/big/2666.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Овощи mix </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Свежайшие томаты черри + огурец + паприка +  кинза +  дробленный перец + морская соль (110гр).</description>
+			</offer>
+			<offer id="595" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>104</categoryId>
+				<picture>http://fasteda.ru/data/big/595.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Карамельно-ореховый пирог</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="596" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>104</categoryId>
+				<picture>http://fasteda.ru/data/big/596.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Торт морковный</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="597" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>104</categoryId>
+				<picture>http://fasteda.ru/data/big/597.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Бруснично-кремовый пирог</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>С белым шоколадом.</description>
+			</offer>
+			<offer id="598" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>104</categoryId>
+				<picture>http://fasteda.ru/data/big/598.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Тирамису Маскарпоне</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="599" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>285</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>104</categoryId>
+				<picture>http://fasteda.ru/data/big/599.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Каноли Сицилийская</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="600" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>385</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>104</categoryId>
+				<picture>http://fasteda.ru/data/big/600.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Мусс 3 шоколада</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="652" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>104</categoryId>
+				<picture>http://fasteda.ru/data/big/652.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Чизкейк </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>120 гр.</description>
+			</offer>
+			<offer id="2690" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>104</categoryId>
+				<picture>http://fasteda.ru/data/big/2690.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Ягодный супец </name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>Из клубники или малины горячий или холодный на ваш вкус и выбор  (250гр).</description>
+			</offer>
+			<offer id="2767" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2767.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Сок Тропикана 1 л выберите свой вариант</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2765" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2765.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>МОРС 0,5 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2766" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2766.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>МОРС 1 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2755" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2755.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Энергетический напиток Адреналин Раш 0,25 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2756" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2756.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вода Evian 0,33 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2757" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2757.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вода Акваминерале негаз. 0,6 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2758" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2758.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Вода Акваминерале газ. 0,6 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2759" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2759.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Evervess bitter lemon 0, 25 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2760" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2760.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Evervess tonic 0, 25 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2761" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2761.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Pepsi 0,25 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2762" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2762.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Pepsi Light 0,25 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2763" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2763.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>7 Up 0,25 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2764" available="true">
+				<url>http://fasteda.ru/menu/pivnaya/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>496</categoryId>
+				<picture>http://fasteda.ru/data/big/2764.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>250</local_delivery_cost>
+				<name>Mirinda 0,25 л</name>
+				<vendor>Beer House - еда, закуска, напитки</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

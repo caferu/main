@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-07-17 14:00">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1994">Холодные закуски</category>
+			<category id="2021">Горячие закуски</category>
+			<category id="1996">Салаты</category>
+			<category id="1997">Пивное меню</category>
+			<category id="2025">Блюда из птицы</category>
+			<category id="2024">Блюда из рыбы</category>
+			<category id="2023">Блюда из свинины</category>
+			<category id="2026">Блюда из баранины</category>
+			<category id="1995">Супы</category>
+			<category id="2022">Гарниры</category>
+			<category id="1998">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="11909" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1994</categoryId>
+				<picture>http://fasteda.ru/data/big/11909.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Селёдочка с картофелем в зелени</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11910" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1994</categoryId>
+				<picture>http://fasteda.ru/data/big/11910.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель с лососем  холодного копчения</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11911" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1994</categoryId>
+				<picture>http://fasteda.ru/data/big/11911.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Закуска с рубленой сельдью, яйцом и луком на тостах с пажитниковым сыром</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11912" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1994</categoryId>
+				<picture>http://fasteda.ru/data/big/11912.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Соленья ирландских бабушек</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11913" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1994</categoryId>
+				<picture>http://fasteda.ru/data/big/11913.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сочный ароматный Ростбиф</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11914" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>760</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1994</categoryId>
+				<picture>http://fasteda.ru/data/big/11914.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясной Дублин</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11915" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>795</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1994</categoryId>
+				<picture>http://fasteda.ru/data/big/11915.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рыбный Дублин</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12130" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2021</categoryId>
+				<picture>http://fasteda.ru/data/big/12130.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лодочки слоёные с брокколи, беконом и сливочным сыром</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12131" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2021</categoryId>
+				<picture>http://fasteda.ru/data/big/12131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Айриш Боксти</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12132" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2021</categoryId>
+				<picture>http://fasteda.ru/data/big/12132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мидии в створках, подпечённые в томате и белом вине</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11921" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11921.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тёплый салат с лососем в хрустящей корзине</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11922" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11922.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крупный салат с подкопчённым языком телёнка</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11923" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>365</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11923.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пушистый салат с лососем холодного копчения</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11924" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11924.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Айриш Винигер с сельдью</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11925" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11925.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь с индейкой</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11926" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>365</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11926.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Сытный Ирландец</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11927" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>255</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11927.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Обильный сочный салат со сметаной</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11928" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>375</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11928.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Цезарь с ростбифом</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11929" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11929.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат мясной Дублинский</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11930" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1996</categoryId>
+				<picture>http://fasteda.ru/data/big/11930.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с куриной печенью</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11931" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11931.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырные шары к пиву</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11932" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11932.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Острая вяленая говядина</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11933" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11933.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Горячие охотничьи колбаски</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11934" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11934.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Набор пивного Ирландца</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11935" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11935.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ирландские вяленые колбаски</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11937" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>795</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11937.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Большая тарелка с крыльями BBQ</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11938" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11938.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лососёвые теши по-дублински</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11939" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11939.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пушистый копчёный сыр под пиво</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11940" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>660</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11940.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Копчёно-вяленый  Ирландский микс</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11941" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11941.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Дюжина двукостных крыльев</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11942" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11942.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Уши свиные</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11943" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11943.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Копчёные, тушеные в пиве, рёбрышки</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11944" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11944.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сочные, розовые креветки</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11945" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1997</categoryId>
+				<picture>http://fasteda.ru/data/big/11945.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сырно-слоёные хрустящие палочки с беконом</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12149" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>345</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2025</categoryId>
+				<picture>http://fasteda.ru/data/big/12149.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриный  Бон-Бон  со шпинатным пюре</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12150" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>345</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2025</categoryId>
+				<picture>http://fasteda.ru/data/big/12150.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная голень, фаршированная белыми грибами и сыром</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12151" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>530</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2025</categoryId>
+				<picture>http://fasteda.ru/data/big/12151.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлычок из бедра индейки</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12152" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2025</categoryId>
+				<picture>http://fasteda.ru/data/big/12152.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шашлычок из индюшачьих сердечек</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12153" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2025</categoryId>
+				<picture>http://fasteda.ru/data/big/12153.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Целый цыплёнок на колу с битым картофелем</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12154" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2025</categoryId>
+				<picture>http://fasteda.ru/data/big/12154.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Фрикасе по-дублински из потрохов</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12146" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>1100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2024</categoryId>
+				<picture>http://fasteda.ru/data/big/12146.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Нежный стейк палтуса</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12147" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>510</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2024</categoryId>
+				<picture>http://fasteda.ru/data/big/12147.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Судак Аватар с овощным соте и соусом Шостац</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12148" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2024</categoryId>
+				<picture>http://fasteda.ru/data/big/12148.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Лосось Дублинский на подушке из шпината</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12140" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>495</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2023</categoryId>
+				<picture>http://fasteda.ru/data/big/12140.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шмат свинины с травяной сушкой и романеско</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12141" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>385</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2023</categoryId>
+				<picture>http://fasteda.ru/data/big/12141.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Огромный свиной шницель с Анчоусами и картофелем</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12142" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2023</categoryId>
+				<picture>http://fasteda.ru/data/big/12142.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиной шашлык</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12143" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>475</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2023</categoryId>
+				<picture>http://fasteda.ru/data/big/12143.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Рагу с копчёными рёбрами</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12144" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>475</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2023</categoryId>
+				<picture>http://fasteda.ru/data/big/12144.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свиной эскалоп в светлом пшеничном</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12145" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>430</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2023</categoryId>
+				<picture>http://fasteda.ru/data/big/12145.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Печёное свиное ухо с картофелем, оливками и сыром</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12155" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2026</categoryId>
+				<picture>http://fasteda.ru/data/big/12155.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Отменное рагу из баранины</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11916" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1995</categoryId>
+				<picture>http://fasteda.ru/data/big/11916.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной суп с говядиной и романеско</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11917" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>245</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1995</categoryId>
+				<picture>http://fasteda.ru/data/big/11917.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пастуший говяжий суп с перепелиными яичками и зелёным горошком</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11918" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1995</categoryId>
+				<picture>http://fasteda.ru/data/big/11918.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Крем-капучино с лососем холодного копчения</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11919" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>355</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1995</categoryId>
+				<picture>http://fasteda.ru/data/big/11919.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ирландская солянка</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11920" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>310</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1995</categoryId>
+				<picture>http://fasteda.ru/data/big/11920.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ирландский Сифуд</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12133" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2022</categoryId>
+				<picture>http://fasteda.ru/data/big/12133.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Греча</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12134" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2022</categoryId>
+				<picture>http://fasteda.ru/data/big/12134.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Романеско в сухарях</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12135" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2022</categoryId>
+				<picture>http://fasteda.ru/data/big/12135.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морковные медальки в сливочном сыре</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12136" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>135</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2022</categoryId>
+				<picture>http://fasteda.ru/data/big/12136.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Шпинатное пюре</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12137" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2022</categoryId>
+				<picture>http://fasteda.ru/data/big/12137.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чемп - картофельное пюре с зелёным луком</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12138" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2022</categoryId>
+				<picture>http://fasteda.ru/data/big/12138.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Картофель по-ирландски</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12139" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>2022</categoryId>
+				<picture>http://fasteda.ru/data/big/12139.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Томаты печёные</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11946" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>165</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1998</categoryId>
+				<picture>http://fasteda.ru/data/big/11946.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс Облепиховый 0,5 л</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11947" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>275</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1998</categoryId>
+				<picture>http://fasteda.ru/data/big/11947.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морс Облепиховый 1,0 л</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11948" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1998</categoryId>
+				<picture>http://fasteda.ru/data/big/11948.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепси 0,25 л</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11949" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1998</categoryId>
+				<picture>http://fasteda.ru/data/big/11949.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Миринда 0,25 л</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12126" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1998</categoryId>
+				<picture>http://fasteda.ru/data/big/12126.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Севен Ап 0,25 л</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12127" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1998</categoryId>
+				<picture>http://fasteda.ru/data/big/12127.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аква Минерале 0,25 л</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12128" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1998</categoryId>
+				<picture>http://fasteda.ru/data/big/12128.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Эвиан 0,33 л</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12129" available="true">
+				<url>http://fasteda.ru/menu/dublin/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1998</categoryId>
+				<picture>http://fasteda.ru/data/big/12129.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Адреналин Раш 0,25 л</name>
+				<vendor>Dublin</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

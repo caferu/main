@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-05-13 03:11">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1550">Шашлыки</category>
+			<category id="1551">Люля-кебаб</category>
+			<category id="1556">Салаты</category>
+			<category id="1553">Горячие блюда</category>
+			<category id="1554">Холодные закуски</category>
+			<category id="1552">Рыба</category>
+			<category id="1557">Гарниры</category>
+			<category id="1560">Наборы</category>
+			<category id="1559">Хлеб</category>
+			<category id="1558">Соусы</category>
+			<category id="1561">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="8547" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8547.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свинной шеи</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр).</description>
+			</offer>
+			<offer id="8548" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8548.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из ягненка</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8549" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8549.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашалык из филе яненка</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8550" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8550.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из куринного филе</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8551" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8551.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык икибир</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8552" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8552.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Корейка из телятины  </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8553" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8553.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинные ребрышки</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8554" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8554.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык чалагач</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8555" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8555.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куринные крылышки</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8556" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8556.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Голень куриная</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8557" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8557.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цыплёнок табака</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(270 гр.).</description>
+			</offer>
+			<offer id="8558" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>1150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8558.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык на 6 персон от шеф повара</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(1200 гр.).</description>
+			</offer>
+			<offer id="8559" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1550</categoryId>
+				<picture>http://fasteda.ru/data/big/8559.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Перепелка </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(2шт.).</description>
+			</offer>
+			<offer id="8560" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1551</categoryId>
+				<picture>http://fasteda.ru/data/big/8560.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля кебаб Кокарич </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>домашний фарш, лук, витаминный салат, помидоры на мангале, специи +соус в подарок
+.</description>
+			</offer>
+			<offer id="8561" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1551</categoryId>
+				<picture>http://fasteda.ru/data/big/8561.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля кебаб куриный </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>куриний фарш, лук, витаминный салат, соус в подарок 
+(180 гр.).</description>
+			</offer>
+			<offer id="8562" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1551</categoryId>
+				<picture>http://fasteda.ru/data/big/8562.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля кебаб Адана, острый </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>говяжый фарш, спец адана острый, лук, витаминный салат, соус в подарок
+(180 гр.).</description>
+			</offer>
+			<offer id="8563" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1551</categoryId>
+				<picture>http://fasteda.ru/data/big/8563.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля кебаб из баранины </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>баранина фарш,специи  лук,витаминный салат,соус в подарок
+(180 гр.)
+.</description>
+			</offer>
+			<offer id="8564" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1551</categoryId>
+				<picture>http://fasteda.ru/data/big/8564.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля кебаб из говядины </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>говяжый фарш, специи, лук, витаминный салат, соус в подарок
+(180 гр.).</description>
+			</offer>
+			<offer id="8565" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1551</categoryId>
+				<picture>http://fasteda.ru/data/big/8565.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля кебаб с грецким орехом</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>фарш говяжий, грецкий орех, лук, витаминный салат, соус в подарок 
+(180 гр.)
+.</description>
+			</offer>
+			<offer id="8582" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1556</categoryId>
+				<picture>http://fasteda.ru/data/big/8582.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Летний</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>огурцы, помидоры, болгарский перец, луг, зелень, оливковой масло.
+(150 гр.).</description>
+			</offer>
+			<offer id="8583" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1556</categoryId>
+				<picture>http://fasteda.ru/data/big/8583.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грибной</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>шомпинионы, маринованные огурцы, лук красный, специи, оливковое масло 
+(150 гр.).</description>
+			</offer>
+			<offer id="8584" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1556</categoryId>
+				<picture>http://fasteda.ru/data/big/8584.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Витаминный</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>капуста, морковь, зелень. подсолнечное масло 
+(150 гр.).</description>
+			</offer>
+			<offer id="8585" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1556</categoryId>
+				<picture>http://fasteda.ru/data/big/8585.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Европа</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>крабовые палочки, шампиньоны, огурцы, маринованный лук, майонез.
+(150 гр.).</description>
+			</offer>
+			<offer id="8586" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1556</categoryId>
+				<picture>http://fasteda.ru/data/big/8586.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат из креветок</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>креветки свежие, огурцы, болгарский перец, кукуруза, рис, отварный соус.
+(150 гр.).</description>
+			</offer>
+			<offer id="8587" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1556</categoryId>
+				<picture>http://fasteda.ru/data/big/8587.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат по-деревенски</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>отварной картофель, сельдь, лук
+(150 гр.).</description>
+			</offer>
+			<offer id="8588" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1556</categoryId>
+				<picture>http://fasteda.ru/data/big/8588.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кремлёвский</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>телятина, грецкий орех, чернослив, чеснок, сметана
+(160 гр.).</description>
+			</offer>
+			<offer id="8570" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1553</categoryId>
+				<picture>http://fasteda.ru/data/big/8570.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Долма</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>виноградные листья, говяжий фарш + белый соус с чесноком 
+(220 гр.)
+.</description>
+			</offer>
+			<offer id="8571" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1553</categoryId>
+				<picture>http://fasteda.ru/data/big/8571.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощи на костре</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>баклажан, помидоры, болгарский перец
+.</description>
+			</offer>
+			<offer id="8572" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1553</categoryId>
+				<picture>http://fasteda.ru/data/big/8572.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хашлама из ягнека</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>мясо ягненка, картошка, болгарский перец, помидор, лук, зелень, специи
+(400 гр.).</description>
+			</offer>
+			<offer id="8573" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1553</categoryId>
+				<picture>http://fasteda.ru/data/big/8573.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жаркое по домашнему </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>картошка, св.шейка, перец болгарский, лук, зелень
+(250 гр.).</description>
+			</offer>
+			<offer id="8574" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1554</categoryId>
+				<picture>http://fasteda.ru/data/big/8574.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свежая зелень</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>петрушка, кинза, укроп, зеленый лук, острый перец, редиска
+(150 гр.).</description>
+			</offer>
+			<offer id="8575" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1554</categoryId>
+				<picture>http://fasteda.ru/data/big/8575.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясное ассорти</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>Калбаса вк/,говяжий язык, грудинка, ветчина св., ветчина индейки
+(200 гр.).</description>
+			</offer>
+			<offer id="8576" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1554</categoryId>
+				<picture>http://fasteda.ru/data/big/8576.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощное ассорти</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>помидоры, огурцы, болгарский перец,  редиска
+(150 гр.).</description>
+			</offer>
+			<offer id="8577" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1554</categoryId>
+				<picture>http://fasteda.ru/data/big/8577.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сырное ассорти</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>чанахи, сыр российский ,дорблю, косичка
+(150 гр.).</description>
+			</offer>
+			<offer id="8578" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1554</categoryId>
+				<picture>http://fasteda.ru/data/big/8578.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бастурма, суджук</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>
+(150 гр.).</description>
+			</offer>
+			<offer id="8579" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1554</categoryId>
+				<picture>http://fasteda.ru/data/big/8579.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Домашние соленья</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>соленая капуста, черемша, огурцы маринованые ,острый перец
+(150 гр.).</description>
+			</offer>
+			<offer id="8580" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1554</categoryId>
+				<picture>http://fasteda.ru/data/big/8580.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оливки, малины</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>
+(100 гр.).</description>
+			</offer>
+			<offer id="8581" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>125</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1554</categoryId>
+				<picture>http://fasteda.ru/data/big/8581.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аджабсандал </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>икра из печеных овощей, помидор, баклажан, перец
+(150 гр.).</description>
+			</offer>
+			<offer id="8566" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1552</categoryId>
+				<picture>http://fasteda.ru/data/big/8566.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из форели</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>филе форели, лимон, гранатовый соус в подарок 
+(200 гр.).</description>
+			</offer>
+			<offer id="8567" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>400</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1552</categoryId>
+				<picture>http://fasteda.ru/data/big/8567.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыба Дорадо</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>дорадо целое, лимон, гранатовый соус
+(280 гр.).</description>
+			</offer>
+			<offer id="8568" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1552</categoryId>
+				<picture>http://fasteda.ru/data/big/8568.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Форель радужная</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>соус гранатовый, лимон
+(180 гр.).</description>
+			</offer>
+			<offer id="8569" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1552</categoryId>
+				<picture>http://fasteda.ru/data/big/8569.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из сёмги</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(200 гр.).</description>
+			</offer>
+			<offer id="8589" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1557</categoryId>
+				<picture>http://fasteda.ru/data/big/8589.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="8590" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1557</categoryId>
+				<picture>http://fasteda.ru/data/big/8590.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель из тандыра</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>
+(120 гр.).</description>
+			</offer>
+			<offer id="8591" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>80</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1557</categoryId>
+				<picture>http://fasteda.ru/data/big/8591.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель Айдахо</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>
+(120 гр.).</description>
+			</offer>
+			<offer id="8592" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1557</categoryId>
+				<picture>http://fasteda.ru/data/big/8592.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Отварная картошка </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>
+(150 гр.).</description>
+			</offer>
+			<offer id="8602" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>4000</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1560</categoryId>
+				<picture>http://fasteda.ru/data/big/8602.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Праздничные наборы на 6 человек</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>свежие овощи             3 порции
+свежий зелень            3 порции 
+соления в осорт.              3порции
+салаты на выбор          6 порции
+ 
+Шашлыки
+св.шея                             3 порции
+куриные грудки           2 порции
+куриные крылочкы         1 порции
+люля кебаб из говядины   2 порции
+люля кебаб из курицы     1порции
+
+ГАРНИР 
+картошка айдахо          4 порции
+соус шашлычный           6 порции
+
+Напитки 
+лимонад    АНИ           3 бутылки  
+сок натуральный          2 литр.</description>
+			</offer>
+			<offer id="8603" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>2500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1560</categoryId>
+				<picture>http://fasteda.ru/data/big/8603.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>праздничные наборы на 4 человека</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>свежие овощи             2 порции,
+свежий зелень            2 порции, 
+соленя в осорт.          2 порции,
+салаты на выбор          4 порции,
+
+Шашлыки
+св.шея                              2 порции
+куриные грудки           1 порции,
+куриные крылочкы         1 порции,
+люля кебаб из говядины   1 порции,
+люля кебаб из курицы     1 порции,
+соус шашлычный           4 порции,
+
+Напитки 
+лимонад АНИ              2 бутылок,  
+сок натуральный          1 литр
+.</description>
+			</offer>
+			<offer id="8604" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1560</categoryId>
+				<picture>http://fasteda.ru/data/big/8604.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Набор &amp;quot;Стандарт&amp;quot;</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>Шашлык из свиной шеи (200 грамм),
+Салат Европа (150 грамм),
+Картофель из тандыра (120 грамм),
+Лимонад тархун \&amp;quot;АНИ\&amp;quot; (0,5 литр).</description>
+			</offer>
+			<offer id="8599" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1559</categoryId>
+				<picture>http://fasteda.ru/data/big/8599.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лаваш тонкий армянский</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>(100 гр.).</description>
+			</offer>
+			<offer id="8600" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>20</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1559</categoryId>
+				<picture>http://fasteda.ru/data/big/8600.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Матнакаш </name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>
+(150 гр.).</description>
+			</offer>
+			<offer id="8601" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>25</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1559</categoryId>
+				<picture>http://fasteda.ru/data/big/8601.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Армянский лаваш, целый</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>
+(200 гр.).</description>
+			</offer>
+			<offer id="8593" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1558</categoryId>
+				<picture>http://fasteda.ru/data/big/8593.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус Тартар</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8594" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1558</categoryId>
+				<picture>http://fasteda.ru/data/big/8594.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Соус Шашлычный</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8595" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1558</categoryId>
+				<picture>http://fasteda.ru/data/big/8595.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Белый соус</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8596" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1558</categoryId>
+				<picture>http://fasteda.ru/data/big/8596.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Нашараб</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8597" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1558</categoryId>
+				<picture>http://fasteda.ru/data/big/8597.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аджика</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8598" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>30</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1558</categoryId>
+				<picture>http://fasteda.ru/data/big/8598.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ткемали</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8605" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1561</categoryId>
+				<picture>http://fasteda.ru/data/big/8605.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Cola, Sprite, Fanta (0,5л)</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8606" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1561</categoryId>
+				<picture>http://fasteda.ru/data/big/8606.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лимонад дюшес &amp;quot;АНИ&amp;quot; (0,5л)</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8607" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1561</categoryId>
+				<picture>http://fasteda.ru/data/big/8607.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лимонад тархун &amp;quot;АНИ&amp;quot; (0,5л)</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8608" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1561</categoryId>
+				<picture>http://fasteda.ru/data/big/8608.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сок натуральный (1л)</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8609" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1561</categoryId>
+				<picture>http://fasteda.ru/data/big/8609.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Минеральная вода &amp;quot;Bonaqua&amp;quot; (0,5л)</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8610" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1561</categoryId>
+				<picture>http://fasteda.ru/data/big/8610.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мин. вода джермук, армянская (0,5л)</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="8611" available="true">
+				<url>http://fasteda.ru/menu/ani_shashlik/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1561</categoryId>
+				<picture>http://fasteda.ru/data/big/8611.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тан домашний (0,5л)</name>
+				<vendor>«АНИ» - доставка шашлыков</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

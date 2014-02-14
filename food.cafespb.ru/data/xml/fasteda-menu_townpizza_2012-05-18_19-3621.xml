@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-05-18 19:36">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="589">Пицца</category>
+			<category id="591">Салаты и закуски</category>
+			<category id="593">Десерт</category>
+			<category id="595">Напитки</category>
+		</categories>
+		<offers>
+			<offer id="3629" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3629.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Маргарита ∅ 32 см</name>
+				<vendor>Townpizza</vendor>
+				<description>Пицца-соус, сыр Моцарелла, томаты, базилик
+32 см / 850 грамм     .</description>
+			</offer>
+			<offer id="3632" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3632.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Четыре сыра ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>Пицца-соус, сыр Моцарелла, Пармезан, Дор Блю, Эмменталь, орегано      
+     32 см / 570 грамм     .</description>
+			</offer>
+			<offer id="3634" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3634.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Клубничный пирог ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>Сыр Филадельфия, клубника, сахарная пудра, мята      
+32 см / 530 грамм     .</description>
+			</offer>
+			<offer id="3636" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3636.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ветчина и грибы ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>Пицца-соус, сыр Моцарелла, шампиньоны, ветчина, орегано
+ 32 см / 580 грамм     .</description>
+			</offer>
+			<offer id="3638" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3638.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Греческая ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>Оливковое масло, чеснок, сыр Моцарелла, шампиньоны, маслины, томаты черри, лук красный,              бекон, сыр Фета, зелень
+32 см / 650 грамм     .</description>
+			</offer>
+			<offer id="3640" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3640.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чикен ранчо ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 620 грамм     .</description>
+			</offer>
+			<offer id="3642" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3642.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кроссроадс ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 610 грамм     .</description>
+			</offer>
+			<offer id="3644" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3644.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Форестер ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 620 грамм     .</description>
+			</offer>
+			<offer id="3646" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3646.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чикен Стар ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 610 грамм     .</description>
+			</offer>
+			<offer id="3648" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3648.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Европейская ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 660 грамм     .</description>
+			</offer>
+			<offer id="3650" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>420</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3650.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чили чикен ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 630 грамм     .</description>
+			</offer>
+			<offer id="3652" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>540</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3652.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Супер Стар 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 710 грамм     .</description>
+			</offer>
+			<offer id="3654" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3654.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гавайская ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 610 грамм .</description>
+			</offer>
+			<offer id="3656" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3656.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мексиканская ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 650 грамм.</description>
+			</offer>
+			<offer id="3658" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>410</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3658.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пепперони ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 560 грамм     .</description>
+			</offer>
+			<offer id="3660" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>630</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3660.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Король морей ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 710 грамм     .</description>
+			</offer>
+			<offer id="3662" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3662.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Таун ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 650 грамм     .</description>
+			</offer>
+			<offer id="3664" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>440</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3664.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Поло Песто ∅ 32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 620 грамм.</description>
+			</offer>
+			<offer id="3666" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3666.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Барбекю ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 650 грамм.</description>
+			</offer>
+			<offer id="3668" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3668.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Карбонара ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 570 грамм.</description>
+			</offer>
+			<offer id="3670" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3670.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бальзамик ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 640 грамм.</description>
+			</offer>
+			<offer id="3672" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>470</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3672.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фахитос ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 650 грамм.</description>
+			</offer>
+			<offer id="3674" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>550</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3674.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Коралловый риф ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 610 грамм.</description>
+			</offer>
+			<offer id="3676" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3676.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Римский омлет ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 660 грамм.</description>
+			</offer>
+			<offer id="3678" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>350</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>589</categoryId>
+				<picture>http://fasteda.ru/data/big/3678.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вегетарианская ∅32см</name>
+				<vendor>Townpizza</vendor>
+				<description>32 см / 620 грамм.</description>
+			</offer>
+			<offer id="3679" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>591</categoryId>
+				<picture>http://fasteda.ru/data/big/3679.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат Таун</name>
+				<vendor>Townpizza</vendor>
+				<description>Соус Песто, салат айсберг, огурец, томаты, филе цыпленка, соевый соус, оливки, перец болгарский, зелень, специи
+250 грамм.</description>
+			</offer>
+			<offer id="3680" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>591</categoryId>
+				<picture>http://fasteda.ru/data/big/3680.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Греческий</name>
+				<vendor>Townpizza</vendor>
+				<description>Огурец, томаты, лук красный, сыр Фета, перец болгарский, салат айсберг, лимон, зелень, масло оливковое
+250 грамм
+.</description>
+			</offer>
+			<offer id="3681" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>591</categoryId>
+				<picture>http://fasteda.ru/data/big/3681.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Салат с ветчиной</name>
+				<vendor>Townpizza</vendor>
+				<description>Салат айсберг, томаты, огурец, чеснок, ветчина, майонез, сыр Моцарелла, зелень, шампиньоны
+250 грамм
+.</description>
+			</offer>
+			<offer id="3682" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>591</categoryId>
+				<picture>http://fasteda.ru/data/big/3682.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь</name>
+				<vendor>Townpizza</vendor>
+				<description>Соус Цезарь, салат Айсберг, сыр пармезан, гренки, филе цыпленка, томаты черри
+210 грамм 
+.</description>
+			</offer>
+			<offer id="3683" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>591</categoryId>
+				<picture>http://fasteda.ru/data/big/3683.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Крылышки «Буффало»</name>
+				<vendor>Townpizza</vendor>
+				<description>Острые куриные крылышки с соусом Блю- чиз
+300 грамм
+.</description>
+			</offer>
+			<offer id="3684" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>593</categoryId>
+				<picture>http://fasteda.ru/data/big/3684.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк Нью-Йорк</name>
+				<vendor>Townpizza</vendor>
+				<description>110 гр.</description>
+			</offer>
+			<offer id="3685" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>593</categoryId>
+				<picture>http://fasteda.ru/data/big/3685.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк клубничный</name>
+				<vendor>Townpizza</vendor>
+				<description>120 грамм     .</description>
+			</offer>
+			<offer id="3686" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>593</categoryId>
+				<picture>http://fasteda.ru/data/big/3686.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк шоколадный</name>
+				<vendor>Townpizza</vendor>
+				<description>150 грамм     .</description>
+			</offer>
+			<offer id="3687" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>595</categoryId>
+				<picture>http://fasteda.ru/data/big/3687.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coca-Cola</name>
+				<vendor>Townpizza</vendor>
+				<description>2 литра.</description>
+			</offer>
+			<offer id="3691" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>595</categoryId>
+				<picture>http://fasteda.ru/data/big/3691.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Fanta</name>
+				<vendor>Townpizza</vendor>
+				<description>2л.</description>
+			</offer>
+			<offer id="3695" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>595</categoryId>
+				<picture>http://fasteda.ru/data/big/3695.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Sprite </name>
+				<vendor>Townpizza</vendor>
+				<description>2L.</description>
+			</offer>
+			<offer id="3698" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>55</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>595</categoryId>
+				<picture>http://fasteda.ru/data/big/3698.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Bon Aqua</name>
+				<vendor>Townpizza</vendor>
+				<description>2L.</description>
+			</offer>
+			<offer id="3701" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>95</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>595</categoryId>
+				<picture>http://fasteda.ru/data/big/3701.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Nestea 1,5 л.</name>
+				<vendor>Townpizza</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3702" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>595</categoryId>
+				<picture>http://fasteda.ru/data/big/3702.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Nestea 0,5 л.</name>
+				<vendor>Townpizza</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="3703" available="true">
+				<url>http://fasteda.ru/menu/townpizza/</url>
+				<price>65</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>595</categoryId>
+				<picture>http://fasteda.ru/data/big/3703.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Nico 1л</name>
+				<vendor>Townpizza</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

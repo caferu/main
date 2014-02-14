@@ -1,0 +1,2351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-07-17 14:01">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="1917">Салаты</category>
+			<category id="1913">Супы</category>
+			<category id="1912">Горячие мясные блюда</category>
+			<category id="1911">Горячие рыбные блюда</category>
+			<category id="1916">Холодные закуски</category>
+			<category id="1915">Горячие закуски</category>
+			<category id="1906">Закуски к пиву</category>
+			<category id="1910">Блюда на мангале</category>
+			<category id="1908">Осетинские пироги</category>
+			<category id="1909">Гарнир</category>
+			<category id="1907">Пасты</category>
+			<category id="1905">Соусы</category>
+			<category id="1914">Блины</category>
+			<category id="1894">Десерты</category>
+			<category id="1900">Соки</category>
+			<category id="1899">Свежевыжатый сок</category>
+			<category id="1902">Безалкогольные напитки</category>
+			<category id="1918">Чай</category>
+			<category id="1919">Кофе, шоколад</category>
+		</categories>
+		<offers>
+			<offer id="10905" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/10905.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Деревенский</name>
+				<vendor>Буфет</vendor>
+				<description>Помидоры, огурцы, редис, семена подсолнечника, зелень, масло подсолнечное
+.</description>
+			</offer>
+			<offer id="10931" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/10931.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Греческий салат</name>
+				<vendor>Буфет</vendor>
+				<description>Помидоры, огурец, болгарский перец, сыр Фета, салат Ромейн, маслины, оливковое масло
+.</description>
+			</offer>
+			<offer id="11003" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11003.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Техасский</name>
+				<vendor>Буфет</vendor>
+				<description>
+Баклажан на гриле, болгарский перец на гриле, грибы жаренные, куриное филе, красный лук, грецкий орех, кинза, чеснок, уксус, чили перец, гранат
+.</description>
+			</offer>
+			<offer id="11004" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11004.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Парадиз</name>
+				<vendor>Буфет</vendor>
+				<description>
+икра красная, семга, черемша, корейская морковь, огурцы, помидоры, чеснок
+.</description>
+			</offer>
+			<offer id="11005" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11005.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Монро</name>
+				<vendor>Буфет</vendor>
+				<description>
+Куриное филе, вырезка говяжья, язык говяжий, огурец соленый, стебель сельдерея, перец болгарский, соус, лук порей
+.</description>
+			</offer>
+			<offer id="11006" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11006.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тайский</name>
+				<vendor>Буфет</vendor>
+				<description>
+говяжья вырезка, огурцы, листья салата, помидоры, болгарский перец
+.</description>
+			</offer>
+			<offer id="11007" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11007.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с лососем</name>
+				<vendor>Буфет</vendor>
+				<description>
+Лосось, салат Ромейн, гренки, помидоры Черри, соус «Цезарь», сыр Пармезан
+.</description>
+			</offer>
+			<offer id="11143" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11143.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рулетики из баклажан</name>
+				<vendor>Буфет</vendor>
+				<description>
+Баклажаны жар., орех грецкий, чеснок, зелень, майонез
+.</description>
+			</offer>
+			<offer id="11151" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11151.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Весенний</name>
+				<vendor>Буфет</vendor>
+				<description>
+Капуста б/к, огурец, морковь, горошек, зелень, уксус, масло подс.
+.</description>
+			</offer>
+			<offer id="11152" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11152.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сельдь под шубой</name>
+				<vendor>Буфет</vendor>
+				<description>Сельдь с/с, картофель, лук красный, свекла, морковь, яйцо кур., уксус, майонез
+.</description>
+			</offer>
+			<offer id="11153" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11153.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дары моря</name>
+				<vendor>Буфет</vendor>
+				<description>Креветки, мясо мидий, кальмары, салат Айсберг, помидоры Черри, авокадо, сыр Пармезан, оливковое масло, зелень
+.</description>
+			</offer>
+			<offer id="11154" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11154.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Иристон</name>
+				<vendor>Буфет</vendor>
+				<description>
+Вырезка говяж.обжаренная, помидоры, лук кр., перец болг., баклажаны, морковь, зелень, сметана
+.</description>
+			</offer>
+			<offer id="11155" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11155.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Теплый салат с куриной печенью</name>
+				<vendor>Буфет</vendor>
+				<description>
+Печень куриная, обжаренная в сливках, руккола, помидоры Черри, оливковое масло
+.</description>
+			</offer>
+			<offer id="11156" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11156.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гнездо совы</name>
+				<vendor>Буфет</vendor>
+				<description>
+Куриное филе обжаренное, яйцо перепелиное, лук маринованный, капуста пекинская, зелень, майонез
+.</description>
+			</offer>
+			<offer id="11167" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>300</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11167.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с креветками</name>
+				<vendor>Буфет</vendor>
+				<description>
+Креветки, салат Ромейн, гренки, помидоры Черри, соус «Цезарь», сыр Пармезан
+.</description>
+			</offer>
+			<offer id="11168" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11168.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цезарь с курицей</name>
+				<vendor>Буфет</vendor>
+				<description>
+Куриное филе, салат Ромейн, гренки, помидоры Черри, соус «Цезарь», сыр Пармезан
+.</description>
+			</offer>
+			<offer id="11169" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1917</categoryId>
+				<picture>http://fasteda.ru/data/big/11169.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Оливье</name>
+				<vendor>Буфет</vendor>
+				<description>
+Говядина отварная или ветчина , картофель, яйцо куриное, морковь, огурец, горошек, майонез
+.</description>
+			</offer>
+			<offer id="11002" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1913</categoryId>
+				<picture>http://fasteda.ru/data/big/11002.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жаркое по-домашнему</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11127" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1913</categoryId>
+				<picture>http://fasteda.ru/data/big/11127.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Уха царская</name>
+				<vendor>Буфет</vendor>
+				<description>Сёмга, судак, картофель, лук, морковь, зелень
+.</description>
+			</offer>
+			<offer id="11128" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1913</categoryId>
+				<picture>http://fasteda.ru/data/big/11128.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Солянка мясная</name>
+				<vendor>Буфет</vendor>
+				<description>Мясные деликатесы, солёные огурцы, помидоры, маслины, сметана, лимон
+.</description>
+			</offer>
+			<offer id="11129" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1913</categoryId>
+				<picture>http://fasteda.ru/data/big/11129.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Суп с фрикадельками</name>
+				<vendor>Буфет</vendor>
+				<description>Говядина, свинина, картофель, морковь, лук, зелень
+.</description>
+			</offer>
+			<offer id="11130" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>240</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1913</categoryId>
+				<picture>http://fasteda.ru/data/big/11130.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Харчо</name>
+				<vendor>Буфет</vendor>
+				<description>Говядина, помидоры, рис, ароматные специи, грецкий орех, зелень
+.</description>
+			</offer>
+			<offer id="11131" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1913</categoryId>
+				<picture>http://fasteda.ru/data/big/11131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриный бульон с домашней лапшой</name>
+				<vendor>Буфет</vendor>
+				<description>Куриное филе, яйцо перепелиное, лапша, морковь, зелень
+.</description>
+			</offer>
+			<offer id="11162" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1913</categoryId>
+				<picture>http://fasteda.ru/data/big/11162.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Борщ по бабушкиному рецепту</name>
+				<vendor>Буфет</vendor>
+				<description>Говядина, свекла, капуста, морковь, картофель, зелень, сметана
+.</description>
+			</offer>
+			<offer id="11115" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11115.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Голубцы по-русски</name>
+				<vendor>Буфет</vendor>
+				<description>Фарш: говядина и свинина; капуста б/к, рис, лук репч., морковь, перец болг., томатный соус. Подаются со сметаной.
+</description>
+			</offer>
+			<offer id="11116" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11116.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пельмени ручной работы</name>
+				<vendor>Буфет</vendor>
+				<description>Тесто, фарш говядина со свининой, специи, зелень, сметана. Подаются с бульоном по желанию гостя.
+</description>
+			</offer>
+			<offer id="11117" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>360</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11117.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Говядина по-мексикански</name>
+				<vendor>Буфет</vendor>
+				<description>Говяжья вырезка обжаренная, красная фасоль, болгарский перец, помидоры, острые специи, картофельные чипсы, зелень
+.</description>
+			</offer>
+			<offer id="11118" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11118.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свиная корейка с картофелем</name>
+				<vendor>Буфет</vendor>
+				<description>
+Свиная корейка, картофель по-деревенски, соус Сацебели
+.</description>
+			</offer>
+			<offer id="11119" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11119.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чахохбили</name>
+				<vendor>Буфет</vendor>
+				<description>Курица, тушеная в томатном соусе со специями
+.</description>
+			</offer>
+			<offer id="11120" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>620</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11120.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из говядины с соусом порто</name>
+				<vendor>Буфет</vendor>
+				<description>Говяжья вырезка обжаренная, вино красное, лук фри, специи, соус
+.</description>
+			</offer>
+			<offer id="11121" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>330</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11121.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Свинина по-французски</name>
+				<vendor>Буфет</vendor>
+				<description>Свиной антрекот,грибы, помидор, сыр Гауда, перец болг., специи, зелень
+.</description>
+			</offer>
+			<offer id="11122" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11122.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Курица ВОГ с овощами</name>
+				<vendor>Буфет</vendor>
+				<description>Куриное филе обжаренное, цукини, болгарский перец, баклажаны, морковь,  лук шалот, соевый соус, масло кунжутное, кунжут
+.</description>
+			</offer>
+			<offer id="11123" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11123.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Котлеты по-домашнему</name>
+				<vendor>Буфет</vendor>
+				<description>Говядина, свинина, специи, картофельное пюре, зелень
+.</description>
+			</offer>
+			<offer id="11124" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11124.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриные котлетки с гарниром на выбор</name>
+				<vendor>Буфет</vendor>
+				<description>Куриное фарш, лук репч., специи, зелень. Гарнир на выбор: рис басмати/картоф.пюре/греча
+.</description>
+			</offer>
+			<offer id="11125" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1912</categoryId>
+				<picture>http://fasteda.ru/data/big/11125.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хинкали</name>
+				<vendor>Буфет</vendor>
+				<description>Фарш: говядина и свинина; тесто, соус на выбор: ткемали или сметана; зелень
+.</description>
+			</offer>
+			<offer id="11111" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1911</categoryId>
+				<picture>http://fasteda.ru/data/big/11111.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыбные котлетки с соусом Тар-Тар</name>
+				<vendor>Буфет</vendor>
+				<description>Лосось, судак, лук репчатый, специи, соус Тар-тар
+.</description>
+			</offer>
+			<offer id="11112" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1911</categoryId>
+				<picture>http://fasteda.ru/data/big/11112.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Судак по-домашнему</name>
+				<vendor>Буфет</vendor>
+				<description>Судак жаренный, с отварным картофелем и луком фри.
+</description>
+			</offer>
+			<offer id="11113" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>520</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1911</categoryId>
+				<picture>http://fasteda.ru/data/big/11113.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лосось на гриле</name>
+				<vendor>Буфет</vendor>
+				<description>Лосось - гриль, тушеные овощи (баклажан, помидор, болг.перец, цукини, лук красный), лимон, оливки
+.</description>
+			</offer>
+			<offer id="11114" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1911</categoryId>
+				<picture>http://fasteda.ru/data/big/11114.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Семга в кляре</name>
+				<vendor>Буфет</vendor>
+				<description>Семга, обжаренная в кляре, зелень, лимон
+.</description>
+			</offer>
+			<offer id="11160" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1911</categoryId>
+				<picture>http://fasteda.ru/data/big/11160.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Судак под овощным маринадом</name>
+				<vendor>Буфет</vendor>
+				<description>Судак, запеченный под красным соусом из томатов, моркови, лука репч., специй, зелени.
+</description>
+			</offer>
+			<offer id="10924" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/10924.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рулетики из баклажан</name>
+				<vendor>Буфет</vendor>
+				<description>Баклажаны жар., орех грецкий, чеснок, зелень, майонез
+.</description>
+			</offer>
+			<offer id="11142" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/11142.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рулетики из ветчины</name>
+				<vendor>Буфет</vendor>
+				<description>Ветчина, сыр Гауда, шампиньоны жаренные, чеснок, майонез, зелень
+.</description>
+			</offer>
+			<offer id="11144" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/11144.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бутерброд с лососем</name>
+				<vendor>Буфет</vendor>
+				<description>Хлебный тостер, лосось с/с, масло сливочное
+.</description>
+			</offer>
+			<offer id="11145" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/11145.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сырная тарелка</name>
+				<vendor>Буфет</vendor>
+				<description>Сулугуни, Гауда, «Косичка», Адыгейский, зелень
+.</description>
+			</offer>
+			<offer id="11146" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>260</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/11146.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мясное ассорти</name>
+				<vendor>Буфет</vendor>
+				<description>Буженина, говядина холодного копчения, язык говяжий, рулет куриный, болгарский перец,  маслины, зелень
+.</description>
+			</offer>
+			<offer id="11147" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>370</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/11147.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рыбное ассорти</name>
+				<vendor>Буфет</vendor>
+				<description>Лосось с/с, форель c|c, палтус х/к, масляная рыба
+.</description>
+			</offer>
+			<offer id="11148" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>140</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/11148.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Зелень</name>
+				<vendor>Буфет</vendor>
+				<description>Петрушка, укроп, кинза, зеленый лук
+.</description>
+			</offer>
+			<offer id="11149" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>170</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/11149.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощная нарезка</name>
+				<vendor>Буфет</vendor>
+				<description>Огурец, помидор, редис, перец болгарский, зелень
+.</description>
+			</offer>
+			<offer id="11166" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/11166.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Язык говяжий с хреном</name>
+				<vendor>Буфет</vendor>
+				<description>Язык говяжий отварной, хрен, зелень
+.</description>
+			</offer>
+			<offer id="11170" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/11170.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Селедочка с картошечкой</name>
+				<vendor>Буфет</vendor>
+				<description>Филе сельди, картофель отварной, лук маринованный, масло подсолнечное, зелень
+.</description>
+			</offer>
+			<offer id="10919" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1916</categoryId>
+				<picture>http://fasteda.ru/data/big/10919.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Бабушкины соленья</name>
+				<vendor>Буфет</vendor>
+				<description>Капуста квашенная, морковь по-корейски, чеснок маринованный, огурец маринованный, зелень
+.</description>
+			</offer>
+			<offer id="10996" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1915</categoryId>
+				<picture>http://fasteda.ru/data/big/10996.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Самса с говядиной</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="10997" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1915</categoryId>
+				<picture>http://fasteda.ru/data/big/10997.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Самса с тыквой</name>
+				<vendor>Буфет</vendor>
+				<description>
+
+.</description>
+			</offer>
+			<offer id="11137" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1915</categoryId>
+				<picture>http://fasteda.ru/data/big/11137.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чебуреки</name>
+				<vendor>Буфет</vendor>
+				<description>
+Тесто, фарш говядина со свининой, лук репч., специи. Подаются со сметаной или сацибели.
+.</description>
+			</offer>
+			<offer id="11138" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1915</categoryId>
+				<picture>http://fasteda.ru/data/big/11138.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофельные драники</name>
+				<vendor>Буфет</vendor>
+				<description>
+Картофель, яйцо куриное, лук, шампиньоны, бекон, сметана
+.</description>
+			</offer>
+			<offer id="11139" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1915</categoryId>
+				<picture>http://fasteda.ru/data/big/11139.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жульен грибной</name>
+				<vendor>Буфет</vendor>
+				<description>
+шампиньоны, сыр Гауда, сливки, лук репчатый, зелень
+.</description>
+			</offer>
+			<offer id="11140" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1915</categoryId>
+				<picture>http://fasteda.ru/data/big/11140.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Жульен куриный</name>
+				<vendor>Буфет</vendor>
+				<description>
+куриное филе, сыр Гауда, сливки, лук репчатый, зелень
+.</description>
+			</offer>
+			<offer id="11164" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1915</categoryId>
+				<picture>http://fasteda.ru/data/big/11164.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шаверма в лаваше</name>
+				<vendor>Буфет</vendor>
+				<description>Лаваш армянский, куриное филе запеченное в маринаде, морковь по-корейски, капуста пекинская, лук репчатый, перец болгарский, помидоры, огурцы маринованные, зелень, майонез, кетчуп, горчица
+.</description>
+			</offer>
+			<offer id="11082" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1906</categoryId>
+				<picture>http://fasteda.ru/data/big/11082.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Лаваш</name>
+				<vendor>Буфет</vendor>
+				<description>Тесто дрожжевое
+.</description>
+			</offer>
+			<offer id="11092" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1906</categoryId>
+				<picture>http://fasteda.ru/data/big/11092.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кольца кальмаров в кляре</name>
+				<vendor>Буфет</vendor>
+				<description>Кальмары, обжаренные в кляре, соус чесночный
+.</description>
+			</offer>
+			<offer id="11093" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1906</categoryId>
+				<picture>http://fasteda.ru/data/big/11093.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Охотничьи колбаски</name>
+				<vendor>Буфет</vendor>
+				<description>Колбаски жареные, соус горчичный
+.</description>
+			</offer>
+			<offer id="11094" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1906</categoryId>
+				<picture>http://fasteda.ru/data/big/11094.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Куриные крылья барбекю</name>
+				<vendor>Буфет</vendor>
+				<description>Крылья куриные, маринованные в аджике, соус ткемали
+.</description>
+			</offer>
+			<offer id="11136" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1906</categoryId>
+				<picture>http://fasteda.ru/data/big/11136.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Королевские креветки</name>
+				<vendor>Буфет</vendor>
+				<description>Креветки, лимон, зелень, чесночная паста
+.</description>
+			</offer>
+			<offer id="11083" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1906</categoryId>
+				<picture>http://fasteda.ru/data/big/11083.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хлебная корзина</name>
+				<vendor>Буфет</vendor>
+				<description>Батон – 2 кус., хлеб черный – 2 кус.
+</description>
+			</offer>
+			<offer id="11095" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1906</categoryId>
+				<picture>http://fasteda.ru/data/big/11095.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Гренки с чесночным соусом</name>
+				<vendor>Буфет</vendor>
+				<description>хлеб, сыр Гауда, соус чесночный
+.</description>
+			</offer>
+			<offer id="11104" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1910</categoryId>
+				<picture>http://fasteda.ru/data/big/11104.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Люля-кебаб из баранины</name>
+				<vendor>Буфет</vendor>
+				<description>Подается с маринованным луком, зеленью и соусом 
+.</description>
+			</offer>
+			<offer id="11105" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1910</categoryId>
+				<picture>http://fasteda.ru/data/big/11105.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из свиной шеи  на мангале</name>
+				<vendor>Буфет</vendor>
+				<description>Подается с  луком, зеленью и соусом 
+.</description>
+			</offer>
+			<offer id="11106" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>450</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1910</categoryId>
+				<picture>http://fasteda.ru/data/big/11106.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Стейк из лосося на мангале</name>
+				<vendor>Буфет</vendor>
+				<description>Подается с лимоном,зеленью и соусом Тар-тар
+.</description>
+			</offer>
+			<offer id="11107" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>480</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1910</categoryId>
+				<picture>http://fasteda.ru/data/big/11107.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из телятины</name>
+				<vendor>Буфет</vendor>
+				<description>Подается с  луком, зеленью и соусом 
+.</description>
+			</offer>
+			<offer id="11108" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>390</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1910</categoryId>
+				<picture>http://fasteda.ru/data/big/11108.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из свиной вырезки</name>
+				<vendor>Буфет</vendor>
+				<description>Подается с  луком, зеленью и соусом 
+.</description>
+			</offer>
+			<offer id="11109" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>650</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1910</categoryId>
+				<picture>http://fasteda.ru/data/big/11109.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из бараньей корейки</name>
+				<vendor>Буфет</vendor>
+				<description>Подается с  луком, зеленью и соусом 
+.</description>
+			</offer>
+			<offer id="11110" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>380</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1910</categoryId>
+				<picture>http://fasteda.ru/data/big/11110.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из шейки свинины</name>
+				<vendor>Буфет</vendor>
+				<description>Подается с  луком, зеленью и соусом 
+.</description>
+			</offer>
+			<offer id="11159" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1910</categoryId>
+				<picture>http://fasteda.ru/data/big/11159.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлык из куриной грудки</name>
+				<vendor>Буфет</vendor>
+				<description>Подается с  луком, зеленью и соусом 
+.</description>
+			</offer>
+			<offer id="11244" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1908</categoryId>
+				<picture>http://fasteda.ru/data/big/11244.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с фасолью и сыром «Кадурджин»</name>
+				<vendor>Буфет</vendor>
+				<description>Тесто, фасоль красная, сыр осетинский, сливочное масло
+(400 гр).</description>
+			</offer>
+			<offer id="11247" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1908</categoryId>
+				<picture>http://fasteda.ru/data/big/11247.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог со свекольными листьями «Сахараджин»</name>
+				<vendor>Буфет</vendor>
+				<description>Свекольные листья,сыр осетинский, масло сливочное
+(400 гр).</description>
+			</offer>
+			<offer id="11245" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1908</categoryId>
+				<picture>http://fasteda.ru/data/big/11245.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог со шпинатом и сыром</name>
+				<vendor>Буфет</vendor>
+				<description>Шпинат, тесто, сыр осетинский, сливочное масло
+(400 гр).</description>
+			</offer>
+			<offer id="11242" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1908</categoryId>
+				<picture>http://fasteda.ru/data/big/11242.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с капустой и грецким орехом «Кабушкаджин»</name>
+				<vendor>Буфет</vendor>
+				<description>Тесто, капуста б/к, грецкий орех, сливочное масло
+(400 гр).</description>
+			</offer>
+			<offer id="11240" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1908</categoryId>
+				<picture>http://fasteda.ru/data/big/11240.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с мясом «Фыджин»</name>
+				<vendor>Буфет</vendor>
+				<description>Тесто,фарш говядин,свинин, лук,специи, масло сливочное
+(400 гр).</description>
+			</offer>
+			<offer id="11238" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>280</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1908</categoryId>
+				<picture>http://fasteda.ru/data/big/11238.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог  с сыром «Уалибах»</name>
+				<vendor>Буфет</vendor>
+				<description>Тесто, сыр осетинский, сливочное масло
+(400 гр).</description>
+			</offer>
+			<offer id="11236" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>210</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1908</categoryId>
+				<picture>http://fasteda.ru/data/big/11236.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с сыром и картофелем «Картофджин»</name>
+				<vendor>Буфет</vendor>
+				<description>Тесто, сыр осетинский, картофель,сливочное масло
+(400 гр).</description>
+			</offer>
+			<offer id="11099" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1909</categoryId>
+				<picture>http://fasteda.ru/data/big/11099.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель фри</name>
+				<vendor>Буфет</vendor>
+				<description>
+
+.</description>
+			</offer>
+			<offer id="11100" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1909</categoryId>
+				<picture>http://fasteda.ru/data/big/11100.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Греча с луком</name>
+				<vendor>Буфет</vendor>
+				<description>
+
+.</description>
+			</offer>
+			<offer id="11101" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1909</categoryId>
+				<picture>http://fasteda.ru/data/big/11101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Рис басмати ароматный</name>
+				<vendor>Буфет</vendor>
+				<description>
+
+.</description>
+			</offer>
+			<offer id="11102" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1909</categoryId>
+				<picture>http://fasteda.ru/data/big/11102.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофель Айдахо</name>
+				<vendor>Буфет</vendor>
+				<description>
+
+.</description>
+			</offer>
+			<offer id="11103" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1909</categoryId>
+				<picture>http://fasteda.ru/data/big/11103.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Картофельное пюре</name>
+				<vendor>Буфет</vendor>
+				<description>
+
+.</description>
+			</offer>
+			<offer id="11158" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1909</categoryId>
+				<picture>http://fasteda.ru/data/big/11158.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Овощи гриль</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11096" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>270</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1907</categoryId>
+				<picture>http://fasteda.ru/data/big/11096.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спагетти с помидорами Черри и базиликом</name>
+				<vendor>Буфет</vendor>
+				<description>Спагетти, помидоры Черри, базилик, томатный соус, специи, сыр Пармезан
+.</description>
+			</offer>
+			<offer id="11097" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1907</categoryId>
+				<picture>http://fasteda.ru/data/big/11097.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спагетти Болоньезе</name>
+				<vendor>Буфет</vendor>
+				<description>Спагетти, соус Болоньезе (фарш говяд.со свининой в томатной соусе), сыр Пармезан
+.</description>
+			</offer>
+			<offer id="11098" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1907</categoryId>
+				<picture>http://fasteda.ru/data/big/11098.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Спагетти Карбонара</name>
+				<vendor>Буфет</vendor>
+				<description>Спагетти, бекон, яйцо,  сливки, сыр Пармезан
+.</description>
+			</offer>
+			<offer id="11084" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1905</categoryId>
+				<picture>http://fasteda.ru/data/big/11084.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шашлычный</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11085" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1905</categoryId>
+				<picture>http://fasteda.ru/data/big/11085.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сметана</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11086" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1905</categoryId>
+				<picture>http://fasteda.ru/data/big/11086.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тар-тар</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11087" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1905</categoryId>
+				<picture>http://fasteda.ru/data/big/11087.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Хрен</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11088" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1905</categoryId>
+				<picture>http://fasteda.ru/data/big/11088.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Горчица</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11089" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1905</categoryId>
+				<picture>http://fasteda.ru/data/big/11089.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сацибели</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11090" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1905</categoryId>
+				<picture>http://fasteda.ru/data/big/11090.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Аджика</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11091" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1905</categoryId>
+				<picture>http://fasteda.ru/data/big/11091.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ткемали</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11132" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>290</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1914</categoryId>
+				<picture>http://fasteda.ru/data/big/11132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>С красной икрой</name>
+				<vendor>Буфет</vendor>
+				<description>Красная икра, масло сливочное, сметана
+.</description>
+			</offer>
+			<offer id="11133" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>230</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1914</categoryId>
+				<picture>http://fasteda.ru/data/big/11133.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>С лососем</name>
+				<vendor>Буфет</vendor>
+				<description>Лосось холодного копчения, сливки, сыр Гауда, сметана
+.</description>
+			</offer>
+			<offer id="11134" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1914</categoryId>
+				<picture>http://fasteda.ru/data/big/11134.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Блины с курицей</name>
+				<vendor>Буфет</vendor>
+				<description>Куриное филе, сливки, сыр Гауда, сметана
+.</description>
+			</offer>
+			<offer id="11135" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1914</categoryId>
+				<picture>http://fasteda.ru/data/big/11135.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>С грибами</name>
+				<vendor>Буфет</vendor>
+				<description>Грибы, сливки, лук, сыр Гауда, сметана
+.</description>
+			</offer>
+			<offer id="11163" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>190</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1914</categoryId>
+				<picture>http://fasteda.ru/data/big/11163.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>С ветчиной</name>
+				<vendor>Буфет</vendor>
+				<description>Ветчина, сливки, сыр Гауда, сметана
+.</description>
+			</offer>
+			<offer id="10998" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/10998.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тирамису</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="10999" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>200</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/10999.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Чизкейк</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11000" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/11000.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мороженное</name>
+				<vendor>Буфет</vendor>
+				<description>На выбор: Ваниль, Шоколад, Кленовое, Грецкий орех, Фисташки
+.</description>
+			</offer>
+			<offer id="11008" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>180</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/11008.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пахлава с изюмом и грецким орехом</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11009" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>160</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/11009.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пирог с вишней</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11010" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>130</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/11010.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Пальчики с грецким орехом</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11078" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/11078.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Печенье Буфетъ</name>
+				<vendor>Буфет</vendor>
+				<description>Белое безе с миндалём
+.</description>
+			</offer>
+			<offer id="11079" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>50</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/11079.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Варенье в ассортименте</name>
+				<vendor>Буфет</vendor>
+				<description>Ежевика,грецкий орех,кизил,белая черешня,лепестки роз
+.</description>
+			</offer>
+			<offer id="11080" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>320</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/11080.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Фруктовая тарелка</name>
+				<vendor>Буфет</vendor>
+				<description>Фрукты и ягоды по сезону
+.</description>
+			</offer>
+			<offer id="11081" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>60</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/11081.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Мед</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11011" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>110</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1894</categoryId>
+				<picture>http://fasteda.ru/data/big/11011.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шарлотка с яблоками и маком</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11051" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>220</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1900</categoryId>
+				<picture>http://fasteda.ru/data/big/11051.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ананасовый фреш</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11052" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1900</categoryId>
+				<picture>http://fasteda.ru/data/big/11052.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Апельсиновый фреш</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11053" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1900</categoryId>
+				<picture>http://fasteda.ru/data/big/11053.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грейпфрутовый фреш</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11054" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1900</categoryId>
+				<picture>http://fasteda.ru/data/big/11054.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сельдерей</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11055" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1900</categoryId>
+				<picture>http://fasteda.ru/data/big/11055.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морковь</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11056" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>150</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1900</categoryId>
+				<picture>http://fasteda.ru/data/big/11056.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яблочный фреш</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11057" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1899</categoryId>
+				<picture>http://fasteda.ru/data/big/11057.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ананас</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11058" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1899</categoryId>
+				<picture>http://fasteda.ru/data/big/11058.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Апельсин</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11059" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1899</categoryId>
+				<picture>http://fasteda.ru/data/big/11059.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Виноград</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11060" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1899</categoryId>
+				<picture>http://fasteda.ru/data/big/11060.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Вишня</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11061" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1899</categoryId>
+				<picture>http://fasteda.ru/data/big/11061.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Грейпфрукт</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11062" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1899</categoryId>
+				<picture>http://fasteda.ru/data/big/11062.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Персик</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11063" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1899</categoryId>
+				<picture>http://fasteda.ru/data/big/11063.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Томат</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11064" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1899</categoryId>
+				<picture>http://fasteda.ru/data/big/11064.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Яблоко</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11029" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1902</categoryId>
+				<picture>http://fasteda.ru/data/big/11029.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Морс</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11030" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1902</categoryId>
+				<picture>http://fasteda.ru/data/big/11030.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Компот</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11072" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1902</categoryId>
+				<picture>http://fasteda.ru/data/big/11072.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Burn</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11073" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1902</categoryId>
+				<picture>http://fasteda.ru/data/big/11073.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Coса-Cola</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11074" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1902</categoryId>
+				<picture>http://fasteda.ru/data/big/11074.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Тархун</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11075" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1902</categoryId>
+				<picture>http://fasteda.ru/data/big/11075.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Дюшес</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11076" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1902</categoryId>
+				<picture>http://fasteda.ru/data/big/11076.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Bon-Aqua</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11077" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1902</categoryId>
+				<picture>http://fasteda.ru/data/big/11077.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Есентуки</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11031" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11031.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ассам</name>
+				<vendor>Буфет</vendor>
+				<description>Черный чай
+.</description>
+			</offer>
+			<offer id="11032" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11032.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Английский Завтрак</name>
+				<vendor>Буфет</vendor>
+				<description>Черный чай
+.</description>
+			</offer>
+			<offer id="11033" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11033.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Эрл Грей</name>
+				<vendor>Буфет</vendor>
+				<description>Черный чай
+.</description>
+			</offer>
+			<offer id="11034" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11034.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Черный с чабрецом</name>
+				<vendor>Буфет</vendor>
+				<description>Черный чай
+.</description>
+			</offer>
+			<offer id="11035" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11035.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Клубника и манго</name>
+				<vendor>Буфет</vendor>
+				<description>Черный чай
+.</description>
+			</offer>
+			<offer id="11036" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11036.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ройбуш</name>
+				<vendor>Буфет</vendor>
+				<description>Фиточай
+.</description>
+			</offer>
+			<offer id="11037" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11037.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Имбирь и лимон</name>
+				<vendor>Буфет</vendor>
+				<description>Фиточай
+.</description>
+			</offer>
+			<offer id="11038" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11038.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сочные ягоды</name>
+				<vendor>Буфет</vendor>
+				<description>Фиточай
+.</description>
+			</offer>
+			<offer id="11039" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11039.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Шиповник и Гибискус</name>
+				<vendor>Буфет</vendor>
+				<description>Фиточай
+.</description>
+			</offer>
+			<offer id="11040" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11040.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Цветок Жасмина</name>
+				<vendor>Буфет</vendor>
+				<description>Зеленый чай
+.</description>
+			</offer>
+			<offer id="11041" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1918</categoryId>
+				<picture>http://fasteda.ru/data/big/11041.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Сенча</name>
+				<vendor>Буфет</vendor>
+				<description>Зеленый чай
+.</description>
+			</offer>
+			<offer id="11042" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1919</categoryId>
+				<picture>http://fasteda.ru/data/big/11042.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Эспрессо</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11043" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1919</categoryId>
+				<picture>http://fasteda.ru/data/big/11043.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Ристретто</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11044" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>70</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1919</categoryId>
+				<picture>http://fasteda.ru/data/big/11044.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Американо</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11045" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1919</categoryId>
+				<picture>http://fasteda.ru/data/big/11045.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Каппучино</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11046" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>100</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1919</categoryId>
+				<picture>http://fasteda.ru/data/big/11046.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Латте</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="11048" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1919</categoryId>
+				<picture>http://fasteda.ru/data/big/11048.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Кофе с мороженным</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11049" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>120</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1919</categoryId>
+				<picture>http://fasteda.ru/data/big/11049.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Горячий шоколад</name>
+				<vendor>Буфет</vendor>
+				<description>
+.</description>
+			</offer>
+			<offer id="11050" available="true">
+				<url>http://fasteda.ru/menu/bufet/</url>
+				<price>90</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1919</categoryId>
+				<picture>http://fasteda.ru/data/big/11050.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>0</local_delivery_cost>
+				<name>Советское какао</name>
+				<vendor>Буфет</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

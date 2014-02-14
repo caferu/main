@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-10-12 05:26">
+	<shop>
+		<name>FastEda</name>
+		<company>FastEda</company>
+		<url>http://fasteda.ru/</url>
+		<platform>FastEda</platform>
+		<version>1.1</version>
+		<agency>FastEda</agency>
+		<email>fasteda@gmail.com</email>
+		
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		
+		<categories>
+			<category id="303">Сэндвичи</category>
+			<category id="313">Салаты</category>
+			<category id="314">Роллы</category>
+			<category id="316">Пати Сабы</category>
+			<category id="317">Ланч-бокс</category>
+			<category id="318">Напитки</category>
+			<category id="319">Десерты</category>
+		</categories>
+		<offers>
+			<offer id="1862" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>113</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1862.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной - белый итальянский хлеб - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Легкий сэндвич с овощами (стандартный набор: салат, помидоры, свежие огурцы, маринованные огурцы, зеленый перец, оливки, красный лук), свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1863" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>213</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1863.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной - белый итальянский хлеб - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Легкий сэндвич с овощами (стандартный набор: салат, помидоры, свежие огурцы, маринованные огурцы, зеленый перец, оливки, красный лук), свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1864" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1864.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Индейка - белый итальянский хлеб - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежное мясо индейки, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1865" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>238</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1865.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Индейка - белый итальянский хлеб - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежное мясо индейки, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1885" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1885.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ростбиф - белый хлеб с кунжутом -  ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочный ростбиф, свежие овощи, свежеиспеченный хлеб.</description>
+			</offer>
+			<offer id="1886" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>253</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1886.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ростбиф - белый хлеб с кунжутом -  ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочный ростбиф, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1926" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1926.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ветчина - хлеб пармезан и орегано -  ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1931" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>238</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1931.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ветчина - хлеб пармезан и орегано -  ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1936" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1936.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Индейка и ветчина - хлеб пармезан и орегано -  ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, индейка, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1941" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>238</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1941.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Индейка и ветчина - хлеб пармезан и органо -  ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, индейка, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1946" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1946.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Острый итальянский - серый хлеб - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Салями, пепперони, сыр, свежие овощи и свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1951" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>253</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1951.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Острый итальянский - серый хлеб - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Салями, пепперони, сыр, свежие овощи и свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1956" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1956.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сабвэй Клаб - серый хлеб - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочетание ростбифа, ветчины и индейки, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1961" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1961.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сабвэй Клаб - серый хлеб - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочетание ростбифа, ветчины и индейки, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="1966" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1966.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>БМТ - серый хлеб - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Оригинальная комбинация салями, пепперони, ветчины, сыра и свежих овощей.</description>
+			</offer>
+			<offer id="1971" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>253</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1971.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>БМТ - серый хлеб - ∅ 30 см</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Оригинальная комбинация салями, пепперони, ветчины, сыра и свежих овощей.</description>
+			</offer>
+			<offer id="1976" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1976.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тунец - серый хлеб с хлопьями - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Комбинация тунца в легком майонезе, сыра и свежих овощей.</description>
+			</offer>
+			<offer id="1981" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>253</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1981.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тунец - серый хлеб с хлопьями - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Комбинация тунца в легком майонезе, сыра и свежих овощей.</description>
+			</offer>
+			<offer id="1986" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1986.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морепродукты - хлеб пармезан и орегано - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Морепродукты с легким майонезом, сыром и свежими овощами.</description>
+			</offer>
+			<offer id="1991" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>238</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1991.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морепродукты - хлеб пармезан и орегано - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Морепродукты с легким майонезом, сыром и свежими овощами.</description>
+			</offer>
+			<offer id="1996" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/1996.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк и сыр - хлеб пармезан и орегано - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Стейк, сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2001" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2001.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Стейк и сыр - хлеб пармезан и орегано - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Стейк, сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2006" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2006.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мелт - хлеб пармезан и орегано - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Бекон, индейка и ветчина с сыром, свежие овощи.</description>
+			</offer>
+			<offer id="2011" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2011.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мелт - хлеб пармезан и орегано - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Бекон, индейка и ветчина с сыром, свежие овощи.</description>
+			</offer>
+			<offer id="2016" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2016.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чикен Маринара  - белый хлеб с кунжутом - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Куриная грудка с сыром в соусе «Маринара»,  свежие овощи.</description>
+			</offer>
+			<offer id="2021" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2021.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чикен Маринара  - белый хлеб с кунжутом - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Куриная грудка с сыром в соусе «Маринара»,  свежие овощи.</description>
+			</offer>
+			<offer id="2036" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2036.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Курица Терияки - белый хлеб с кунжутом - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки курицы с соусом «Терияки», свежие овощи.</description>
+			</offer>
+			<offer id="2041" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2041.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Курица Терияки - белый хлеб с кунжутом - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки курицы с соусом «Терияки», свежие овощи.</description>
+			</offer>
+			<offer id="2046" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2046.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная грудка - белый хлеб с кунжутом - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Куриная грудка, свежие овощи.</description>
+			</offer>
+			<offer id="2051" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>253</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2051.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Куриная грудка - белый хлеб с кунжутом - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Куриная грудка, свежие овощи.</description>
+			</offer>
+			<offer id="2162" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2162.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свинина Барбекю - белый хлеб с кунжутом - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки копченой свинины в соусе «Барбекю», сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2167" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2167.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Свинина Барбекю - белый хлеб с кунжутом - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки копченой свинины в соусе «Барбекю», сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2189" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2189.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Курица бекон с чесн. соусом - серый хлеб - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Кусочки куриного филе в сочетании с беконом и сыром, свежие овощи и чесночный соус.</description>
+			</offer>
+			<offer id="2194" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2194.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Курица бекон с чесн. соусом - серый хлеб - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Кусочки куриного филе в сочетании с беконом и сыром, свежие овощи и чесночный соус.</description>
+			</offer>
+			<offer id="2199" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2199.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чикен Пицциола - серый хлеб - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки курицы с соусом «Маринара», сыр, пепперони, свежие овощи.</description>
+			</offer>
+			<offer id="2204" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2204.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чикен Пицциола - серый хлеб - ∅ 30 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки курицы с соусом «Маринара», сыр, пепперони, свежие овощи.</description>
+			</offer>
+			<offer id="2219" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>122</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/2219.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мегазавтрак - омлет, сыр, ветчина и бекон - серый хлеб - ∅ 15 см.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежный омлет с комбинацией сыра, ветчины и бекона, кусочки помидора, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="12376" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/12376.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С креветками - хлеб пармезан и орегано - ∅ 15 см</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12381" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/12381.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Веджи Микс - хлеб пармезан и орегано - ∅ 15 см</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Фантастическое сочетание моркови, кукурузы, сои и красного перца, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="12386" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/12386.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясные шарики - серый хлеб - ∅ 15 см</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Мясные шарики с сыром, заправленные оригинальным соусом «Маринара» в итальянском стиле. Для лучшего вкуса рекомендуется подогревать перед приемом пищи.</description>
+			</offer>
+			<offer id="12391" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>102</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/12391.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Cэндвич 15 см омлет, сыр и ветчина - белый итальянский хлеб </name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12396" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>263</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/12396.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>С креветками - хлеб пармезан и орегано - ∅ 30 см</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные креветки, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="12401" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>253</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/12401.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Веджи Микс - хлеб пармезан и орегано - ∅ 30 см</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Фантастическое сочетание моркови, кукурузы, сои и красного перца, свежие овощи, свежевыпеченный хлеб.</description>
+			</offer>
+			<offer id="12406" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>238</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>303</categoryId>
+				<picture>http://fasteda.ru/data/big/12406.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Мясные шарики - серый хлеб   - ∅ 30 см</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Мясные шарики с сыром, заправленные оригинальным соусом «Маринара» в итальянском стиле. Для лучшего вкуса рекомендуется подогревать перед приемом пищи.</description>
+			</offer>
+			<offer id="2067" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>113</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2067.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Овощной</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Листья салата, помидоры, свежие огурцы, маринованные огурцы, зеленый перец, оливки, красный лук.</description>
+			</offer>
+			<offer id="2070" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2070.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Индейка</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежное мясо индейки, свежие овощи.</description>
+			</offer>
+			<offer id="2071" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2071.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Ростбиф</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочный ростбиф, свежие овощи.</description>
+			</offer>
+			<offer id="2072" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2072.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Ветчина</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, свежие овощи.</description>
+			</offer>
+			<offer id="2073" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2073.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Индейка и ветчина</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, индейка, свежие овощи.</description>
+			</offer>
+			<offer id="2074" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2074.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Острый итальянский </name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Салями, пепперони, сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2075" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2075.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Сабвэй Клаб</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочетание ростбифа, ветчины и индейки, свежие овощи.</description>
+			</offer>
+			<offer id="2076" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2076.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат БМТ</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Оригинальная комбинация салями, пепперони, ветчины, сыра и свежих овощей.</description>
+			</offer>
+			<offer id="2077" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2077.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Тунец</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Комбинация тунца в легком майонезе, сыра и свежих овощей.</description>
+			</offer>
+			<offer id="2078" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2078.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Морепродукты</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Морепродукты с легким майонезом, сыром и свежими овощами.</description>
+			</offer>
+			<offer id="2079" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2079.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Стейк и сыр</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Стейк, сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2080" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2080.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Мелт</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Бекон, индейка и ветчина с сыром, свежие овощи.</description>
+			</offer>
+			<offer id="2081" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2081.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат мясные шарики</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Мясные шарики с сыром, заправленные оригинальным соусом «Маринара» в итальянском стиле, овощи.</description>
+			</offer>
+			<offer id="2083" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2083.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Курица Терияки</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки курицы с соусом «Терияки», свежие овощи.</description>
+			</offer>
+			<offer id="2084" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2084.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Куриная грудка</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Куриная грудка, свежие овощи.</description>
+			</offer>
+			<offer id="2085" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2085.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Свинина барбекю</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки копченой свинины в соусе «Барбекю», сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2086" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2086.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Чикен Пицциола</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки курицы с соусом «Маринара», сыр, пепперони, свежие овощи.</description>
+			</offer>
+			<offer id="2087" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2087.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Чикен Маринара</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Куриная грудка с сыром в соусе «Маринара»,  свежие овощи.</description>
+			</offer>
+			<offer id="2088" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/2088.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат Курица бекон с чесн.соус </name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Кусочки куриного филе в сочетании с беконом и сыром, свежие овощи .</description>
+			</offer>
+			<offer id="12375" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>313</categoryId>
+				<picture>http://fasteda.ru/data/big/12375.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Салат с креветками</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2090" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>113</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2090.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Овощной</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Салат, помидоры, свежие огурцы, маринованные огурцы, зеленый перец, оливки, красный лук, .</description>
+			</offer>
+			<offer id="2091" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2091.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Индейка</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежное мясо индейки, свежие овощи.</description>
+			</offer>
+			<offer id="2092" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2092.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Ростбиф</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочный ростбиф, свежие овощи.</description>
+			</offer>
+			<offer id="2093" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2093.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Ветчина</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, свежие овощи.</description>
+			</offer>
+			<offer id="2094" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2094.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Индейка и ветчина</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, индейка, свежие овощи.</description>
+			</offer>
+			<offer id="2095" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2095.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Острый итальянский</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Салями, пепперони, сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2096" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2096.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Сабвэй Клаб</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочетание ростбифа, ветчины и индейки, свежие овощи.</description>
+			</offer>
+			<offer id="2097" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2097.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл БМТ</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Оригинальная комбинация салями, пепперони, ветчины, сыра и свежих овощей.</description>
+			</offer>
+			<offer id="2098" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2098.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Тунец</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Комбинация тунца в легком майонезе, сыра и свежих овощей.</description>
+			</offer>
+			<offer id="2099" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2099.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Морепродукты</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Морепродукты с легким майонезом, сыром и свежими овощами.</description>
+			</offer>
+			<offer id="2100" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2100.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Стейк и сыр</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Стейк, сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2101" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2101.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Мелт</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Бекон, индейка и ветчина с сыром, свежие овощи.</description>
+			</offer>
+			<offer id="2102" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>138</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2102.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Мясные шарики</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Мясные шарики с сыром, заправленные оригинальным соусом «Маринара» в итальянском стиле, овощи.</description>
+			</offer>
+			<offer id="2104" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2104.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Курица Терияки</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки курицы с соусом «Терияки», свежие овощи.</description>
+			</offer>
+			<offer id="2105" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>153</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2105.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Куриная грудка</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Куриная грудка, свежие овощи.</description>
+			</offer>
+			<offer id="2106" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2106.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Свинина барбекю</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки копченой свинины в соусе «Барбекю», сыр, свежие овощи.</description>
+			</offer>
+			<offer id="2107" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2107.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Чикен Пицциола</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочные кусочки курицы с соусом «Маринара», сыр, пепперони, свежие овощи.</description>
+			</offer>
+			<offer id="2108" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2108.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Чикен Маринара</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Куриная грудка с сыром в соусе «Маринара»,  свежие овощи.</description>
+			</offer>
+			<offer id="2109" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/2109.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл Курица бекон с чесн.соус </name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Кусочки куриного филе в сочетании с беконом и сыром, свежие овощи .</description>
+			</offer>
+			<offer id="12372" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>163</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>314</categoryId>
+				<picture>http://fasteda.ru/data/big/12372.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ролл с креветками</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2115" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>893</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>316</categoryId>
+				<picture>http://fasteda.ru/data/big/2115.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ростбиф</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочный ростбиф, свежие овощи, свежевыпеченный хлеб. Party Sub (Пати Саб) 1780 р (состоит из двух пати сабов по 45 см каждый).Вы можете выбрать части пати саба с разной начинкой! Заказывайте не менее чем за 24 часа до изготовления.</description>
+			</offer>
+			<offer id="2116" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>893</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>316</categoryId>
+				<picture>http://fasteda.ru/data/big/2116.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ветчина</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, свежие овощи, свежевыпеченный хлеб. Party Sub (Пати Саб) 1780 р (состоит из двух пати сабов по 45 см каждый).Вы можете выбрать части пати саба с разной начинкой! Заказывайте не менее чем за 24 часа до изготовления.
+</description>
+			</offer>
+			<offer id="2117" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>893</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>316</categoryId>
+				<picture>http://fasteda.ru/data/big/2117.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Индейка</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежное мясо индейки, свежие овощи, свежевыпеченный хлеб. Party Sub (Пати Саб) 1780 р (состоит из двух пати сабов по 45 см каждый).Вы можете выбрать части пати саба с разной начинкой! Заказывайте не менее чем за 24 часа до изготовления.
+</description>
+			</offer>
+			<offer id="2118" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>893</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>316</categoryId>
+				<picture>http://fasteda.ru/data/big/2118.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Индейка и ветчина</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Нежная ветчина, индейка, свежие овощи, свежевыпеченный хлеб. Party Sub (Пати Саб) 1780 р (состоит из двух пати сабов по 45 см каждый).
+Вы можете выбрать части пати саба с разной начинкой! Заказывайте не менее чем за 24 часа до изготовления.
+.</description>
+			</offer>
+			<offer id="2119" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>893</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>316</categoryId>
+				<picture>http://fasteda.ru/data/big/2119.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>БМТ</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Оригинальная комбинация салями, пепперони, ветчины, сыра и свежих овощей. Party Sub (Пати Саб) 1780 р (состоит из двух пати сабов по 45 см каждый). Вы можете выбрать части пати саба с разной начинкой! Заказывайте не менее чем за 24 часа до изготовления.
+</description>
+			</offer>
+			<offer id="2120" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>893</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>316</categoryId>
+				<picture>http://fasteda.ru/data/big/2120.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Тунец</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Комбинация тунца в легком майонезе, сыра и свежих овощей. Party Sub (Пати Саб) 1780 р (состоит из двух пати сабов по 45 см каждый).Вы можете выбрать части пати саба с разной начинкой! Заказывайте не менее чем за 24 часа до изготовления.
+</description>
+			</offer>
+			<offer id="2121" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>893</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>316</categoryId>
+				<picture>http://fasteda.ru/data/big/2121.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Морепродукты</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Морепродукты с легким майонезом, сыром и свежими овощами. Party Sub (Пати Саб) 1780 р (состоит из двух пати сабов по 45 см каждый).Вы можете выбрать части пати саба с разной начинкой! Заказывайте не менее чем за 24 часа до изготовления.
+</description>
+			</offer>
+			<offer id="2122" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>893</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>316</categoryId>
+				<picture>http://fasteda.ru/data/big/2122.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сабвей Клаб</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сочетание ростбифа, ветчины и индейки, свежие овощи, свежевыпеченный хлеб. Party Sub (Пати Саб) 1780 р (состоит из двух пати сабов по 45 см каждый). Вы можете выбрать части пати саба с разной начинкой! Заказывайте не менее чем за 24 часа до изготовления.</description>
+			</offer>
+			<offer id="2123" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>213</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>317</categoryId>
+				<picture>http://fasteda.ru/data/big/2123.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Овощной сэндвич+ минеральная вода+ кукис</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сэндвич: свежие овощи, свежевыпеченный хлеб. Напиток: Минеральная вода Aqua Minerale. Десерт: Кукис.</description>
+			</offer>
+			<offer id="2124" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>213</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>317</categoryId>
+				<picture>http://fasteda.ru/data/big/2124.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Индейка +минеральная вода + кукис</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сэндвич: нежная ветчина, свежие овощи, свежевыпеченный хлеб Напиток: Минеральная вода. Десерт: Кукис.</description>
+			</offer>
+			<offer id="2125" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>213</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>317</categoryId>
+				<picture>http://fasteda.ru/data/big/2125.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name> Ветчина + минеральная вода + кукис</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сэндвич: нежное мясо индейки, свежие овощи, свежевыпеченный хлеб Напиток: минеральная вода. Десерт: Кукис.</description>
+			</offer>
+			<offer id="2126" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>213</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>317</categoryId>
+				<picture>http://fasteda.ru/data/big/2126.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Ростбиф+ минеральная вода+кукис</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Сэндвич: сочный ростбиф, свежие овощи, свежевыпеченный хлеб. Напиток: Минеральная вода Aqua Minerale. Десерт: Кукис.</description>
+			</offer>
+			<offer id="2127" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>58</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2127.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода негаз.0,6 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Аква Минерале негазированная 0,6 л.</description>
+			</offer>
+			<offer id="2128" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>58</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2128.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Минеральная вода газ. 0,6 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Аква Минерале газированная.</description>
+			</offer>
+			<offer id="2129" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>58</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2129.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Квас 0,5 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2130" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>63</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2130.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Аква Актив лимон 0,6 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2131" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2131.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Липтон Айс Ти зеленый 0,6 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2132" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2132.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Липтон Айс Ти лимон 0,6 л. </name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2133" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2133.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Липтон Айс Ти малина 0,6 л. </name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2134" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>78</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2134.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Липтон Айс Ти персик 0,6 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2136" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>58</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2136.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Пепси Мах 0,6 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2137" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2137.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок  Я  апельсин 0,2 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2138" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2138.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок  Я  вишня 0,2 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2139" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2139.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок  Я  яблоко 0,2 л</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2182" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>48</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>318</categoryId>
+				<picture>http://fasteda.ru/data/big/2182.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сок  Я  томат 0,2 л.</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="2183" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>43</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>319</categoryId>
+				<picture>http://fasteda.ru/data/big/2183.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Кукис ванильное</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Свежевыпеченное фирменное печенье. Ванильное.</description>
+			</offer>
+			<offer id="2185" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>43</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>319</categoryId>
+				<picture>http://fasteda.ru/data/big/2185.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Маффин шоколадный</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Выпеченный в ресторане вкусный десерт. Шоколадный.</description>
+			</offer>
+			<offer id="2187" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>43</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>319</categoryId>
+				<picture>http://fasteda.ru/data/big/2187.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Чипсы Lays</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Вкусы на ваш выбор!.</description>
+			</offer>
+			<offer id="2188" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>28</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>319</categoryId>
+				<picture>http://fasteda.ru/data/big/2188.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Сухарики «Хрустим»</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>Вкусы на ваш выбор!.</description>
+			</offer>
+			<offer id="12370" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>319</categoryId>
+				<picture>http://fasteda.ru/data/big/12370.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Булочка с яблоками</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+			<offer id="12371" available="true">
+				<url>http://fasteda.ru/menu/subway/</url>
+				<price>68</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>319</categoryId>
+				<picture>http://fasteda.ru/data/big/12371.jpg</picture>
+				<store>false</store>
+				<pickup>false</pickup>
+				<delivery>true</delivery>
+				<local_delivery_cost>300</local_delivery_cost>
+				<name>Булочка с корицей</name>
+				<vendor>Бесплатная доставка из Subway   Сабвэй</vendor>
+				<description>.</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

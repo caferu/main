@@ -1,0 +1,109 @@
+.grid-view-loading {
+    background: url(loading.gif) no-repeat;
+}
+
+.grid-view table.items {
+    background: white;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px white solid;
+}
+
+.grid-view table.items td {
+    padding: 4px; 
+}
+.grid-view table.items th{
+    border: 1px white solid;
+    padding: 0.3em;
+}
+
+.grid-view table.items th { background-color:#e9e9e9; color:#717171; text-align:center; border-bottom:none}
+
+.grid-view table.items th a {
+    text-decoration: none;
+}
+
+.grid-view table.items th a.asc {
+    background: url(up.gif) right center no-repeat;
+    padding-right: 10px;
+}
+
+.grid-view table.items th a.desc {
+    background: url(down.gif) right center no-repeat;
+    padding-right: 10px;
+}
+
+.grid-view table.items tr.even {
+   color:black;
+}
+.grid-view table.items tr.odd {
+    color:black;
+}
+.grid-view table.items tr.g_sended {background: #fef79f;}
+.grid-view table.items tr.g_recived {background: #ffb85c;}
+.grid-view table.items tr.g_paid {background:#d6f6b5; }
+.grid-view table.items tr.g_new_offer{background: #ff8484;}
+
+.grid-view table.items tr.even td {    border: 1px #dfdfdf  solid;}
+.grid-view table.items tr.odd td {    border: 1px #dfdfdf  solid;}
+.grid-view table.items tr.g_sended td {    border: 1px #dfdfdf  solid;}
+.grid-view table.items tr.g_recived td {    border: 1px #dfdfdf  solid;}
+.grid-view table.items tr.g_paid td {    border: 1px #dfdfdf  solid;}
+.grid-view table.items tr.g_new_offer td {    border: 1px #dfdfdf  solid;}
+
+
+
+.grid-view table.items tr.selected {
+    background: #cdfefe;
+}
+
+.grid-view table.items tr:hover {
+    background: #effefe;
+}
+
+.grid-view .link-column img {
+    border: 0;
+}
+
+.grid-view .button-column {
+    text-align: center;
+    width: 60px;
+}
+
+.grid-view .button-column img {
+    border: 0;
+}
+
+.grid-view .checkbox-column {
+    width: 15px;
+}
+
+.grid-view .summary {
+    margin: 0 0 5px 0;
+    float: left;
+}
+.grid-view .profitSummary {
+    margin: 0 0 5px 0;
+    padding-right: 100px;
+    padding-top: 10px;
+}
+
+.grid-view .pager {
+    margin: 5px 0 0 0;
+    padding-bottom:10px; width:97%; clear:both;
+}
+
+.grid-view .empty {
+    display: block;
+    margin: 10px;
+    font-style: italic;
+}
+.grid-view .filters td { background-color:#e9e9e9; color:#717171; text-align:center; border-top:none; border: 1px white  solid;}
+.grid-view .filters input,
+.grid-view .filters select {
+    width: 100%;
+    border: 1px solid #ccc;
+    letter-spacing:0;
+    font-size: 11px;
+}
+.grid-view .filters input {height:14px}

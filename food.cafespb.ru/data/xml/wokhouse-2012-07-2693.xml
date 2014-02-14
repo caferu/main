@@ -1,0 +1,2851 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2012-07-26 13:50">
+<shop>
+<name>WOKHOUSE</name>
+<company>WOKHOUSE</company>
+<url>http://www.wokhouse.ru/</url>
+<phone>+7 (812) 432-38-00</phone>
+<email>sale@wokhouse.ru</email>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="41">Лапша удон</category>
+<category id="42">Лапша соба</category>
+<category id="43">Лапша Рамен (Яичная)</category>
+<category id="44">Тепанг (Рис)</category>
+<category id="46">Салат</category>
+<category id="48">Суп</category>
+<category id="49">Вок</category>
+<category id="50">Роллы</category>
+<category id="51">Острые роллы</category>
+<category id="52">Запечённые роллы</category>
+<category id="53">Сушки</category>
+<category id="54">Спайси сушки</category>
+<category id="55">Запечённые сушки</category>
+<category id="56">Топинги</category>
+<category id="57">Десерт</category>
+<category id="58">Морс</category>
+<category id="59">Газированные напитки</category>
+<category id="60">Холодный чай</category>
+<category id="61">Соки, нектары «Я»</category>
+<category id="62">Пиво</category>
+<category id="64">Суши пицца</category>
+<category id="65">Суши сеты</category>
+<category id="66">Карбонара</category>
+<category id="67">Шашлычки</category>
+<category id="68">Лапша харусаме</category>
+<category id="69">Бизнес-ланч</category>
+</categories>
+<offers>
+<offer id="51" available="true">
+<url>http://www.wokhouse.ru/menu/udon-lapsha/udon-ovoschi</url>
+<price>210.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>41</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/176-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Удон с овощами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Удон с овощами</vendorCode>
+<description>Лапша &amp;quot;Удон&amp;quot;, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, томаты &amp;quot;Черри&amp;quot;, древевсный гриб.
+
+	&amp;nbsp;
+
+	Всем тем, кто следит за своим здоровьем и фигурой, но не привык идти на компромисс, если дело касается вкуса, обязательно придется по душе удон с овощами. Популярный не только среди вегетарианцев, но и тех, кто предпочитает питаться исключительно натуральной и полезной пищей, удон с овощами подарит настоящее наслаждение от великолепного сочетания растительных запахов тушеных овощей и неповторимого вкуса питательной пшеничной лапши. Удон с овощами представляет собой идеальный баланс полезных веществ, утонченного аромата и отменных вкусовых качеств.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="52" available="true">
+<url>http://www.wokhouse.ru/menu/udon-lapsha/udon-griby</url>
+<price>190.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>41</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/195-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Удон с грибами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Удон с грибами</vendorCode>
+<description>Лапша &amp;quot;Удон&amp;quot;, грибы &amp;quot;Шиитаки&amp;quot;, пекинская капуста, лук, паприка, шампиньоны, древевсный гриб.
+
+	&amp;nbsp;
+
+	Удон с грибами также традиционно можно встретить на обеденном столе любой японской семьи. Утонченный вкус и пряный аромат грибов шиитаке издавна почитались японцами, теперь же и вы можете насладиться всеми прелестями столь необычного сочетания. Пшеничная лапша из натуральных ингредиентов смешанная с тушеным грибом шиитаке дарит не только отменный вкус, но и является прекрасным источником растительного белка, клетчатки, а также множества незаменимых для организма микроэлементов и витаминов, столь необходимых человеку для восстановления сил и продуктивной работы.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="53" available="true">
+<url>http://www.wokhouse.ru/menu/udon-lapsha/udon-losos</url>
+<price>310.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>41</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/142-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Удон с лососем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Удон с лососем</vendorCode>
+<description>Лапша &amp;quot;Удон&amp;quot;, лосось, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Удон с лососем &amp;ndash; обязательный пункт в рационе многих искушенных гурманов. Истинные почитатели японской кухни особо ценят удон с лососем, и выделяют его на фоне остальных блюд, утверждая, что никакое другое блюдо не способно подарить дегустатору столь полную картину аромата и послевкусия традиционной восточной кухни. Исконно японское, наполнение из лосося традиционно добавляется в лапшу во всех ресторанах Японии, а потому ценится во всем мире за свой аутентичный вкус. Тем не менее, не нужно быть гурманом, чтобы по достоинству оценить неповторимый вкус традиционного японского блюда удон с лососем.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="54" available="true">
+<url>http://www.wokhouse.ru/menu/udon-lapsha/udon-moreprodukty</url>
+<price>270.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>41</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/186-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Удон с морепродуктами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Удон с морепродуктами</vendorCode>
+<description>Лапша &amp;quot;Удон&amp;quot;, морепродукты, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Среди огромного разнообразия наполнений для лапши, особняком стоит удон с морепродуктами. Одновременно и такой неуловимо знакомый и такой необычный, вкус лапши удон с морепродуктами заставляет по-новому посмотреть на понятие японской кухни. Приятный солоноватый аромат даров моря приносит&amp;nbsp; телу расслабление, а невообразимый сбалансированный вкус лапши наполняет организм энергией, вливая в него силы для новых трудовых свершений. Удон с морепродуктами это не только великолепное сочетание вкуса и аромата, но и низкое содержание жиров и высокая концентрация полезных микроэлементов.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="55" available="true">
+<url>http://www.wokhouse.ru/menu/udon-lapsha/udon-krevetki</url>
+<price>280.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>41</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/131-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Удон с креветками</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Удон с креветками</vendorCode>
+<description>Лапша &amp;quot;Удон&amp;quot;, креветки, лук, пекинская капуста, паприка, морковь, зеленая фасоль, ростки сои, древесный гриб.
+
+	&amp;nbsp;
+
+	Удон с креветками &amp;ndash; традиционное блюдо японской кухни, невероятно популярное не только среди любителей морепродуктов, но и тех, кто просто неравнодушен к удачным вкусовым сочетаниям. Удон с креветками обладает утонченным ароматом даров моря, прекрасно дополняемым вкусом классической натуральной пшеничной лапши. Удон с креветками популярен среди представителей различных полов, социальных групп и возрастов, потому что каждый находит в этом блюде что-то свое - кого-то привлекает низкая калорийность блюда, а кому-то просто не хватает того неповторимого легкого пряного привкуса, которым и знаменита лапша удон с креветками.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="56" available="true">
+<url>http://www.wokhouse.ru/menu/udon-lapsha/udon-govyadina</url>
+<price>260.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>41</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/163-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Удон с говядиной</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Удон с говядиной</vendorCode>
+<description>Лапша &amp;quot;Удон&amp;quot;, говядина, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древесный гриб.
+
+	&amp;nbsp;
+
+	Удон с говядиной &amp;ndash; выбор тех, кто предпочитает употреблять в пищу более постные блюда, стремясь сохранить фигуру, но в то же время, не желая отказывать себе в удовольствии насладиться великолепным вкусом тушеного мяса. Удон с говядиной &amp;ndash; низкокалорийное блюдо со сбалансированными вкусовыми качествами и ароматом, обязательно придется по душе любому гурману. Удон с говядиной рекомендуется к употреблению всем, кто не желает идти на компромисс во вкусе, стремясь максимально расширить свой кулинарный кругозор или же просто побаловать себя отличным блюдом.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="57" available="true">
+<url>http://www.wokhouse.ru/menu/udon-lapsha/udon-svinina</url>
+<price>250.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>41</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/153-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Удон со свининой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Удон со свининой</vendorCode>
+<description>Лапша &amp;quot;Удон&amp;quot;, свинина, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Удон со свининой &amp;ndash; это высококалорийное блюдо для тех, кто испытывает упадок сил и настроения в процессе тяжелого трудового дня. Быстро пополнить запасы энергии и заставить организм работать &amp;laquo;на полную&amp;raquo; &amp;ndash; удон со свининой здесь лучший помощник. Питательный и ароматный, удон со свининой не только способен быстро утолить голод, но и приятно порадовать гурманов великолепным сбалансированным вкусом благодаря крайне удачному сочетанию натуральной пшеничной лапши и свежеприготовленной свинины.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="58" available="true">
+<url>http://www.wokhouse.ru/menu/udon-lapsha/udon-s-kuritsey</url>
+<price>230.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>41</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/121-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Удон с курицей</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Удон с курицей</vendorCode>
+<description>Лапша &amp;quot;Удон&amp;quot;, куриное филе, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Удон с курицей &amp;ndash; отличная закуска в перерыве трудового дня. Удон с курицей обладает не только великолепным вкусом, но и высокой энергетической ценностью и крайне низким содержанием жиров, так как для приготовления используется исключительно самое свежее и нежное куриное филе и пшеничная лапша из натуральных ингредиентов. Удон с курицей &amp;ndash; это не только отменный вкус и аромат, но и неоспоримая польза для тех, кому необходимо как можно скорей пополнить запас энергии, при этом, не нанося вред своей фигуре.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="59" available="true">
+<url>http://www.wokhouse.ru/menu/soba-lapsha/soba-ovoschi</url>
+<price>210.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>42</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/169-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Соба с овощами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Соба с овощами</vendorCode>
+<description>Лапша &amp;quot;Соба&amp;quot;, томаты &amp;quot;Черри&amp;quot;, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Соба с овощами &amp;ndash; великолепное вегетарианское блюдо, не уступающее по питательности блюдам мясным. Все благодаря удачному сочетанию сытной и полезной лапши, изготовленной из натуральных ингредиентов и разнообразных овощей, содержащих огромное количество витаминов. Соба с овощами особенно популярна среди женщин, озабоченных своим внешним видом, так как по праву может считаться полноценно диетической пищей, не отягощенной чрезмерным количеством жиров и белков животного происхождения, способных нанести вред хрупкой женской фигуре. Соба с овощами &amp;ndash; здоровая пища для здоровых людей.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="60" available="true">
+<url>http://www.wokhouse.ru/menu/soba-lapsha/soba-griby</url>
+<price>190.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>42</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/350-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Соба с грибами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Соба с грибами</vendorCode>
+<description>Лапша &amp;quot;Соба&amp;quot;, грибы &amp;quot;Шиитаки&amp;quot;, шампиньоны, лук, пекинская капуста, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Грибы, наравне с рыбой и мясными продуктами, пользуются огромной популярностью среди азиатских поваров. Они позволяют придать хорошо знакомым блюдам совершенно новые оттенки вкуса, подарить им необыкновенный аромат. Соба с грибами &amp;ndash; прекрасный образец кулинарного эксперимента, состоящего в удачном сочетании великолепного грибного аромата, растительного белка, клетчатки и витаминов, а также питательной и вкусной лапши, богатой углеводами с высокой энергетической ценностью. Соба с грибами хороша и как дополнение к основной трапезе, и как самостоятельное блюдо, прекрасно утоляющее чувство голода, способное подарить вам новые силы.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="61" available="true">
+<url>http://www.wokhouse.ru/menu/soba-lapsha/soba-losos</url>
+<price>310.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>42</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/158-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Соба с лососем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Соба с лососем</vendorCode>
+<description>Лапша &amp;quot;Соба&amp;quot;, лосось, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	В поисках настоящей традиционной японской пищи нередко приходится перепробовать множество разнообразнейших блюд. Огромное количество всевозможных начинок и ингредиентов, порой ставят перед гурманами нелегкий выбор: какое же блюдо предпочесть? Рекомендуем обратить внимание на замечательное блюдо традиционной японской кухни &amp;ndash; лапшу соба с лососем. Соба с лососем содержит нежное мясо океанической рыбы, которое в сочетании с легкой, но одновременно и сытной гречневой лапшой, отлично дополняют вкусовой букет блюда, представляя вашему вниманию оригинальное произведение традиционной японской кухни.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="62" available="true">
+<url>http://www.wokhouse.ru/menu/soba-lapsha/soba-moreprodukty</url>
+<price>270.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>42</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/347-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Соба с морепродуктами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Соба с морепродуктами</vendorCode>
+<description>Лапша &amp;quot;Соба&amp;quot;, морепродукты, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Морепродукты как никогда популярны во всем мире, особенно сейчас, в эпоху пропаганды здорового образа жизни. Высокая концентрация легкодоступного белка, незаменимых микроэлементов и питательных веществ, наряду с практически полным отсутствием жира &amp;ndash; этим морепродукты славились всегда. Этим же и объясняется высокая популярность такого блюда, как соба с морепродуктами. Соба с морепродуктами также не лишена всех вышеперечисленных достоинств, вдобавок обладает еще и рядом полезных свойств, подаренных удачным сочетанием мяса морских обитателей и питательной лапши, изготовленной из высококачественной натуральной гречневой муки.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="63" available="true">
+<url>http://www.wokhouse.ru/menu/soba-lapsha/soba-krevetki</url>
+<price>280.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>42</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/180-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Соба с креветками</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Соба с креветками</vendorCode>
+<description>Лапша &amp;quot;Соба&amp;quot;, креветки, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Морепродукты всегда в моде. И не только на просторах удивительной и загадочной Японии, но и у нас, в России, где также по достоинству ценят пользу даров моря. Именно потому лапша соба с креветками пользуется невероятно популярность. Лапша соба, изготовленная из особой смеси гречневой и пшеничной муки, отлично сочетается с легким и питательным мясом креветки. В результате получается вполне полноценное блюдо, заключающее в себе всю пользу злаков и диетического белка. Минералы, витамины, низкое содержание углеводов, неповторимый вкус и аромат &amp;ndash; все это соба с креветками.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="64" available="true">
+<url>http://www.wokhouse.ru/menu/soba-lapsha/soba-govyadina</url>
+<price>260.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>42</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/189-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Соба с говядиной</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Соба с говядиной</vendorCode>
+<description>Лапша &amp;quot;Соба&amp;quot;, говядина, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Идеально выверенный баланс углеводов, жиров и белков, прекрасное сочетание микроэлементов, аминокислот и витаминов &amp;ndash; это знаменитая и крайне популярная лапша соба с говядиной. Соба с говядиной являет собой золотую середину между более жирной свининой и сухим куриным филе, предоставляя вам утонченное сочетание легкого постного мяса и питательной лапши из гречневой муки. Соба с говядиной обладает полным набором всего необходимого для того, чтобы вы как можно скорее могли восполнить энергетический баланс организма или же просто насладились прекрасным вкусом и ароматом необыкновенного блюда.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="65" available="true">
+<url>http://www.wokhouse.ru/menu/soba-lapsha/soba-svinina</url>
+<price>250.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>42</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/149-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Соба со свининой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Соба со свининой</vendorCode>
+<description>Лапша &amp;quot;Соба&amp;quot;, свинина, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Соба со свининой &amp;ndash; пожалуй, лучший выбор для людей, утомленных тяжелыми трудовыми буднями, испытывающими острую нехватку питательных веществ. Калорийная, насыщенная жирными кислотами и животными белками, соба со свининой способна утолить даже самый сильный голод, моментально восполняя нехватку энергии в организме. Соба со свининой прекрасно согревает в холодный день, снимает усталость и поднимает общий физический тонус, а потому крайне популярна у людей, не привыкших стоять на месте, ведущих активный, подвижный образ жизни.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="66" available="true">
+<url>http://www.wokhouse.ru/menu/soba-lapsha/soba-kuritsa</url>
+<price>230.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>42</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/136-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Соба с курицей</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Соба с курицей</vendorCode>
+<description>Лапша &amp;quot;Соба&amp;quot;, куриное филе, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Легкая диетическая закуска, соба с курицей идеально подойдет как для делового ланча, так и в качестве полноценного питательного обеда. Соба изготавливается из особой смеси гречневой и пшеничной муки, потому обладает идеальным балансом микроэлементов и витаминов, прекрасно сочетаясь с диетическим низкокалорийным куриным мясом. Соба с курицей очень полезна для пищеварения, позитивно отражается на общем самочувствии, а потому популярна среди тех, кто следит за своей фигурой и предпочитает низкокалорийные блюда с низким содержанием животных жиров и высокой концентрацией белка.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="67" available="true">
+<url>http://www.wokhouse.ru/menu/ris-tepang/tepang-ovoschi</url>
+<price>210.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>44</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/211-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тепанг с овощами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тепанг с овощами</vendorCode>
+<description>Рис, томаты &amp;quot;Черри&amp;quot;, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Вегетарианское японское блюдо, тепанг с овощами дает отличную возможность гурманам полакомиться классическим вкусом восточной кухни без вреда для здоровья и фигуры. Легкое, натуральное наполнение из свежих сладких томатов, пекинской капусты, лука, паприки и ростков сои в сочетании с пользой белого риса, создают отличный букет вкуса и оттенков тонкого восточного аромата. Тепанг с овощами &amp;ndash; это полное отсутствие жира и холестерина, обилие витаминов, минералов и клетчатки, а значит, только польза и еще раз польза, дарящая наслаждение с каждым новым кусочком.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="68" available="true">
+<url>http://www.wokhouse.ru/menu/ris-tepang/tepang-griby</url>
+<price>190.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>44</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/222-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тепанг с грибами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тепанг с грибами</vendorCode>
+<description>Рис, грибы &amp;quot;Шиитаки&amp;quot;, шампиньоны, лук, пекинская капуста, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Все кто хотя бы раз пробовал тепанг с грибами, в один голос утверждают, что ни одно другое блюдо японской кухни не отличается от аналогичных ему столь невообразимым и невероятным ароматом, а также полнотой вкуса и очевидной пользой. Грибы заставляют взглянуть на привычный тепанг совершенно по-новому. Нежный вкус шампиньонов и выразительный аромат грибов шиитаке придают блюду столь необычные оттенки природных ароматов, что им хочется лакомиться снова и снова. Кроме того, тепанг с грибами и очень полезен. Он не содержит мяса, а потому отличается легкостью, в то же время, достаточно сытный благодаря рису.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="69" available="true">
+<url>http://www.wokhouse.ru/menu/ris-tepang/tepang-losos</url>
+<price>310.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>44</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/201-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тепанг с лососем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тепанг с лососем</vendorCode>
+<description>Рис, лосось, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Если вы ищете блюдо с наиболее удачным сочетанием пользы и вкуса, то вам определенно стоит обратить внимание на тепанг с лососем. Тепанг с лососем сильно отличается от других блюд своим необычным ароматом, нежным вкусом и невероятной питательностью. Сочетание традиционной японской океанической рыбы и белого риса создает прекрасную основу, богатую разнообразными оттенками вкуса, дополненного ароматом питательных овощей. Тепанг с лососем это не только полнота вкуса, но и польза мяса рыбы, несущего к вашему столу массу питательных элементов.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="70" available="true">
+<url>http://www.wokhouse.ru/menu/ris-tepang/tepang-krevetki</url>
+<price>280.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>44</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/166-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тепанг с креветками</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тепанг с креветками</vendorCode>
+<description>Рис, креветки, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Тепанг с креветками выбирают те, кому наскучил вид классических блюд со стандартным наполнением. Тепанг с креветками предоставляет абсолютно новый уровень вкуса, полный невероятных оттенков и ароматов, сочетающих легкость, сытность и пользу. Креветки полны питательными элементами, они сочные и низкокалорийные, рис же прекрасно дополняет их великолепный вкус, удачно сочетая в себе питательность и пользу. Тепанг с креветками &amp;ndash; легкое тонизирующее блюдо, уместное к завтраку, и достаточно сытное для полноценной обеденной трапезы.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="71" available="true">
+<url>http://www.wokhouse.ru/menu/ris-tepang/tepang-govyadina</url>
+<price>260.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>44</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/219-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тепанг с говядиной</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тепанг с говядиной</vendorCode>
+<description>Рис, говядина, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Тепанг с говядиной &amp;ndash; умеренно калорийное блюдо японской кухни, невероятно популярное во всем мире. Секрет успеха тепанга с говядиной кроется в его простоте и сбалансированности. Тепанг с говядиной содержит совсем немного жира, однако богат белком и углеводами. Это блюдо одновременно и питательное и легкое, его приятно кушать, оно невероятно аппетитное и вкусное. Рис с небольшим добавлением свежих овощей прекрасно дополняет аромат и вкус сочной говядины, придавая блюду особый утонченный вкус, столь характерный для восточной кухни.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="72" available="true">
+<url>http://www.wokhouse.ru/menu/ris-tepang/tepang-svinina</url>
+<price>250.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>44</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/214-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тепанг со свининой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тепанг со свининой</vendorCode>
+<description>Рис, свинина, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Тепанг со свининой является одним из основных и самых популярных блюд в Японии. Тепанг со свининой весьма калориен, потому способен быстро утолить голод, в то же время, тепанг со свининой и крайне полезен, так как основными его ингредиентами являются рис и свежее натуральное мясо. Рис в восточных странах считается злаком молодости, он питательный, но легкий, сытный, но не слишком калорийный, а потому прекрасно дополняется свининой, несущей изрядную долю ценных питательных веществ. Кроме того, не стоит забывать, что тепанг со свининой это еще и просто очень вкусное блюдо.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="73" available="true">
+<url>http://www.wokhouse.ru/menu/ris-tepang/tepang-kuritsa</url>
+<price>230.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>44</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/205-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тепанг с курицей</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тепанг с курицей</vendorCode>
+<description>Рис, куриное филе, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Рис благодаря своему нейтральному вкусу, прекрасно сочетается со многими типами продуктов. Это и мясо, и овощи, и даже рыба. Однако особо удачным считается именно сочетание риса с мясом птицы. Тепанг с курицей прекрасное тому доказательство. Тепанг с курицей представляет собой отлично сбалансированное блюдо традиционной японской кухни, сочетающее эстетичный внешний вид и отменные вкусовые качества. Тепанг с курицей питателен и ароматен, но считается полноценным диетическим блюдом. Тепанг с курицей обладает низким содержанием жиров, а потому несет в себе исключительно здоровье и наслаждение.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="74" available="true">
+<url>http://www.wokhouse.ru/menu/salat/salat-ovoschnoy</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>46</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/307-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Салат овощной</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Салат овощной</vendorCode>
+<description>Огурец, томаты Черри, паприка, листья салатов.
+
+	&amp;nbsp;
+
+	Здоровый образ жизни всегда актуален. И естественно, это находит самое непосредственное отражение в нашей с вами пище. Японцы издавна славились своим долголетием и глубокими познаниями в области медицины, что не могло не сказаться и на разнообразии натуральных продуктов, применяемых в традиционных японских блюдах. Салат овощной &amp;ndash; прекрасное тому доказательство. Питательный и невероятно вкусный, овощной салат готовится исключительно из смеси свежих овощей &amp;ndash; томатов, паприки, огурца и зелени, поэтому является полноценным здоровым вегетарианским блюдом.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="75" available="true">
+<url>http://www.wokhouse.ru/menu/salat/salat-chuka</url>
+<price>180.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>46</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/303-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Салат с чукой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Салат с чукой</vendorCode>
+<description>Водоросли &amp;quot;Чукка&amp;quot;, огурец, томаты &amp;quot;Черри&amp;quot;, паприка, листья салатов.
+
+	&amp;nbsp;
+
+	Салат с чукой &amp;ndash; это то, что нужно обязательно попробовать, если вы, как истинный ценитель японской кухни, желаете познакомиться с классической японской традицией. Невероятно популярный в Японии и странах Азии, салат с чукой завоевал огромную востребованность и у нас. Салат с чукой &amp;ndash; это полноценное вегетарианское блюдо, низкокалорийное и нежирное, полное обильно содержащихся в водорослях &amp;laquo;чука&amp;raquo; полезных солей и минералов, а потому рекомендуется к употреблению как утром, для придания организму тонуса, так и во время ланча для скорейшего восстановления сил.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="76" available="true">
+<url>http://www.wokhouse.ru/menu/salat/salat-krevetki</url>
+<price>165.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>46</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/318-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Салат с креветками</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Салат с креветками</vendorCode>
+<description>Жареные креветки, огурец, томаты &amp;quot;Черри&amp;quot;, паприка, листья салатов.
+
+	&amp;nbsp;
+
+	Ароматный и питательный, салат с креветками представляет собой невероятно удачное сочетание популярных в Японии морепродуктов и свежих овощей, великолепно дополняющих друг друга, как в плане аромата, так и в плане вкуса, мягкого, с четко выраженной морской ноткой. Салат с креветками &amp;ndash; легкое диетическое блюдо, богатое белком и клетчаткой, крайне полезное для нормализации давления и баланса микроэлементов. Салат с креветками можно потреблять в любое время дня и ночи. Утром он прекрасно бодрит, вечером же снимает усталость и восстанавливает силы.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="77" available="true">
+<url>http://www.wokhouse.ru/menu/salat/salat-kuritsa</url>
+<price>120.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>46</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/311-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Салат с курицей</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Салат с курицей</vendorCode>
+<description>Жареное куриное филе, огурец, томаты &amp;quot;Черри&amp;quot;, паприка, листья салатов.
+
+	&amp;nbsp;
+
+	Салат с курицей &amp;ndash; едва ли не самый популярный вид японской овощной закуски. Нежное филе курицы, смешанное с овощами, прекрасно подойдет как для легкого завтрака, так и для полноценного обеда. Салат с курицей невероятно питательное и сытное, в то же время, диетическое блюдо, не отягощенное слишком большим количеством жиров, популярное как среди поклонников здорового образа жизни, так и просто искушенных гурманов. Богатое белком куриное мясо надолго заряжает энергией, а овощи нормализуют пищеварение, что делает салат с курицей весьма востребованным самостоятельным блюдом.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="78" available="true">
+<url>http://www.wokhouse.ru/menu/salat/salat-tunets</url>
+<price>150.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>46</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/324-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Салат с тунцом</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Салат с тунцом</vendorCode>
+<description>Филе тунца, огурец, томаты &amp;quot;Черри&amp;quot;, паприка, листья салатов.
+
+	&amp;nbsp;
+
+	В японской кухне рыбе всегда уделялось особое внимание. Дело не только в питательности мяса рыбы, но и его полезных качествах, обилию микроэлементов и минералов. С течением лет, японские кулинары изобрели огромное количество всевозможных блюд с использованием рыбы. Салат с тунцом &amp;ndash; отличный образец японского кулинарного искусства. Он легкий и питательный, вполне может рассматриваться как самостоятельное блюдо, так как богат белком и прекрасно утоляет голод. Кроме того, салат с тунцом содержит обильное количество овощей &amp;ndash; огурцов, паприки и томатов, способствующих нормализации работы организма.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="79" available="true">
+<url>http://www.wokhouse.ru/menu/sup/bulyon-kurinyy-lapsha</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_372-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Куриный бульон с лапшой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Куриный бульон с лапшой</vendorCode>
+<description>Курица, лапша, морковь, лук.
+
+	&amp;nbsp;
+
+	Как известно, куриный бульон является отличной основой для множества супов. Он питательный и сытный, богат жирными кислотами и витаминами, а также прекрасно сочетается с любыми видами овощей, злаков и мучных продуктов. Куриный бульон с лапшой, классическое японское блюдо, представляет собой овощной отвар с добавлением куриного мяса и традиционной японской лапши. Куриный бульон с лапшой не только полезен для пищеварения, но также способствует укреплению иммунитета, а потому рекомендуется к употреблению в холодную, сырую погоду, особенно людям дорожащим своим временем, ведущим активный образ жизни.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="80" available="true">
+<url>http://www.wokhouse.ru/menu/sup/kimchi-tofu</url>
+<price>70.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_360-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Кимчи с тофу</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Кимчи с тофу</vendorCode>
+<description>Яйцо, тофу, вакамэ, зеленый лук.
+
+	&amp;nbsp;
+
+	Суп кимчи с тофу обрел огромную популярность не только благодаря высокому содержанию питательных веществ, но и универсальности. Суп кимчи с тофу предпочитают вегетарианцы, так как он не содержит мяса, а все белки представленные в нем, исключительно растительного происхождения. Не обходят его своим вниманием и поклонники здорового образа жизни, ведь суп кимчи с тофу низкокалорийный и содержит совсем немного жира. Любят лакомиться им и деловые люди, так как кимчи с тофу невероятно питательный и способен быстро снять усталость, придать новых сил.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="81" available="true">
+<url>http://www.wokhouse.ru/menu/sup/kimchi-ugor</url>
+<price>160.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_361-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Кимчи с угрём</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Кимчи с угрём</vendorCode>
+<description>Угорь, яйцо, вакамэ, тофу, зеленый лук.
+
+	&amp;nbsp;
+
+	Кимчи является основой для многих классических японских супов. Кимчи не только обладает большим количеством полезных веществ, но и великолепным вкусом, поэтому прекрасно сочетается с любыми типами продуктов. Суп кимчи с угрем &amp;ndash; хороший образец традиционного восточного блюда, со сбалансированным вкусом рыбы и тофу, а также ароматом водорослей вакамэ и зеленого лука. Удачное сочетание ингредиентов делает кимчи с угрем не только прекрасным дополнением к обеденной трапезе, но и вполне полноценным самостоятельным блюдом.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="82" available="true">
+<url>http://www.wokhouse.ru/menu/sup/kimchi-losos</url>
+<price>120.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_363-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Кимчи с лососем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Кимчи с лососем</vendorCode>
+<description>Лосось, яйцо, вакамэ, тофу, зеленый лук.
+
+	&amp;nbsp;
+
+	Кимчи с лососем &amp;ndash; один из самых популярных видов японских супов. Состоящий из остро приправленных водорослей, тофу и яичной смеси, суп кимчи содержит огромное количество полезных микроэлементов, солей и минералов, а также отличается приятным жгучим вкусом и кисловатым ароматом. Лосось же, как дополнение к супу, богат белком и витамином Е, способствующим пищеварению и укрепляющим иммунитет. Кимчи с лососем рекомендуется употреблять тогда, когда вы чувствуете упадок сил и настроения. Кимчи с лососем гарантированно поднимет ваш жизненный тонус и зарядит вас жизненной энергией.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="83" available="true">
+<url>http://www.wokhouse.ru/menu/sup/miso-losos</url>
+<price>110.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_370-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Мисо с лососем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Мисо с лососем</vendorCode>
+<description>Лосось, тофу, вакамэ, гриб &amp;quot;Шиитаки&amp;quot;, зеленый лук.
+
+	&amp;nbsp;
+
+	Среди широкого ассортимента классических японских супов, особого внимания заслуживает суп мисо с лососем. Нежное мясо морского лосося отличается высоким содержанием доступного белка, а также крайне полезных для иммунитета жирных кислот и витаминов. Набор полезных микроэлементов также дополнен витаминами и минералами, содержащимися в зеленом луке, грибах шиитаке, а также вакамэ, водоросли, известной своим нежным вкусом и омолаживающим эффектом. Суп мисо с лососем &amp;ndash; питательный и крайне полезный продукт, незаменимый в процессе активной трудовой деятельности.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="84" available="true">
+<url>http://www.wokhouse.ru/menu/sup/miso-ugor-tofu</url>
+<price>140.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_368-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Мисо с тофу и угрём</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Мисо с тофу и угрём</vendorCode>
+<description>Угорь, тофу, вакамэ, грибы &amp;quot;Шиитаки&amp;quot;, зеленый лук.
+
+	&amp;nbsp;
+
+	Мисо &amp;ndash; прекрасная основа для супов и горячих закусок, известная и популярная в Японии уже не первое столетие. Мода на горячие супы мисо с тофу и угрем объясняется прекрасной сбалансированностью этого блюда. Мисо, как и тофу &amp;ndash; это питательные соевые продукты, которые отлично сочетаются с любым видом мяса и рыбы, неся в себе огромное количество витаминов и растительного белка. Мисо с тофу и угрем отлично утоляет голод, мгновенно восполняя запасы питательных веществ, восстанавливая энергетический баланс организма.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="85" available="true">
+<url>http://www.wokhouse.ru/menu/sup/miso-tofu</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_358-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Мисо с тофу</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Мисо с тофу</vendorCode>
+<description>Тофу, вакамэ, гриб &amp;quot;Шиитаки&amp;quot;, зеленый лук.
+
+	&amp;nbsp;
+
+	Соевые продукты &amp;ndash; традиционный элемент любой восточной диеты. Не удивительно, что применение мисо и тофу распространено в рецептуре не только горячих закусок и салатов, но и в различных японских супах. Мисо с тофу &amp;ndash; невероятно питательные, богатые белком и полезные для здоровья продукты, не только не уступающие мясу, но и во многом превосходящие его. Мисо с тофу &amp;ndash; абсолютно диетическая вегетарианская пища, низкокалорийная, но одновременно и богато насыщенная витаминами, а потому допускается к употреблению в любых количествах, так как абсолютно безвредна для фигуры и здоровья в целом.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="86" available="true">
+<url>http://www.wokhouse.ru/menu/sup/slivochnyy-sup-losos-ugor</url>
+<price>200.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_380-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Сливочный суп с лососем и угрём</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Сливочный суп с лососем и угрём</vendorCode>
+<description>Сливки, лосось, угорь, лук, томаты &amp;quot;Черри&amp;quot;.
+
+	&amp;nbsp;
+
+	Сливочный суп с лососем и угрем&amp;nbsp; &amp;ndash; это именно то сочетание ингредиентов, что так необходимо для скорейшего восстановления сил в перерыве тяжелого трудового дня. Полноценная обеденная трапеза обязательно должна включать в себя сливочный суп с лососем и угрем. Мясо двух видов морской рыбы, томаты и нежные сливки &amp;ndash; это кладезь питательного белка и микроэлементов, незаменимых для продуктивной деятельности и восполнения жизненно важных запасов, столь быстро расходуемых нами в стремительном темпе современной жизни.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="87" available="true">
+<url>http://www.wokhouse.ru/menu/vok/wok-krevetki</url>
+<price>290.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>49</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/339-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Вок с креветками</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Вок с креветками</vendorCode>
+<description>Креветки, пекинская капуста, паприка, томаты &amp;quot;Черри&amp;quot;, морковь, лук, ростки сои, зеленая фасоль.
+
+	&amp;nbsp;
+
+	Большинство истинных ценителей предпочитают креветки, приготовленные в вок креветкам, приготовленным любым другим способом. Как утверждают искушенные гурманы, только так, быстро обжарив их на сковороде, японским поварам удается сохранить все их питательные свойства, которыми и славятся морепродукты. Вок с креветками &amp;ndash; это сочное мясо, дразнящее своим неповторимым ароматом и свежие овощи, дарящие организму столь необходимый для продуктивной работы набор полезных элементов. Вок с креветками &amp;ndash; это неповторимый вкус, несущий наслаждение и пользу с каждым кусочком.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="88" available="true">
+<url>http://www.wokhouse.ru/menu/vok/wok-kuritsa</url>
+<price>250.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>49</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/342-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Вок с курицей</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Вок с курицей</vendorCode>
+<description>Куриное филе, пекинская капуста, паприка, томаты &amp;quot;Черри&amp;quot;, морковь, лук, ростки сои, зеленая фасоль.
+
+	&amp;nbsp;
+
+	Одним из популярнейших блюд, пользующихся спросом, как среди японцев, так и у наших гурманов, считается вок с курицей. Вок с курицей &amp;ndash; это свежее филе, нарезанное мелкими кусочками и обжаренное в специальной округлой сковороде с добавлением свежих овощей. Секрет успеха блюда прост - вок с курицей не только невероятно вкусен, он также сочетает низкое содержание жиров, что благотворно для фигуры, обилие растительной клетчатки, полезной для пищеварения и внушительное количество белка, способствующего быстрому насыщению. Вок с курицей &amp;ndash; простой,&amp;nbsp; полезный, а главное, аппетитный способ утоления голода.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="89" available="true">
+<url>http://www.wokhouse.ru/menu/vok/wok-govyadina</url>
+<price>270.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>49</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/327-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Вок с говядиной</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Вок с говядиной</vendorCode>
+<description>Говядина, пекинская капуста, паприка, томаты &amp;quot;Черри&amp;quot;, морковь, лук, ростки сои, зеленая фасоль.
+
+	&amp;nbsp;
+
+	Вок с говядиной сильно отличается от привычной жареной говядины в первую очередь манерой приготовления. Вок с говядиной обжаривается на сильном огне в особом котелке округлой формы, в результате чего мясо не подгорает и прожаривается равномерно, сохраняя однородную консистенцию и приятный эстетичный внешний вид, возбуждающий аппетит. Говядина в вок готовится очень быстро, а потому сохраняет все свои полезные свойства и вещества. Вок с говядиной &amp;ndash; это сочетание свежих ростков сои и фасоли, тонко нарезанной пекинской капусты, томатов и невероятно сочного и ароматного мяса.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="90" available="true">
+<url>http://www.wokhouse.ru/menu/ris-tepang/tepang-moreprodukty</url>
+<price>270.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>44</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/0385-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тепанг с морепродуктами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тепанг с морепродуктами</vendorCode>
+<description>Рис, морепродукты, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Тепанг с морепродуктами &amp;ndash; классическое японское блюдо, сочетающее в себе все лучшее из восточной кухни. Это и традиционный для японской кухни питательный и ароматный белый рис, и, конечно же, обильная порция изысканных морепродуктов, полных витаминов и полезных микроэлементов. Рис является основным злаком в восточной кухне неспроста. Рис богат белком, клетчаткой и витаминами, он сытный и полезный. Тепанг с морепродуктами - диетическое блюдо, богатое белком, с крайне низким содержанием жира, а потому может употребляться в любых количествах без ущерба ни для фигуры, ни для пищеварения.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="91" available="true">
+<url>http://www.wokhouse.ru/menu/roll/kappa-roll</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_258-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Каппа ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Каппа ролл</vendorCode>
+<description>Огурец, кунжут.
+
+	&amp;nbsp;
+
+	Попробовав каппа ролл, становится понятно, почему эти суши стали так популярны среди пропагандистов здорового образа жизни. Полностью вегетарианское, овощное блюдо, суши каппа ролл представляют собой удачное и весьма аппетитное сочетание простых компонентов, огурца и кунжутных семян, кроме того, несущее гурманам здоровье и исключительную пользу. Низкокалорийные каппа роллы имеют приятный освежающий растительный вкус, уместно дополненный ароматом кунжутных семян. Каппа ролл &amp;ndash; диетическое, низкокалорийное блюдо, обязательно рекомендуемое к употреблению тем, кто заботиться о своем здоровье и фигуре.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="92" available="true">
+<url>http://www.wokhouse.ru/menu/roll/sake-roll</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_256-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Саке ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Саке ролл</vendorCode>
+<description>Лосось.
+
+	&amp;nbsp;
+
+	Саке ролл &amp;ndash; это именно то блюдо, которое обязательно стоит попробовать, если вы желаете ощутить классический вкус японских суши. Без излишеств и чрезмерного разнообразия компонентов, саке ролл представляет собой отличное сочетание самых распространенный компонентов, а именно лосося и белого риса. Именно этот вид суши, саке ролл, стал самым популярным среди российских и европейских потребителей, так как представляет вкусу ценителей оригинальную рецептуру исконно японской кулинарной традиции.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="93" available="true">
+<url>http://www.wokhouse.ru/menu/roll/unagi-roll</url>
+<price>160.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_253-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Унаги ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Унаги ролл</vendorCode>
+<description>Угорь, унаги соус, кунжут.
+
+	&amp;nbsp;
+
+	Среди огромного разнообразия традиционных японских рецептов суши, нельзя обойти вниманием и особо удачное сочетание ингредиентов суши унаги ролл. Мясо угря отлично дополняется нежным соусом унаги, сладким благодаря мирину, рисовому вину, и слегка солоноватому из-за добавления в рецептуру соевого соуса. Семена кунжута также дополняют тонкий аромат суши, придавая унаги роллам не только приятный запах и маслянистый вкус, но, как утверждают японские повара, повышают иммунитет и укрепляют здоровье. А потому, суши унаги ролл не только питательная и вкусная, но и полезная закуска.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="94" available="true">
+<url>http://www.wokhouse.ru/menu/roll/kunsey-roll</url>
+<price>140.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0336-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Кунсей ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Кунсей ролл</vendorCode>
+<description>Копченый лосось.
+
+	&amp;nbsp;
+
+	Японская кухня всегда славилась своей простотой и лаконичностью. Стремление японских поваров не отвлекать внимание дегустаторов на лишних деталях, а всецело сконцентрироваться на основном вкусе и стало причиной возникновения популярных суши кунсей ролл. Кунсей ролл &amp;ndash; это минимум ингредиентов и приправ. Белый рис и копченый лосось представляют идеальное сочетание продуктов, классических для восточной кухни. Отсутствие лишних приправ сохраняет первозданный аромат рыбы, не перебивая его лишними запахами, позволяя всецело сконцентрироваться на вкусе блюда.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="95" available="true">
+<url>http://www.wokhouse.ru/menu/roll/filadelfiya</url>
+<price>200.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_231-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Филадельфия</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Филадельфия</vendorCode>
+<description>Лосось, сыр.
+
+	&amp;nbsp;
+
+	Роллы Филадельфия &amp;ndash; это простота и гармоничность, воссозданные в виде популярной восточной закуски. Не отягощенные чрезмерным количеством ингредиентов, Филадельфия роллы позволяют сконцентрироваться на вкусовых качествах основных компонентов, не отвлекаясь на детали. Тонкий, но выразительный аромат и яркий вкус роллов Филадельфия, рожденных сочетанием нежного филе лосося и сыра, пробуждают аппетит и желание лакомиться ими снова и снова. Роллы Филадельфия &amp;ndash; признанная классика западных маки-суши, одинаково популярные по обе стороны океана.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="96" available="true">
+<url>http://www.wokhouse.ru/menu/roll/filadelfiya-klassik</url>
+<price>210.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_227-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Филадельфия классик</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Филадельфия классик</vendorCode>
+<description>Лосось, сыр, огурец, авокадо.
+
+	&amp;nbsp;
+
+	Роллы Филадельфия классик &amp;ndash; это именно те суши, с которых и началась история развития маки-суши в Америке. Японские кулинары, длительное время искавшие идеальное сочетание западных ингредиентов, максимально подходящих для американских потребителей, и, одновременно традиционно японских, создали настоящее произведение искусства. Филадельфия классик состоит из нежного филе лосося, огурца и авокадо, приправленного пикантным сыром, а потому имеет весьма сбалансированный выразительный вкус и аромат. Роллы Филадельфия классик &amp;ndash; невероятно востребованный вид суши, доказавший право на существование, имеющий своих почитателей по всему земному шару.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="97" available="true">
+<url>http://www.wokhouse.ru/menu/roll/kanadskiy-ugor</url>
+<price>260.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_238-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Канадский с угрем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Канадский с угрем</vendorCode>
+<description>Многие гурманы, особенно сами японцы, отмечают, что ролл канадский с угрем &amp;ndash; это, пожалуй, одно из самых удачных изобретений западных поваров, стремящихся максимально точно передать аутентичный вкус оригинальных японских суши. Нежная начинка из мяса угря, авокадо, огурца и сыра представляет собой классическое восточное сочетание, приправленное ноткой западного вкуса. Ролл канадский с угрем &amp;ndash; это то, ради чего японские кулинары проделали долгий путь через океан, это&amp;nbsp; результат многолетних&amp;nbsp; экспериментов, превративших вкус суши в настоящее совершенство.
+
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="98" available="true">
+<url>http://www.wokhouse.ru/menu/roll/kanadskiy-kunzhut</url>
+<price>230.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0339-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Канадский с кунжутом</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Канадский с кунжутом</vendorCode>
+<description>Ролл канадский с кунжутом &amp;ndash; одна из вариаций на тему популярных западных суши, успевших за последние несколько лет завоевать невероятную популярность во всем мире. Благодаря удачному выбору компонентов блюда, а именно, сочетания семги, авокадо и сыра, западным мастерам суши удалось создать образцовый вариант маки-суши, отличающегося сбалансированным вкусом и отличным ароматом. Канадский с кунжутом, классический канадский ролл, посыпанный обжаренными семенами кунжута, отличается незабываемым ароматом, прекрасно дополняющим натуральный вкус основных ингредиентов.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="99" available="true">
+<url>http://www.wokhouse.ru/menu/roll/kanadskiy-tobika</url>
+<price>250.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_245-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Канадский с тобикой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Канадский с тобикой</vendorCode>
+<description>Канадский ролл с тобикой &amp;ndash; одна из разновидностей популярных ныне западных маки-суши. Наряду с другими видами роллов, изначально не японских, канадский ролл с тобикой представляет собой оригинальное сочетание авокадо, семги и сыра. Ролл канадский с тобикой имеет весьма приятный, слегка пикантный вкус и утонченный аромат рыбы, усиленный добавлением в роллы икры &amp;laquo;тобика&amp;raquo;. С опаской воспринятые в Японии, ролл канадский с тобикой сегодня пользуется огромной популярностью у восточных гурманов, отмечающих особую успешность столь смелого сочетания ингредиентов.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="100" available="true">
+<url>http://www.wokhouse.ru/menu/roll/kaliforniya-kunzhut</url>
+<price>300.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_236-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Калифорния с кунжутом</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Калифорния с кунжутом</vendorCode>
+<description>Калифорния с кунжутом &amp;ndash; отличный пример удачного смешения западной и восточной кулинарных традиций. Американская рецептура суши, основанная на сочетании нежного крабового мяса, сочного огурца и авокадо, посыпанных семенами кунжута &amp;ndash; это и есть Калифорния с кунжутом, популярная по обе стороны океана. Изначально созданные в угоду западному вкусу, роллы Калифорния с кунжутом обрели небывалую популярность и в Японии и в Европе. Все благодаря удачному соединению великолепного вкуса и непередаваемого аромата.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="101" available="true">
+<url>http://www.wokhouse.ru/menu/roll/kaliforniya-tobika</url>
+<price>320.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0342-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Калифорния с тобикой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Калифорния с тобикой</vendorCode>
+<description>Калифорния с тобикой &amp;ndash; пример того, как классическая японская кухня способна взаимодействовать с современными западными кулинарными традициями. Мясо угря и краба, экзотическое авокадо, свежий сочный огурец и, конечно же, икра летучей рыбы &amp;ndash; вот то сочетание, которым и известны суши Калифорния с тобикой. Пикантные на вкус, слегка соленые, с непередаваемым ярким ароматом икры, роллы Калифорния с тобикой полюбились ценителям суши не только в Америке и Европе, но и в Японии. Восточные кулинары по достоинству оценили смелое сочетание ингредиентов и их неотразимый вкус.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="102" available="true">
+<url>http://www.wokhouse.ru/menu/roll/unagi-kunsey-roll</url>
+<price>250.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_243-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Унаги кунсей ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Унаги кунсей ролл</vendorCode>
+<description>Сыр, огурец, авокадо, копченый лосось, угорь.
+
+	&amp;nbsp;
+
+	Унаги кунсей ролл представляет собой яркий пример изобретательности японских поваров. Нежная, сочная начинка из угря, авокадо и огурца, приправленная сыром прекрасно дополняет незабываемый аромат копченого лосося и дарит вам вкус классической восточной закуски с ноткой экзотичности и свежести. Унаги кунсей ролл &amp;ndash; это вкус японской кухни в чистом виде. Традиционные ингредиенты идеально подобранные в яркой композиции пробуждают аппетит и желание лакомиться унаги кунсей снова и снова.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="103" available="true">
+<url>http://www.wokhouse.ru/menu/roll/okinava</url>
+<price>280.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_294-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Окинава</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Окинава</vendorCode>
+<description>Лосось, сыр, креветка, огурец.
+
+	&amp;nbsp;
+
+	Окинава суши &amp;ndash; прекрасный пример традиционных японских суши. Великолепное сочетание лосося и креветок, приправленных сыром и огурцом, представляет вниманию гурманов истинный вкус классической восточной закуски, сытной, ароматной и невероятно аппетитной. Окинава суши &amp;ndash; это старинная рецептура островных суши, доставленная прямо к вашему столу. Ролл Окинава суши &amp;ndash; японская традиция, созданная, чтобы удовлетворить самый взыскательный вкус.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="104" available="true">
+<url>http://www.wokhouse.ru/menu/roll/yasay-roll</url>
+<price>100.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_234-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Ясай ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Ясай ролл</vendorCode>
+<description>Айсберг, паприка, огурец, розовый соус.
+
+	&amp;nbsp;
+
+	Ясай ролл &amp;ndash; это диетический низкокалорийный ролл из овощей, приправленный нежным розовым соусом. Отличное вегетарианское блюдо, ясай ролл придется по душе каждому, кто ценит аутентичный вкус классических японских суши, но предпочитает не злоупотреблять мясом и морепродуктами. Легкий овощной ясай ролл с паприкой и огурцом откроет вам всю полноту вкуса японской кухни без излишка холестерина и жиров, а значит, без вреда для вашей фигуры.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="105" available="true">
+<url>http://www.wokhouse.ru/menu/ostrye-rolly/roll-losos</url>
+<price>150.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>51</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0339-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Ролл с лососем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>ролл с лососем</vendorCode>
+<description>Лосось, спайси соус, огурец, авокадо.
+
+	&amp;nbsp;
+
+	Эксперименты с различным сочетанием ингредиентов для суши ведутся поварами с момента их изобретения, а потому за время своего существования, ролл с лососем, приготовленный из огурца, мякоти авокадо и филе лосося успел доказать свою популярность. Острый ролл с лососем &amp;ndash; это просто легкая вариация на тему хорошо знакомого вкуса, слегка измененного в сторону пикантной остроты при помощи спайси соуса, придающего блюду жгучесть и усиливающего его аромат.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="106" available="true">
+<url>http://www.wokhouse.ru/menu/ostrye-rolly/roll-ugor</url>
+<price>170.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>51</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0339-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Ролл с угрем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>ролл с угрем</vendorCode>
+<description>Угорь, спайси соус, огурец, авокадо.
+
+	&amp;nbsp;
+
+	Очень часто, гурманам, предпочитающим жгучие острые блюда, ощутимо не хватает того знаменитого, популярного во всем мире традиционного вкуса японских суши. Мягкого сочетания привычных ингредиентов им не достаточно, а потому в угоду их предпочтениям, наши повара с удовольствием представляют вашему вниманию великолепные пикантные роллы с угрем. Ролл с угрем &amp;ndash; это острые суши, приготовленные из сочного мяса морского угря, мякоти авокадо, огурца, немного приправленные спайси соусом, подчеркивающим их аромат, придающим знакомым нежным суши столь недостающей резкости и жгучести.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="107" available="true">
+<url>http://www.wokhouse.ru/menu/ostrye-rolly/roll-krab</url>
+<price>280.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>51</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0339-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Ролл с крабом</name>
+<vendor>WokHouse</vendor>
+<vendorCode>ролл с крабом</vendorCode>
+<description>Краб, огурец, авокадо, спайси соус.
+
+	&amp;nbsp;
+
+	Острый ролл с крабом &amp;ndash; пример того, как привычный и хорошо знакомый вкус может меняться в зависимости от применяемого в рецептуре соуса. Хорошо знакомый всем ролл с крабом, авокадо и огурцом обретает совершенно новые, необычные оттенки вкуса, стоит только добавить к нему немного жгучего спайси соуса. Любителям &amp;laquo;остренького&amp;raquo; обязательно стоит попробовать ролл с крабом и насладиться классическим вкусом традиционного японского суши, представленного на ваш суд в новом, пикантном исполнении.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="108" available="true">
+<url>http://www.wokhouse.ru/menu/rolly-zapechennyye/yaki-spaysi-roll</url>
+<price>320.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>52</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_246-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки спайси ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки спайси ролл</vendorCode>
+<description>Тобико, лосось, краб, гребешок, спайси соус.
+
+	&amp;nbsp;
+
+	Яки спайси ролл &amp;ndash; это блюдо для тех, кто хотел бы попробовать что-нибудь особенное, одновременно и знакомое, и необычное. Яки спайси ролл &amp;ndash; это богатое вкусом сочетание мяса морского гребешка, лосося и краба, дополненного привкусом тобико, икры летучей рыбы. Конечно, в этих суши не было бы ничего необычного, если бы не способ приготовления, ведь именно запекание позволяет добиться той полноты аромата и вкусовой гаммы, которыми славится спайси ролл. Стоит отметить, что изрядную долю невероятного аромата и вкуса привносит в блюдо и жгучий спайси соус, придающий суши остроту и пикантность.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="109" available="true">
+<url>http://www.wokhouse.ru/menu/rolly-zapechennyye/ebi-unagi</url>
+<price>320.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>52</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_248-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Эби унаги</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Эби унаги</vendorCode>
+<description>Вариаций различных ингредиентов для приготовления суши существует огромное количество и каждое новое сочетание несет в себе что-то особое. Не исключение и роллы эби унаги. Эби унаги &amp;ndash; это мясо угря и мякоти авокадо, смешанные в одном блюде для придания ему полноты вкусовой палитры и аромата. Особенность эби унаги является и способ приготовления. Запеченные роллы эби унаги сильно отличаются от привычных сырых роллов как по консистенции, так и по вкусовым качества. Эби унаги &amp;ndash; это хрустящая корочка, скрывающая аромат сочного мяса креветки и угря в нежной рисовой обертке.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="110" available="true">
+<url>http://www.wokhouse.ru/menu/rolly-zapechennyye/yaki-shiitaki-kani</url>
+<price>350.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>52</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_248-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки шиитаки кани</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки шиитаки кани</vendorCode>
+<description>Секрет популярности роллов яки шиитаки кани прост &amp;ndash; классическое сочетание крабового мяса и японских грибов шиитаки раскрывает все свои лучшие стороны исключительно в процессе запекания. Невероятное открытие восточных кулинаров позволило еще сильнее подчеркнуть невероятный аромат любимых всеми грибов, а мясо краба сделать еще более нежным и сочным. Яки шиитаки кани &amp;ndash; это полный букет непревзойденных запахов и вкусов, рожденных из классических компонентов в результате смелого, но весьма удачного кулинарного эксперимента.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="111" available="true">
+<url>http://www.wokhouse.ru/menu/rolly-zapechennyye/yaki-kani</url>
+<price>350.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>52</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_248-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки кани ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки кани ролл</vendorCode>
+<description>Роллы яки кани &amp;ndash; это прекрасное сочетание традиционных компонентов в необычном исполнении. Запеченное крабовое мясо, хрустящее и аппетитное, в сочетании с белым рисом, пробуждает аппетит и желание насладиться необычным вкусом классических ингредиентов. Яки кани роллы &amp;ndash; это невероятно полезное открытие японских поваров, получившее популярность во всем мире, благодаря особому аромату привычных продуктов, приготовленных столь изысканным способом, чтобы угодить взыскательному вкусу истинных ценителей.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="112" available="true">
+<url>http://www.wokhouse.ru/menu/rolly-zapechennyye/yaki-iga</url>
+<price>290.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>52</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_251-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки ига ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки ига ролл</vendorCode>
+<description>Яки ига роллы &amp;ndash; весьма удачный способ по-новому ощутить вкус и аромат хорошо знакомых суши, открыть ранее неизвестные стороны привычного блюда. Запеченные роллы яки ига отличаются от своих собратьев, сырых роллов, не только способом приготовления, но и особым ароматом жареного риса и рыбы, столь полюбившегося гурманам и ценителям суши не только в Европе, но и в Японии. Яки ига роллы &amp;ndash; свежий взгляд на привычные суши, преподнесенный в несвойственной манере, но от того, не менее аппетитный.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="113" available="true">
+<url>http://www.wokhouse.ru/menu/sushki/sake-nigiri-sushi</url>
+<price>40.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>53</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_262-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Саке нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Саке нигири</vendorCode>
+<description>Саке нигири &amp;ndash; это очень простое, но весьма популярное в Японии сочетание ингредиентов для приготовления сушек. Компоненты саке нигири &amp;ndash; это нежное филе лосося и рисовая лепешка нигири, отлично дополняющие друг друга. Популярность суши саке нигири кроется в их полноценном и сбалансированном вкусе, приятном рыбном аромате, а также низком содержании калорий и жира. Саке нигири пользуются заслуженным успехом по всему миру. Ведь, какая еще закуска обладает одновременно и огромной пользой и столь неповторимым вкусом?
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="114" available="true">
+<url>http://www.wokhouse.ru/menu/sushki/unagi-nigiri-sushi</url>
+<price>70.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>53</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_260-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Унаги нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Унаги нигири</vendorCode>
+<description>Унаги нигири &amp;ndash; это одна из самых популярных разновидностей сушек. Составные компоненты этого простого, но питательного блюда &amp;ndash; это сочное, сытное и богатое витаминами филе морского угря, и классические нигири, клейкая масса, получаемая в результате особого процесса варки риса. Унаги нигири &amp;ndash; это то, чем обязательно стоит побаловать себя, если вы хотите ощутить всю полноту разнообразной японской кухни. Суши унаги нигири не только полезны и питательны, они также низкокалорийные, а потому могут употребляться в неограниченных количествах.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="115" available="true">
+<url>http://www.wokhouse.ru/menu/sushki/hotate-nigiri-sushi</url>
+<price>70.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>53</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_268-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Хотате нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Хотате нигири</vendorCode>
+<description>Хотате нигири &amp;ndash; довольно специфическая и необычная, но крайне популярная закуска. В основе блюда традиционно используется особо приготовленный белый рис и мясо классического для японской кухни моллюска, морского гребешка. Мясо морского гребешка имеет мягкую структуру, а потому суши хотате нигири отличаются нежным вкусом и тонким ароматом моря. В сочетании с рисом, мясо морского гребешка делает хотате нигири отлично сбалансированным блюдом, невероятно вкусным, ароматным, сытным и полезным, а также полным витаминов и микроэлементов.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="116" available="true">
+<url>http://www.wokhouse.ru/menu/sushki/ebi-nigiri-sushi</url>
+<price>70.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>53</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_265-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Эби нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Эби нигири</vendorCode>
+<description>Эби нигири &amp;ndash; это простая, в то же время, очень вкусная и сытная закуска, широко популярная и известная во всем мире. Секрет успеха суши эби нигири кроется в отличном сочетании белого риса, приготовленного по особой японской рецептуре и мяса креветки, вкусного, сочного и ароматного. Эби нигири &amp;ndash; низкокалорийная, но сбалансированная сушка с отменным вкусом креветки и тонким ароматом морепродуктов. Эби нигири может стать прекрасным дополнением к комплексному обеду, а может употребляться и как самостоятельное полноценное блюдо.
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="117" available="true">
+<url>http://www.wokhouse.ru/menu/sushki/chukka-nigiri-sushi</url>
+<price>40.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>53</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_288-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Чукка нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Чукка нигири</vendorCode>
+<description>Чукка нигири &amp;ndash; великолепная вегетарианская закуска, сочетающая в себе огромную пользу, незабываемый вкус и свежий растительный аромат. Приготовленные на основе знаменитых японских водорослей чукка, сушки чукка нигири обладают массой полезных качеств. Восточные повара рекомендуют регулярно употреблять чукка не только тем, кто следит за своей фигурой и количеством потребляемых калорий, но и тем, кто просто желает нормализовать работу организма, повысить иммунитет и восполнить нехватку минералов. Водоросли, составляющие основу суши чукка нигири в этом деле просто незаменимы.
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="118" available="true">
+<url>http://www.wokhouse.ru/menu/sushki/tobiko-nigiri-sushi</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>53</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_283-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тобико нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тобико нигири</vendorCode>
+<description>Тобико нигири представляет собой великолепное монопродуктное блюдо традиционной японской кухни. Называемое еще &amp;laquo;корзинкой с икрой&amp;raquo;, тобико нигири несет в себе удивительную пользу. Так как основным компонентом этой сушки является икра летучей рыбы, тобико нигири сочетает в себе великолепный солоноватый вкус, ярко выраженный рыбный аромат, а также множество полезных микроэлементов и минералов, которыми богата рыбная икра. Суши тобико нигири &amp;ndash; это лакомство для настоящих гурманов и ценителей классической восточной кухни.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="119" available="true">
+<url>http://www.wokhouse.ru/menu/sushki/kunsey-nigiri-sushi</url>
+<price>45.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>53</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_263-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Кунсей нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Кунсей нигири</vendorCode>
+<description>Кунсей нигири &amp;ndash; одна из самых популярных разновидностей сушек. Кунсей нигири сочетает в себе классические нигири, то есть, отварной белый рис, приготовленный особым образом и кусочек ароматного сочного лосося, традиционного источника белка в японской кухне. Суши кунсей нигири &amp;ndash; удивительно сбалансированная закуска, как в плане нежного вкуса и тонкого аромата ,так и в отношении полноты питательными веществами и полезными микроэлементами, столь необходимыми организму в процессе активной жизнедеятельности.
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="120" available="true">
+<url>http://www.wokhouse.ru/menu/ostryye-sushi/spaysi-sake-nigiri</url>
+<price>45.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>54</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_271-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси саке нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси саке нигири</vendorCode>
+<description>Спайси саке нигири &amp;ndash; отличный образец японского кулинарного искусства, с присущими ему простотой и в то же время, изысканностью. Строгое сочетание компонентов, лосося и риса, раскрывает всю прелесть и полноту неповторимого вкуса, подчеркнутого классическим восточным спайси соусом. Острые и аппетитные, сушки спайси саке нигири обладают непревзойденным ароматом, возбуждающим аппетит и желание наслаждаться лакомством бесконечно. Суши спайси саке нигири &amp;ndash; отличный выбор для тех, кто ищет новые впечатления от традиционной японской кухни.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="121" available="true">
+<url>http://www.wokhouse.ru/menu/ostryye-sushi/spaysi-unagi-nigiri</url>
+<price>75.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>54</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_281-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси унаги нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси унаги нигири</vendorCode>
+<description>Спайси унаги нигири &amp;ndash; пикантная острая сушка, приготовленная из смеси риса и филе угря. Традиционная японская закуска, суши спайси унаги нигири &amp;ndash; крайне полезное низкокалорийное блюдо, богатое белком и жирными кислотами. Популярность этой сушки заключается не только лишь в пользе мяса рыбы и его питательности, но и особом, запоминающемся вкусе, усиленном жгучим японским соусом. Спайси унаги нигири также обладает ярко выраженным ароматом, в котором преобладает приятный тонкий запах морской рыбы.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="122" available="true">
+<url>http://www.wokhouse.ru/menu/ostryye-sushi/spaysi-hotate-nigiri</url>
+<price>75.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>54</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_280-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси хотате нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси хотате нигири</vendorCode>
+<description>Среди широкого ассортимента острых сушек, спайси хотате нигири заслуживает отдельного внимания. Сложно сказать, является ли сочетание мяса морского гребешка и спайси соуса самым удачным, однако, оно имеет огромное множество поклонников по всему миру. Ценители утверждают, что ни один другой продукт не сочетается с острым спайси соусом так, как морской гребешок, и с этим сложно поспорить. Суши спайси хотате нигири действительно отличается утонченным жгучим привкусом и удивительным ароматом морепродуктов, лаконично подчеркнутым остротой приправы.
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="123" available="true">
+<url>http://www.wokhouse.ru/menu/ostryye-sushi/spaysi-ebi-nigiri</url>
+<price>75.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>54</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_275-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси эби нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси эби нигири</vendorCode>
+<description>Спайси эби нигири &amp;ndash; это смелый эксперимент по соединению традиционной начинки для суши, мяса креветки с пикантным острым спайси соусом, ставший поворотным моментом в истории восточной кулинарии. Ранее никогда не применяемые вместе, спайси соус и мясо креветки открыли миру великолепное вкусовое сочетание остроты и мягкости, нежности и жгучести. Ароматическая составляющая блюда спайси эби нигири также отличается от традиционного варианта закуски более выразительным цепким ароматом морепродуктов, усиленного острым спайси соусом.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="124" available="true">
+<url>http://www.wokhouse.ru/menu/ostryye-sushi/spaysi-kunsey-nigiri</url>
+<price>50.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>54</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_271-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси кунсей нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси кунсей нигири</vendorCode>
+<description>Хотелось бы вам попробовать что-то новое, но, в то же время необычное, сильно отличающееся от того, что вы пробовали ранее? Тогда вам определенно стоит обратить внимание на сушки спайси кунсей нигири. Специально созданные для ценителей новизны и нестандартных вкусовых решений, суши спайси кунсей нигири представляют собой удивительное сочетание классических японских компонентов, филе копченого лосося и риса, приправленных острым спайси соусом. Жгучий привкус спайси кунсей нигири заставляет по-новому взглянуть на знакомое блюдо, открывая всю полноту его вкуса и аромата.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="125" available="true">
+<url>http://www.wokhouse.ru/menu/ostryye-sushi/spaysi-shiitaki-nigiri</url>
+<price>45.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>54</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_278-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси шиитаки нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси шиитаки нигири</vendorCode>
+<description>Специально для ценителей утонченного аромата японских грибов шиитаке и гурманов, предпочитающих острые, пикантные вкусовые сочетания, японские повара создали настоящий шедевр кулинарного искусства. Сушки спайси шиитаки нигири &amp;ndash; это удивительное соединение жгучего спайси соуса, нежного вкуса риса и тонкого аромата грибов шиитаке. Суши спайси шиитаки нигири &amp;ndash; это сочетание не только отменных вкусовых качеств, но и непередаваемый аромат, а также польза традиционных натуральных компонентов.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="126" available="true">
+<url>http://www.wokhouse.ru/menu/ostryye-sushi/spaysi-kani-nigiri</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>54</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_275-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси кани нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси кани нигири</vendorCode>
+<description>Спайси кани нигири &amp;ndash; это смесь нежного крабового мяса с белым рисом, приправленная острым спайси соусом, характерным для многих классических японских блюд. Удивительное сочетание компонентов, их вкуса и аромата, дарят ценителям сушек незабываемое наслаждение от пикантного привкуса жгучего восточного соуса, столь уместного в традиционном сочетании сочного мяса краба и нейтрального вкуса рисовой массы. Суши спайси кани нигири &amp;ndash; это неповторимый аромат морепродуктов, дополненного тонким, но выразительным запахом популярного спайси соуса.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="127" available="true">
+<url>http://www.wokhouse.ru/menu/zapechennyye-sushi/yaki-sake-nigiri</url>
+<price>50.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>55</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_291-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки саке нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки саке нигири</vendorCode>
+<description>Яки саке нигири &amp;ndash; это тот вид запеченных сушек, который чаще всего заказывают в японских ресторанах по всему земному шару. Секрет популярности суши яки саке нигири кроется в сбалансированном нежном вкусе лосося и белого риса, и приятном аромате морепродуктов, что обеспечивает этому виду сушек некую универсальность. Мягкие и совсем не резкие, яки саке нигири ненавязчиво открывают перед гурманом всю полноту классических качеств японской кухни, сочетая не только аппетитный и эстетичный вид, но и пользу богатых питательными элементами рыбы и риса.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="128" available="true">
+<url>http://www.wokhouse.ru/menu/zapechennyye-sushi/yaki-unagi-nigiri</url>
+<price>80.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>55</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_291-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки унаги нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки унаги нигири</vendorCode>
+<description>Яки унаги нигири &amp;ndash; невероятно вкусная запеченная сушка, приготовленная из белого риса с добавлением нежного мяса угря, рыбы, ставшей для японцев одним из основных источников белка. Кроме высокой пищевой ценности и питательности, запеченные суши яки унаги нигири отличает великолепный утонченный аромат и нежный вкус. Помимо прочего, неоспоримой является и польза яки унаги нигири. Мясо угря издавна славилось богатством полезных микроэлементов, а потому является вполне здоровой пищей, рекомендуемой к регулярному употреблению.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="129" available="true">
+<url>http://www.wokhouse.ru/menu/zapechennyye-sushi/yaki-hotate-nigiri</url>
+<price>80.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>55</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_291-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки хотате нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки хотате нигири</vendorCode>
+<description>Мало кто знает, но сами японские повара настаивают на том, что сушки яки хотате нигири являются, пожалуй, самым удачным сочетанием классических восточных ингредиентов и способа их приготовления. Cуши, изготовленные из мяса морского гребешка, обретают особые вкусовые качества именно при термической обработке. При запекании суши яки хотате нигири становятся невероятно сочными, а естественный аромат морепродуктов усиливается и смешивается с ароматом белого риса, создавая невероятный букет запахов и вкусов.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="130" available="true">
+<url>http://www.wokhouse.ru/menu/zapechennyye-sushi/yaki-ebi-nigiri</url>
+<price>80.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>55</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_291-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки эби нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки эби нигири</vendorCode>
+<description>Японские повара не устают удивлять нас, ценителей оригинального восточного вкуса, все новыми кулинарными изобретениями. Сушки яки эби нигири &amp;ndash; прекрасный образец мастерства японских поваров, открывших миру прекрасное сочетание мяса креветок и риса, приготовленных методом запекания. Яки эби нигири &amp;ndash; это сытное лакомство для тех, кому наскучил вкус классических сырых сушек, позволяющее открыть новые стороны знакомого блюда. Запеченные суши яки эби нигири отличаются более выразительным ароматом и ярко выраженным вкусом, они сочные и невероятно питательные.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="131" available="true">
+<url>http://www.wokhouse.ru/menu/zapechennyye-sushi/yaki-kunsey-nigiri</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>55</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_291-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки кунсей нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки кунсей нигири</vendorCode>
+<description>Сушки яки кунсей нигири &amp;ndash; наверное, самый популярный вид запеченных сушек по обе стороны океана. Секрет успеха суши яки кунсей нигири объясняется невероятно удачным сочетанием ингредиентов и способа их приготовления. Питательное, полезное филе лосося в сочетании с рисом раскрывают все прелести своего неповторимого вкуса и аромата именно в процессе запекания. А потому сушки яки кунсей нигири не только полезны и питательны, но и невероятно вкусны.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="132" available="true">
+<url>http://www.wokhouse.ru/menu/zapechennyye-sushi/yaki-shiitaki-nigiri</url>
+<price>55.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>55</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_291-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки шиитаки нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки шиитаки нигири</vendorCode>
+<description>Яки шиитаки нигири &amp;ndash; невероятно легкие, но сытные запеченные сушки, содержащие большое количество витаминов и клетчатки, поэтому могут быть одновременно и закуской, и вполне самостоятельным блюдом. Запеченные яки шиитаки нигири &amp;ndash; это сочетание пользы японских грибов шиитаке и их великолепного аромата, а также питательности белого риса с его приятным, мягким вкусом. Запеченные суши яки шиитаки нигири &amp;ndash; это классика японской кухни, всегда доступная вам.
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="133" available="true">
+<url>http://www.wokhouse.ru/menu/zapechennyye-sushi/yaki-kani-nigiri</url>
+<price>110.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>55</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_291-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки кани нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки кани нигири</vendorCode>
+<description>Яки кани нигири &amp;ndash; наглядный пример удачного изменения классической рецептуры приготовления сушек кани. Яки кани нигири, в отличие от традиционных сырых сушек, подвергается запеканию, а потому выделяется своим ярко выраженным ароматом и вкусом. Приготовленные из смеси белого риса и крабового мяса, запеченные суши яки кани нигири сочетают в себе высокую питательность и пользу, а потому прекрасно утоляют голод и восстанавливают силы в процессе активной трудовой деятельности.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="134" available="true">
+<url>http://www.wokhouse.ru/menu/zapechennyye-sushi/yaki-iga-nigiri</url>
+<price>70.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>55</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_291-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки ига нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки ига нигири</vendorCode>
+<description>Среди широкого ассортимента традиционных японских блюд, отдельного внимания заслуживают запеченные сушки яки ига нигири. Популярная закуска, яки ига нигири является смесью классических восточных ингредиентов с великолепным вкусом и ароматом, удачно подчеркнутым и многократно усиленным в процессе приготовления для того, чтобы вы получили максимальное наслаждение при их употреблении. Вкусные и ароматные, суши яки ига нигири &amp;ndash; это шедевр японского кулинарного искусства.
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="135" available="true">
+<url>http://www.wokhouse.ru/menu/topingi/vasabi</url>
+<price>30.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>56</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/300_pimgrl-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Васаби</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Васаби</vendorCode>
+<description>Рассматривая традиционные топинги для суши, просто нельзя обойти стороной васаби. Как известно, родиной васаби является именно Япония, а потому японские кулинары первыми научились работать с этой приправой и открыли ее незаменимые свойства. Несмотря на свою остроту, топинг из васаби абсолютно не вредит общей вкусовой композиции суши, лишь немного ее дополняя, привнося изрядную долю жгучести и пикантности. Васаби не имеет ярко выраженного аромата, а потому не перебивает запах суши, что ценно для тех, кто хочет в первую очередь насладиться натуральным ароматом рыбы.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="136" available="true">
+<url>http://www.wokhouse.ru/menu/topingi/marinovanyy-imbir</url>
+<price>30.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>56</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/301_ikuwiz-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Маринованный имбирь</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Маринованный имбирь</vendorCode>
+<description>Маринованный имбирь, как популярный топинг для суши, является неотъемлемой частью японской кулинарной традиции. Обладая жгучим острым вкусом и ярко выраженным запахом, маринованный имбирь прекрасно дополняет рыбные блюда. Несмотря на сильный, специфический аромат, маринованный имбирь практически не оставляет послевкусия, а потому рекомендуется к употреблению при смене вида суши. Маринованный имбирь не перебивает вкус суши, а лишь слегка дополняет его, позволяя ощутить все особенности вкусовых сочетаний различных типов популярной японской закуски.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="137" available="true">
+<url>http://www.wokhouse.ru/menu/topingi/soyevyy-sous</url>
+<price>30.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>56</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/308_uiffze-zixy-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Соевый соус</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Соевый соус</vendorCode>
+<description>Первое, что приходит на ум, когда слышишь слово суши, это, безусловно, соевый соус. Не удивительно, ведь именно соевый соус считается традиционным японским дополнением к рыбным блюдам, позволяющим раскрыть всю полноту вкуса и аромата популярной японской закуски. Соевый соус для суши &amp;ndash; это классика восточной кулинарии, мягкая и слегка солоноватая добавка, прекрасно сочетающаяся как со вкусом рыбы, так и с рисом. Соевый соус отличается пряным ароматом, оставляющим устойчивое приятное послевкусие.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="138" available="true">
+<url>http://www.wokhouse.ru/menu/topingi/orehovyy-sous</url>
+<price>35.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>56</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/ореховыи-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Ореховый соус</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Ореховый соус</vendorCode>
+<description>Один из популярнейших видов японского соуса для суши &amp;ndash; это ореховый соус. Мягкий и сладковатый, ореховый соус обладает приятной густой консистенцией, полученной из смеси различного типа масел и ореховой пасты. Нейтральный и совсем не резкий, ореховый соус не перебивает естественный вкус рыбы, а лишь слегка оттеняет его, привнося в блюдо нотку пряности. Аромат у орехового соуса также невообразимо мягкий и маслянистый, отлично сочетающийся с природным ароматом рыбы.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="139" available="true">
+<url>http://www.wokhouse.ru/menu/topingi/spaysi-sous</url>
+<price>35.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>56</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/спаиси-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси соус</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси соус</vendorCode>
+<description>На просторах Японии, как собственно, и в любой другой стране мира, где распространена японская кухня, существует огромное количество самых разнообразных рецептов спайси соуса. Традиция подавать суши с острым жгучим спайси соусом родилась под влиянием европейской культуры, предпочтение в которой отдается острым пикантным сочетаниям. Не удивительно, что отличительной чертой спайси соуса для суши является острота. Смесь из жгучего красного перца, соевого соуса и кимчи и формируют спайси соус, отличное дополнение к рыбным суши, завершающее их вкусовую композицию.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="140" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_57&amp;product_id=140</url>
+<price>180.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>57</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/New-_York copy-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Чизкейк «Нью-Йорк» (классический)</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Чизкейк «Нью-Йорк» (классический)</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="141" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_57&amp;product_id=141</url>
+<price>190.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>57</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0449-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Чизкейк «Шоколадный»</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Чизкейк «Шоколадный»</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="142" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_57&amp;product_id=142</url>
+<price>140.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>57</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0453-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тирамису</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тирамису</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="143" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_58&amp;product_id=143</url>
+<price>70.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>58</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0444-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Морс из клюквы</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Морс из клюквы</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="144" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_58&amp;product_id=144</url>
+<price>85.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>58</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0447-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Морс из чёрной смородины</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Морс из чёрной смородины</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="145" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=145</url>
+<price>45.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/pepsi_06-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Пепси</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Пепси</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="146" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=146</url>
+<price>45.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/7up_06-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>7ап</name>
+<vendor>WokHouse</vendor>
+<vendorCode>7ап</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="147" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=147</url>
+<price>45.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/mirinda_06-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Миринда</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Миринда</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="148" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=148</url>
+<price>35.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/akva_negaz-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Аква минерале (без газа)</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Аква минерале (без газа)</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="149" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=149</url>
+<price>35.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/akva_gaz-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Аква минерале (газированная)</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Аква минерале (газированная)</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="150" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=150</url>
+<price>45.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/akva_limon-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Аква актив (лимон)</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Аква актив (лимон)</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="151" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=151</url>
+<price>45.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/akva_apelsin-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Аква актив ( апельсин-гуарана)</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Аква актив ( апельсин-гуарана)</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="152" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=152</url>
+<price>45.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/akva_malina-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Аква актив (малина)</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Аква актив (малина)</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="153" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=153</url>
+<price>100.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/610616-100x100.png</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Адриналин раш</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Адриналин раш</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="154" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_59&amp;product_id=154</url>
+<price>80.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>59</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/610616-100x100.png</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Адриналин раш</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Адриналин раш</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="156" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_60&amp;product_id=156</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>60</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/lipton_персик-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Липтон персик</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Липтон персик</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="157" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_60&amp;product_id=157</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>60</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/lipton limon-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Липтон лимон</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Липтон лимон</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="158" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_60&amp;product_id=158</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>60</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/lipton malina-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Липтон малина</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Липтон малина</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="159" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_60&amp;product_id=159</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>60</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/липтон зеленый-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Липтон зелёный</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Липтон зелёный</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="160" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_61&amp;product_id=160</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>61</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/я_вишня-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Сок Вишнёвый</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Вишнёвый</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="161" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_61&amp;product_id=161</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>61</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/я-апельсин-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Сок Апельсиновый</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Апельсиновый</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="162" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_61&amp;product_id=162</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>61</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/я-яблоко-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Сок Яблочный</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яблочный</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="163" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_61&amp;product_id=163</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>61</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/я-грейпф.-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Сок Грейпфрутовый</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Грейпфрутовый</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="164" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_61&amp;product_id=164</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>61</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/я-мультиф.-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Сок Мультифрукт</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Мультифрукт</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="165" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_61&amp;product_id=165</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>61</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/я-ананас.-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Сок Ананас</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Ананас</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="166" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_61&amp;product_id=166</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>61</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/я-персик-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Сок Персиковый</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Персик</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="167" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_62&amp;product_id=167</url>
+<price>65.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>62</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Velkopopovicky+Kozel+Premium-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Velkopopovicky Kozel (светлое, тёмное)</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Velkopopovicky Kozel (светлое, тёмное)</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="168" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_62&amp;product_id=168</url>
+<price>70.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>62</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/reds-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Redd`s (яблоко, вишня, чёрная смородина)</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Redd`s (яблоко, вишня, чёрная смородина)</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="169" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_62&amp;product_id=169</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>62</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/miller-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Miller Genuine Draft</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Miller Genuine Draft</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="170" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_62&amp;product_id=170</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>62</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/holsten-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Holsten</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Holsten</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="171" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_62&amp;product_id=171</url>
+<price>70.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>62</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Hineken-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Heineken</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Heineken</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="172" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_62&amp;product_id=172</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>62</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Hineken-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Heineken</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Heineken</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="173" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_62&amp;product_id=173</url>
+<price>70.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>62</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/image-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Златый Базан (безалкогольный)</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Златый Базан (безалкогольный)</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="174" available="true">
+<url>http://www.wokhouse.ru/menu/ramen-lapsha/ramen-s-kuritsey</url>
+<price>240.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>43</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/0350-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Рамен с курицей</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Рамен с курицей</vendorCode>
+<description>Лапша &amp;quot;Рамен&amp;quot;, куриное филе, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Рамен с курицей &amp;ndash; невероятно простое и сытное блюдо традиционной японской кухни, получившее широкую популярность благодаря своим отменным вкусовым качествам. Основу этого блюда составляет яичная лапша, обладающая высокой энергетической ценностью с добавлением куриного мяса, известного во всем мире своими диетическими свойства. Рамен с курицей богат белком, поэтому легко и быстро утоляет голод, не отягощая желудок чрезмерным количеством жира, что объясняет его популярность у прекрасной половины, а также людей, следящих за состоянием своего здоровья.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="175" available="true">
+<url>http://www.wokhouse.ru/menu/ramen-lapsha/ramen-svinina</url>
+<price>260.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>43</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/0362-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Рамен со свининой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Рамен со свининой</vendorCode>
+<description>Лапша &amp;quot;Рамен&amp;quot;, свинина, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Одно из самых сытных, но в тоже время невообразимо вкусных блюд японской кухни &amp;ndash; это рамен со свининой. Маленькие кусочки тушеной свинины в сочетании с яичной лапшой, удивят вас не только аппетитным и эстетичным внешним видом, но и отменными вкусовыми качествами. Рамен со свининой &amp;ndash; ароматное, питательное блюдо, мгновенно утоляющее голод, насыщающее организм энергией на долгое время. Вопреки распространенному заблуждению, рамен со свининой абсолютно не вреден для здоровья, и даже наоборот, полезен, так как богат незаменимым для человеческого организма белком. Вдобавок, он еще и невероятно вкусный.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="176" available="true">
+<url>http://www.wokhouse.ru/menu/ramen-lapsha/ramen-s-govyadinoy</url>
+<price>270.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>43</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/0374-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Рамен с говядиной</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Рамен с говядиной</vendorCode>
+<description>Лапша &amp;quot;Рамен&amp;quot;, говядина, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Одна из самых популярных разновидностей лапши рамен &amp;ndash; это, безусловно, рамен с говядиной. Рамен с говядиной выбирают и те, кто следит за своей фигурой, и те, кому просто необходимо быстро пополнить силы в процессе тяжелого трудового дня, либо же восстановить энергетические запасы организма по его завершении. Рамен с говядиной в этом отношении универсален, так как является одновременно и достаточно диетическим блюдом, и невероятно питательным, богатым белками и углеводами. Низкое содержание животных жиров и высокая пищевая ценность продукта определенно делают рамен с говядиной достойным вашего внимания.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="177" available="true">
+<url>http://www.wokhouse.ru/menu/ramen-lapsha/ramen-s-krevetkami</url>
+<price>290.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>43</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/romen_l-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Рамен с креветками</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Рамен с креветками</vendorCode>
+<description>Лапша &amp;quot;Рамен&amp;quot;, креветки, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Рамен с креветками &amp;ndash; настоящая находка для людей, занятых большую часть дня, требующих быстрой и качественной зарядки организма энергией и питательными веществами. Рамен с креветками практически не содержит жира, в то же время богат белком. Основу блюда составляет яичная лапша с добавлением мяса креветки, формируя тем самым удачный тандем питательности и пользы. Креветки богаты минералами и микроэлементами, а лапша углеводами, что в результате и превращает рамен с креветками в невероятно сытное, вкусное и полезное блюдо с тонким ароматом и выразительным вкусом морепродуктов.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="178" available="true">
+<url>http://www.wokhouse.ru/menu/ramen-lapsha/ramen-s-moreproductami</url>
+<price>280.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>43</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0390-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Рамен с морепродуктами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Рамен с морепродуктами</vendorCode>
+<description>Лапша &amp;quot;Рамен&amp;quot;, морепродукты, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Морепродукты издавна составляли основу для большинства национальных японских блюд. Они, морепродукты, богаты йодом, минеральными солями, белком, кроме того, отличаются великолепными вкусовыми качествами и прекрасным ароматом. Все это можно отнести и к такому блюду, как рамен с морепродуктами, так как он сочетает в себе не только пользу богатой морской фауны, но и отменную пищевую ценность. Рамен с морепродуктами &amp;ndash; это аппетитная яичная лапша, приправленная небольшим количеством овощей и даров моря, обеспечивающих неповторимый вкус, которым хочется наслаждаться бесконечно.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="179" available="true">
+<url>http://www.wokhouse.ru/menu/ramen-lapsha/ramen-s-lososem</url>
+<price>320.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>43</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_04022-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Рамен с лососем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Рамен с лососем</vendorCode>
+<description>Лапша &amp;quot;Рамен&amp;quot;, лосось, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Если вы поинтересуетесь у японца, какое блюдо его национальной кухне является одновременно самым питательным, вкусным и полезным, он определенно вам ответит, что это рамен с лососем. Всем хорошо известна страсть японцев к рыбным продуктам, и объясняется она тем, что ни один другой продукт не несет вашему организму такой пользы, как сочетание рыбы и натуральной яичной лапши. Рамен с лососем &amp;ndash; это прекрасно сбалансированное блюдо, богатое белками, а потому сытное и невероятно вкусное. Лосось дарит этому блюду тонкий, но выразительный рыбный аромат, возбуждающий аппетит.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="180" available="true">
+<url>http://www.wokhouse.ru/menu/ramen-lapsha/ramen-s-gribami</url>
+<price>200.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>43</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0332-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Рамен с грибами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Рамен с грибами</vendorCode>
+<description>Лапша &amp;quot;Рамен&amp;quot;, грибы &amp;quot;Шиитаки&amp;quot;, шампиньоны, лук, пекинская капуста, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Яркий аромат грибов шиитаке, нежный вкус шампиньонов, приправленных зеленью и толикой овощей в сочетании с традиционной японской яичной лапшой &amp;ndash; вот основные составляющие великолепного блюда рамен с грибами. Невероятная композиция ингредиентов наделяют рамен с грибами не только неповторимым вкусом, но и настоящей пользой, которой так славится японская кухня. Богатство питательными веществами, микроэлементами и витаминами, легкость и неповторимый аромат &amp;ndash; вот залог успеха столь популярного нынче блюда, как рамен с грибами.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="181" available="true">
+<url>http://www.wokhouse.ru/menu/ramen-lapsha/ramen-s-ovoschami</url>
+<price>220.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>43</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0327-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Рамен с овощами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Рамен с овощами</vendorCode>
+<description>Лапша &amp;quot;Рамен&amp;quot;, томаты &amp;quot;Черри&amp;quot;, лук, пекинская капуста, морковь, зеленая фасоль, паприка, ростки сои, древевсный гриб.
+
+	&amp;nbsp;
+
+	Рамен с овощами &amp;ndash; это невероятно популярное вегетарианское блюдо традиционной японской кухни,&amp;nbsp; прекрасно сбалансированное по количеству белков и углеводов, обогащенное обильным количеством витаминов. И не удивительно, что рамен с овощами настолько питателен, ведь основу этого блюда составляет яичная лапша, сытная, легкая, практически не содержащая жира, а значит, не отягощающая пищеварение. Рамен с овощами богат клетчаткой, что способствует нормализации кровяного давления и благотворно влияет не только на сердечнососудистую систему, но и положительно сказывается на самочувствии в целом.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="189" available="true">
+<url>http://www.wokhouse.ru/menu/salat/salat-s-chukoy-i-vakamoy</url>
+<price>170.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>46</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0319-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Салат с чукой и вакамой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Салат с чукой и вакамой</vendorCode>
+<description>Салат с чукой и вакамой &amp;ndash; одно из популярнейших блюд японской кухни. Салат представляет собой смесь особых японских водорослей, приправленных кунжутным семенем и маслом, прекрасно дополняющим вкусовые качества легкого и питательного салата. Для приготовления салата используются исключительно молодые водоросли, так как они обладают более ярко выраженным ароматом и вкусом, что позволяет снизить применение посторонних специй до минимума. Салат с чукой и вакамой очень нежное и мягкое вегетарианское лакомство, богатое антиоксидантами, заряжающее энергией и продлевающее молодость.
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="193" available="true">
+<url>http://www.wokhouse.ru/menu/sup/gribnoy-sup-krem</url>
+<price>110.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_375-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Грибной суп крем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Грибной суп крем</vendorCode>
+<description>Шампиньоны, лук, сливки.
+
+	&amp;nbsp;
+
+	Японская кухня всегда радовала гурманов великолепными сочетаниями ароматов и вкусовых качеств даже самых простых и привычных блюд. Грибной суп крем &amp;ndash; отличный пример такого удачного соединения нежного, тонкого вкуса и мягкости молочных сливок и невероятно выразительного яркого аромата шампиньонов. Грибной суп крем можно употреблять как в горячем виде, так и охлажденным. Зимой он прекрасно согревает и наполняет тело теплом, летом же дарит легкость и заряжает энергией, снимая усталость после тяжелого трудового дня.</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="194" available="true">
+<url>http://www.wokhouse.ru/site/contact</url>
+<price>0.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>63</categoryId>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Гостевая</name>
+<vendor>WokHouse</vendor>
+<vendorCode>guest</vendorCode>
+<description>Адрес:
+			Вокхауз
+			Россия, Ленинградская область,
+			г. Санкт-Петербург, Приморский район.
+		
+			Номер телефона:
+			+7 (812) 432 38 00
+			+7 (921) 889 09 77
+	
+
+
+	&amp;nbsp;</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="195" available="true">
+<url>http://www.wokhouse.ru/site/discount-10p</url>
+<price>0.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>63</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/add/wallet-100x100.png</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Скидка -10% с первой покупки.</name>
+<vendor>WokHouse</vendor>
+<vendorCode>discount</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="196" available="true">
+<url>http://www.wokhouse.ru/menu/roll/Нагоя ролл</url>
+<price>320.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Нагоя ролл 2 вариан-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Нагоя ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Нагоя ролл</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="197" available="true">
+<url>http://www.wokhouse.ru/menu/roll/Унаги спешл ролл</url>
+<price>310.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/унаги спешл ролл-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Унаги спешл ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Унаги спешл ролл</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="198" available="true">
+<url>http://www.wokhouse.ru/menu/roll/Бонито маки</url>
+<price>225.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Бонито маки-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Бонито маки</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Бонито маки</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="199" available="true">
+<url>http://www.wokhouse.ru/menu/roll/Грин ролл</url>
+<price>190.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Грин ролл 2 вариант-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Грин ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Грин ролл</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="200" available="true">
+<url>http://www.wokhouse.ru/menu/roll/Ролл сливочный</url>
+<price>230.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Ролл сливочныи_ лосось 2 вариант-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Ролл сливочный</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Ролл сливочный</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="201" available="true">
+<url>http://www.wokhouse.ru/menu/roll/Авокадо ролл</url>
+<price>130.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>50</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Авокадо ролл-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Авокадо ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Авокадо ролл</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="202" available="true">
+<url>http://www.wokhouse.ru/menu/rolly-zapechennyye/Яки спайси унаги саке ролл</url>
+<price>310.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>52</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Яки спаи_си унаги саке ролл-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки спайси унаги саке ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки спайси унаги саке ролл</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="203" available="true">
+<url>http://www.wokhouse.ru/menu/rolly-zapechennyye/Яки хотатегай ролл</url>
+<price>300.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>52</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Яки хотатегаи_-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки хотатегай ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки хотатегай ролл</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="204" available="true">
+<url>http://www.wokhouse.ru/menu/rolly-zapechennyye/Яки идзуми хотате ролл</url>
+<price>310.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>52</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Яки идзуми хотате-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки идзуми хотате ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки идзуми хотате ролл</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="205" available="true">
+<url>http://www.wokhouse.ru/menu/rolly-zapechennyye/Яки унаги спешл ролл</url>
+<price>320.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>52</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/яки унаги спешл ролл-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки унаги спешл ролл</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки унаги спешл ролл</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="206" available="true">
+<url>http://www.wokhouse.ru/menu/sushki/Тай нигири</url>
+<price>50.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>53</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/сушка Окунь(Таи) 2 вариант(1)-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тай нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тай нигири</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="207" available="true">
+<url>http://www.wokhouse.ru/menu/ostryye-sushi/Спайси тай нигири</url>
+<price>55.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>54</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_281-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси тай нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси тай нигири</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="208" available="true">
+<url>http://www.wokhouse.ru/menu/zapechennyye-sushi/Яки тай нигири</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>55</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cris_291-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки тай нигири</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки тай нигири</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="209" available="true">
+<url>http://www.wokhouse.ru/menu/sushki/Фила маки</url>
+<price>80.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>53</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Фила маки-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Фила маки</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Фила маки</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="210" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_64&amp;product_id=210</url>
+<price>190.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>64</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Пицца-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки суши-пицца</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки суши-пицца</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="211" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_64&amp;product_id=211</url>
+<price>195.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>64</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Пицца-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Яки спайси суши-пицца</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Яки спайси суши-пицца</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="212" available="true">
+<url>http://www.wokhouse.ru/menu/topingi/Тайский сладкий чили</url>
+<price>30.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>56</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/chili-sauce-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Тайский сладкий чили</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Тайский сладкий чили</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="213" available="true">
+<url>http://www.wokhouse.ru/menu/topingi/Гренки</url>
+<price>10.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>56</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/grenki3-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Гренки</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Гренки</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="214" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_65&amp;product_id=214</url>
+<price>260.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>65</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Овощнои суши_L-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Овощной суши сет</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Овощной суши сет</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="215" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_65&amp;product_id=215</url>
+<price>540.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>65</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Запеченыи суши сет вариант 22-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Запеченные суши сет</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Запеченные суши сет</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="216" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_65&amp;product_id=216</url>
+<price>600.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>65</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Спаиси суши сет-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Спайси суши сет</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Спайси суши сет</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="217" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_65&amp;product_id=217</url>
+<price>490.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>65</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Унаги Саке сет 2 вариант-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Унаги саке суши сет</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Унаги саке суши сет</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="218" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_65&amp;product_id=218</url>
+<price>620.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>65</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Суши сет III-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Микс суши сет</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Микс суши сет</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="219" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_68&amp;product_id=219</url>
+<price>240.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>68</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/рисовая лапша-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Харусаме с курицей</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Харусаме с курицей</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="220" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_68&amp;product_id=220</url>
+<price>260.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>68</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/153-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Харусаме со свининой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Харусаме со свининой</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="221" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_68&amp;product_id=221</url>
+<price>270.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>68</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/163-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Харусаме с говядиной</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Харусаме с говядиной</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="222" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_68&amp;product_id=222</url>
+<price>290.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>68</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/131-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Харусаме с креветками</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Харусаме с креветками</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="223" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_68&amp;product_id=223</url>
+<price>280.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>68</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/186-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Харусаме с морепродуктами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Харусаме с морепродуктами</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="224" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_68&amp;product_id=224</url>
+<price>320.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>68</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/142-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Харусаме с лососем</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Харусаме с лососем</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="225" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_68&amp;product_id=225</url>
+<price>200.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>68</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/195-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Харусаме с грибами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Харусаме с грибами</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="226" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_68&amp;product_id=226</url>
+<price>220.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>68</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/176-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Харусаме с овощами</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Харусаме с овощами</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="227" available="true">
+<url>http://www.wokhouse.ru/menu/salat/Цезарь с курой</url>
+<price>210.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>46</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cezar chiken-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Цезарь с курицей</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Цезарь с курицей</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="228" available="true">
+<url>http://www.wokhouse.ru/menu/salat/Цезарь с креветками</url>
+<price>260.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>46</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/cezar krevetki-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Цезарь с креветками</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Цезарь с креветками</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="229" available="true">
+<url>http://www.wokhouse.ru/menu/salat/Чукка салат</url>
+<price>130.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>46</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Chukka-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Чукка салат</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Чукка салат</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="230" available="true">
+<url>http://www.wokhouse.ru/menu/sup/Томатный суп</url>
+<price>130.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/томатныи суп-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Томатный суп</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Томатный суп</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="231" available="true">
+<url>http://www.wokhouse.ru/menu/sup/Суп удон</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>48</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/суп удон-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Суп удон</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Суп удон</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="232" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_67&amp;product_id=232</url>
+<price>120.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>67</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/якитори саке-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Якитори саке</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Якитори саке</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="233" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_67&amp;product_id=233</url>
+<price>90.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>67</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/якитори тори-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Якитори тори</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Якитори тори</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="234" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_67&amp;product_id=234</url>
+<price>100.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>67</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/Якитори Хацу-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Хацу якитори</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Хацу якитори</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="235" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_66&amp;product_id=235</url>
+<price>230.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>66</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/176-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Карбонара с удоном</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Карбонара с удоном</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="236" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_66&amp;product_id=236</url>
+<price>230.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>66</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/121-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Карбонара с раменом</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Карбонара с раменом</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="237" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_66&amp;product_id=237</url>
+<price>230.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>66</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/169-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Карбонара с собой</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Карбонара с собой</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="238" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_66&amp;product_id=238</url>
+<price>230.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>66</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/karbonara 2-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Карбонара с харусаме</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Карбонара с харусаме</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="239" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_58&amp;product_id=239</url>
+<price>120.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>58</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0444-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Морс из клюквы</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Морс из клюквы</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="240" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_58&amp;product_id=240</url>
+<price>140.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>58</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/DSC_0447-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Морс из черной смородины</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Морс из черной смородины</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="241" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_62&amp;product_id=241</url>
+<price>60.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>62</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/holsten-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Holsten</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Holsten</vendorCode>
+<description/>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+<offer id="242" available="true">
+<url>http://www.wokhouse.ru/index.php?route=product/product&amp;path=38_69&amp;product_id=242</url>
+<price>250.00</price>
+<currencyId>RUB</currencyId>
+<categoryId>69</categoryId>
+<picture>http://www.wokhouse.ru/image/cache/data/bl-100x100.jpg</picture>
+<delivery>true</delivery>
+<local_delivery_cost>100</local_delivery_cost>
+<name>Бизнес-ланч</name>
+<vendor>WokHouse</vendor>
+<vendorCode>Бизнес-ланч</vendorCode>
+<description>ОВОЩНОЙ САЛАТ (пол порции) + БЕНТО РОЛЛ (рис, кунжут, лосось) + СУП НА ВЫБОР (мисо/кимчи/куриный суп с лапшой) + ЛАПША ИЛИ РИС (на выбор**)
+
+	&amp;nbsp;
+
+	&amp;nbsp;* предложение действует с 11:00 до 15:00
+
+	** кроме блюд с креветками, лососем</description>
+<manufacturer_warranty>true</manufacturer_warranty>
+</offer>
+</offers>
+</shop></yml_catalog>
